@@ -1,0 +1,959 @@
+[
+  {
+    "cardId": "article-d4b0c4f9d75f-09",
+    "status": "approved",
+    "reason": "Página22: responsabilidade compartilhada sem transferência integral ao usuário, oito passos e função mensurável estão preservados. A resposta descreve prevenção institucional, sem garantia de segurança completa.",
+    "cardSha256": "0e3585d9b9a9e9f38cb2ba75dd5c1462398c32830c09dac5256513f633d8e35d",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        22
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.016Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-10",
+    "status": "approved",
+    "reason": "Páginas30–33: dignidade, interesses, controle e cinco desdobramentos do princípio2 sustentam a síntese interna. Exemplos são contextualizados em2019 e não provam eficácia universal.",
+    "cardSha256": "fc00be7449ffdfc313a59b0919246f3de85a3b687b25525808b6c38143e2ec96",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.017Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-11",
+    "status": "approved",
+    "reason": "Páginas34–36: formação, comunicação, participação, métricas e cooperação sustentam práticas verificáveis. A resposta distingue compromisso, implementação e evidência causal nas ilustrações históricas.",
+    "cardSha256": "aab49e1058e1297d5869a6c4d86c8b6ca0ff339c17227b63932be8a8db07df52",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        34,
+        35,
+        36
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.017Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-12",
+    "status": "approved",
+    "reason": "Página22: o1.1 cobre criação, avaliação, implementação e operação; equipes e liderança Microsoft constam da nota. A historicidade é explícita, sem alegar estrutura empresarial atual.",
+    "cardSha256": "91e09da7b5088ec43b2e004a278ddb25dc77b8f21807517d1ac7f84f0cc13323",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        22
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.017Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-13",
+    "status": "approved",
+    "reason": "Página23: aplicação consistente, moderação visível e exemplos Yubo, ReachOut, recompensas e Twitch foram conferidos. A resposta não transforma recompensas de conduta em eficácia generalizável.",
+    "cardSha256": "c25e2b2ba35e079233cbae208b164437f8728d0848271ed6521ea47bb6cf1905",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        23
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.017Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-14",
+    "status": "approved",
+    "reason": "Página24: denúncia acessível, triagem, gravidade, canais para menores, supervisão humana e trusted flaggers estão corretos. A resposta considera todo o fluxo sem confundir formulário e proteção.",
+    "cardSha256": "64ed3e3f668d5f683787f9dc9142edb9190af208850d1c65c73c83884f8769de",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        24
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.017Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-15",
+    "status": "approved",
+    "reason": "Página25: protocolos escritos, jurisdição, formação anual/integração e caminhos locais de apoio estão sustentados. A resposta não transforma exemplos de2019 em orientação jurídica atual nem autoriza divulgação universal de dados.",
+    "cardSha256": "f8d5a684a4a0bd0a30454611825c2944d951e3f1c7f17db47a32e4461e6277d3",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        25
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.017Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-16",
+    "status": "approved",
+    "reason": "Páginas26,24,21: detecção proativa, moderação híbrida, redução de exposição e limites das notas foram conferidos. A resposta preserva supervisão e não promete proteção automática.",
+    "cardSha256": "f92b93dcc18ed1eacba556ecf156cfa5cf335729bab83f63bd7976856d1f3944",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        26,
+        24,
+        21
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.017Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-17",
+    "status": "approved",
+    "reason": "Página27: avaliação documentada, evolução dos fluxos, LEGO e revisões especializadas sustentam a resposta. A síntese preserva decisão anterior ao mercado e reavaliação posterior.",
+    "cardSha256": "d1ada50d956714c3b251018fd638cf4f421379043626f416b40da4cb08a9df4a",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        27
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.017Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-18",
+    "status": "approved",
+    "reason": "Página28: contratos sociais envolvem serviço, usuário e terceiros, além do aceite formal. Safety Pledge e consentimento parental são exemplos históricos, sem transferência da responsabilidade institucional à criança.",
+    "cardSha256": "e89ee66af5fed3d40436157742841b0c5cbd33e83f752d4aa80eb40ddd48511d",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        28
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.017Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-19",
+    "status": "approved",
+    "reason": "Página29: complementaridade de privacidade/security/safety, notificações de incidentes e calibração Quizlet estão corretas. A resposta não reduz proteção humana à proteção isolada de dados.",
+    "cardSha256": "c97f9fb4810b3fab8eb5451726d965f3d101f66b64c14619d582b1a55926e166",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        29
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.017Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-20",
+    "status": "approved",
+    "reason": "Página30: defaults protetores, escolhas revisáveis, filtros, controles e exemplos históricos sustentam o2.1. A resposta distingue oportunidade efetiva de controle de mera existência de configurações.",
+    "cardSha256": "d50142caf027504b5bd244807cf9ecd6dafdccd4dd79be04082f0a7247e57e8e",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        30
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.018Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-21",
+    "status": "approved",
+    "reason": "Página31: protocolos, consequências, educação prévia e gradação nos exemplos estão sustentados. As preferências dos jovens não são convertidas em eficácia universal de punição.",
+    "cardSha256": "21a1fb6e5f567332f80cf9205d8ea901bd85e0e385dba24f4dc4321f815125ac",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        31
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.018Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-22",
+    "status": "approved",
+    "reason": "Página32: relevância, reflexão, consentimento e avisos/age-gates são corretamente distinguidos da remoção de ilegalidades. Os cinco atributos dos alertas constam da nota; não se promete resultado automático.",
+    "cardSha256": "79590c2c86fcfeac89942c35f08dbd555d3e67bd79cb245e2398ec101a345891",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        32
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.018Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-23",
+    "status": "approved",
+    "reason": "Página33: o2.4 combina andamento, resultado, recurso e apoio ao denunciante. A resposta preserva vulnerabilidade e historicidade, sem apresentar apoio informacional como eficácia psicológica demonstrada.",
+    "cardSha256": "162e4dd0a30fce4ce3588bd40c98a37b8504b885555a5bf9d15facf952708984",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        33
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.018Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-24",
+    "status": "approved",
+    "reason": "Página33: o2.5 pede avaliação prévia de todos os usuários; os três princípios do toolkit Microsoft foram conferidos. A resposta não presume acessibilidade universal pela presença nominal de uma função.",
+    "cardSha256": "1b49aeb3f254ddd2e02ab76824bd4c5c261b7b1ff47b4f0561338b53e836d4cd",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        33
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.018Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-25",
+    "status": "approved",
+    "reason": "Página34: o3.1 alcança toda a força de trabalho, temporários e contratados. Curso inicial, aprofundamento e avaliação anual LEGO estão fiéis, sem dispensar funções não especializadas.",
+    "cardSha256": "5b97f641cf6679b7bdb5d0acd40edf732ce2d3181dfe31b62094b2078eb21ded",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        34
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.018Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-26",
+    "status": "approved",
+    "reason": "Páginas34–35: visibilidade, linguagem clara, atualizações, opção de aviso e exemplos LEGO sustentam comunicação contínua. A resposta não equipara publicar documento longo a compreensão do usuário.",
+    "cardSha256": "e9fe1f05a5904baaf6421b0f3fa4d3d3012075c98b71b7014de8d59d197c2732",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        34,
+        35
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.018Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-27",
+    "status": "approved",
+    "reason": "Página35: participação aberta, consequências imprevistas, conselhos independentes e ausência de NDA no exemplo Google estão corretos. Consulta não é confundida com representação automática da população.",
+    "cardSha256": "3714e183412e4679baa0edcc3c2fe73b24f082e192ff0fc4ff1c90bae53e7674",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        35
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.018Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-28",
+    "status": "approved",
+    "reason": "Página36: avaliação anual e análise significativa de eficácia estão sustentadas. As cinco métricas e dimensões em desenvolvimento são históricas; contagens não são convertidas em melhora comprovada de segurança.",
+    "cardSha256": "96adb2029795658b555281c5dd588a4915428ecd7467025634f91b9b4389d606",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        36
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.018Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-29",
+    "status": "approved",
+    "reason": "Página36: o3.5 pede inovação, investimento e compartilhamento, e as alianças citadas constam da nota. A resposta distingue cooperação setorial de prova de eficácia de ferramentas.",
+    "cardSha256": "5a6ad0b30fbb526c8160664442bff44593fbf308859a2d387d5236fe20a0eb20",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        36
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.018Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-30",
+    "status": "approved",
+    "reason": "Página5: três categorias de risco e cinco de dano estão corretas. A resposta preserva a questão em aberto sobre conversão de risco em dano e não iguala exposição a consequência realizada.",
+    "cardSha256": "6a263e03eb5bd4735f28827fe3a9f075af04e2c54895f5768f9b3fa7915cc401",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        5
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.018Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-31",
+    "status": "approved",
+    "reason": "Páginas3,4,22: arquitetura, prevenção desde o desenvolvimento e limites da segurança completa sustentam a comparação temporal. A resposta não afirma que antecipação elimina todos os danos.",
+    "cardSha256": "7101159a2ed19170f0c24539220505b46b306d911003f5162074b5e4be9ef8cc",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        3,
+        4,
+        22
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.018Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-32",
+    "status": "approved",
+    "reason": "Página24: humanos no circuito e comunicação da automação são expressos no1.3. A resposta interpreta governança e revisão comunitária sem alegar legitimidade automática de decisões algorítmicas.",
+    "cardSha256": "98d025a9260c53df95064ca581506fccf5ce5cee1db4289b9702772165fc8320",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        24
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.019Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-33",
+    "status": "approved",
+    "reason": "Página27: mudanças de uso, perfis, auditorias e presença de crianças em serviços inadequados são explícitos. A resposta não impõe uniformidade de efeitos ou controles a todo produto.",
+    "cardSha256": "12b03074a540e9883a9fd7b012f060474f954a1a7fe9e3b3423c4c2425e101b7",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        27
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.019Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-34",
+    "status": "approved",
+    "reason": "Página28: obrigações recíprocas e compreensão além do tick-box estão sustentadas. O exemplo de indução/ensino não é tratado como renúncia à segurança nem como consentimento suficiente por si só.",
+    "cardSha256": "033b87f60caaade4a699c128d9b0d79c1f7e6e242321790a518e5e89c9a69968",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        28
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.019Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-35",
+    "status": "approved",
+    "reason": "Página29: Trust and Safety unificado e filtros mais estritos no Quizlet Live constam do exemplo. A resposta preserva caráter ilustrativo de2019 e adaptação por risco do produto.",
+    "cardSha256": "b0904b52dbbdb9665c05b127abfd0b70b2ec0159d8b46bdb93c4b0c8a00630fb",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        29
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.019Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-36",
+    "status": "approved",
+    "reason": "Página32: filtros podem usar avisos ou barreiras, salvo remoção de ilegalidades; os alertas apoiam reflexão e escolha informada. A resposta não conclui que qualquer exposição deva ser excluída.",
+    "cardSha256": "f0a7caab38a6c5dfd8e41ac12b86c951516cca1f43b89eff37be85389b352187",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        32
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.019Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-37",
+    "status": "approved",
+    "reason": "Página33: resposta holística, exposição do denunciante, retorno e recurso sustentam separar moderação e cuidado. A resposta não apresenta suporte como tratamento clínico nem prova de recuperação.",
+    "cardSha256": "5e16cc85a6d511a79527004a2dd6bd7f48d5362658790fb861fafad936538d14",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        33
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.019Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-38",
+    "status": "approved",
+    "reason": "Páginas22e34: responsável mensurável e formação de todos são medidas complementares presentes no relatório. A inferência interna não converte equipe ou cultura declarada em execução garantida.",
+    "cardSha256": "e50be243bf71b6558d50d9f76cdaf32fcfa5acd5e4ec0f758bfc2cc988f16376",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        22,
+        34
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.019Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-39",
+    "status": "approved",
+    "reason": "Página36: prevalência, conteúdo acionado, detecção pré-denúncia, velocidade e precisão estão corretas; as duas últimas estavam em desenvolvimento. A resposta evita usar volume como indicador suficiente de sucesso.",
+    "cardSha256": "8ef2988a2147e9bf881e14bf482988d7c0fa4a406bfea38ebd609beb98ee1f07",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        36
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.019Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-40",
+    "status": "approved",
+    "reason": "Página16:71%utilidade e57%desconforto foram conferidos; intrusão e dúvidas de efetividade permanecem distintas. A resposta restringe inferências à consulta e considera gestão/terceiros dos dados.",
+    "cardSha256": "6e0fa2c5e3d515f3288b669cb7acacbf5807a31e62434da434566f8822f9d27b",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        16
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.019Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-41",
+    "status": "approved",
+    "reason": "Página15:98%,93%,84%e64%referem-se a conhecimento das categorias indicadas. A limitação do bloqueio consta do texto; a resposta não generaliza eficácia ou percentuais fora do grupo consultado.",
+    "cardSha256": "aa2dea7489e3276ac9a8f6c17fe3f9435ccfae3d67bbef58bb549f80a15f274b",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        15
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.019Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-42",
+    "status": "approved",
+    "reason": "Página19: heterogeneidade, diferenças, limites do checklist e possível inadequação de uma função em outro contexto estão sustentados. A resposta apresenta posições de consulta, sem provar superioridade causal da flexibilidade.",
+    "cardSha256": "e7410b403a57f5829c47c24389ca873f2adbef16c43cd1b56a5c5c25dd982c2a",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        19
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.019Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-43",
+    "status": "approved",
+    "reason": "Páginas19–20: receio de gaming/comparações e consenso sobre políticas/processos transparentes foram conferidos. A resposta preserva a tensão e a necessidade de interpretação contextual dos indicadores.",
+    "cardSha256": "c3466262966d9094f8c808e91c123d54f04a4b58f81166f456200b9f7769db5e",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        19,
+        20
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.019Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-44",
+    "status": "approved",
+    "reason": "SbD22eOperationalizing7: prevenção de danos e prevenção específica de frustração são premissas compatíveis, com escopos diferentes. A síntese não equipara todo desafio a dano nem promete ausência de experiências negativas.",
+    "cardSha256": "6cca8270beb999595ec448afb1c4c76332eabb33c238cf591db8fb4e0e795562",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        22
+      ],
+      "article-39adb0cfa84e": [
+        7
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.020Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-45",
+    "status": "approved",
+    "reason": "SbD27eOperationalizing12,14: risco documentado, barreiras ao núcleo criativo e diferenças de perfis sustentam a análise. O protocolo integrado é explicitamente proposto, sem alegação de teste ou efeito comprovado.",
+    "cardSha256": "3adcdc2fb5c73f099d8b538079afe9d6a340f4bdaaa8a7bb8b84651650ae3ffb",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        27
+      ],
+      "article-39adb0cfa84e": [
+        12,
+        14
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.020Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-46",
+    "status": "approved",
+    "reason": "SbD35eHCI7: abertura a crítica e registros de discordâncias/versões sustentam revisabilidade. A síntese preserva consenso especializado como ponto de partida, sem representação universal ou validação psicológica.",
+    "cardSha256": "0388673e9e7727f59973d0d631263dfe5e71dea72566fed2a4d19c6924352775",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        35
+      ],
+      "article-e13c3cb65c28": [
+        7
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.020Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-47",
+    "status": "approved",
+    "reason": "SbD19eHCI14: flexibilidade contextual, L1defensivo e painel de nove especialistas estão sustentados. Níveis não são convertidos em selo, checklist universal ou prova de consenso industrial.",
+    "cardSha256": "93c95a4546fad2999172e38dcf8421bd60c69a12ae04da76bde4ea2f46c2dd72",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        19
+      ],
+      "article-e13c3cb65c28": [
+        14
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.020Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-48",
+    "status": "approved",
+    "reason": "SbD22eAgenda10: liderança/responsáveis e autonomia limitada dos designers sustentam uma questão de poder organizacional. A síntese não atribui a ferramentas ou nomeações capacidade garantida de superar incentivos econômicos.",
+    "cardSha256": "06447e12649734919a169eebe765ac7375fcdb4418f8c20437e0e4ecadc097b0",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        22
+      ],
+      "article-d0d500126a80": [
+        10
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.020Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-49",
+    "status": "approved",
+    "reason": "SbD36eAgenda11: análise de eficácia e medidas de autonomia, justiça e bem-estar são premissas corretas. A síntese distingue atividade de impacto e caracteriza a combinação como proposta não validada.",
+    "cardSha256": "bddcd9db9251fa51b6886f02210ac14b15c89e0ff4e70d638c1bf2f5fc9ed2c5",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        36
+      ],
+      "article-d0d500126a80": [
+        11
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.020Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-50",
+    "status": "approved",
+    "reason": "Segunda revisão: a fonte SbD agora inclui p21 e seu contexto completo sobre notas ilustrativas e ausência de evidência robusta, mantendo p32 e Agenda p9–10. Releitura do PDF confirma as duas premissas e os limites da comparação: alerta protetor não garante autonomia, e ferramentas propostas exigem teste.",
+    "cardSha256": "6ec2bf7f52847fdcc3a003d55bff73363d8d2b9b28d7f0742715bb7e5a2a30e8",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        32,
+        21
+      ],
+      "article-d0d500126a80": [
+        9,
+        10
+      ]
+    },
+    "reviewedAt": "2026-11-10T11:13:34.967Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-51",
+    "status": "approved",
+    "reason": "SbD34–35eInteract7–8: linguagem clara e Untranslation sustentam inteligibilidade como problema analítico. A resposta preserva recorte de dez minutos/emulação e não promete eficácia automática da tradução.",
+    "cardSha256": "cd3498e25f531dee8fa87c3876e2d1f1fdd4bf3a2bb6a5564a034713d7a38b07",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        34,
+        35
+      ],
+      "article-48bdcebcffc6": [
+        7,
+        8
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.021Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-52",
+    "status": "approved",
+    "reason": "SbD27eInteract8: gestão contínua e limites de auditoria inicial sustentam hipótese de risco, não avaliação encerrada. Detecção, exposição, dano e efeito de remoção permanecem corretamente diferenciados.",
+    "cardSha256": "152d3f5ec909138e592110b05eddbd154b87c85ddaabc1e3346641eed5e846eb",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        27
+      ],
+      "article-48bdcebcffc6": [
+        8
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.022Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-53",
+    "status": "approved",
+    "reason": "SbD19,33eCHIP1–2: inclusão e vulnerabilidades sistêmicas permitem perguntas contextuais. A síntese não reduz desigualdade a atributo individual, nem transforma Helena em dado ou SbD em modelo causal testado.",
+    "cardSha256": "52926221b26aef18bf3748239d97ca3b5ca0ce97a1453e1ab01c03f0d8d53f95",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        19,
+        33
+      ],
+      "article-eca18e5843e2": [
+        1,
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.022Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-54",
+    "status": "approved",
+    "reason": "SbD25,35eCHIP2: protocolos territoriais e abertura dialogam com arbitragem regulatória. A resposta preserva tensão normativa, ficção e ausência de diagnóstico jurídico ou fiscalização demonstrada.",
+    "cardSha256": "8073c5686462c8725d338c9659f69125322717f4ee206631d21a92dd9e898abf",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        25,
+        35
+      ],
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.022Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-55",
+    "status": "approved",
+    "reason": "SbD22,27eArt48p2,4,5: classificação, medidas preventivas e fatores institucionais são distinguidos. A síntese não afirma vigência, identidade de escopos ou efeito psicológico pela presença de uma faixa etária.",
+    "cardSha256": "d983e09dec8ce98b1805ec8a2a91bad47ff6948e92ae859a13a36966c1a042d6",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        22,
+        27
+      ],
+      "article-94e7a19d8878": [
+        2,
+        4,
+        5
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.022Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-56",
+    "status": "approved",
+    "reason": "SbD30eArt48p4: controle/defaults e incentivos à permanência sustentam a comparação. A resposta distingue listar função de medir efeito de autonomia e não infere faixa etária ou dano individual.",
+    "cardSha256": "6bfb1eddb7f5f740060472f3b27b709ec951c853e4a7557c7f5bc5f0225b4389",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        30
+      ],
+      "article-94e7a19d8878": [
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.022Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-57",
+    "status": "approved",
+    "reason": "SbD35–36,Agenda8eHCI7: abertura,curadoria,versionamento e desacordos registrados são premissas corretas. A síntese separa diálogo coerente de teste de efeitos,sem atribuir validação longitudinal aos trabalhos.",
+    "cardSha256": "fdd37f5780b9882b15b966887fe59dbd50587d516f97f4ea6218b994323ff7fd",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        35,
+        36
+      ],
+      "article-d0d500126a80": [
+        8
+      ],
+      "article-e13c3cb65c28": [
+        7
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.022Z"
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-58",
+    "status": "approved",
+    "reason": "SbD21,Interact8eOperationalizing14: ilustração,natureza observacional delimitada e avaliação contextual são tipos de evidência distintos. A síntese não transforma oposição a um padrão em garantia de bem-estar.",
+    "cardSha256": "baa8f14a28c1c8285813681014b254b3ad9e5f345d46678fcc61d0f29455cd4c",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        21
+      ],
+      "article-48bdcebcffc6": [
+        8
+      ],
+      "article-39adb0cfa84e": [
+        14
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.023Z"
+  }
+]

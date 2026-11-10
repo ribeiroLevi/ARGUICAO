@@ -1,0 +1,160 @@
+[
+  {
+    "id": "article-94e7a19d8878-01",
+    "articleId": "article-94e7a19d8878",
+    "question": "No documento local sobre o Art. 48, quais modelos de classificação são mencionados e qual é o alcance às versões web?",
+    "answer": "O texto menciona [[autoclassificação pelo Sistema Iarc]] ou [[análise prévia]] para aplicativos gratuitos ou pagos em lojas digitais. O §1º estende o disposto no caput às [[versões web dos aplicativos]].",
+    "source": {
+      "file": "Art. 48 - Oficina.pdf",
+      "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+      "pages": [
+        1,
+        2
+      ],
+      "sections": [
+        "Art. 48, caput e §1º"
+      ],
+      "evidence": [
+        "Art. 48. Serão classi fi cados pelo Sistema Iarc, segundo os modelos de\nautoclassi fi cação, ou pelo modelo de análise prévia, todos os aplicativos\nofertados, a título gratuito ou oneroso em lojas digitais, incluindo, mas não se\nlimitando a:",
+        "§1º Aplica-se o disposto no caput às versões web dos aplicativos."
+      ]
+    }
+  },
+  {
+    "id": "article-94e7a19d8878-02",
+    "articleId": "article-94e7a19d8878",
+    "question": "Como o §3º do Art. 48 apresentado trata os conteúdos produzidos por usuários?",
+    "answer": "São [[elemento de referência]] para classificar os provedores, serviços e aplicativos que os hospedam ou disponibilizam. Segundo esse trecho, não são objeto de [[classificação individual, rotulagem dinâmica ou bloqueio por faixa etária]].",
+    "source": {
+      "file": "Art. 48 - Oficina.pdf",
+      "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+      "pages": [
+        2
+      ],
+      "sections": [
+        "Art. 48, §3º"
+      ],
+      "evidence": [
+        "§3º Os conteúdos produzidos por usuários serão considerados como elemento\nde referência para a atribuição da classi fi cação indicativa dos provedores,\nserviços e aplicativos que os hospedem ou disponibilizem, e não serão objeto\nde:\nI -classi fi cação individual;\nII - rotulagem dinâmica; ou\nIII - bloqueio por faixa etária."
+      ]
+    }
+  },
+  {
+    "id": "article-94e7a19d8878-03",
+    "articleId": "article-94e7a19d8878",
+    "question": "Segundo os §§5º e 6º do documento, onde devem aparecer a indicação etária e os descritores de conteúdo?",
+    "answer": "Devem aparecer de forma [[clara e acessível]], no modelo brasileiro, tanto em aplicativos quanto na web. O §6º especifica as páginas de [[instalação, login e início de uso]].",
+    "source": {
+      "file": "Art. 48 - Oficina.pdf",
+      "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+      "pages": [
+        2
+      ],
+      "sections": [
+        "Art. 48, §§5º e 6º"
+      ],
+      "evidence": [
+        "§5º Os sujeitos mencionados no caput deverão exibir, de forma clara e\nacessível, as respectivas indicações etárias e os descritores de conteúdo, no\nmodelo brasileiro, no momento do acesso pelos usuários, tanto nas versões\ndisponibilizadas por meio de aplicativos, quanto nas versões web.\n§6º A exibição das indicações etárias e dos descritores de conteúdo de que\ntrata o §5º deverá ocorrer nas páginas de instalação, login e início de uso."
+      ]
+    }
+  },
+  {
+    "id": "article-94e7a19d8878-04",
+    "articleId": "article-94e7a19d8878",
+    "question": "Qual papel a publicidade e os links patrocinados têm na classificação descrita pelo documento do Art. 48?",
+    "answer": "Publicidade e comunicação mercadológica que conduzam a conteúdos ilícitos, inadequados, impróprios ou destinados especificamente a adultos são [[elementos para atribuir a classificação]]. O §9º estende os §§7º e 8º a [[links e redirecionamentos patrocinados ou impulsionados]].",
+    "source": {
+      "file": "Art. 48 - Oficina.pdf",
+      "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+      "pages": [
+        2,
+        3
+      ],
+      "sections": [
+        "Art. 48, §§7º a 9º"
+      ],
+      "evidence": [
+        "§7º O conteúdo de publicidade e de comunicação mercadológica veiculado\npelos fornecedores de serviços digitais que conduza à apresentação ou ao\nacesso a conteúdos ilícitos, inadequados, impróprios ou destinados\nespeci fi camente a maiores de idade será considerado como elemento para a\natribuição da classi fi cação indicativa.",
+        "§9º Aplica-se o disposto nos §§7º e 8º aos enlaces, hiperlinks ou\nredirecionamentos oferecidos nos aplicativos, quando patrocinados ou\nimpulsionados."
+      ]
+    }
+  },
+  {
+    "id": "article-94e7a19d8878-05",
+    "articleId": "article-94e7a19d8878",
+    "question": "Que funcionalidades ligadas ao uso prolongado aparecem no inciso XX do §10º apresentado?",
+    "answer": "O texto inclui [[scroll infinito, notificações constantes, recompensas variáveis, algoritmos de recomendação, gamificação e autoplay]], além de seguidores, engajamento social, promoções e ofertas limitadas, como exemplos de funcionalidades que incentivam a permanência prolongada.",
+    "source": {
+      "file": "Art. 48 - Oficina.pdf",
+      "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+      "pages": [
+        4
+      ],
+      "sections": [
+        "Art. 48, §10º, inciso XX"
+      ],
+      "evidence": [
+        "XX – funcionalidades que incentivem a manutenção do usuário ativo por\nperíodos prolongados, tais como: scroll in fi nito, noti fi cações constantes,\nrecompensas variáveis, algoritmos de recomendação, gami fi cação, autoplay\n(reprodução automática), sistema de seguidores e engajamento social,\npromoções e ofertas limitadas, entre outros;"
+      ]
+    }
+  },
+  {
+    "id": "article-94e7a19d8878-06",
+    "articleId": "article-94e7a19d8878",
+    "question": "Segundo o §4º do Art. 48 no arquivo local, quando a indicação etária pode ser revista?",
+    "answer": "Pode ser revista quando os conteúdos apresentarem [[novas características ou conteúdos classificáveis]], conforme os critérios dos [[Guias Práticos de Classificação Indicativa]].",
+    "source": {
+      "file": "Art. 48 - Oficina.pdf",
+      "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+      "pages": [
+        2
+      ],
+      "sections": [
+        "Art. 48, §4º"
+      ],
+      "evidence": [
+        "§4º A indicação etária poderá ser revista sempre que os conteúdos\napresentarem novas características ou conteúdos classi fi cáveis, conforme os\ncritérios estabelecidos nos Guias Práticos de Classi fi cação Indicativa."
+      ]
+    }
+  },
+  {
+    "id": "article-94e7a19d8878-07",
+    "articleId": "article-94e7a19d8878",
+    "question": "O que o §12 exige dos termos de uso de fornecedores que hospedem conteúdo de terceiros, no documento local do Art. 48?",
+    "answer": "Para esses fornecedores, o texto exige que os termos de uso informem de modo [[claro e acessível]] a indicação etária atribuída pela Coordenação-Geral de Política de Classificação Indicativa; na ausência desta, a atribuição realizada pelo [[Iarc ou outro modelo autorizado]].",
+    "source": {
+      "file": "Art. 48 - Oficina.pdf",
+      "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+      "pages": [
+        4
+      ],
+      "sections": [
+        "Art. 48, §12"
+      ],
+      "evidence": [
+        "§12 Os termos de uso de todos os fornecedores de serviços digitais que\nhospedem conteúdo de terceiros, conforme previsto no art. 48, deverão\ninformar, de forma clara e acessível, a indicação etária atribuída pela\nCoordenação-Geral de Política de Classi fi cação Indicativa e, na ausência\ndesta, a atribuição realizada pelo Iarc ou outro modelo autorizado."
+      ]
+    }
+  },
+  {
+    "id": "article-94e7a19d8878-08",
+    "articleId": "article-94e7a19d8878",
+    "question": "Quais três aspectos adicionais o §14 do documento considera para a classificação final?",
+    "answer": "O [[controle editorial e a curadoria]] do prestador; a existência de [[controle etário e controles parentais acessíveis]]; e políticas de [[moderação]] que restrinjam o acesso de menores a conteúdos sensíveis ou proíbam esses conteúdos, alinhadas ao Marco Civil da Internet, conforme o texto fornecido.",
+    "source": {
+      "file": "Art. 48 - Oficina.pdf",
+      "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+      "pages": [
+        4,
+        5
+      ],
+      "sections": [
+        "Art. 48, §14"
+      ],
+      "evidence": [
+        "§14 Para fi ns de atribuição da classi fi cação indicativa fi nal, serão considerados,\nainda:\nI – o grau de controle editorial e de curadoria exercido pelo prestador de\nserviços digitais sobre os conteúdos disponibilizados;",
+        "II – a existência de ferramentas de controle etário e de controles parentais\nacessíveis ao usuário; e\nIII – a adoção de políticas de moderação que restrinjam o acesso de menores a\nconteúdos sensíveis ou que proíbam tais conteúdos na aplicação, desde que\nalinhadas ao disposto no Marco Civil da Internet (Lei nº 12.965, de 23 de abril\nde 2014)."
+      ]
+    }
+  }
+]

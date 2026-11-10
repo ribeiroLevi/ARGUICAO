@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "article-d0d500126a80-09",
+    "articleId": "article-d0d500126a80",
+    "question": "Como o position paper enfrenta o argumento de que combater padrões enganosos seria incompatível com os modelos de negócio dos jogos?",
+    "answer": "O artigo reconhece [[pressões econômicas e tensões éticas]] relatadas no desenvolvimento, especialmente em jogos como serviço, e registra a percepção de que contramedidas seriam pouco realistas. Sua posição é que esse diagnóstico não deve encerrar antecipadamente a investigação de alternativas aplicáveis ao fluxo de trabalho. A pergunta de pesquisa passa a ser [[como desenvolver e testar contramedidas incorporáveis na prática]], considerando também sustentabilidade dos desenvolvedores. Trata-se de uma defesa programática: o texto não demonstra que qualquer alternativa ética necessariamente preserve receita ou resolva o conflito econômico.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        2
+      ],
+      "sections": [
+        "1 Introduction"
+      ],
+      "evidence": [
+        "Indeed, some have argued that critically examining and proposing counter-\nmeasures to these patterns is an impractical and futile effort, given their per-\nceived alignment with prevailing business models and financial incentives within\n\nthe games industry [ 1 , 29 ]. This perspective emphasizes the documented con-\nflicts: video game developers express the strain of economic pressures, specifi-\ncally in games-as-a-service models, while simultaneously recognizing the ethical\n\nissues surrounding game elements they commonly use (for example, loot boxes)\n\n[ 1 , 5 ]. Furthermore, attempts at top-down regulation face significant hurdles; for\n\ninstance, Belgium’s ‘ban’ on paid loot boxes has been reported as largely inef-\nfective due to poor industry compliance, enforcement challenges linked to fund-\ning and scale, and the ease with which players can circumvent technical blocks\n\n[ 40 , 41 ]. This contrasts with player attitudes, where strong concerns about fair-\nness, transparency, exploitation, and manipulation are prevalent [ 9 , 31 ], alongside\n\nbroad consensus on the need for mitigation policies [ 31 ].",
+        "This position paper directly challenges that pragmatic (or perhaps resigned)\n\nperspective. We consider that this oftentimes underlying assumption prema-\nturely closes off opportunities for necessary and actionable design innovations\n\nin this field. The critical question then becomes not if we can counter dark\n\npatterns in games, but how HCI and game researchers can effectively lead this\n\ntask in such a way that practitioners can readily incorporate their findings and\n\nproposals in their game development workflow."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-10",
+    "articleId": "article-d0d500126a80",
+    "question": "Que limite de estratégias regulatórias é ilustrado pelo relato sobre loot boxes na Bélgica, e qual cautela é necessária ao usar esse exemplo na arguição?",
+    "answer": "O texto relata que a proibição belga de loot boxes pagas foi descrita pelas pesquisas citadas como amplamente ineficaz, associando o problema a [[baixa conformidade da indústria, dificuldades de fiscalização por financiamento e escala e possibilidade de contornar bloqueios técnicos]]. O exemplo sustenta a necessidade de investigar outras frentes articuladas de intervenção, em vez de supor que uma regra formal se execute sozinha. É um [[relato contextual de literatura usado pelo position paper]], não uma verificação atual da legislação belga nem prova de que toda regulação seja inútil.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        2
+      ],
+      "sections": [
+        "1 Introduction"
+      ],
+      "evidence": [
+        "Indeed, some have argued that critically examining and proposing counter-\nmeasures to these patterns is an impractical and futile effort, given their per-\nceived alignment with prevailing business models and financial incentives within\n\nthe games industry [ 1 , 29 ]. This perspective emphasizes the documented con-\nflicts: video game developers express the strain of economic pressures, specifi-\ncally in games-as-a-service models, while simultaneously recognizing the ethical\n\nissues surrounding game elements they commonly use (for example, loot boxes)\n\n[ 1 , 5 ]. Furthermore, attempts at top-down regulation face significant hurdles; for\n\ninstance, Belgium’s ‘ban’ on paid loot boxes has been reported as largely inef-\nfective due to poor industry compliance, enforcement challenges linked to fund-\ning and scale, and the ease with which players can circumvent technical blocks\n\n[ 40 , 41 ]. This contrasts with player attitudes, where strong concerns about fair-\nness, transparency, exploitation, and manipulation are prevalent [ 9 , 31 ], alongside\n\nbroad consensus on the need for mitigation policies [ 31 ]."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-11",
+    "articleId": "article-d0d500126a80",
+    "question": "Por que o avanço das taxonomias não implica que os métodos de detecção já identifiquem todos os padrões enganosos?",
+    "answer": "O artigo descreve uma evolução de taxonomias simples para categorias que consideram plataformas digitais e vieses cognitivos, mas ressalta que ainda se procura uma classificação universalmente aceita. Em paralelo, a detecção passou de procedimentos manuais para abordagens semi ou totalmente automatizadas. Mesmo assim, o texto cita estudos segundo os quais ferramentas então examinadas detectavam [[45% dos padrões conhecidos]], sinalizando necessidade de modelos mais robustos. Esse número é [[uma informação da literatura referida no documento]], e não uma taxa universal ou atual de acerto de qualquer detector.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        4
+      ],
+      "sections": [
+        "2.1 Identification and Classification Work"
+      ],
+      "evidence": [
+        "The classification field has advanced significantly over the past decade, shift-\ning from simple taxonomies to more detailed categories considering digital plat-\nforms and cognitive biases. However, efforts to create a universally accepted\n\ntaxonomy for DPs continue. Detection methods have also progressed from man-\nual to semi-automated or fully automated approaches [ 24 ]; nonetheless, studies\n\nreveal that current tools only detect 45% of known patterns [ 29 ], highlighting\n\nthe need for more robust detection models."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-12",
+    "articleId": "article-d0d500126a80",
+    "question": "Que contribuição o Dark Pattern Analysis Framework traz à discussão de classificação apresentada na agenda, e o que essa contribuição ainda não comprova?",
+    "answer": "Como exemplo de avanço classificatório, o position paper descreve o [[Dark Pattern Analysis Framework, com 68 tipos de padrões e exemplos específicos de jogos]], incluindo 20 tipos a mais em relação à taxonomia de Gray e colegas mencionada no texto. A mesma passagem aponta trabalhos sobre realidade aumentada e virtual e sobre a interação com vieses cognitivos. Esse repertório amplia a capacidade de descrever e reconhecer problemas. Entretanto, [[catalogar mais padrões não equivale a demonstrar eficácia de contramedidas]]; a necessidade de pesquisas de intervenção permanece na argumentação do artigo.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        3,
+        4
+      ],
+      "sections": [
+        "2.1 Identification and Classification Work"
+      ],
+      "evidence": [
+        "Another example is the Dark Pattern Analysis Framework (DPAF) [ 28 ],\n\nwhich categorizes 68 types of DPs and provides game-specific examples, adding\n\n20 DPs types in comparison to a recent taxonomy by Gray et al. [ 14 ]. Other HCI\n\nstudies classify DPs in games in both traditional and emerging forms, such as\n\naugmented and virtual reality, focusing on how game features can intensify their\n\nimpact on players [ 1 , 19 ]. Researchers also examine the interplay between cogni-\ntive biases and DPs, identifying when users are most susceptible to manipulation\n\nand suggesting ethical interventions [ 26 ].",
+        "The classification field has advanced significantly over the past decade, shift-\ning from simple taxonomies to more detailed categories considering digital plat-\nforms and cognitive biases. However, efforts to create a universally accepted\n\ntaxonomy for DPs continue. Detection methods have also progressed from man-\nual to semi-automated or fully automated approaches [ 24 ]; nonetheless, studies\n\nreveal that current tools only detect 45% of known patterns [ 29 ], highlighting\n\nthe need for more robust detection models."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-13",
+    "articleId": "article-d0d500126a80",
+    "question": "Qual papel os vieses cognitivos e as particularidades das plataformas têm no mapeamento de padrões enganosos descrito pelo position paper?",
+    "answer": "A revisão apresentada no artigo destaca que classificar padrões requer atenção tanto a [[formas tradicionais e emergentes de interação, como realidade aumentada e virtual]], quanto a características do jogo que podem intensificar seus efeitos. Também aponta pesquisas que investigam quando os usuários ficam mais suscetíveis à manipulação por sua interação com vieses cognitivos. Isso sugere um mapeamento sensível ao contexto e aos mecanismos de influência, em vez de uma lista puramente visual. O texto apresenta essa direção da literatura; [[não fornece neste artigo um experimento próprio que quantifique cada viés]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        3
+      ],
+      "sections": [
+        "2.1 Identification and Classification Work"
+      ],
+      "evidence": [
+        "Another example is the Dark Pattern Analysis Framework (DPAF) [ 28 ],\n\nwhich categorizes 68 types of DPs and provides game-specific examples, adding\n\n20 DPs types in comparison to a recent taxonomy by Gray et al. [ 14 ]. Other HCI\n\nstudies classify DPs in games in both traditional and emerging forms, such as\n\naugmented and virtual reality, focusing on how game features can intensify their\n\nimpact on players [ 1 , 19 ]. Researchers also examine the interplay between cogni-\ntive biases and DPs, identifying when users are most susceptible to manipulation\n\nand suggesting ethical interventions [ 26 ]."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-14",
+    "articleId": "article-d0d500126a80",
+    "question": "Como a formação de designers e profissionais de UX pode integrar o enfrentamento de padrões enganosos segundo a agenda?",
+    "answer": "A seção educacional relata propostas para inserir [[discussões críticas de design enganoso, reflexão ética, estratégias de resistência e letramento sobre dark patterns]] nos currículos de IHC, design e UX. A intenção não é apenas ensinar nomes de padrões: é preparar futuros profissionais para identificar e evitar práticas manipulativas, reconhecendo sua responsabilidade pelas interfaces que produzem. A educação é apresentada como uma frente necessária, mas a própria agenda posteriormente ressalta seus limites. Portanto, [[formação ética não deve ser confundida com garantia de poder decisório ou eliminação dos incentivos comerciais]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        4,
+        10
+      ],
+      "sections": [
+        "2.2 Awareness and Education Initiatives"
+      ],
+      "evidence": [
+        "HCI research has proposed mitigation strategies, such as regulatory support,\n\nethical design guidelines, and user protection mechanisms, to reduce the harm\n\ncaused by DPs in games [ 12 , 19 , 26 ]. There are also educational initiatives aimed\n\nat expanding awareness of DPs among designers, developers, and users and inte-\ngrating these topics into design and computing curricula to foster more respon-\nsible and ethically informed design practices.\n\nFor example, Iantorno and McKee [ 17 ] argue for embedding critical discus-\nsions of deceptive design into HCI and design education, proposing pedagogical\n\nframeworks that make space for ethical reflection and resistance strategies. Sim-\nilarly, Gray et al. [ 12 ] call for including dark pattern literacy in UX education,\n\nsuggesting that formal training can prepare future designers to identify and\n\navoid manipulative design practices. Efforts like these aim not only to inform\n\nbut also to instill professional responsibility and critical engagement with the\n\nethical dimensions of interface design.",
+        "It is important to note that while designing developer-support tools is cru-\ncial for fostering ethical game design practices, it is equally essential to recognize\n\nthe structural constraints within the game industry that may limit their adop-\ntion and impact. Many monetization-related decisions are typically made not\n\nby designers or developers but by higher-level stakeholders such as sharehold-\ners, executives, and product or monetization teams. These decision-makers often\n\nhave limited or no background in game development and primarily rely on key\n\nperformance indicators (KPIs) like player retention, session length, active user\n\nbase, and revenue metrics to drive design directives. As a result, developers and\n\ndesigners may have little autonomy to reject manipulative practices, even when\n\nthey are aware of the ethical concerns surrounding DPs. Given this context, we\n\nadvocate for further empirical research – such as large-scale surveys or interviews\n\nwith industry professionals, especially within the mobile and live-ops sectors –\n\nto better understand developers’ awareness of DPs, their perceived agency in\n\ndecision-making processes, and the organizational pressures they face. This line\n\nof inquiry could help clarify how deeply knowledge and decision power regarding\n\nDPs are distributed across different roles in game companies, potentially guiding\n\nmore targeted and feasible counter-strategies in the future."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-15",
+    "articleId": "article-d0d500126a80",
+    "question": "O que jogos sérios e persuasivos acrescentam às iniciativas estáticas de conscientização, conforme descrito no position paper?",
+    "answer": "O texto apresenta jogos sérios e persuasivos como contramedidas educacionais que procuram informar e favorecer mudanças por meio de [[experiências imersivas e interativas]]. Diferentemente de instrumentos estáticos, eles podem envolver o jogador em uma experiência que espelha situações de manipulação, tornando a compreensão mais situada na interação. Isso os torna uma abordagem promissora para educação sobre padrões enganosos em jogos. A qualificação é essencial: [[promessa pedagógica e reconhecimento de padrões não equivalem, sozinhos, a resistência efetiva ou proteção duradoura]], razão pela qual o artigo defende avaliar intervenções mais amplas.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        4
+      ],
+      "sections": [
+        "2.2 Awareness and Education Initiatives"
+      ],
+      "evidence": [
+        "Researchers have also explored serious and persuasive games as educational\n\ncountermeasures for users [ 1 , 20 ]. Such games aim to inform and foster behavioral\n\nchange through immersive, interactive experiences. Unlike static awareness tools,\n\nthese games strive to engage players in a way that mirrors real-world manipula-\ntion, making them a promising HCI-based approach for educating users about\n\ndeceptive design in games.",
+        "However, research has increasingly highlighted the limitations of simply rais-\ning user awareness to combat the effects of deceptive patterns in interfaces.\n\nWhile initial studies focused on informing users about the existence of manipu-\nlative designs, emerging evidence shows that awareness by itself often falls short\n\n[ 4 , 20 ]. For instance, Bongard-Blanchy and colleagues [ 4 ] observed that even users\n\nwho are aware of manipulative strategies often feel incapable of opposing them,\n\nsignaling the need for more diverse and effective interventions that go beyond\n\njust placing responsibility on users."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-16",
+    "articleId": "article-d0d500126a80",
+    "question": "Como alguém pode reconhecer uma estratégia manipulativa e ainda assim não conseguir resistir a ela, e o que isso muda na agenda de pesquisa?",
+    "answer": "A agenda cita evidência de que usuários conscientes de estratégias manipulativas podem [[sentir-se incapazes de se opor a elas]]. O problema, portanto, não se reduz à ausência de informação: reconhecer um padrão e conseguir agir diante dele são resultados diferentes. Para a pesquisa, isso pede intervenções diversas e avaliação da capacidade efetiva de decisão, evitando depositar toda a responsabilidade no usuário. O artigo usa essa limitação para justificar a expansão do trabalho de IHC além da conscientização. [[Não conclui que educar seja dispensável]], mas que educação isolada pode ser insuficiente.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        4
+      ],
+      "sections": [
+        "2.2 Awareness and Education Initiatives"
+      ],
+      "evidence": [
+        "However, research has increasingly highlighted the limitations of simply rais-\ning user awareness to combat the effects of deceptive patterns in interfaces.\n\nWhile initial studies focused on informing users about the existence of manipu-\nlative designs, emerging evidence shows that awareness by itself often falls short\n\n[ 4 , 20 ]. For instance, Bongard-Blanchy and colleagues [ 4 ] observed that even users\n\nwho are aware of manipulative strategies often feel incapable of opposing them,\n\nsignaling the need for more diverse and effective interventions that go beyond\n\njust placing responsibility on users."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-17",
+    "articleId": "article-d0d500126a80",
+    "question": "Por que críticas éticas, normas jurídicas e estudos de saúde precisam de integração para enfrentar padrões enganosos?",
+    "answer": "A seção aponta limites complementares: [[críticas éticas podem permanecer teóricas e sem mecanismos de execução; regulação pode adaptar-se lentamente e encontrar dificuldades entre jurisdições; estudos de saúde nem sempre se transformam em padrões exigíveis]]. Pressões industriais e monetização ainda podem enfraquecer intenções éticas de designers. Por isso, o artigo propõe articular educação, responsabilização no design e coordenação de políticas, com participação de pesquisadores, formuladores de políticas e indústria. A integração é uma direção de pesquisa e ação, [[não um pacote já testado que tenha resolvido esses obstáculos]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        5
+      ],
+      "sections": [
+        "2.3 Ethical, Legal, and Health Considerations"
+      ],
+      "evidence": [
+        "While ethical, legal, and health-focused research has been essential in expos-\ning the harms of DPs in games, it is not sufficient on its own to counter them\n\neffectively. Ethical critiques often remain theoretical and lack mechanisms for\n\nenforcement, while regulatory approaches are slow to adapt and challenging to\n\napply consistently across jurisdictions [ 15 , 25 ]. Health-oriented research has noted\n\nadverse psychological effects, such as compulsive play and diminished well-being\n\n[ 3 ], but these findings rarely lead to enforceable standards. Besides, industry\n\npressures and monetization often undermine ethical intentions, making it hard\n\nfor designers to resist manipulative mechanics [ 1 ]. Without integrated strategies\n\nthat include education, design accountability, and better policy coordination,\n\nthese efforts struggle to challenge the commercial logic sustaining DPs in games.",
+        "Taken together, this body of work suggests that HCI research is moving\n\ntoward increasingly multidisciplinary approaches, drawing on design, law, psy-\nchology, and ethics to tackle the challenges posed by deceptive patterns in games.\n\nWhile taxonomies and critical analyses have provided valuable conceptual foun-\ndations, concrete and efficacious countermeasures remain scarce. Addressing this\n\ngap requires an expanded, more interventionist, and practice-oriented approach\n\n– e.g., one that incorporates player advocacy into design processes, fosters cross-\nsector collaboration among HCI researchers, policymakers, and industry stake-\nholders, and advances the development of real-time detection mechanisms and\n\ntransparency tools for players."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-18",
+    "articleId": "article-d0d500126a80",
+    "question": "Quais métodos empíricos de IHC são mobilizados pela agenda para compreender necessidades dos jogadores antes de formular contramedidas?",
+    "answer": "O artigo cita [[etnografia, playtesting, experimentos e estudos de experiência do jogador]] para compreender necessidades, contextos, motivações e processos cognitivos, incluindo autonomia, competência e vínculo. Esse conhecimento empírico é apresentado como fundamento para investigar escolhas de design e seus efeitos sobre necessidades humanas. A passagem seguinte trata autonomia e consentimento informado como aspectos a preservar na experiência interativa. Assim, a proposta é conectar compreensão situada dos jogadores à construção e ao teste de soluções; [[os métodos citados não são uma pesquisa empírica executada pelo próprio position paper]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        5,
+        6
+      ],
+      "sections": [
+        "3 A Call To Action: Why (and How) We Can (and Should) Go Beyond Our Current Efforts"
+      ],
+      "evidence": [
+        "HCI, by definition, sits at the crossroads of human psychology, design, and tech-\nnology. This position affords a particular advantage in addressing DPs in games,\n\nnot by imposing ethical dictates or making policy alone, but by analyzing how\n\ninteractive systems can better serve both players and developers. HCI researchers\n\nare specialists in finding out about users—in this case, players. We find out\n\nabout players’ needs, contexts, motivations, cognitive processes, and psychologi-\ncal needs, such as autonomy, competence, and relatedness, through methods like\n\nethnographic research, playtesting, experiments, and player experience studies,\n\nto name a few perspectives of our work. The empirical understanding that this\n\ntype of research produces is the foundation. Ethicists can tell us what harm is,\n\nand legislators can legislate against it, but HCI researchers and practitioners",
+        "can look at how to counteract it in practice. HCI can investigate not only the\n\nnature and impact of DPs but also the intrinsic nature of particu-\nlar design choices on fundamental human needs like autonomy and informed\n\nconsent, viewing these as rights to be upheld within the interactive experience."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-19",
+    "articleId": "article-d0d500126a80",
+    "question": "Que alternativas concretas de apresentação de progressão e compra a agenda usa para explicar uma intervenção no nível da interação?",
+    "answer": "O texto propõe investigar [[como comunicar esforço e recompensa sem grinding que explore o jogador]] e [[como apresentar ofertas de compra respeitando escolha informada, em vez de explorar urgência]]. Esses exemplos tornam observável a contribuição da IHC: formular alternativas de interface e técnicas de interação e submetê-las a avaliação empírica. A questão não é simplesmente condenar toda progressão ou compra, mas examinar como cada mecanismo é apresentado e vivenciado. Os exemplos são possibilidades de investigação; [[o artigo não relata um teste que tenha confirmado a eficácia de uma interface específica]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        6
+      ],
+      "sections": [
+        "3 A Call To Action: Why (and How) We Can (and Should) Go Beyond Our Current Efforts"
+      ],
+      "evidence": [
+        "Hence, we as a community can focus on how to fight DPs practically\n\nin games . While it is valuable to discuss ethical game design principles [ 16 ] or\n\ngame design patterns [ 27 ], HCI can take these concepts further. We can make,\n\nbuild, and test physical interfaces and interaction techniques that actively pro-\nmote player autonomy and well-being. And this should not have to be at the\n\nexpense of the game industry’s business goals. For instance, HCI researchers\n\nare equipped to investigate in what way a game’s progression system may be\n\nportrayed to communicate effort vs. reward without exploitative grinding, or\n\nin-game purchase offers may be presented to honor informed choice rather than\n\nexploiting urgency. HCI provides the tools to both formulate and empirically\n\ntest such alternatives."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-20",
+    "articleId": "article-d0d500126a80",
+    "question": "Como a agenda diferencia engajamento sustentável de compulsão sem defender a eliminação de toda monetização?",
+    "answer": "O position paper declara que a tarefa não é eliminar monetização ou mecânicas de engajamento, e sim projetá-las de maneira [[sustentável e ética]]. Defende investigar experiências envolventes por prazer e motivação intrínseca, em vez de compulsão. Entre os espaços de inovação mencionados estão controles explícitos de tempo e dados e interfaces que revelem mecanismos de monetização. A hipótese de trabalho é aproximar respeito ao jogador e objetivos sustentáveis de desenvolvimento. Essa aproximação permanece uma [[possibilidade a examinar e demonstrar]], não uma garantia de resultado comercial.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        6
+      ],
+      "sections": [
+        "3 A Call To Action: Why (and How) We Can (and Should) Go Beyond Our Current Efforts"
+      ],
+      "evidence": [
+        "The task is not so much to eliminate monetization or engagement mechanics\n\nbut to design them sustainably and ethically. HCI can take the lead with novel\n\ninterfaces and interaction techniques that aim for genuine player engagement\n\nthrough enjoyment and intrinsic motivation rather than compulsion. For exam-\nple, if a game is highly compelling and treats player agency with respect, it has\n\na greater likelihood of developing long-term loyalty and favorable community\n\nattitudes that are also business assets. HCI can examine and demonstrate how\n\ndesigns rooted in respect for player well-being can foster genuine engagement,\n\nwhich in turn may supplement or even redefine sustainable business objectives\n\nrather than simply optimizing for pre-existing ones. For example, systems that\n\nprovide players with explicit control of their playtime and data or interfaces that\n\novertly disclose monetization mechanics could be a space for HCI-led innovation."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-21",
+    "articleId": "article-d0d500126a80",
+    "question": "Qual hipótese de relação entre respeito à agência, confiança e sustentabilidade comercial é sugerida pelo artigo, e qual seu limite evidencial?",
+    "answer": "O texto sugere que um jogo envolvente que respeite a agência pode ter maior probabilidade de produzir [[lealdade duradoura e atitudes favoráveis da comunidade]], aspectos que também podem constituir ativos para o negócio. A IHC poderia examinar se experiências baseadas em bem-estar favorecem engajamento genuíno e até ajudam a redefinir objetivos sustentáveis. Contudo, o modo verbal é propositivo: [[o position paper não apresenta dados que demonstrem esse retorno comercial]]. Na arguição, a relação deve ser defendida como hipótese investigável, preservando a tensão real entre incentivos econômicos e proteção do jogador.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        6
+      ],
+      "sections": [
+        "3 A Call To Action: Why (and How) We Can (and Should) Go Beyond Our Current Efforts"
+      ],
+      "evidence": [
+        "The task is not so much to eliminate monetization or engagement mechanics\n\nbut to design them sustainably and ethically. HCI can take the lead with novel\n\ninterfaces and interaction techniques that aim for genuine player engagement\n\nthrough enjoyment and intrinsic motivation rather than compulsion. For exam-\nple, if a game is highly compelling and treats player agency with respect, it has\n\na greater likelihood of developing long-term loyalty and favorable community\n\nattitudes that are also business assets. HCI can examine and demonstrate how\n\ndesigns rooted in respect for player well-being can foster genuine engagement,\n\nwhich in turn may supplement or even redefine sustainable business objectives\n\nrather than simply optimizing for pre-existing ones. For example, systems that\n\nprovide players with explicit control of their playtime and data or interfaces that\n\novertly disclose monetization mechanics could be a space for HCI-led innovation."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-22",
+    "articleId": "article-d0d500126a80",
+    "question": "Por que um léxico compartilhado e metodologias comuns deveriam preceder uma coleção de alternativas éticas?",
+    "answer": "Antes de criar bases cooperativas, a agenda propõe formar [[entendimento compartilhado e metodologias robustas]] para documentar padrões problemáticos e seus equivalentes éticos. Um léxico rico, apoiado em taxonomias bem fundamentadas, permitiria descrever projetos que respeitam a agência de maneira compreensível entre grupos. O artigo sugere diálogo contínuo por oficinas, trilhas em conferências, grupos de interesse e fóruns abertos de cocriação. Assim, o repositório depende de uma prática comunitária anterior e contínua; [[armazenar exemplos sem acordo conceitual não resolve a tradução entre pesquisa e prática]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        7
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "Before establishing cooperative collections or databases, a common ground\n\nfor documenting and sharing these ethical game design elements requires fos-\ntering a shared understanding and robust methodologies. A key element is\n\nthe collaborative creation of a rich lexicon for describing problematic patterns\n\n(based on well-founded taxonomies) and their ethical counterparts—designs that\n\nrespect player agency as a primary concern. This requires ongoing dialogue\n\nwithin the HCI and games research community, facilitated through diverse col-\nlaborative platforms such as workshops, dedicated tracks at conferences, spe-\ncial interest groups, and open online forums for discussion and co-creation of\n\ndocumentation."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-23",
+    "articleId": "article-d0d500126a80",
+    "question": "Como métodos padronizados, mas flexíveis, podem avaliar exemplos de design ético sem reduzir a avaliação ao engajamento?",
+    "answer": "A agenda recomenda princípios compartilhados de verificação empírica que possam acomodar perguntas de pesquisa diferentes e incluam [[bem-estar e engajamento]]. A System Darkness Scale aparece como possível ponto inicial para avaliações quantificáveis, a ser adaptado e combinado com métodos mistos para captar dimensões positivas. O objetivo é demonstrar respeito pelo jogador, [[não apenas otimizar métricas de engajamento]]. Isso exige flexibilidade contextual e cuidado com o que cada instrumento mede. O texto sugere esse desenvolvimento metodológico; não oferece um protocolo final universal nem valida uma adaptação própria da escala.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        7
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "Standardized yet flexible ways to validate “working examples” are also nec-\nessary to fulfill this vision. As research groups worldwide will pursue various\n\nresearch questions, they would benefit from shared principles for empirical veri-\nfication, possibly including metrics related to both player well-being and engage-\nment. For instance, the “System Darkness Scale” [ 30 ] represents an interest\n\nin quantifiable evaluations, offering a potential starting point, which could be\n\nadapted and combined with mixed-method approaches to capture the positive\n\ndimensions of ethical designs. The emphasis here is on demonstrating respect for\n\nthe player, not solely optimizing engagement metrics."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-24",
+    "articleId": "article-d0d500126a80",
+    "question": "Por que a agenda prioriza formas diversas de colaboração e disseminação em vez de começar por um site estático de padrões?",
+    "answer": "Um repositório dinâmico na web permanece como meta de longo prazo, inspirado em plataformas colaborativas ou documentação aberta, em vez de páginas estáticas controladas por um único pesquisador. Mas o foco imediato proposto é [[diversificar colaboração e disseminação]], permitindo documentação abrangente. A continuidade entre as páginas esclarece que essa documentação deve ir além de layouts e sequências de interação e incorporar fundamentos éticos, construtos psicológicos e validação. A infraestrutura digital, portanto, depende de processos de participação e qualidade; [[sua simples existência não comprova utilidade industrial ou eficácia sobre o bem-estar]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        7,
+        8
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "While a dynamic, web-based repository – perhaps inspired by collaborative\n\nplatforms or open-source documentation projects rather than just static sites\n\nowned by a particular researcher – remains a valuable long-term goal for struc-\ntured sharing, the immediate focus should be on diverse modes of collaboration\nand dissemination . That would ideally allow researchers to contribute compre-\nhensive documentation of design patterns. This documentation should go beyond",
+        "visual layouts and interaction sequences. It should also explicitly articulate the\n\nethical principles and psychological constructs addressed alongside robust empir-\nical validation. Peer review, community-led curation including developers, and\n\nversioning would be essential for maintaining this shared knowledge’s quality,\n\nintegrity, and evolving nature."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-25",
+    "articleId": "article-d0d500126a80",
+    "question": "Que funções revisão por pares, curadoria com desenvolvedores e versionamento desempenhariam em um repertório compartilhado de design ético?",
+    "answer": "Na proposta, [[revisão por pares, curadoria liderada pela comunidade com participação de desenvolvedores e versionamento]] são mecanismos essenciais para manter qualidade, integridade e evolução do conhecimento compartilhado. Eles acompanham uma documentação que precisa explicitar princípios, construtos psicológicos e validação, permitindo que exemplos sejam discutidos e atualizados em vez de tratados como receitas imutáveis. O artigo não fornece um processo de governança já avaliado: delineia requisitos. A ligação com a prática depende de contribuições qualificadas e manutenção contínua, [[não apenas da publicação inicial de uma coleção]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        8
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "visual layouts and interaction sequences. It should also explicitly articulate the\n\nethical principles and psychological constructs addressed alongside robust empir-\nical validation. Peer review, community-led curation including developers, and\n\nversioning would be essential for maintaining this shared knowledge’s quality,\n\nintegrity, and evolving nature.",
+        "Funding and sustaining such collaborative endeavors will probably repre-\nsent significant challenges. Support could come from research consortia, uni-\nversity partnerships, or grants from foundations promoting ethical technology\n\nand open knowledge. Most importantly, sustained community engagement and\n\nshared ownership are essential for these shared resources’ ongoing and long-term\n\ndevelopment, relevance, and ethical stewardship."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-26",
+    "articleId": "article-d0d500126a80",
+    "question": "Quais incentivos poderiam favorecer a participação inclusiva na documentação colaborativa, segundo o position paper?",
+    "answer": "O artigo propõe processos inclusivos que ofereçam [[valor claro a quem contribui]], como oportunidades de coautoria, reconhecimento pelos pares e formação de uma comunidade de prática de design ético. Os recursos compartilhados também poderiam servir à educação, complementando iniciativas de conscientização com exemplos concretos de alternativas de design. A inclusão, assim, aparece tanto no modo de produzir conhecimento quanto em sua circulação. São sugestões de organização comunitária; [[o texto não relata um experimento que demonstre qual incentivo funciona melhor ou que resolva desigualdades de participação]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        8
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "To encourage broad participation in these collaborative documentation and\n\nsharing efforts, the processes must be inclusive and offer clear value to contrib-\nutors, such as opportunities for co-authorship, peer recognition, and fostering a\n\ncommunity of practice around ethical game design. These shared resources can\n\nalso serve as powerful educational tools, complementing efforts to raise aware-\nness on the impact of DPs, like serious games developed with this aim [ 7 , 36 , 38 ],\n\nby providing concrete examples of ethical design in action."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-27",
+    "articleId": "article-d0d500126a80",
+    "question": "Que condições financeiras e de governança a agenda considera necessárias para sustentar recursos colaborativos de design ético?",
+    "answer": "O texto antecipa desafios significativos para financiar e sustentar esses esforços. Aponta [[consórcios de pesquisa, parcerias universitárias e financiamento de fundações voltadas à tecnologia ética e ao conhecimento aberto]] como possíveis apoios. Acima deles, ressalta engajamento comunitário continuado e propriedade compartilhada como essenciais ao desenvolvimento, à relevância e à gestão ética de longo prazo. A proposta trata sustentabilidade como problema permanente da infraestrutura de conhecimento, [[sem supor que criar o repositório ou obter uma verba inicial baste para mantê-lo útil e confiável]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        8
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "Funding and sustaining such collaborative endeavors will probably repre-\nsent significant challenges. Support could come from research consortia, uni-\nversity partnerships, or grants from foundations promoting ethical technology\n\nand open knowledge. Most importantly, sustained community engagement and\n\nshared ownership are essential for these shared resources’ ongoing and long-term\n\ndevelopment, relevance, and ethical stewardship."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-28",
+    "articleId": "article-d0d500126a80",
+    "question": "Como a descentralização da pesquisa pode produzir recomendações especializadas sem perder uma base compartilhada?",
+    "answer": "Segundo a agenda, diferentes grupos podem contribuir com conhecimento sobre [[gêneros de jogo, populações de jogadores e problemas éticos específicos]], como crianças, pessoas em situações de vulnerabilidade, privacidade de dados e monetização justa. Esforços coordenados e plataformas de compartilhamento bem concebidas podem reunir esses conhecimentos e exemplos práticos para a comunidade de desenvolvimento. A descentralização é tratada como uma vantagem potencial, desde que acompanhada por articulação. Não se trata de converter um único exemplo em norma para todos: [[a especialização contextual deve permanecer visível na documentação e na recomendação]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        8
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "The decentralized nature of research can be valuable here. Various groups\n\ncan contribute expertise on specific game genres, diverse player populations\n\n(e.g., children or those with particular vulnerabilities), or nuanced ethical issues\n\n(e.g., data privacy, fair monetization). Well-orchestrated collaborative efforts and\n\nthoughtfully designed sharing platforms can consolidate these diverse insights,\n\nmaking specialized knowledge and practical examples of ethical design\n\naccessible to the broader game development community, thereby promoting a\n\ndesign ethos grounded in respect for the player."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-29",
+    "articleId": "article-d0d500126a80",
+    "question": "Como o exemplo de recompensas de missões diárias mostra a passagem de uma crítica a uma agenda de alternativas testáveis?",
+    "answer": "O position paper retoma achados de Frommel e Mandryk segundo os quais recompensas diárias, embora envolventes, podem ser acompanhadas de [[medo de perder oportunidades ou sensação de obrigação]]. A partir dessa evidência citada, propõe que a comunidade desenvolva, teste e documente sistemas de recompensa alternativos, divulgando exemplos examinados e razões claras de design em canais acessíveis. O movimento é de uma observação de problema para a investigação de uma solução situada. [[O artigo não apresenta um sistema alternativo já validado]], nem conclui que toda recompensa diária seja necessariamente enganosa.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        7
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "To bridge this gap and to advance initiatives like these, a collaborative\n\neffort in designing, prototyping, and empirically evaluating is necessary. This\n\neffort would involve demonstrating how ethical, “radiant” or “motivational” and\n\nother positive design ideals translate into concrete, context-specific practices\n\nthat incorporate player dignity and informed choice. For instance, Frommel &\n\nMandryk [ 10 ] found that daily quest rewards, while engaging, can negatively\n\nimpact players through fear of missing out or feeling like a chore. Based on their\n\ninsights, the community could develop, test, and document alternative reward\n\nsystems. And then, sharing these vetted examples grounded in empirical findings\nand clear design rationales to easily accessible channels, including but not limited\n\nto formal repositories. The idea is to ease the bridge between academic knowledge\n\nand general industry use."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-30",
+    "articleId": "article-d0d500126a80",
+    "question": "Que sequência de apoio contextual uma ferramenta para jogadores poderia oferecer além de apenas avisar que existe um padrão enganoso?",
+    "answer": "A agenda descreve ferramentas como extensões ou sobreposições que poderiam [[destacar um possível padrão quando ele aparece, explicar seu mecanismo manipulativo e eventualmente sugerir ações alternativas]] apoiadas em um repertório validado. A intenção seria levar habilidades de reconhecimento para o momento concreto da interação, em vez de separá-las da decisão. O documento também pede respeito à agência, sem impor escolhas. Essa sequência é uma especificação de pesquisa: [[a existência de tipologias e exemplos não demonstra que um detector contextual seja preciso, utilizável ou eficaz]], aspectos que ainda exigem testes.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        8,
+        9,
+        10
+      ],
+      "sections": [
+        "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+      ],
+      "evidence": [
+        "While raising awareness is necessary because it provides the cognitive tools\n\nfor detection, HCI research can augment this impact by designing interactive",
+        "software artifacts with real-time support and intervention. Extending the learn-\ning possibilities of such projects, we propose a focused research effort on two\n\ntypes of software artifacts. First, player-assisting tools , such as browser exten-\nsions or in-game overlays. Their main goal would be to help transfer the pattern\n\nrecognition skills games into immediate, contextual guidance. Such tools might\n\nhighlight potential DPs as they appear, explain their manipulative mechanisms\n\n(drawing on the typologies and user reactions), and perhaps even suggest alter-\nnative actions derived from a validated repository.",
+        "Of course, these tools’ successful adoption and efficacy would be influenced by\n\nthe industry’s willingness to embrace ethical design standards and integrate such\n\nsupport. However, this integration is a necessary embodiment of ethical princi-\nples rather than a strategy to enhance tool efficacy. It requires a broader shift\n\ntowards embedding these standards deeply within development cultures. Besides,\n\ndeveloping such software products demands an insightful grasp of player psychol-\nogy founded on research surrounding cognitive bias and DPs and the pragmatics\n\nof game development. Rigorous empirical testing will also be essential to guar-\nantee that such tools are effective and easy to use, balance the empowerment of\n\nboth end-users and developers’ sustainable goals, and foster a healthy interactive\n\nexperience."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-31",
+    "articleId": "article-d0d500126a80",
+    "question": "Por que induzir o jogador a uma decisão considerada melhor pode contradizer o propósito ético de uma contramedida?",
+    "answer": "O texto formula um limite explícito: a ferramenta não deveria [[enganar o usuário para fazê-lo escolher o que o sistema considera melhor]], porque isso também prejudicaria sua autonomia. Seu propósito seria aumentar a agência por conscientização em tempo real e transformar encontros manipulativos em oportunidades de decisão informada, sem ditar escolhas. A distinção exige avaliar o próprio modo de intervenção, e não apenas sua intenção protetiva. O argumento é normativo e orientador; [[não estabelece que qualquer aviso ou recomendação automaticamente preserve a agência]], pois desenho, contexto e uso continuam relevantes.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        9
+      ],
+      "sections": [
+        "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+      ],
+      "evidence": [
+        "The advantage provided herein is the immediate empowerment of players\n\nwithin their interaction, upholding their right to informed choice, and alleviating\n\nthe sense of being “deceived” [ 38 ]. That could potentially enable players to bypass\n\nchoices that could harm their autonomy. However, these tools are not supposed to\n\ntrick the user into ‘making a better choice.’ That would also hurt their autonomy.\n\nMoreover, as Xiao and Denoo discussed, advanced players or game platforms\n\nmight devise methods to circumvent or compromise the efficacy of such tools\n\n[ 40 ]. Instead, these mechanisms should aim to enhance player agency by fostering\n\nreal-time awareness, not to diminish it by dictating choices. The core intention is\n\nto transform potentially deceptive or manipulative encounters into opportunities\n\nfor informed decision-making."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-32",
+    "articleId": "article-d0d500126a80",
+    "question": "Que problema de contorno ou comprometimento das ferramentas protetivas a agenda reconhece, e por que isso importa para sua avaliação?",
+    "answer": "Ao discutir ferramentas para jogadores, o artigo ressalta que [[jogadores avançados ou plataformas podem desenvolver meios de contornar ou comprometer sua eficácia]], retomando a discussão de Xiao e Denoo. Isso impede tratar uma ferramenta como solução definitiva apenas porque identifica padrões em uma demonstração. A proposta mantém o foco em agência e escolhas informadas e, posteriormente, demanda testes empíricos rigorosos de eficácia e facilidade de uso. Assim, a avaliação precisa considerar o uso real e seus limites. [[O texto reconhece a possibilidade de evasão; não demonstra que toda ferramenta será contornada]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        9,
+        10
+      ],
+      "sections": [
+        "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+      ],
+      "evidence": [
+        "The advantage provided herein is the immediate empowerment of players\n\nwithin their interaction, upholding their right to informed choice, and alleviating\n\nthe sense of being “deceived” [ 38 ]. That could potentially enable players to bypass\n\nchoices that could harm their autonomy. However, these tools are not supposed to\n\ntrick the user into ‘making a better choice.’ That would also hurt their autonomy.\n\nMoreover, as Xiao and Denoo discussed, advanced players or game platforms\n\nmight devise methods to circumvent or compromise the efficacy of such tools\n\n[ 40 ]. Instead, these mechanisms should aim to enhance player agency by fostering\n\nreal-time awareness, not to diminish it by dictating choices. The core intention is\n\nto transform potentially deceptive or manipulative encounters into opportunities\n\nfor informed decision-making.",
+        "Of course, these tools’ successful adoption and efficacy would be influenced by\n\nthe industry’s willingness to embrace ethical design standards and integrate such\n\nsupport. However, this integration is a necessary embodiment of ethical princi-\nples rather than a strategy to enhance tool efficacy. It requires a broader shift\n\ntowards embedding these standards deeply within development cultures. Besides,\n\ndeveloping such software products demands an insightful grasp of player psychol-\nogy founded on research surrounding cognitive bias and DPs and the pragmatics\n\nof game development. Rigorous empirical testing will also be essential to guar-\nantee that such tools are effective and easy to use, balance the empowerment of\n\nboth end-users and developers’ sustainable goals, and foster a healthy interactive\n\nexperience."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-33",
+    "articleId": "article-d0d500126a80",
+    "question": "Quais obstáculos de utilidade e aceitação podem fazer uma ferramenta de apoio a desenvolvedores ser ignorada ou contornada?",
+    "answer": "O artigo descreve a dificuldade de construir ferramentas [[inteligentes e sensíveis ao contexto, capazes de sugerir alternativas práticas em vez de notificações triviais]]. Também aponta que desenvolvedores podem ignorá-las ou trabalhar ao redor delas se forem percebidas como limitações à criatividade, excessivamente restritivas ou conflitantes com objetivos financeiros. Portanto, não basta detectar um problema: a ferramenta precisa dialogar com o trabalho real e oferecer apoio compreensível a decisões. A agenda apresenta esses obstáculos como desafios de investigação, [[sem relatar a aceitação de um plugin específico já implementado]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        9
+      ],
+      "sections": [
+        "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+      ],
+      "evidence": [
+        "The primary benefit is proactive, encouraging inherently ethical practices\n\nand support for designers working towards creating healthier experiences, par-\nticularly when they might not have clear guidance or face strict time limits\n\n[ 23 ]. This approach may help developers better consider, negotiate, and make\n\ninformed design decisions on how to be more ethically engaged in their work-\nflows. Of course, there are potential challenges to be considered. They include the\n\ndifficulty of developing intelligent and context-aware tools that make practical\n\nproposals to players instead of just giving trivial notifications. Also, developers\n\nrisk working around or dismissing such tools if they are perceived as creativity\n\nlimitations, too limiting in design choices, or conflict with perceived financial\n\nobjectives."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-34",
+    "articleId": "article-d0d500126a80",
+    "question": "Como a cultura de desenvolvimento se relaciona à adoção das ferramentas éticas propostas, além da qualidade técnica do software?",
+    "answer": "O texto afirma que adoção e eficácia dependem da disposição da indústria para incorporar padrões de design ético e apoio correspondente. Mas ressalta que essa integração é [[uma materialização necessária de princípios éticos na cultura de desenvolvimento]], não simplesmente uma técnica para aumentar a eficácia de uma ferramenta. Também exige entendimento de psicologia do jogador e da prática de desenvolvimento, além de testes rigorosos de eficácia e uso. A tecnologia está, assim, situada em práticas e compromissos organizacionais; [[instalar um artefato não demonstra uma mudança cultural nem garante seus resultados]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        10
+      ],
+      "sections": [
+        "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+      ],
+      "evidence": [
+        "Of course, these tools’ successful adoption and efficacy would be influenced by\n\nthe industry’s willingness to embrace ethical design standards and integrate such\n\nsupport. However, this integration is a necessary embodiment of ethical princi-\nples rather than a strategy to enhance tool efficacy. It requires a broader shift\n\ntowards embedding these standards deeply within development cultures. Besides,\n\ndeveloping such software products demands an insightful grasp of player psychol-\nogy founded on research surrounding cognitive bias and DPs and the pragmatics\n\nof game development. Rigorous empirical testing will also be essential to guar-\nantee that such tools are effective and easy to use, balance the empowerment of\n\nboth end-users and developers’ sustainable goals, and foster a healthy interactive\n\nexperience."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-35",
+    "articleId": "article-d0d500126a80",
+    "question": "Que pesquisa empírica a agenda propõe para compreender a distribuição de conhecimento e poder decisório sobre padrões enganosos nas empresas?",
+    "answer": "O artigo propõe [[surveys em larga escala ou entrevistas com profissionais]], especialmente dos setores mobile e live-ops, para investigar conhecimento sobre padrões enganosos, agência percebida nas decisões e pressões organizacionais. O objetivo é esclarecer como conhecimento e poder de decisão se distribuem entre funções, já que diretrizes de monetização podem vir de acionistas, executivos e equipes de produto ou monetização. Esses resultados poderiam orientar contramedidas mais direcionadas e viáveis. [[São estudos futuros sugeridos pelo position paper]], e não entrevistas ou estimativas de distribuição de poder que ele próprio tenha executado.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        10
+      ],
+      "sections": [
+        "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+      ],
+      "evidence": [
+        "It is important to note that while designing developer-support tools is cru-\ncial for fostering ethical game design practices, it is equally essential to recognize\n\nthe structural constraints within the game industry that may limit their adop-\ntion and impact. Many monetization-related decisions are typically made not\n\nby designers or developers but by higher-level stakeholders such as sharehold-\ners, executives, and product or monetization teams. These decision-makers often\n\nhave limited or no background in game development and primarily rely on key\n\nperformance indicators (KPIs) like player retention, session length, active user\n\nbase, and revenue metrics to drive design directives. As a result, developers and\n\ndesigners may have little autonomy to reject manipulative practices, even when\n\nthey are aware of the ethical concerns surrounding DPs. Given this context, we\n\nadvocate for further empirical research – such as large-scale surveys or interviews\n\nwith industry professionals, especially within the mobile and live-ops sectors –\n\nto better understand developers’ awareness of DPs, their perceived agency in\n\ndecision-making processes, and the organizational pressures they face. This line\n\nof inquiry could help clarify how deeply knowledge and decision power regarding\n\nDPs are distributed across different roles in game companies, potentially guiding\n\nmore targeted and feasible counter-strategies in the future."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-36",
+    "articleId": "article-d0d500126a80",
+    "question": "Por que avaliar uma contramedida somente por retenção, duração de sessão ou receita pode perder o objetivo ético definido na agenda?",
+    "answer": "A discussão organizacional observa que decisões de monetização se apoiam em [[retenção, duração de sessão, base de usuários ativos e receita]]. Já a proposta de avaliação ética pede autonomia percebida, justiça, transparência, respeito e bem-estar psicológico. A comparação interna ao artigo mostra que os dois conjuntos de indicadores respondem a perguntas diferentes: crescimento de atividade ou receita, isoladamente, não demonstra respeito ao jogador. O documento propõe examinar sua relação com objetivos sustentáveis, [[sem assumir uma equivalência entre engajamento comercial e benefício psicológico ou que esses objetivos sejam sempre incompatíveis]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        10,
+        11
+      ],
+      "sections": [
+        "3.3 Advancing Methods and Measures for Assessing Dark Pattern Prevalence and Player Experience, Including Well-Being"
+      ],
+      "evidence": [
+        "It is important to note that while designing developer-support tools is cru-\ncial for fostering ethical game design practices, it is equally essential to recognize\n\nthe structural constraints within the game industry that may limit their adop-\ntion and impact. Many monetization-related decisions are typically made not\n\nby designers or developers but by higher-level stakeholders such as sharehold-\ners, executives, and product or monetization teams. These decision-makers often\n\nhave limited or no background in game development and primarily rely on key\n\nperformance indicators (KPIs) like player retention, session length, active user\n\nbase, and revenue metrics to drive design directives. As a result, developers and\n\ndesigners may have little autonomy to reject manipulative practices, even when\n\nthey are aware of the ethical concerns surrounding DPs. Given this context, we\n\nadvocate for further empirical research – such as large-scale surveys or interviews\n\nwith industry professionals, especially within the mobile and live-ops sectors –\n\nto better understand developers’ awareness of DPs, their perceived agency in\n\ndecision-making processes, and the organizational pressures they face. This line\n\nof inquiry could help clarify how deeply knowledge and decision power regarding\n\nDPs are distributed across different roles in game companies, potentially guiding\n\nmore targeted and feasible counter-strategies in the future.",
+        "adapting specific player experience instruments, such as validated questionnaires\n\nor carefully designed behavioral metrics, that explicitly capture core tenets of\n\nethical interaction. These instruments should focus on perceived autonomy, fair-\nness, transparency, the sense of being respected (or manipulated), and critical\n\naspects of psychological well-being, drawing inspiration from well-established\n\ntheories like the Self-Determination Theory [ 33 , 34 ]. Such measures would allow\n\nresearchers to move beyond general assessments of “darkness” to indicate how\n\nspecific patterns or their alternatives influence these fundamental human needs,\n\na necessary point of departure to investigate how to counteract them."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-37",
+    "articleId": "article-d0d500126a80",
+    "question": "Por que demonstrar ausência de padrões enganosos ainda não basta para avaliar uma alternativa ética de design?",
+    "answer": "A agenda pede avaliar também [[a eficácia de escolhas éticas em criar uma experiência positiva e envolvente por prazer genuíno, sem coerção]]. Isso amplia a avaliação para além da presença ou ausência de padrões conhecidos. É necessário examinar como a alternativa afeta necessidades, experiência e agência, utilizando dados de jogo, instrumentos refinados e análise qualitativa. A posição não é que qualquer experiência positiva descarte riscos, mas que o conhecimento sobre uma solução precisa ir além de uma lista de problemas evitados. [[A avaliação proposta continua sendo uma tarefa empírica a desenvolver]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        11
+      ],
+      "sections": [
+        "3.3 Advancing Methods and Measures for Assessing Dark Pattern Prevalence and Player Experience, Including Well-Being"
+      ],
+      "evidence": [
+        "Addressing these challenges involves not only identifying the absence\n\nof DPs but also evaluating the effectiveness of ethical design choices\n\nin creating a positive, engaging game experience driven by genuine enjoyment,\n\nnot coercion. We can enhance our use of gameplay data by developing teleme-\ntry and behavioral analytics to uncover patterns that indicate compromised\n\nplayer autonomy or manipulative mechanics. Integrating this data with qual-\nitative insights and refined player experience tools can lead to a more compre-\nhensive assessment. Additionally, we could improve methodologies for assessing\n\nthe prevalence of DPs in new games by combining expert evaluations tailored to\n\nspecific game types and monetization strategies, along with emerging automated\n\ndetection approaches where ethically appropriate."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-38",
+    "articleId": "article-d0d500126a80",
+    "question": "Como telemetria, dados comportamentais e análise qualitativa poderiam se complementar na avaliação de autonomia e manipulação?",
+    "answer": "O texto propõe desenvolver [[telemetria e análises comportamentais que revelem padrões indicativos de autonomia comprometida ou mecânicas manipulativas]], integrando esses dados a perspectivas qualitativas e a instrumentos refinados de experiência do jogador. A combinação permitiria uma avaliação mais abrangente do que apenas observar um indicador isolado. O artigo usa linguagem propositiva e não especifica um sinal comportamental já validado como diagnóstico de manipulação. Portanto, [[dados de uso precisam ser interpretados com contexto e outras evidências]], em vez de automaticamente transformados em medida direta de bem-estar ou autonomia.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        11
+      ],
+      "sections": [
+        "3.3 Advancing Methods and Measures for Assessing Dark Pattern Prevalence and Player Experience, Including Well-Being"
+      ],
+      "evidence": [
+        "Addressing these challenges involves not only identifying the absence\n\nof DPs but also evaluating the effectiveness of ethical design choices\n\nin creating a positive, engaging game experience driven by genuine enjoyment,\n\nnot coercion. We can enhance our use of gameplay data by developing teleme-\ntry and behavioral analytics to uncover patterns that indicate compromised\n\nplayer autonomy or manipulative mechanics. Integrating this data with qual-\nitative insights and refined player experience tools can lead to a more compre-\nhensive assessment. Additionally, we could improve methodologies for assessing\n\nthe prevalence of DPs in new games by combining expert evaluations tailored to\n\nspecific game types and monetization strategies, along with emerging automated\n\ndetection approaches where ethically appropriate."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-39",
+    "articleId": "article-d0d500126a80",
+    "question": "Por que a metodologia de avaliação precisa considerar gênero de jogo e modelo de monetização, mesmo quando procura alguma padronização?",
+    "answer": "O artigo pede [[metodologias padronizadas, mas adaptáveis]], para avaliar presença e impacto dos padrões em gêneros e modelos de monetização diversos. Também sugere combinar avaliações de especialistas ajustadas a tipos de jogo e estratégias de monetização com abordagens automatizadas emergentes, quando eticamente apropriadas. A padronização visa comparação e rigor, enquanto a adaptação evita perder particularidades da experiência. Isso é uma direção metodológica, [[não um protocolo universal já validado]], e a automação é apresentada como complementar e condicionada, não como substituição automática de julgamento contextual.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        11
+      ],
+      "sections": [
+        "3.3 Advancing Methods and Measures for Assessing Dark Pattern Prevalence and Player Experience, Including Well-Being"
+      ],
+      "evidence": [
+        "Building upon existing frameworks, we call for creating standardized yet\n\nadaptable methodologies for evaluating both the presence and, crucially, the\n\nimpact of DPs across diverse game genres and monetization models. It includes\n\nrefining our approaches to measure the actual effect of interventions designed\n\nto mitigate DPs or enhance player awareness. For example, understanding why\n\nsome educational interventions show limited impact on knowledge about DPs\n\nmatters [ 39 ] requires more sensitive evaluation protocols to determine true effi-\ncacy and identify areas for improvement.",
+        "Addressing these challenges involves not only identifying the absence\n\nof DPs but also evaluating the effectiveness of ethical design choices\n\nin creating a positive, engaging game experience driven by genuine enjoyment,\n\nnot coercion. We can enhance our use of gameplay data by developing teleme-\ntry and behavioral analytics to uncover patterns that indicate compromised\n\nplayer autonomy or manipulative mechanics. Integrating this data with qual-\nitative insights and refined player experience tools can lead to a more compre-\nhensive assessment. Additionally, we could improve methodologies for assessing\n\nthe prevalence of DPs in new games by combining expert evaluations tailored to\n\nspecific game types and monetization strategies, along with emerging automated\n\ndetection approaches where ethically appropriate."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-40",
+    "articleId": "article-d0d500126a80",
+    "question": "Como o exemplo “design X, resultado Y, medida Z” define o tipo de recomendação que a agenda deseja oferecer a profissionais?",
+    "answer": "A agenda quer avançar de conselhos gerais para [[recomendações específicas apoiadas empiricamente]], em que se descreva uma escolha de design, o resultado demonstrado e a medida usada para avaliá-lo. O exemplo liga um sistema de recompensas à preservação de autonomia e a um efeito sobre justiça percebida medido por um instrumento identificado. Essa estrutura permite avaliar o alcance da evidência e comparar estudos, em vez de confiar apenas no rótulo “ético”. [[X, Y e Z são espaços ilustrativos no argumento, não uma solução e um efeito já comprovados pelo artigo]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        11
+      ],
+      "sections": [
+        "3.3 Advancing Methods and Measures for Assessing Dark Pattern Prevalence and Player Experience, Including Well-Being"
+      ],
+      "evidence": [
+        "Developing and adapting methods and validated measures is not an end in\n\nitself. Instead, it is a step toward generating highly specific, empirically grounded\n\nguidelines that practitioners can trust and readily apply. These methods will\n\nallow us to move from general advice to concrete, evidence-backed recommen-\ndations (e.g., “ To uphold player autonomy in reward systems, design X which\ndemonstrably leads to Y outcome in perceived fairness, as measured by Z ”). By\n\nfocusing on quantifiable impacts on core aspects of ethical player experience,\n\nwe can make assessments more systematic, comparable across studies, and ulti-\nmately more impactful in driving real change in game design practices."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-41",
+    "articleId": "article-d0d500126a80",
+    "question": "Quais quatro linhas articuladas compõem a agenda final de pesquisa e como elas conectam teoria e aplicação?",
+    "answer": "O artigo organiza a chamada em [[desenvolver e validar soluções éticas; criar e avaliar ferramentas de intervenção; refinar métodos de avaliação de impacto; traduzir pesquisa em orientação aplicável aos profissionais]]. A primeira trata de alternativas para mecânicas suscetíveis à exploração; a segunda inclui apoio a jogadores e desenvolvedores; a terceira busca medidas de prevalência, bem-estar e justiça; a quarta examina formatos e canais de tradução. As linhas são interdependentes: soluções precisam de avaliação e circulação prática. [[São perguntas abertas de pesquisa]], sem uma resposta única pronta para todos os jogos e populações.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        12
+      ],
+      "sections": [
+        "4 Forging Ahead: A Research Agenda"
+      ],
+      "evidence": [
+        "From our discussion, a research agenda emerges, embracing the complexities\n\nand committing to developing empirically grounded, actionable knowledge by:\n\n– Developing and Validating Ethical Solutions: How can the HCI com-\nmunity collaboratively document, prototype, and rigorously evaluate specific\n\npositive patterns or ethical design alternatives for familiar game mechan-\nics prone to exploitation? What methodologies best capture their impact on\n\nplayer autonomy, well-being, and potential alignment with sustainable devel-\noper goals?\n\n– Creating and Assessing Intervention Tools: What types of player-\nassisting software artifacts (e.g., real-time awareness tools, contextual guides)\n\ncan effectively empower players against DPs without being overly intrusive\n\nor easily avoided? Conversely, how can we design developer-support tools to\n\nseamlessly integrate ethical considerations into existing game development\n\nworkflows, offering practical guidance rather than mere warnings? What are\n\nthe most effective ways to empirically test the real-world impact of such tools?\n\n– Refining Methods for Impact Assessment: How can we develop more\n\nnuanced and validated metrics and methodologies to assess the prevalence of\n\nDPs and their tangible impact on player well-being and perceived fairness?\n\nCan we create standardized yet flexible protocols for evaluating the effective-\nness of countermeasures across diverse game genres and player populations?\n\n– Translating Research into Actionable Guidance for Practitioners:\n\nWhat are the most effective formats and channels for translating empirical\n\nfindings into practical, context-specific design guidelines and heuristics that\n\ngame developers can readily understand and apply? How can we better bridge\n\nthe implementation gap between academic research and industry practice?"
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-42",
+    "articleId": "article-d0d500126a80",
+    "question": "Por que diversidade de participantes, países e perspectivas do Sul Global é parte da agenda, e não apenas uma ampliação numérica da amostra?",
+    "answer": "Na conclusão, o texto propõe combinar [[profundidade qualitativa, rigor quantitativo e colaboração entre pesquisadores, designers, desenvolvedores e jogadores]], incluindo pessoas de contextos e países diferentes e explicitamente a perspectiva do Sul Global. A proposta se conecta ao reconhecimento de que jogos e experiências são diversos e dinâmicos, incompatíveis com soluções definitivas iguais para todos. A diversidade deve participar da produção de conhecimento aplicável, não apenas fornecer mais observações a uma receita pronta. [[A passagem não apresenta uma avaliação intercultural própria]], mas um compromisso orientador das próximas investigações.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        11,
+        12
+      ],
+      "sections": [
+        "4 Forging Ahead: A Research Agenda"
+      ],
+      "evidence": [
+        "This position paper argued for systematically expanding the focus of HCI games\n\nresearch regarding game DPs. It means moving from identifying what is problem-\natic to demonstrating what is possible. We urge a dedicated focus on interven-\ntionist and practical methodologies that enrich and are enriched by our existing\n\nfoundational understanding of DPs, creating a robust cycle of theory and applica-\ntion. The aim is not to offer definitive, one-size-fits-all solutions, as the landscape",
+        "of game design and player experience is far too diverse and dynamic for such\n\nprescriptions. Instead, we have intended to outline a call to action, highlighting\n\nspecific areas where research efforts can make a tangible difference in fostering\n\nmore ethical and player-respecting game environments.",
+        "Addressing these questions requires a multi-faceted approach, integrating\n\nqualitative depth with quantitative rigor and fostering stronger collaborations\n\nbetween researchers, designers, developers, and players. More importantly, it\n\nshould come from people from different backgrounds and countries, including\n\nthe Global South perspective. This endeavor is not about dictating what games\n\nshould be but expanding their palette – engaging, entertaining, and fundamen-\ntally respectful of the individuals who play them. This call to action is an invi-\ntation to the HCI and games research community. By focusing our collective\n\nexpertise on these interventionist and practical trajectories rooted in theory, we\n\ncan move beyond critique to creation, spearheading the development of knowl-\nedge and tools that genuinely support designing a more ethical future for digital\n\ngames."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-43",
+    "articleId": "article-d0d500126a80",
+    "question": "Que informação uma documentação de padrão ético precisa acrescentar aos layouts e às sequências de interação?",
+    "answer": "O artigo pede que o registro explicite [[princípios éticos, construtos psicológicos abordados e validação empírica robusta]], em vez de apenas mostrar a interface ou descrever os passos de uso. Isso fornece fundamentos para compreender por que uma alternativa seria desejável e que conhecimento sustenta a recomendação. Revisão por pares, curadoria comunitária com desenvolvedores e versionamento completam a proposta de qualidade. A exigência de validação é especialmente relevante: [[um exemplo visual atraente ou um nome positivo não demonstra respeito à agência nem efeitos benéficos]], que precisam ser investigados no contexto de aplicação.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        7,
+        8
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "While a dynamic, web-based repository – perhaps inspired by collaborative\n\nplatforms or open-source documentation projects rather than just static sites\n\nowned by a particular researcher – remains a valuable long-term goal for struc-\ntured sharing, the immediate focus should be on diverse modes of collaboration\nand dissemination . That would ideally allow researchers to contribute compre-\nhensive documentation of design patterns. This documentation should go beyond",
+        "visual layouts and interaction sequences. It should also explicitly articulate the\n\nethical principles and psychological constructs addressed alongside robust empir-\nical validation. Peer review, community-led curation including developers, and\n\nversioning would be essential for maintaining this shared knowledge’s quality,\n\nintegrity, and evolving nature."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-d0d500126a80-44",
+    "articleId": "article-d0d500126a80",
+    "question": "Como a responsabilidade do prestador em Safety by Design ajuda a contextualizar as ferramentas preventivas para desenvolvedores propostas na agenda?",
+    "answer": "Como síntese entre os textos, [[a intervenção precisa integrar o processo de desenvolvimento e uma responsabilidade organizacional identificável]]. A agenda propõe ferramentas que sinalizem decisões problemáticas e apoiem alternativas, mas reconhece exigências de cultura, conhecimento e testes. SbD afirma que a segurança não deve recair só no usuário e pede avaliação documentada de riscos e impactos; sua nota de boa prática ilustra revisões antes do lançamento. Uma ferramenta poderia apoiar esse processo, sem substituí-lo. [[Essa é uma articulação analítica para arguição]], não uma ferramenta validada por ambos os trabalhos nem prova de que os exemplos históricos de 2019 sejam eficazes em qualquer jogo.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        9,
+        10
+      ],
+      "sections": [
+        "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+      ],
+      "evidence": [
+        "The second type would be developer-supported tools for major game\n\nengines, which might proactively integrate ethical considerations into the devel-\nopment process. The goal here is to support developer objectives that align\n\nwith player well-being. Plugging in the research on the root of DPs in design\n\ndevelopment and the issues designers encounter, such tools could help identify\n\npotentially problematic design decisions at development time and help design-\ners brainstorm healthier alternatives. They could check against predefined DPs\n\ndefinitions derived from the vast literature that describes them and suggest eth-\nically informed alternatives from the proposed repertoire of different proposals\n\nof positive design patterns.\n\nThe primary benefit is proactive, encouraging inherently ethical practices\n\nand support for designers working towards creating healthier experiences, par-\nticularly when they might not have clear guidance or face strict time limits\n\n[ 23 ]. This approach may help developers better consider, negotiate, and make\n\ninformed design decisions on how to be more ethically engaged in their work-\nflows. Of course, there are potential challenges to be considered. They include the\n\ndifficulty of developing intelligent and context-aware tools that make practical\n\nproposals to players instead of just giving trivial notifications. Also, developers\n\nrisk working around or dismissing such tools if they are perceived as creativity\n\nlimitations, too limiting in design choices, or conflict with perceived financial\n\nobjectives.",
+        "Of course, these tools’ successful adoption and efficacy would be influenced by\n\nthe industry’s willingness to embrace ethical design standards and integrate such\n\nsupport. However, this integration is a necessary embodiment of ethical princi-\nples rather than a strategy to enhance tool efficacy. It requires a broader shift\n\ntowards embedding these standards deeply within development cultures. Besides,\n\ndeveloping such software products demands an insightful grasp of player psychol-\nogy founded on research surrounding cognitive bias and DPs and the pragmatics\n\nof game development. Rigorous empirical testing will also be essential to guar-\nantee that such tools are effective and easy to use, balance the empowerment of\n\nboth end-users and developers’ sustainable goals, and foster a healthy interactive\n\nexperience."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-d4b0c4f9d75f",
+        "source": {
+          "file": "SBD - Overview May19.pdf",
+          "title": "Safety by Design Overview (May 2019)",
+          "pages": [
+            22,
+            27
+          ],
+          "sections": [
+            "Principles 1 and 1.6"
+          ],
+          "evidence": [
+            "Principle 1: Service provider\n\nresponsibilities\n\nThis principle is based on the central tenet that\n\nwhile user safety is a shared responsibility, the\n\nburden of safety should never fall solely upon\n\nthe end user. It acknowledges that, even though\n\nno platform or service can ensure the complete\n\nsafety of individuals, every attempt should be\n\nmade to ensure that known and anticipated harms\n\nhave been adequately assessed in the design and\n\nprovision of a service.\n\nOnline services can take preventative steps to\n\nguard against their service being used to facilitate,\n\ninflame or encourage illegal and inappropriate\n\nbehaviours. To help ensure that known and\n\nanticipated harms have been evaluated in the\n\ndesign and provision of an online service, eight\n\npreventative steps have been identified under\n\nPrinciple 1.",
+            "Good practice note ( Principle 1.6)\n\nLEGO has developed a risk assessment tool\n\nagainst which every new feature and architectural\n\ncomponent is weighed. The legal and child safety\n\nteams provide developers\n\nwith sets of measures and stop-gaps which the\n\ndevelopment team then assess and address\n\nbefore a product or feature can be brought to\n\nmarket.",
+            "Principle 1.6: Prepare documented risk management\n\nand impact assessments to assess and remediate\n\nany potential safety harms that could be enabled or\n\nfacilitated by the product or service\n\nDetermining community standards (Principle 1.2) is\n\nvital for developing robust, efficient and evidenced\n\nworkflows that will effectively moderate and\n\nremediate safety risks and harms on services. The\n\nrisks and harms experienced by users are well\n\ncatalogued, with three main themes of risk and\n\nfive overarching categories of harm identified (see\n\npage 3). As such, services can use these to develop\n\nboth the boundaries of acceptable behaviour\n\nand the level of risk acceptance for the service\n74\n.\n\nThis process enables services to determine what\n\nfunctions it will offer users, what methods of\n\nmoderation and escalation will be developed, and\n\nthe restrictions that will be put in place to avert\n\nknown risks.\n\nModeration workflows will develop and evolve over\n\ntime, as the service gains popularity or is used in\n\nspecific ways by the user community. The more\n\ndata and information that the service has about\n\nhow its service is being used and abused, the\n\neasier it is for the service to adapt workflows to\n\nprioritise and target risks. A host of outsourcing\n\noptions are available for services that do not have\n\nthe internal capacity to manage content moderation\n\nthemselves.\n\nRisk thresholds can be developed for both content\n\nand conduct, with users subject to different levels\n\nof oversight depending on their risk profile, or how\n\nnew they are to the service. For example, new\n\nusers, and users who are repeatedly disruptive or\n\npost content outside the acceptable thresholds for\n\nthe service, can be subjected to higher levels of\n\nassessment from the service.\n\nServices that target young users (under the age of\n\n12) tend to be much more risk averse than those\n\nwhich target adult populations. As such,\n\npre-moderation is often a prerequisite to uploading\n\nany content to services catering for children.\n\nNotwithstanding measures taken on age-specific\n\nsites, research shows that children can and\n\nfrequently do access material on services that are\n\nage-inappropriate. This behoves all services to\n\nconsider adopting measures equivalent to those\n\nemployed by child-focused services.\n\nAs risk profiles can change over time, the service\n\nprovider or technology vendor may need to perform\n\nrisk audits to ensure that they are continuing to\n\nexercise good practice when it comes to addressing\n\nsafety risks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-45",
+    "articleId": "article-d0d500126a80",
+    "question": "Como a avaliação de eficácia em Safety by Design se relaciona à proposta de medir autonomia e justiça, sem confundir números de atividade com proteção?",
+    "answer": "SbD 3.4 diferencia estatísticas sobre a escala dos relatos de uma [[análise da eficácia de regras e diretrizes para conter condutas danosas]], pedindo avaliação anual e métricas significativas. A agenda, no domínio dos jogos, solicita medidas de autonomia, justiça, transparência, respeito e bem-estar, combinadas com evidência comportamental e qualitativa. A ponte é exigir que os indicadores respondam ao objetivo protetivo, não apenas registrem atividade. [[Não se deve equiparar volume de denúncias, retenção ou duração de sessão a benefício psicológico]]. Os textos operam em escopos diferentes e esta comparação não valida um instrumento único nem transfere automaticamente métricas de moderação para avaliação de jogos.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        11
+      ],
+      "sections": [
+        "3.3 Advancing Methods and Measures for Assessing Dark Pattern Prevalence and Player Experience, Including Well-Being"
+      ],
+      "evidence": [
+        "adapting specific player experience instruments, such as validated questionnaires\n\nor carefully designed behavioral metrics, that explicitly capture core tenets of\n\nethical interaction. These instruments should focus on perceived autonomy, fair-\nness, transparency, the sense of being respected (or manipulated), and critical\n\naspects of psychological well-being, drawing inspiration from well-established\n\ntheories like the Self-Determination Theory [ 33 , 34 ]. Such measures would allow\n\nresearchers to move beyond general assessments of “darkness” to indicate how\n\nspecific patterns or their alternatives influence these fundamental human needs,\n\na necessary point of departure to investigate how to counteract them.",
+        "Addressing these challenges involves not only identifying the absence\n\nof DPs but also evaluating the effectiveness of ethical design choices\n\nin creating a positive, engaging game experience driven by genuine enjoyment,\n\nnot coercion. We can enhance our use of gameplay data by developing teleme-\ntry and behavioral analytics to uncover patterns that indicate compromised\n\nplayer autonomy or manipulative mechanics. Integrating this data with qual-\nitative insights and refined player experience tools can lead to a more compre-\nhensive assessment. Additionally, we could improve methodologies for assessing\n\nthe prevalence of DPs in new games by combining expert evaluations tailored to\n\nspecific game types and monetization strategies, along with emerging automated\n\ndetection approaches where ethically appropriate."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-d4b0c4f9d75f",
+        "source": {
+          "file": "SBD - Overview May19.pdf",
+          "title": "Safety by Design Overview (May 2019)",
+          "pages": [
+            36
+          ],
+          "sections": [
+            "Principle 3.4"
+          ],
+          "evidence": [
+            "Principle 3.4: Publish an annual assessment of\n\nreported abuses on the service, accompanied\n\nby the open publication of meaningful analysis\n\nof metrics such as abuse data and reports, the\n\neffectiveness of moderation efforts and the extent\n\nto which community standards and terms of service\n\nare being satisfied through enforcement metrics\n\nOffering users and potential users the opportunity\n\nto evaluate the services’ approach to, and success\n\nin, tackling and addressing safety risks and harms\n\nis becoming more commonplace. This level of\n\ntransparency provides the general public with a\n\ngreater understanding of the steps that services\n\ntake to address risk and harms on their platform.\n\nIt also provides assurances, and a degree of\n\naccountability to the public, that the safety of users\n\nis taken seriously.\n\nWhile statistics that highlight the scale of reporting\n\nare informative, the development of a thorough\n\nanalysis of metrics on the efficacy of guidelines and\n\nrules in curbing harmful behaviour is vital. Attempts\n\nare being taken globally to achieve meaningful\n\ntransparency and accountability, and eSafety will\n\nseek to collaborate with stakeholders further in\n\ndeveloping these metrics as part of the continuing\n\nwork of the eSafety SbD Framework program."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-46",
+    "articleId": "article-d0d500126a80",
+    "question": "Que relação pode ser estabelecida entre a colaboração aberta de Safety by Design e o repertório comunitário de alternativas éticas da agenda?",
+    "answer": "SbD 3.3 pede participação de usuários, especialistas independentes e interessados para examinar padrões de segurança e suas consequências; SbD 3.5 inclui investimento e compartilhamento de tecnologias e boas práticas. A agenda acrescenta requisitos para [[documentação de padrões com fundamentos, validação, revisão, curadoria e versionamento]], além de engajamento e propriedade compartilhados. A correlação sugere que colaboração precisa de governança e critérios de qualidade, e não apenas de um lugar para armazenar exemplos. [[São propostas convergentes em escopos distintos]], sem demonstrar que um repositório já produza redução de danos ou que consulta e validação empírica sejam a mesma atividade.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        8
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "visual layouts and interaction sequences. It should also explicitly articulate the\n\nethical principles and psychological constructs addressed alongside robust empir-\nical validation. Peer review, community-led curation including developers, and\n\nversioning would be essential for maintaining this shared knowledge’s quality,\n\nintegrity, and evolving nature.",
+        "Funding and sustaining such collaborative endeavors will probably repre-\nsent significant challenges. Support could come from research consortia, uni-\nversity partnerships, or grants from foundations promoting ethical technology\n\nand open knowledge. Most importantly, sustained community engagement and\n\nshared ownership are essential for these shared resources’ ongoing and long-term\n\ndevelopment, relevance, and ethical stewardship."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-d4b0c4f9d75f",
+        "source": {
+          "file": "SBD - Overview May19.pdf",
+          "title": "Safety by Design Overview (May 2019)",
+          "pages": [
+            35,
+            36
+          ],
+          "sections": [
+            "Principles 3.3 and 3.5"
+          ],
+          "evidence": [
+            "Principle 3.3: Carry out open engagement with a\n\nwide user-base, including independent experts\n\nand key stakeholders, on the development,\n\ninterpretation and application of safety standards\n\nand their effectiveness or appropriateness\n\nRisks and harms are inter-related, inter-connected\n\nand can manifest in different and sometimes\n\nunexpected ways. Services cannot expect to have\n\nthe expertise or knowledge about how to manage\n\nand mitigate against these harms on their own.\n\nThe global online safety community has built up\n\nexpertise and skills that can be accessed and\n\nleveraged by industry to their advantage. Services\n\ncan easily seek affiliation with renowned online\n\nsafety councils or bodies to achieve this aim.\n\nDespite technical features and tools being\n\nbuilt with the best of intentions, unintended\n\nconsequences and negative impacts can occur.\n\nIncorporating open channels of communication and\n\nfeedback with independent experts and the general\n\npublic can ensure that potential consequences and\n\nramifications are identified, rectified and informed\n\nby best practice before the feature launches.",
+            "Principle 3.5: Commit to innovating and investing\n\nin safety-enhancing technology, as well as\n\ncollaborating and sharing safety-enhancing tools,\n\nbest practices and technology\n\nAdvancements in technology, machine-learning and\n\nartificial intelligence have the potential to radically\n\ntransform user safety and online experiences.\n\nIn order to harness and promote innovation and\n\ninvestment in user safety, a commitment among\n\nand within services to collaborating and pushing\n\nthe boundaries on addressing and combatting\n\nonline harms should expedite the development of a\n\nnew wave of safety-enhancing technology."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-47",
+    "articleId": "article-d0d500126a80",
+    "question": "Como o inciso sobre uso prolongado do documento local Art. 48 pode ser discutido junto à proposta de engajamento ético da agenda de intervenção?",
+    "answer": "O inciso XX do §10 apresentado no documento local inclui funcionalidades que incentivam permanência prolongada, como rolagem infinita, notificações, recompensas variáveis, recomendações e ofertas limitadas. A agenda propõe investigar [[engajamento por prazer e motivação intrínseca, com controle explícito de tempo e dados e transparência da monetização]], em vez de compulsão. A correlação coloca a função e a experiência do mecanismo em debate: uma lista classificatória aponta elementos a considerar, enquanto a agenda pede alternativas e avaliação. [[A presença de gamificação não prova, por si só, manipulação ou dano]], e o arquivo Art. 48 não está sendo tratado como verificação de vigência jurídica.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        6
+      ],
+      "sections": [
+        "3 A Call To Action: Why (and How) We Can (and Should) Go Beyond Our Current Efforts"
+      ],
+      "evidence": [
+        "The task is not so much to eliminate monetization or engagement mechanics\n\nbut to design them sustainably and ethically. HCI can take the lead with novel\n\ninterfaces and interaction techniques that aim for genuine player engagement\n\nthrough enjoyment and intrinsic motivation rather than compulsion. For exam-\nple, if a game is highly compelling and treats player agency with respect, it has\n\na greater likelihood of developing long-term loyalty and favorable community\n\nattitudes that are also business assets. HCI can examine and demonstrate how\n\ndesigns rooted in respect for player well-being can foster genuine engagement,\n\nwhich in turn may supplement or even redefine sustainable business objectives\n\nrather than simply optimizing for pre-existing ones. For example, systems that\n\nprovide players with explicit control of their playtime and data or interfaces that\n\novertly disclose monetization mechanics could be a space for HCI-led innovation."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-94e7a19d8878",
+        "source": {
+          "file": "Art. 48 - Oficina.pdf",
+          "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+          "pages": [
+            4
+          ],
+          "sections": [
+            "Art. 48, §10, inciso XX"
+          ],
+          "evidence": [
+            "XX – funcionalidades que incentivem a manutenção do usuário ativo por\nperíodos prolongados, tais como: scroll in fi nito, noti fi cações constantes,\nrecompensas variáveis, algoritmos de recomendação, gami fi cação, autoplay\n(reprodução automática), sistema de seguidores e engajamento social,\npromoções e ofertas limitadas, entre outros;"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-48",
+    "articleId": "article-d0d500126a80",
+    "question": "Por que exibir a indicação etária e informá-la de forma clara e acessível nos termos de uso dos fornecedores que hospedam conteúdo de terceiros, conforme o documento local Art. 48, não esgota a ideia de escolha informada da agenda?",
+    "answer": "Os §§5–6 do documento local pedem indicação etária e descritores claros nos momentos de instalação, login e início de uso; o §12 trata da informação nos termos dos fornecedores que hospedam conteúdo de terceiros. A agenda enfatiza [[apoio à agência na interação concreta]], explicando mecanismos e evitando manipular o usuário para uma escolha considerada melhor. A síntese distingue disponibilidade de informação classificatória de capacidade contextual de decidir. [[As obrigações descritas no arquivo não demonstram, sozinhas, compreensão, resistência ou redução de dano]], e as ferramentas da agenda tampouco estão validadas. A comparação não afirma vigência legal nem propõe substituir classificação por avisos automáticos.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        9
+      ],
+      "sections": [
+        "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+      ],
+      "evidence": [
+        "The advantage provided herein is the immediate empowerment of players\n\nwithin their interaction, upholding their right to informed choice, and alleviating\n\nthe sense of being “deceived” [ 38 ]. That could potentially enable players to bypass\n\nchoices that could harm their autonomy. However, these tools are not supposed to\n\ntrick the user into ‘making a better choice.’ That would also hurt their autonomy.\n\nMoreover, as Xiao and Denoo discussed, advanced players or game platforms\n\nmight devise methods to circumvent or compromise the efficacy of such tools\n\n[ 40 ]. Instead, these mechanisms should aim to enhance player agency by fostering\n\nreal-time awareness, not to diminish it by dictating choices. The core intention is\n\nto transform potentially deceptive or manipulative encounters into opportunities\n\nfor informed decision-making.",
+        "There are specific concerns to consider. These tools must avoid alert fatigue\n\nfrom excessive notifications and monitor subtle DPs across gaming interfaces\n\nwithout generating high false positives. Additionally, they need to minimize\n\nbeing seen as intrusive to maintain a positive gaming experience."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-94e7a19d8878",
+        "source": {
+          "file": "Art. 48 - Oficina.pdf",
+          "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+          "pages": [
+            2,
+            4
+          ],
+          "sections": [
+            "Art. 48, §§5–6 e §12"
+          ],
+          "evidence": [
+            "§5º Os sujeitos mencionados no caput deverão exibir, de forma clara e\nacessível, as respectivas indicações etárias e os descritores de conteúdo, no\nmodelo brasileiro, no momento do acesso pelos usuários, tanto nas versões\ndisponibilizadas por meio de aplicativos, quanto nas versões web.\n§6º A exibição das indicações etárias e dos descritores de conteúdo de que\ntrata o §5º deverá ocorrer nas páginas de instalação, login e início de uso.",
+            "§12 Os termos de uso de todos os fornecedores de serviços digitais que\nhospedem conteúdo de terceiros, conforme previsto no art. 48, deverão\ninformar, de forma clara e acessível, a indicação etária atribuída pela\nCoordenação-Geral de Política de Classi fi cação Indicativa e, na ausência\ndesta, a atribuição realizada pelo Iarc ou outro modelo autorizado."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-49",
+    "articleId": "article-d0d500126a80",
+    "question": "Qual é a diferença entre considerar controles parentais e moderação na classificação, conforme o documento Art. 48, e demonstrar efeito de uma contramedida em jogos?",
+    "answer": "O §14 apresentado considera controle editorial e curadoria, ferramentas etárias e parentais acessíveis e políticas de moderação; o §15 remete especificações aos Guias Práticos, cujo conteúdo não é completado aqui. Já a agenda propõe [[medir o efeito de elementos e intervenções sobre autonomia, manipulação percebida e bem-estar]], com métodos sensíveis ao contexto. A síntese distingue critérios usados para atribuir uma classificação da evidência necessária para sustentar uma alegação de eficácia. [[Ter uma ferramenta disponível não prova seu uso nem seu efeito psicológico]]. O documento é tratado apenas como fonte local; não se afirma vigência ou que classificação substitua estudos de experiência.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        10,
+        11
+      ],
+      "sections": [
+        "3.3 Advancing Methods and Measures for Assessing Dark Pattern Prevalence and Player Experience, Including Well-Being"
+      ],
+      "evidence": [
+        "Current HCI research excels at identifying and categorizing DPs, although not\n\nas much within games, and provides critical explorations of their ethical and\n\npsychological impacts [ 16 ]. Significant steps have been made toward evaluation\n\ntools, such as the System Darkness Scale [ 30 ] that assess a system’s perceived\n\n“darkness,” and frameworks like the ADD framework [ 8 ] for critically considering\n\nDPs in children’s applications. While these analytical insights and identification\n\nmethods are foundational, we advocate for expanding efforts to develop and val-\nidate robust methods and measures that can more directly and quantifiably\n\nassess the impact of specific game design elements on player autonomy,\n\nperceived manipulation, and holistic psychological well-being.",
+        "Building upon existing frameworks, we call for creating standardized yet\n\nadaptable methodologies for evaluating both the presence and, crucially, the\n\nimpact of DPs across diverse game genres and monetization models. It includes\n\nrefining our approaches to measure the actual effect of interventions designed\n\nto mitigate DPs or enhance player awareness. For example, understanding why\n\nsome educational interventions show limited impact on knowledge about DPs\n\nmatters [ 39 ] requires more sensitive evaluation protocols to determine true effi-\ncacy and identify areas for improvement."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-94e7a19d8878",
+        "source": {
+          "file": "Art. 48 - Oficina.pdf",
+          "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+          "pages": [
+            4,
+            5
+          ],
+          "sections": [
+            "Art. 48, §§14–15"
+          ],
+          "evidence": [
+            "§14 Para fi ns de atribuição da classi fi cação indicativa fi nal, serão considerados,\nainda:\nI – o grau de controle editorial e de curadoria exercido pelo prestador de\nserviços digitais sobre os conteúdos disponibilizados;",
+            "II – a existência de ferramentas de controle etário e de controles parentais\nacessíveis ao usuário; e\nIII – a adoção de políticas de moderação que restrinjam o acesso de menores a\nconteúdos sensíveis ou que proíbam tais conteúdos na aplicação, desde que\nalinhadas ao disposto no Marco Civil da Internet (Lei nº 12.965, de 23 de abril\nde 2014).\n§15 As especi fi cações técnicas e operacionais para a aplicação dos critérios\nestabelecidos no §14 e em seus incisos serão detalhadas nos Guias Práticos\nde Classi fi cação Indicativa."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-50",
+    "articleId": "article-d0d500126a80",
+    "question": "Como o creator-consumer divide do artigo CHIP qualifica a confiança em ferramentas de conscientização propostas na agenda?",
+    "answer": "A agenda reconhece que saber identificar manipulação pode não bastar para resistir e propõe apoio contextual que fortaleça agência. CHIP acrescenta uma lente sobre [[vulnerabilidades sistêmicas e preexistentes, como precariedade e barreiras de letramento]], que podem diferir entre criação e consumo dos jogos. A ponte sugere investigar para quem uma ferramenta é compreensível e útil e quais condições limitam a ação, sem reduzir proteção a mais informação. [[Não se pode concluir que todo jogador com pouco letramento seja incapaz de decidir]], nem usar o cenário especulativo como teste de uma intervenção. A relação é analítica e demanda avaliação com contextos e participantes diversos.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        4,
+        9
+      ],
+      "sections": [
+        "2.2 Awareness and Education Initiatives"
+      ],
+      "evidence": [
+        "However, research has increasingly highlighted the limitations of simply rais-\ning user awareness to combat the effects of deceptive patterns in interfaces.\n\nWhile initial studies focused on informing users about the existence of manipu-\nlative designs, emerging evidence shows that awareness by itself often falls short\n\n[ 4 , 20 ]. For instance, Bongard-Blanchy and colleagues [ 4 ] observed that even users\n\nwho are aware of manipulative strategies often feel incapable of opposing them,\n\nsignaling the need for more diverse and effective interventions that go beyond\n\njust placing responsibility on users.",
+        "The advantage provided herein is the immediate empowerment of players\n\nwithin their interaction, upholding their right to informed choice, and alleviating\n\nthe sense of being “deceived” [ 38 ]. That could potentially enable players to bypass\n\nchoices that could harm their autonomy. However, these tools are not supposed to\n\ntrick the user into ‘making a better choice.’ That would also hurt their autonomy.\n\nMoreover, as Xiao and Denoo discussed, advanced players or game platforms\n\nmight devise methods to circumvent or compromise the efficacy of such tools\n\n[ 40 ]. Instead, these mechanisms should aim to enhance player agency by fostering\n\nreal-time awareness, not to diminish it by dictating choices. The core intention is\n\nto transform potentially deceptive or manipulative encounters into opportunities\n\nfor informed decision-making."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-eca18e5843e2",
+        "source": {
+          "file": "chiplaycompanion25-21.pdf",
+          "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+          "pages": [
+            1
+          ],
+          "sections": [
+            "2 The Creator-Consumer Divide as a Lens for Understanding Systemic Player Vulnerability"
+          ],
+          "evidence": [
+            "This paper proposes the creator-consumer divide as a theoretical\nconstruct: a structural schism between creation and consumption\ncontexts, where vulnerabilities are systemic, pre-existing, and capi-\ntalized upon via deliberate targeting or indifferent automation. The\ndivide has two nuances.\nFirst, games as entertainment can lower players’ critical guard\n[36], making them more susceptible to manipulative designs dis-\nguised as ’part of the game.’ This effect is amplified when a signifi-\ncant portion of the population lacks fundamental cognitive defenses,\na vulnerability stemming from deep-seated societal issues in the\nGlobal South. The contrast between the United States (US) and\nBrazil illustrates this asymmetry. The US poverty rate is 11.1% [31],\nwhile in Brazil it is over double at 27.4% [14], indicating a more\nwidespread precarity, which is linked to stress-impaired decision-\nmaking [16]. A paradox of high digital penetration (86.2% [8]) co-\nexisting with low functional literacy amplifies the situation. While\nthe US grapples with a substantial illiteracy rate affecting 18% of\nits adults, a challenge concentrated mainly in specific minority\nand low-income groups [26], Brazil’s issue is more pervasive. 29%\nof Brazilians are functionally illiterate (stagnant since 2018), with\nanother 36% possessing only elementary literacy skills [19, 20]. It\nsuggests that over half the population may struggle with the criti-\ncal thinking skills [34] necessary to defend against manipulative\npractices and discourses. This national-scale vulnerability is dis-\ntinct from the challenges within specific US communities."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-51",
+    "articleId": "article-d0d500126a80",
+    "question": "Como a discussão da agenda sobre KPIs e poder decisório pode dialogar com a automação indiferente e o dashboard especulativo de CHIP?",
+    "answer": "A agenda descreve pressões de retenção, tempo de sessão e receita vindas de funções com poder decisório, podendo limitar a autonomia de designers. CHIP propõe que vulnerabilidades sejam exploradas por direcionamento deliberado ou [[automação indiferente]] e imagina um dashboard que converte condições de Helena em oportunidades de extração. A síntese desloca a análise da intenção de um designer isolado para objetivos, métricas e distribuição de poder. [[O dashboard é ficção crítica, não um sistema observado nem dados empíricos sobre jogadores]]. A aproximação não prova um mecanismo causal comum a todas as empresas; indica questões para investigar governança, práticas e métricas.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        10
+      ],
+      "sections": [
+        "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+      ],
+      "evidence": [
+        "It is important to note that while designing developer-support tools is cru-\ncial for fostering ethical game design practices, it is equally essential to recognize\n\nthe structural constraints within the game industry that may limit their adop-\ntion and impact. Many monetization-related decisions are typically made not\n\nby designers or developers but by higher-level stakeholders such as sharehold-\ners, executives, and product or monetization teams. These decision-makers often\n\nhave limited or no background in game development and primarily rely on key\n\nperformance indicators (KPIs) like player retention, session length, active user\n\nbase, and revenue metrics to drive design directives. As a result, developers and\n\ndesigners may have little autonomy to reject manipulative practices, even when\n\nthey are aware of the ethical concerns surrounding DPs. Given this context, we\n\nadvocate for further empirical research – such as large-scale surveys or interviews\n\nwith industry professionals, especially within the mobile and live-ops sectors –\n\nto better understand developers’ awareness of DPs, their perceived agency in\n\ndecision-making processes, and the organizational pressures they face. This line\n\nof inquiry could help clarify how deeply knowledge and decision power regarding\n\nDPs are distributed across different roles in game companies, potentially guiding\n\nmore targeted and feasible counter-strategies in the future."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-eca18e5843e2",
+        "source": {
+          "file": "chiplaycompanion25-21.pdf",
+          "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+          "pages": [
+            1,
+            2
+          ],
+          "sections": [
+            "2 The Creator-Consumer Divide; 3 A Speculative Perspective"
+          ],
+          "evidence": [
+            "This paper proposes the creator-consumer divide as a theoretical\nconstruct: a structural schism between creation and consumption\ncontexts, where vulnerabilities are systemic, pre-existing, and capi-\ntalized upon via deliberate targeting or indifferent automation. The\ndivide has two nuances.",
+            "Artifact from the future : The Adaptive Engagement & Resource\nPathway Report for Ouroboros Seed’s developers (Annex A). The\ndashboard dehumanizes Helena, reducing her to a set of quantified\nvulnerabilities, such as being 92% Prone to ’reactive choices’ in\na ’Scarcity Context.’ It logs triggers designed to weaponize psy-\nchological states like ’Scarcity + Anxiety’ and details the harm as\na ’Projected Redistribution’ of resources from her specific urban\ndistrict. The corporate euphemism calls a monetization push the\n’Harvest Equinox’ seasonal event, and classifies manipulative tactics\nas ’Narrative Anchors.’ A final note confirms her profile matches\na ’Civic Tier 2 pattern’ and is flagged for a third-party messaging\ntest cycle, pending a performative internal ethics review.",
+            "Ouroboro’s speculative dystopia is a provocation. It aims to\nmake palpable the extreme and deeply inequitable harms that can\narise when the creator-consumer divide in gaming is pushed to its\npotential extreme."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-52",
+    "articleId": "article-d0d500126a80",
+    "question": "Como a inclusão do Sul Global na agenda pode ser aprofundada pela distinção de CHIP entre coleta de dados e parceria equitativa?",
+    "answer": "A agenda conclui pedindo colaboração entre papéis diversos e pessoas de diferentes países, incluindo explicitamente o Sul Global. CHIP desafia a comunidade a [[ir além de tratar contextos não WEIRD apenas como fontes de dados]], construindo parcerias equitativas e cocriando agendas e paradigmas de design. A síntese mostra que ampliar uma amostra e compartilhar poder na definição do problema são dimensões diferentes. Isso dá conteúdo à proposta de pesquisa colaborativa, sem afirmar que ela já superou as desigualdades descritas. [[Ambos formulam chamadas à ação]], e a ficção crítica de CHIP não substitui resultados de uma colaboração ou avaliação intercultural real.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        12
+      ],
+      "sections": [
+        "4 Forging Ahead: A Research Agenda"
+      ],
+      "evidence": [
+        "Addressing these questions requires a multi-faceted approach, integrating\n\nqualitative depth with quantitative rigor and fostering stronger collaborations\n\nbetween researchers, designers, developers, and players. More importantly, it\n\nshould come from people from different backgrounds and countries, including\n\nthe Global South perspective. This endeavor is not about dictating what games\n\nshould be but expanding their palette – engaging, entertaining, and fundamen-\ntally respectful of the individuals who play them. This call to action is an invi-\ntation to the HCI and games research community. By focusing our collective\n\nexpertise on these interventionist and practical trajectories rooted in theory, we\n\ncan move beyond critique to creation, spearheading the development of knowl-\nedge and tools that genuinely support designing a more ethical future for digital\n\ngames."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-eca18e5843e2",
+        "source": {
+          "file": "chiplaycompanion25-21.pdf",
+          "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+          "pages": [
+            3
+          ],
+          "sections": [
+            "4 Toward a Decolonial Game and Play Research"
+          ],
+          "evidence": [
+            "that societies like mine, mainly in the Global South, have already\ninflicted upon their citizens. Informed by decolonial thought, this vi-\nsion challenges the HCI and games communities to reflect on when\nplay becomes another frontier for extraction. This compels us to ask\nhow we can move beyond studying non-WEIRD contexts as mere\nsources of data and toward building genuine, equitable partnerships\nwith communities in the Global South. What are our responsibilities\nin co-creating research agendas and design paradigms that build\nresilience rather than deepen the precarity of the already vulner-\nable? It is not trivial. But ultimately, is the CHI PLAY community\nwilling to try?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-53",
+    "articleId": "article-d0d500126a80",
+    "question": "Como os limites do levantamento Interact ajudam a distinguir medir prevalência de padrões e avaliar bem-estar, como pede a agenda?",
+    "answer": "Interact analisou aplicativos gratuitos em alta na loja brasileira, com gravações de dez minutos de primeiro uso e tarefas em emulador; reconhece que uso prolongado e ambiente real podem produzir outras observações. A agenda pede métodos para [[avaliar não só presença de padrões, mas seus impactos e a eficácia de alternativas]]. A correlação mostra que uma classificação de interfaces fornece uma linha de base útil, porém não mede automaticamente efeitos psicológicos ou mudanças causadas por uma intervenção. [[Os resultados dos 100 aplicativos não se transferem diretamente a todos os aplicativos ou aos jogos]], e a proposta de avaliação da agenda também requer validação empírica.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        10,
+        11
+      ],
+      "sections": [
+        "3.3 Advancing Methods and Measures for Assessing Dark Pattern Prevalence and Player Experience, Including Well-Being"
+      ],
+      "evidence": [
+        "Current HCI research excels at identifying and categorizing DPs, although not\n\nas much within games, and provides critical explorations of their ethical and\n\npsychological impacts [ 16 ]. Significant steps have been made toward evaluation\n\ntools, such as the System Darkness Scale [ 30 ] that assess a system’s perceived\n\n“darkness,” and frameworks like the ADD framework [ 8 ] for critically considering\n\nDPs in children’s applications. While these analytical insights and identification\n\nmethods are foundational, we advocate for expanding efforts to develop and val-\nidate robust methods and measures that can more directly and quantifiably\n\nassess the impact of specific game design elements on player autonomy,\n\nperceived manipulation, and holistic psychological well-being.",
+        "Building upon existing frameworks, we call for creating standardized yet\n\nadaptable methodologies for evaluating both the presence and, crucially, the\n\nimpact of DPs across diverse game genres and monetization models. It includes\n\nrefining our approaches to measure the actual effect of interventions designed\n\nto mitigate DPs or enhance player awareness. For example, understanding why\n\nsome educational interventions show limited impact on knowledge about DPs\n\nmatters [ 39 ] requires more sensitive evaluation protocols to determine true effi-\ncacy and identify areas for improvement."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-48bdcebcffc6",
+        "source": {
+          "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+          "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+          "pages": [
+            4,
+            8
+          ],
+          "sections": [
+            "2 Methodology; 5 Limitations"
+          ],
+          "evidence": [
+            "We used BlueStacks 5 [1] to emulate the Samsung Galaxy S22 Ultra and\nrun the apps. To capture the screen, we used a native tool on desktops powered\nby Windows. Each researcher created a new Gmail account. We also purchased\na SIM card and plugged it into a smartphone to validate its use in apps that\nrequired a phone number. To ensure consistency in the usage, we recorded the\nfirst 10 minutes of the selected apps following eight tasks (when available): (i)\ncreating an account and log out; (ii) closing and reopening the app; (iii) visiting\nthe market page; (iv) going to the setting page; (v) checking the terms of service\nand privacy policy; (vi) continuing shopping until checkout; (vii) trying to select\nproduct names in e-shopping; (viii) using the app for its intended use. We did\nnot purchase any products or services in the apps.",
+            "Our scope contains trending free apps on the Brazilian Google Play Store. We\nrecorded 10 minutes of the first use of each app; any deviation from this prede-\ntermined scope may generate new and different results. Moreover, some interac-\ntions—and consequently DPs—might be limited or vary in an extended usage\nscenario. Despite the sample reduction, we found similar results, indicating that\nthe impact was not substantial.\nThe intention behind using the emulator was to replicate the experience of a\nreal smartphone. However, a specific subset of DPs may not appear in emulated\napplications. In certain instances, specific apps were inaccessible because they\nflagged the emulator as suspicious for usage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-54",
+    "articleId": "article-d0d500126a80",
+    "question": "Como os casos linguísticos de Interact colocam à prova a ideia de conscientização e escolha informada discutida na agenda?",
+    "answer": "Interact descreve [[termos ou política em outro idioma mesmo quando a aplicação está na língua do usuário]], criando uma barreira entre pessoa e informação; também identifica encaminhamento desnecessário a páginas externas. A agenda reconhece que conscientização isolada pode ser insuficiente e propõe apoio contextual que fortaleça a agência sem ditar escolhas. A síntese sugere examinar compreensibilidade e acesso à informação antes de presumir consentimento ou resistência. [[Detectar uma barreira linguística não quantifica seu efeito causal sobre bem-estar]], e alertar sobre ela não demonstra que o problema tenha sido resolvido. Trata-se de comparar achados de aplicativos e uma proposta para jogos, preservando esses escopos.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        4,
+        9
+      ],
+      "sections": [
+        "2.2 Awareness and Education Initiatives"
+      ],
+      "evidence": [
+        "However, research has increasingly highlighted the limitations of simply rais-\ning user awareness to combat the effects of deceptive patterns in interfaces.\n\nWhile initial studies focused on informing users about the existence of manipu-\nlative designs, emerging evidence shows that awareness by itself often falls short\n\n[ 4 , 20 ]. For instance, Bongard-Blanchy and colleagues [ 4 ] observed that even users\n\nwho are aware of manipulative strategies often feel incapable of opposing them,\n\nsignaling the need for more diverse and effective interventions that go beyond\n\njust placing responsibility on users.",
+        "The advantage provided herein is the immediate empowerment of players\n\nwithin their interaction, upholding their right to informed choice, and alleviating\n\nthe sense of being “deceived” [ 38 ]. That could potentially enable players to bypass\n\nchoices that could harm their autonomy. However, these tools are not supposed to\n\ntrick the user into ‘making a better choice.’ That would also hurt their autonomy.\n\nMoreover, as Xiao and Denoo discussed, advanced players or game platforms\n\nmight devise methods to circumvent or compromise the efficacy of such tools\n\n[ 40 ]. Instead, these mechanisms should aim to enhance player agency by fostering\n\nreal-time awareness, not to diminish it by dictating choices. The core intention is\n\nto transform potentially deceptive or manipulative encounters into opportunities\n\nfor informed decision-making."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-48bdcebcffc6",
+        "source": {
+          "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+          "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+          "pages": [
+            6
+          ],
+          "sections": [
+            "3 Results"
+          ],
+          "evidence": [
+            "Our findings also revealed six DP cases previously unreported in international\nresearch. They demonstrate novel applications of known DPs: (i) “ Terms/Policy\nin Another Language ” (Untranslation case) when crucial information for the\nuser (terms of service or privacy policy) is in another language, even if the app\nis in the native user language, creating a barrier between the user and the in-\nformation; (ii) “ Terms/Policy Out of Bounds ” (Obstruction case) redirects\nthe user to an external page, typically a web page, to access the terms of service\nor privacy policy, increasing unnecessary stress and reducing the likelihood of\nreading; (iii) “ Ads with layers ” (Obstruction case) specifies chains of multiple\ntime-delayed sub-ads to extend user exposure within the same content, making\nmore than one “attention call” in the same time span; (iv) “ Task-based Re-\nwards ” (Forced Action case) describes cases where the app presents a mission\nbeyond the main flow, that when completed rewards the user with some aspect\nof the app services; (v) “ Ad-locked Rewards ” (Forced Action case) indicates\nwhen the user is forced to watch an advertisement to receive a reward like vir-\ntual coins, time accelerators, or other bonuses; (vi) “ Evoke Emotions to Take\nAction ” (Toying with Emotions case) specifies uses of any language or other\nappealing visual elements to persuade the user into an action."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-55",
+    "articleId": "article-d0d500126a80",
+    "question": "Como o template de Operationalizing Radiant Patterns pode contribuir para a tradução de ideais em exemplos testáveis pedida pela agenda?",
+    "answer": "A agenda solicita exemplos contextuais com princípios éticos, construtos psicológicos, justificativas e validação. Operationalizing oferece [[campos estruturados como problema, contexto, solução, necessidades psicológicas, riscos de aplicação e exemplos de implementação]]. A correlação é que o template pode tornar a hipótese de uma alternativa mais explícita e compartilhável, preparando a discussão e o teste. Entretanto, [[documentar uma hipótese não demonstra seus resultados]]: Operationalizing reconhece ausência de avaliações com jogadores e de viabilidade comercial concreta. A articulação é analítica; não afirma que o template já concluiu a agenda, que um repositório garante adoção ou que os dois textos validaram a mesma intervenção.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        7,
+        8
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "To bridge this gap and to advance initiatives like these, a collaborative\n\neffort in designing, prototyping, and empirically evaluating is necessary. This\n\neffort would involve demonstrating how ethical, “radiant” or “motivational” and\n\nother positive design ideals translate into concrete, context-specific practices\n\nthat incorporate player dignity and informed choice. For instance, Frommel &\n\nMandryk [ 10 ] found that daily quest rewards, while engaging, can negatively\n\nimpact players through fear of missing out or feeling like a chore. Based on their\n\ninsights, the community could develop, test, and document alternative reward\n\nsystems. And then, sharing these vetted examples grounded in empirical findings\nand clear design rationales to easily accessible channels, including but not limited\n\nto formal repositories. The idea is to ease the bridge between academic knowledge\n\nand general industry use.",
+        "visual layouts and interaction sequences. It should also explicitly articulate the\n\nethical principles and psychological constructs addressed alongside robust empir-\nical validation. Peer review, community-led curation including developers, and\n\nversioning would be essential for maintaining this shared knowledge’s quality,\n\nintegrity, and evolving nature."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-39adb0cfa84e",
+        "source": {
+          "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+          "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+          "pages": [
+            9,
+            16
+          ],
+          "sections": [
+            "5 Crafting Radiance; 6.5 Study Limitations"
+          ],
+          "evidence": [
+            "Table 1. Structural Template for Radiant Game Design Patterns (RPs)\n\nTemplate Component Brief Description\n\nName Evocative title for the RP.\n\nProblem Game design issue the RP addresses.\n\nContext Recommended scenarios for RP application.\n\nProposed Solution Core mechanic/interaction of the RP.\n\nAvoiding Decrease in SDT\nNeeds\n\nHow the RP supports Autonomy, Competence,\n\nand Relatedness.\n\nWatch For Potential pitfalls and misapplications.\n\nImplementation Examples\n(Failing/Matching)\n\nContrasting correct and incorrect uses.\n\nGood Examples Illustrative games/features using the RP.",
+            "6.5 Study Limitations\n\nAlthough a refined definition and a detailed structure for operationalization is\n\npresented, no evaluations with players have yet been conducted to validate the\n\ndirect effects of Radiant Patterns on well-being. The difficulty in isolating the\n\neffects of design patterns from other gameplay elements such as graphics, sound,\n\nand narrative also compromises the accuracy of such assessments. Generalizing\n\nthese results may also be affected, as players’ perceptions of the patterns can\n\nvary depending on their gaming experience, personal profiles, prior exposure to\n\ngames, and awareness of the consequences of digital design patterns.\n\nAnother important limitation concerns the practical adoption of these pat-\nterns by the game industry. Although they offer an ethical alternative to decep-\ntive patterns, Radiant Patterns have not yet demonstrated concrete commercial\n\nviability. The adoption of such patterns may not offer game designers an imme-\ndiate return in terms of their key objectives, including engagement metrics and\n\nfinancial performance."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-56",
+    "articleId": "article-d0d500126a80",
+    "question": "Como a função preventiva de Radiant Patterns e seus limites de mensuração refinam o tipo de avaliação de bem-estar solicitado na agenda?",
+    "answer": "Operationalizing desloca o foco para [[preservar necessidades e reduzir riscos previsíveis de frustração]], sem prometer eliminar toda experiência negativa. Ao discutir avaliação, menciona PENS e IMI para aspectos de motivação intrínseca e questiona como separar o efeito de um padrão do restante do jogo. A agenda pede medidas de autonomia, justiça, transparência e bem-estar combinadas a outras evidências. A síntese exige formular o construto e a atribuição do efeito com precisão: [[medir satisfação ou motivação não prova ausência de frustração nem causalidade do padrão]]. Nenhum dos textos apresenta nessa comparação um protocolo definitivo ou efeitos de bem-estar já validados.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        11
+      ],
+      "sections": [
+        "3.3 Advancing Methods and Measures for Assessing Dark Pattern Prevalence and Player Experience, Including Well-Being"
+      ],
+      "evidence": [
+        "adapting specific player experience instruments, such as validated questionnaires\n\nor carefully designed behavioral metrics, that explicitly capture core tenets of\n\nethical interaction. These instruments should focus on perceived autonomy, fair-\nness, transparency, the sense of being respected (or manipulated), and critical\n\naspects of psychological well-being, drawing inspiration from well-established\n\ntheories like the Self-Determination Theory [ 33 , 34 ]. Such measures would allow\n\nresearchers to move beyond general assessments of “darkness” to indicate how\n\nspecific patterns or their alternatives influence these fundamental human needs,\n\na necessary point of departure to investigate how to counteract them.",
+        "Addressing these challenges involves not only identifying the absence\n\nof DPs but also evaluating the effectiveness of ethical design choices\n\nin creating a positive, engaging game experience driven by genuine enjoyment,\n\nnot coercion. We can enhance our use of gameplay data by developing teleme-\ntry and behavioral analytics to uncover patterns that indicate compromised\n\nplayer autonomy or manipulative mechanics. Integrating this data with qual-\nitative insights and refined player experience tools can lead to a more compre-\nhensive assessment. Additionally, we could improve methodologies for assessing\n\nthe prevalence of DPs in new games by combining expert evaluations tailored to\n\nspecific game types and monetization strategies, along with emerging automated\n\ndetection approaches where ethically appropriate."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-39adb0cfa84e",
+        "source": {
+          "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+          "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+          "pages": [
+            7,
+            15
+          ],
+          "sections": [
+            "4 Revisiting and Reshaping Game Radiant Patterns; 6.3 The Challenge to Evaluate Players Well-Being"
+          ],
+          "evidence": [
+            "Instead of “aiming to satisfy,” the new definition shifts the emphasis to a\n\nmore preventative function that includes preserving current levels of need sat-\nisfaction from being undermined by design choices. Hence, the improbable goal\n\nof avoiding all negative experiences is replaced with more specific goals: “min-\nimizing predictable risks of psychological harm” and “avoiding design patterns\n\nknown to frustrate these basic psychological needs consistently.” This focuses\n\non anticipated adverse effects directly associated with psychological harm and\n\nSDT frustration, giving designers concrete criteria based on known risks and\n\nestablished anti-patterns.",
+            "6.3 The Challenge to Evaluate Players Well-Being\n\nEvaluating the well-being that these patterns may promote in players presents\n\nsignificant challenges. [ 41 ] demonstrate that radiant patterns, in contrast to\n\ndeceptive ones, can raise awareness of ethical principles in digital games. How-\never, evaluating the well-being that these patterns cause in players can be chal-\nlenging. [ 41 ] work shows that radiant patterns, as opposed to deceptive ones, can\n\nraise awareness of ethical precepts in digital games. However, it has not yet been\n\npossible to investigate the real effects these patterns can have on well-being since\n\nthey need to be inserted into the context of a game to directly affect gameplay.\n\nFor gameplay to be complete, other factors affecting the player’s experience must\n\nbe considered, such as visual, sound, and graphic elements. Therefore, there is\n\na need to develop evaluation metrics that focus on radiant patterns in isolation\n\nfrom other gameplay elements.\n\nThere is still no methodology to directly evaluate the well-being that these\n\npatterns can cause in users. However, it is possible to assess aspects of intrinsic\n\nmotivation, such as autonomy, competence, and relatedness, which belong to\n\nself-determination theory. This can be done mainly through instruments such\n\nas the PENS scale [ 39 ] and the Intrinsic Motivation Inventory (IMI) [ 33 ]. As [ 8 ]\n\ndescribes, positive intrinsic motivation and need satisfaction are fundamental to\n\nPlayer Experience because they affect the gameplay moment and the broader\n\nimpact on player well-being. However, what results from the pattern itself or\n\nthe experience resulting from all the aspects present in gameplay? We invite\n\nacademia and the gaming industry to investigate methodologies that can deter-\nmine whether motivation is genuinely positive due to its connection with the\n\ngame or the result of using radiant patterns."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-57",
+    "articleId": "article-d0d500126a80",
+    "question": "Como o catálogo e a verificação de candidatos de Beyond Dark Patterns tornam mais concreta a preocupação da agenda com léxico e curadoria?",
+    "answer": "A agenda propõe vocabulário compartilhado, documentação fundamentada, revisão por pares, curadoria comunitária e versionamento. Beyond Dark Patterns descreve a necessidade de [[recorrência, coerência estrutural e discussão colaborativa antes de finalizar candidatos]], pois uma observação autoetnográfica isolada pode gerar falso positivo. A correlação torna explícito o que precisa acontecer entre registrar uma ideia e tratá-la como conhecimento de design compartilhável. [[Verificação de candidato não equivale a avaliação longitudinal de bem-estar]]: o trabalho HCI reconhece essa ausência e a necessidade de testar o uso em desenvolvimento ativo. A ponte não afirma que todos os requisitos da agenda já foram cumpridos.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        7,
+        8
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "Before establishing cooperative collections or databases, a common ground\n\nfor documenting and sharing these ethical game design elements requires fos-\ntering a shared understanding and robust methodologies. A key element is\n\nthe collaborative creation of a rich lexicon for describing problematic patterns\n\n(based on well-founded taxonomies) and their ethical counterparts—designs that\n\nrespect player agency as a primary concern. This requires ongoing dialogue\n\nwithin the HCI and games research community, facilitated through diverse col-\nlaborative platforms such as workshops, dedicated tracks at conferences, spe-\ncial interest groups, and open online forums for discussion and co-creation of\n\ndocumentation.",
+        "visual layouts and interaction sequences. It should also explicitly articulate the\n\nethical principles and psychological constructs addressed alongside robust empir-\nical validation. Peer review, community-led curation including developers, and\n\nversioning would be essential for maintaining this shared knowledge’s quality,\n\nintegrity, and evolving nature."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-e13c3cb65c28",
+        "source": {
+          "file": "HCI_IN_GAMES_2026.pdf",
+          "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+          "pages": [
+            15,
+            16
+          ],
+          "sections": [
+            "6 Discussion: Radiant Patterns and Industry Practice; 7 Final Remarks"
+          ],
+          "evidence": [
+            "Besides, identifying these new mechanics through autoethnography does not\nautomatically qualify them as Radiant Patterns. This is why they are referred\non findings as candidate RPs. Identifying an RP requires evidence of recurrence,\nwhich establishes it as a pattern[2], as well as discussion and coherence with the\ncomponents defined by the framework. This distinction creates a logical need for\nthe Radiant Patterns Catalog (Section 5). Because a single autoethnographic\ninstance cannot confirm a pattern, and a 10-hour sample may not capture the\nfull systemic depth of complex titles, the Catalog serves as a filter where these\ninitial observations are flagged for further verification. The ’candidate’ ideas\nare subjected to a verification protocol. This ensures that only those designs\nproven to be recurring and ethically sound are finalized, transforming subjective\nobservations into community-validated design knowledge. Expert observation\nmay result in false positives, reinforcing the need for the Catalog’s collaborative\nverification protocol in which the practical application of these patterns can be\nobserved, analyzed, and discussed collectively.",
+            "This work evolves the RP framework by shifting focus to the structural non-\nfrustration of basic psychological needs through a refined lexicon, tiered levels,\nand standardized templates. These components establish a system to connect\nethical research with game development practice. While this version lacks longi-\ntudinal data, relies on a small expert-centric sample, and excludes systemic issues\nlike worker welfare or online toxicity, it establishes the technical foundation for\nfuture industry-led verification."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-d0d500126a80-58",
+    "articleId": "article-d0d500126a80",
+    "question": "Como invariantes e variantes de Beyond Dark Patterns ajudam a discutir a tensão entre padronização e contexto presente na agenda?",
+    "answer": "A agenda solicita metodologias comparáveis, mas adaptáveis a gêneros, monetização e populações distintas. Beyond Dark Patterns separa [[invariantes que preservam a identidade do padrão e variantes para adaptações contextuais]], além de níveis L1–L3 como base metodológica. O próprio texto esclarece que esses níveis não alegam uma experiência universal: competência, por exemplo, pode ser vivida diferentemente em gêneros distintos. A síntese sugere preservar um compromisso ético rastreável sem apagar a implementação concreta. [[Essa arquitetura não garante eficácia em todas as situações]], e o framework ainda requer avaliação longitudinal e em desenvolvimento ativo; tampouco constitui um protocolo de mensuração já validado pela agenda.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        11,
+        12
+      ],
+      "sections": [
+        "3.3 Advancing Methods and Measures for Assessing Dark Pattern Prevalence and Player Experience, Including Well-Being"
+      ],
+      "evidence": [
+        "Building upon existing frameworks, we call for creating standardized yet\n\nadaptable methodologies for evaluating both the presence and, crucially, the\n\nimpact of DPs across diverse game genres and monetization models. It includes\n\nrefining our approaches to measure the actual effect of interventions designed\n\nto mitigate DPs or enhance player awareness. For example, understanding why\n\nsome educational interventions show limited impact on knowledge about DPs\n\nmatters [ 39 ] requires more sensitive evaluation protocols to determine true effi-\ncacy and identify areas for improvement.",
+        "of game design and player experience is far too diverse and dynamic for such\n\nprescriptions. Instead, we have intended to outline a call to action, highlighting\n\nspecific areas where research efforts can make a tangible difference in fostering\n\nmore ethical and player-respecting game environments."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-e13c3cb65c28",
+        "source": {
+          "file": "HCI_IN_GAMES_2026.pdf",
+          "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+          "pages": [
+            11,
+            15,
+            16
+          ],
+          "sections": [
+            "6 Discussion: Radiant Patterns and Industry Practice; 7 Final Remarks"
+          ],
+          "evidence": [
+            "To ensure scalability of the RP framework, we defined four pragmatic rules\nfor the RP template:\n1. Goal–Outcome Decoupling : Separate developers’ technical goals from\n\nPlayer Problems (the experiential goals or need frustrations addressed).\n2. Multi-Dimensional Scoping : Specify target actors and context to avoid\nvague terminology and support diverse settings.\n3. Invariant–Variant Duality : Define core properties (Invariants) that must\nhold across adaptations to preserve identity, regardless of the Variant.\n4. Traceable Need Satisfaction : Map each solution to hierarchical design\nlevels (L1–L3) to validate radiance through structural criteria.",
+            "By establishing universal levels alongside these variants, the Radiant Pat-\nterns framework a contextually-specific approach, recognizing that the ethical\nimpact of a mechanic is grounded in the unique characteristics of its gameplay\nenvironment[3]. It is important to clarify that the Universal Levels (L1-L3) are\nintended as a methodological baseline rather than a claim of universal experi-\nence. While the experiential reality of a patterns varies wildly between genres,\nsuch as the difference between competence in a sandbox and a soulslike, the re-\nquirement to not frustrate basic psychological needs remains the common ethical\ndenominator. Hence, the RP variants allow the lexicon to remain stable while\nrespecting these diverse contextual boundaries identified in the literature.",
+            "This work evolves the RP framework by shifting focus to the structural non-\nfrustration of basic psychological needs through a refined lexicon, tiered levels,\nand standardized templates. These components establish a system to connect\nethical research with game development practice. While this version lacks longi-\ntudinal data, relies on a small expert-centric sample, and excludes systemic issues\nlike worker welfare or online toxicity, it establishes the technical foundation for\nfuture industry-led verification."
+          ]
+        }
+      }
+    ]
+  }
+]

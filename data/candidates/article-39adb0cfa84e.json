@@ -1,0 +1,158 @@
+[
+  {
+    "id": "article-39adb0cfa84e-01",
+    "articleId": "article-39adb0cfa84e",
+    "question": "Quais são as duas contribuições centrais de Operationalizing Radiant Patterns?",
+    "answer": "Uma [[definição refinada]] de Radiant Patterns fundamentada na Teoria da Autodeterminação e uma [[estrutura de documentação]] para definir, instanciar e compartilhar esses padrões. O artigo ilustra a aplicação com um exemplo detalhado.",
+    "source": {
+      "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+      "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+      "pages": [
+        1
+      ],
+      "sections": [
+        "Abstract"
+      ],
+      "evidence": [
+        "First, we provide a refined definition of\n\nRadiant Patterns, grounded in Self-Determination Theory (SDT), which\n\nemphasizes ensuring that foundational player well-being is not signifi-\ncantly compromised by avoiding a decrease in players’ autonomy, com-\npetence, and relatedness. Second, we present a detailed documentation\n\nstructure—a practical template—for defining, instantiating, and sharing\n\nRPs that adhere to this refined definition. The application of this defini-\ntion and structure is illustrated through an in-depth example of an RP."
+      ]
+    }
+  },
+  {
+    "id": "article-39adb0cfa84e-02",
+    "articleId": "article-39adb0cfa84e",
+    "question": "Como a definição refinada caracteriza Radiant Game Design Patterns?",
+    "answer": "São padrões de interação [[intencionalmente selecionados e implementados]] para permitir objetivos de desenvolvimento sem comprometer significativamente o bem-estar básico do jogador. Devem evitar diminuir [[autonomia, competência e vínculo]], minimizar riscos previsíveis de dano psicológico e evitar padrões que frustrem consistentemente essas necessidades.",
+    "source": {
+      "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+      "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+      "pages": [
+        6
+      ],
+      "sections": [
+        "4 Revisiting and Reshaping Game Radiant Patterns"
+      ],
+      "evidence": [
+        "Radiant Game Design Patterns (RPs) are interaction patterns inten-\ntionally selected and implemented during the digital game design process to\nallow the pursuit of development goals while ensuring foundational player\nwell-being is not significantly undermined. Specifically, RPs avoid decreas-\ning the player’s autonomy, relatedness, and competence. An RP represents\na conscious design choice focused on minimizing predictable risks of psy-\nchological harm and avoiding design patterns known to consistently frus-\ntrate these basic psychological needs, thereby establishing ethical boundaries\nfor player experience."
+      ]
+    }
+  },
+  {
+    "id": "article-39adb0cfa84e-03",
+    "articleId": "article-39adb0cfa84e",
+    "question": "Por que a definição refinada abandona a meta de evitar toda experiência negativa?",
+    "answer": "Ela assume uma função [[preventiva mais específica]]: preservar a satisfação das necessidades contra prejuízos de design, minimizando riscos previsíveis de dano psicológico e evitando frustração consistente dessas necessidades. Não promete eliminar toda experiência negativa.",
+    "source": {
+      "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+      "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+      "pages": [
+        7
+      ],
+      "sections": [
+        "4 Revisiting and Reshaping Game Radiant Patterns"
+      ],
+      "evidence": [
+        "Instead of “aiming to satisfy,” the new definition shifts the emphasis to a\n\nmore preventative function that includes preserving current levels of need sat-\nisfaction from being undermined by design choices. Hence, the improbable goal\n\nof avoiding all negative experiences is replaced with more specific goals: “min-\nimizing predictable risks of psychological harm” and “avoiding design patterns\n\nknown to frustrate these basic psychological needs consistently.” This focuses\n\non anticipated adverse effects directly associated with psychological harm and\n\nSDT frustration, giving designers concrete criteria based on known risks and\n\nestablished anti-patterns."
+      ]
+    }
+  },
+  {
+    "id": "article-39adb0cfa84e-04",
+    "articleId": "article-39adb0cfa84e",
+    "question": "Como a equipe identificou e estruturou os padrões utilizados para construir o template?",
+    "answer": "Os padrões vieram das [[experiências de jogo de dois estudantes]], um de graduação e outro de pós-graduação. Cada padrão foi estruturado e validado por [[um pesquisador experiente de IHC e jogos]]. Esse procedimento não equivale a validar efeitos sobre o bem-estar de jogadores.",
+    "source": {
+      "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+      "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+      "pages": [
+        8,
+        16
+      ],
+      "sections": [
+        "5 Crafting Radiance: A Guide to Propose Radiant Patterns",
+        "6.5 Study Limitations"
+      ],
+      "evidence": [
+        "These patterns were identified through the gameplay experiences of the\n\nresearch team, which consisted of two students (one undergraduate and one post-\ngraduate). Each pattern was then structured and validated by an experienced\n\nresearcher in the field of HCI with a background in game research.",
+        "Although a refined definition and a detailed structure for operationalization is\n\npresented, no evaluations with players have yet been conducted to validate the\n\ndirect effects of Radiant Patterns on well-being."
+      ]
+    }
+  },
+  {
+    "id": "article-39adb0cfa84e-05",
+    "articleId": "article-39adb0cfa84e",
+    "question": "Quais componentes compõem o template de Radiant Patterns proposto nesse artigo?",
+    "answer": "[[Nome, problema, contexto e solução proposta]]; descrição de como evitar a diminuição das necessidades da SDT; [[Watch For]] para riscos de má aplicação; exemplos de implementação que falham ou atendem aos critérios; e [[bons exemplos]] em jogos.",
+    "source": {
+      "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+      "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+      "pages": [
+        9
+      ],
+      "sections": [
+        "5.1 Radiant Pattern Structure",
+        "Table 1. Structural Template for Radiant Game Design Patterns (RPs)"
+      ],
+      "evidence": [
+        "Template Component Brief Description\n\nName Evocative title for the RP.\n\nProblem Game design issue the RP addresses.\n\nContext Recommended scenarios for RP application.\n\nProposed Solution Core mechanic/interaction of the RP.\n\nAvoiding Decrease in SDT\nNeeds\n\nHow the RP supports Autonomy, Competence,\n\nand Relatedness.\n\nWatch For Potential pitfalls and misapplications.\n\nImplementation Examples\n(Failing/Matching)\n\nContrasting correct and incorrect uses.\n\nGood Examples Illustrative games/features using the RP."
+      ]
+    }
+  },
+  {
+    "id": "article-39adb0cfa84e-06",
+    "articleId": "article-39adb0cfa84e",
+    "question": "Por que Watch For e exemplos de falha são necessários no template?",
+    "answer": "Um padrão pode perder sua eficácia se aplicado [[fora do contexto ou de forma inadequada]]. Watch For explicita riscos previsíveis e más aplicações; exemplos que falham e que atendem aos critérios ajudam a discutir [[estratégias de implementação e obstáculos]].",
+    "source": {
+      "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+      "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+      "pages": [
+        10
+      ],
+      "sections": [
+        "5.1 Radiant Pattern Structure"
+      ],
+      "evidence": [
+        "Watch For. If implemented improperly or outside of the intended context, the\n\nefficacy of patterns may be compromised. Therefore, it is essential to include\n\na description of how to minimize predictable risks, avoid frustrating implemen-\ntations, and highlight examples of poor applications of the pattern. Additional\n\nwarnings should also be provided to help designers recognize and prevent poten-\ntial issues.\n\nExample of Implementations: Failing and Matching the RP Criteria.\n\nAs an extension of the “watch for” section, it is important to present examples\n\nof pattern implementations that align with the criteria defined for Radiant Pat-\nterns. Likewise, it is necessary to provide examples where the implementation\n\ndoes not meet these criteria. This enables a more in-depth discussion on imple-\nmentation strategies and key considerations to help mitigate potential obstacles."
+      ]
+    }
+  },
+  {
+    "id": "article-39adb0cfa84e-07",
+    "articleId": "article-39adb0cfa84e",
+    "question": "A ausência de dark patterns basta para um padrão ser considerado radiant?",
+    "answer": "Não. O artigo admite padrões [[neutros]], nem enganosos nem particularmente radiantes. A orientação radiant exige [[escolhas conscientes e eticamente fundamentadas]] que considerem autonomia, competência e vínculo, preservando o bem-estar básico do jogador.",
+    "source": {
+      "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+      "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+      "pages": [
+        15
+      ],
+      "sections": [
+        "6.2 A Balance Between Deceptive and Radiant Patterns"
+      ],
+      "evidence": [
+        "principles supporting foundational well-being, such as actively considering player\n\nautonomy, competence, and relatedness.\n\nRadiant design is more than the absence of harm; it is the presence of thought-\nful, ethically-grounded design choices to ensure player well-being is not signifi-\ncantly undermined while pursuing engaging experiences. True radiance implies\n\na constructive, positive orientation that may go beyond simply counteracting\n\nmanipulative techniques. This nuanced understanding is crucial as we advocate\n\nfor their broader adoption and exploration. A pattern could be neutral, nei-\nther dark nor particularly radiant. Radiant Patterns aim higher, representing a\n\nconscious, positive design orientation focused on fostering healthier player-game\n\ninteractions, rather than merely existing as a negation of harmful practices."
+      ]
+    }
+  },
+  {
+    "id": "article-39adb0cfa84e-08",
+    "articleId": "article-39adb0cfa84e",
+    "question": "Quais limitações de validação e adoção o artigo reconhece?",
+    "answer": "Ainda [[não foram realizadas avaliações com jogadores]] para validar efeitos diretos no bem-estar; é difícil isolar padrões de gráficos, som e narrativa, e as percepções variam entre perfis. A [[viabilidade comercial concreta]] dos Radiant Patterns também ainda não foi demonstrada.",
+    "source": {
+      "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+      "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+      "pages": [
+        16
+      ],
+      "sections": [
+        "6.5 Study Limitations"
+      ],
+      "evidence": [
+        "Although a refined definition and a detailed structure for operationalization is\n\npresented, no evaluations with players have yet been conducted to validate the\n\ndirect effects of Radiant Patterns on well-being. The difficulty in isolating the\n\neffects of design patterns from other gameplay elements such as graphics, sound,\n\nand narrative also compromises the accuracy of such assessments. Generalizing\n\nthese results may also be affected, as players’ perceptions of the patterns can\n\nvary depending on their gaming experience, personal profiles, prior exposure to\n\ngames, and awareness of the consequences of digital design patterns.\n\nAnother important limitation concerns the practical adoption of these pat-\nterns by the game industry. Although they offer an ethical alternative to decep-\ntive patterns, Radiant Patterns have not yet demonstrated concrete commercial\n\nviability. The adoption of such patterns may not offer game designers an imme-\ndiate return in terms of their key objectives, including engagement metrics and\n\nfinancial performance."
+      ]
+    }
+  }
+]

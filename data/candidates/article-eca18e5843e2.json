@@ -1,0 +1,159 @@
+[
+  {
+    "id": "article-eca18e5843e2-01",
+    "articleId": "article-eca18e5843e2",
+    "question": "Qual é a tese central de Games Made Elsewhere, Harms Felt Here?",
+    "answer": "O artigo argumenta que padrões enganosos em jogos podem operar como [[instrumentos de exploração]], além da manipulação, quando encontram vulnerabilidades sistêmicas no Sul Global. Apresenta essa tese por meio de um [[cenário de design especulativo]].",
+    "source": {
+      "file": "chiplaycompanion25-21.pdf",
+      "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+      "pages": [
+        1
+      ],
+      "sections": [
+        "Abstract"
+      ],
+      "evidence": [
+        "This paper uses a speculative design scenario to critique the unequal\npower dynamics in global games. It argues that Deceptive Patterns\nmay function as tools of exploitation, not just manipulation, when\napplied to players in the Global South. The work introduces the\ncreator-consumer divide and calls for equitable collaborations to\nconfront this emerging form of digital harm."
+      ]
+    }
+  },
+  {
+    "id": "article-eca18e5843e2-02",
+    "articleId": "article-eca18e5843e2",
+    "question": "O que significa creator-consumer divide na proposta do artigo?",
+    "answer": "É uma [[separação estrutural entre os contextos de criação e de consumo]] de jogos: vulnerabilidades preexistentes e sistêmicas podem ser aproveitadas por direcionamento deliberado ou por [[automação indiferente]].",
+    "source": {
+      "file": "chiplaycompanion25-21.pdf",
+      "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+      "pages": [
+        1
+      ],
+      "sections": [
+        "2 The Creator-Consumer Divide as a Lens for Understanding Systemic Player Vulnerability"
+      ],
+      "evidence": [
+        "This paper proposes the creator-consumer divide as a theoretical\nconstruct: a structural schism between creation and consumption\ncontexts, where vulnerabilities are systemic, pre-existing, and capi-\ntalized upon via deliberate targeting or indifferent automation. The\ndivide has two nuances."
+      ]
+    }
+  },
+  {
+    "id": "article-eca18e5843e2-03",
+    "articleId": "article-eca18e5843e2",
+    "question": "Por que o contexto socioeconômico importa na primeira dimensão da divisão criador-consumidor?",
+    "answer": "O artigo propõe que o caráter de entretenimento dos jogos pode [[reduzir a vigilância crítica]]. Esse efeito pode ser ampliado por vulnerabilidades sociais, como precariedade econômica e dificuldades de letramento, dificultando a defesa contra práticas manipulativas.",
+    "source": {
+      "file": "chiplaycompanion25-21.pdf",
+      "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+      "pages": [
+        1
+      ],
+      "sections": [
+        "2 The Creator-Consumer Divide as a Lens for Understanding Systemic Player Vulnerability"
+      ],
+      "evidence": [
+        "First, games as entertainment can lower players’ critical guard\n[36], making them more susceptible to manipulative designs dis-\nguised as ’part of the game.’ This effect is amplified when a signifi-\ncant portion of the population lacks fundamental cognitive defenses,\na vulnerability stemming from deep-seated societal issues in the\nGlobal South.",
+        "The US poverty rate is 11.1% [31],\nwhile in Brazil it is over double at 27.4% [14], indicating a more\nwidespread precarity, which is linked to stress-impaired decision-\nmaking [16]. A paradox of high digital penetration (86.2% [8]) co-\nexisting with low functional literacy amplifies the situation. While\nthe US grapples with a substantial illiteracy rate affecting 18% of\nits adults, a challenge concentrated mainly in specific minority\nand low-income groups [26], Brazil’s issue is more pervasive. 29%\nof Brazilians are functionally illiterate (stagnant since 2018), with\nanother 36% possessing only elementary literacy skills [19, 20].",
+        "It\nsuggests that over half the population may struggle with the criti-\ncal thinking skills [34] necessary to defend against manipulative\npractices and discourses."
+      ]
+    }
+  },
+  {
+    "id": "article-eca18e5843e2-04",
+    "articleId": "article-eca18e5843e2",
+    "question": "Como a arbitragem regulatória entra na segunda dimensão da divisão criador-consumidor?",
+    "answer": "Na argumentação do artigo, o desequilíbrio também decorre de [[diferenças na força e na aplicação das proteções ao consumidor]]. Isso pode permitir a implantação de sistemas e modelos de monetização que enfrentariam [[maior escrutínio ou proibição]] em outras regiões.",
+    "source": {
+      "file": "chiplaycompanion25-21.pdf",
+      "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+      "pages": [
+        2
+      ],
+      "sections": [
+        "2 The Creator-Consumer Divide as a Lens for Understanding Systemic Player Vulnerability"
+      ],
+      "evidence": [
+        "Second, the power imbalance operates structurally through reg-\nulatory arbitrage, exploiting political contexts that, often due to\neconomic pressures, lack strong and enforceable consumer pro-\ntection. Less stringent consumer protection frameworks in many\nGlobal South markets permit the deployment of systems and mon-\netization models that would face greater scrutiny or be prohibited\nin other regions, such as the European Union (EU), where coopera-\ntion networks work to enhance consumer protection when playing\nvideo games."
+      ]
+    }
+  },
+  {
+    "id": "article-eca18e5843e2-05",
+    "articleId": "article-eca18e5843e2",
+    "question": "Qual problema o artigo associa à concentração de pesquisas em contextos WEIRD?",
+    "answer": "Ela pode [[limitar a validade externa]] dos resultados para a maioria global e deixar de considerar nuances socioeconômicas. Pela perspectiva decolonial adotada, essa concentração também expressa um [[desequilíbrio sistêmico de poder]].",
+    "source": {
+      "file": "chiplaycompanion25-21.pdf",
+      "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+      "pages": [
+        2
+      ],
+      "sections": [
+        "2 The Creator-Consumer Divide as a Lens for Understanding Systemic Player Vulnerability"
+      ],
+      "evidence": [
+        "This bias, mirrored in psychology (where WEIRD populations are\n12% globally but dominate studies [17]) and broad HCI research\n[21], limits findings’ external validity for the global majority and\noverlooks socio-economic nuances. From a decolonial perspective\n[3, 10], the WEIRD-centricity is not merely a methodological over-\nsight; it is a systemic issue.",
+        "Still, it reflects a more profound power\nimbalance, where WEIRD perspectives, values, and designs, includ-\ning those that embed DPs and predatory monetization, are often\nuncritically exported and imposed upon diverse global audiences."
+      ]
+    }
+  },
+  {
+    "id": "article-eca18e5843e2-06",
+    "articleId": "article-eca18e5843e2",
+    "question": "Helena e Ouroboros Seed representam um estudo empírico de um jogo real?",
+    "answer": "Não. São um [[cenário imaginado e um artefato de futuro]], construídos como extrapolação de design especulativo. O caso serve como [[provocação crítica]] sobre danos extremos possíveis da divisão criador-consumidor, e não como ocorrência observada.",
+    "source": {
+      "file": "chiplaycompanion25-21.pdf",
+      "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+      "pages": [
+        2
+      ],
+      "sections": [
+        "3 A Speculative Perspective: Helena and The Gilded Cage of Ouroboros Seed"
+      ],
+      "evidence": [
+        "This paper uses a speculative design extrapolation [12] to propose\na critical future artifact and an imagined scenario that asks: What\nif the creator-consumer divide ensnares individuals in a cycle\nwhere virtual escape consumes real-world essentials and erodes\ncivic integrity?",
+        "Ouroboro’s speculative dystopia is a provocation. It aims to\nmake palpable the extreme and deeply inequitable harms that can\narise when the creator-consumer divide in gaming is pushed to its\npotential extreme."
+      ]
+    }
+  },
+  {
+    "id": "article-eca18e5843e2-07",
+    "articleId": "article-eca18e5843e2",
+    "question": "No cenário especulativo de Helena, quais duas formas de exploração são articuladas?",
+    "answer": "A exploração financeira aparece na oferta de comprometer parte de um [[benefício social futuro]] para obter alívio no jogo. A narrativa também descreve a venda do [[perfil psicológico]] para campanhas políticas direcionarem desinformação. São elementos da ficção crítica do artigo.",
+    "source": {
+      "file": "chiplaycompanion25-21.pdf",
+      "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+      "pages": [
+        2
+      ],
+      "sections": [
+        "3 A Speculative Perspective: Helena and The Gilded Cage of Ouroboros Seed"
+      ],
+      "evidence": [
+        "But at an AI-calculated\nmoment of peak desperation, the game presents a different kind\nof offer: the ’Community Solidarity Pledge.’ It is not a demand\nfor immediate cash, but a subtle prompt to pledge a portion of\nher upcoming government benefit, the Bolsa Família. Framed as\na pro-social commitment, not a purchase, and designed to exploit\nthe human bias for immediate relief over a future cost, the offer\nbypasses her financial barrier. She sacrifices a piece of her real-\nworld safety net for a fleeting sense of success in her gilded cage.",
+        "But the exploitation does not end with her finances. The rich\npsychological profile the AI built on Helena, identifying her anxi-\neties and moments of low cognitive resistance, is sold to political\ncampaigns for targeted disinformation during a contentious local\nelection, leveraging the same vulnerabilities the game monetized."
+      ]
+    }
+  },
+  {
+    "id": "article-eca18e5843e2-08",
+    "articleId": "article-eca18e5843e2",
+    "question": "Que mudança de relação com comunidades do Sul Global o artigo reivindica para a pesquisa?",
+    "answer": "Propõe avançar para [[parcerias equitativas]], com cocriação de agendas de pesquisa e paradigmas de design que construam [[resiliência]] e não aprofundem a precariedade das pessoas vulneráveis.",
+    "source": {
+      "file": "chiplaycompanion25-21.pdf",
+      "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+      "pages": [
+        3
+      ],
+      "sections": [
+        "4 Toward a Decolonial Game and Play Research"
+      ],
+      "evidence": [
+        "This compels us to ask\nhow we can move beyond studying non-WEIRD contexts as mere\nsources of data and toward building genuine, equitable partnerships\nwith communities in the Global South. What are our responsibilities\nin co-creating research agendas and design paradigms that build\nresilience rather than deepen the precarity of the already vulner-\nable?"
+      ]
+    }
+  }
+]

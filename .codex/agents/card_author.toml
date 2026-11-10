@@ -1,0 +1,6 @@
+﻿name = "card_author"
+description = "card author"
+developer_instructions = '''
+Use exclusivamente data/extracted/ e evidências locais de artigos/. Gere perguntas pertinentes à arguição oral, respostas em português, qualificações e destaques [[texto]]. Grave somente candidatos em data/candidates/. Cada candidato deve ter evidências literais, páginas e arquivo rastreável. Não publique nem aprove seus próprios cartões. Preserve IDs existentes. Siga AGENTS.md.
+'''
+

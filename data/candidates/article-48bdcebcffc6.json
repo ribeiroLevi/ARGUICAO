@@ -1,0 +1,157 @@
+[
+  {
+    "id": "article-48bdcebcffc6-01",
+    "articleId": "article-48bdcebcffc6",
+    "question": "Qual foi o objetivo do estudo brasileiro sobre padrões enganosos em aplicativos?",
+    "answer": "Estabelecer dados de base sobre [[frequência e tipos de padrões enganosos]] em aplicativos populares no Brasil, comparando-os com pesquisas anteriores dos [[Estados Unidos e do Japão]].",
+    "source": {
+      "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+      "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+      "pages": [
+        2
+      ],
+      "sections": [
+        "1 Introduction"
+      ],
+      "evidence": [
+        "We aim to present baseline data on the Brazilian prevalence\nand types of DPs, establishing a point of comparison with results from research\nstudies in the United States [3] and Japan [20]. Specifically, we investigate (i)\nthe frequency and types of DPs in the most widely used Brazilian apps, catego-\nrized according to established classifications; (ii) how they contrast with previous\nresearch conducted in other geographical settings."
+      ]
+    }
+  },
+  {
+    "id": "article-48bdcebcffc6-02",
+    "articleId": "article-48bdcebcffc6",
+    "question": "Qual corpus e qual procedimento de uso foram analisados no estudo brasileiro?",
+    "answer": "Foram analisados [[100 aplicativos Android em alta no Brasil]], em nove categorias. Os pesquisadores gravaram os [[primeiros dez minutos de uso]], seguindo oito tarefas quando disponíveis, com o BlueStacks 5; não compraram produtos ou serviços.",
+    "source": {
+      "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+      "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+      "pages": [
+        4
+      ],
+      "sections": [
+        "2.2 Corpus Generation and Recording of Usage"
+      ],
+      "evidence": [
+        "We approved 12 trending apps in each category for the analysis phase. Some\napps malfunctioned in the emulator, resulting in the analysis approval of 100\napps divided into the following structure: 12 in Family; 12 in Music & Audio;\n12 in News & Magazines; 12 in Photography; 12 in Social; 11 in Shopping; 11 in\nTools; 9 in Communication; 9 in Entertainment.\nWe used BlueStacks 5 [1] to emulate the Samsung Galaxy S22 Ultra and\nrun the apps. To capture the screen, we used a native tool on desktops powered\nby Windows. Each researcher created a new Gmail account. We also purchased\na SIM card and plugged it into a smartphone to validate its use in apps that\nrequired a phone number. To ensure consistency in the usage, we recorded the\nfirst 10 minutes of the selected apps following eight tasks (when available): (i)\ncreating an account and log out; (ii) closing and reopening the app; (iii) visiting\nthe market page; (iv) going to the setting page; (v) checking the terms of service\nand privacy policy; (vi) continuing shopping until checkout; (vii) trying to select\nproduct names in e-shopping; (viii) using the app for its intended use. We did\nnot purchase any products or services in the apps."
+      ]
+    }
+  },
+  {
+    "id": "article-48bdcebcffc6-03",
+    "articleId": "article-48bdcebcffc6",
+    "question": "Como os pesquisadores organizaram a classificação dos padrões e trataram divergências?",
+    "answer": "Trabalharam em [[duas duplas]], alternando gravação e análise. Primeiro analisavam individualmente e depois discutiam os vídeos. Registraram [[kappa ponderado de Cohen de 0,64]]; um terceiro pesquisador desempatava quando a dupla não chegava a acordo.",
+    "source": {
+      "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+      "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+      "pages": [
+        4
+      ],
+      "sections": [
+        "2.3 DPs Classification"
+      ],
+      "evidence": [
+        "We organized ourselves into two pairs. While one pair was recording the usage,\nthe other was analyzing the videos. Once we had already analyzed the first\nhalf of the apps, we switched roles. During the classification process, we first\nanalyzed the videos individually. Then, we discussed them together to mitigate\nDP Blindness. The agreement between the pairs was good according to Weighted\nCohen’s Kappa ( κ = 0.64) which indicates substantial agreement. We included\na third researcher to break ties when the pair did not reach an agreement."
+      ]
+    }
+  },
+  {
+    "id": "article-48bdcebcffc6-04",
+    "articleId": "article-48bdcebcffc6",
+    "question": "Quais foram os principais números de prevalência no corpus de 100 aplicativos?",
+    "answer": "[[96%]] continham pelo menos um padrão enganoso. Foram encontrados [[751 padrões]], média de [[7,51 por aplicativo]], e [[46%]] dos aplicativos continham pelo menos sete. Esses números descrevem o corpus analisado.",
+    "source": {
+      "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+      "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+      "pages": [
+        5
+      ],
+      "sections": [
+        "3 Results"
+      ],
+      "evidence": [
+        "Among the 100 studied apps, 96% of them contained at least one DP, and pre-\nsented a total of 751 DPs across all corpus, with an average of 7.51 DPs per\napp (std.dev.:4,7), very similar to what was found by Di Geronimo [3] (avg.: 7.4,\nstd.dev: 5). Additionally, 13% (N=13) of the apps contained between 0 and 2\nDPs, 41% (N=41) contained between 3 and 6 DPs, and 46% (N=46) of them\ncontained at least 7 DPs."
+      ]
+    }
+  },
+  {
+    "id": "article-48bdcebcffc6-05",
+    "articleId": "article-48bdcebcffc6",
+    "question": "Quais macroclasses foram mais frequentes, e em que percentuais dos aplicativos?",
+    "answer": "[[Nagging: 78%]], [[Interface Interference: 76%]] e [[Forced Action: 62%]]. Esses valores são das macroclasses; não devem ser confundidos com os percentuais das subclasses.",
+    "source": {
+      "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+      "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+      "pages": [
+        5
+      ],
+      "sections": [
+        "3 Results"
+      ],
+      "evidence": [
+        "Between the six macro classes, apps contained an average of 3.7 macro classes\nper app (std.dev.: 1.5). The most frequent was Nagging DPs appearing in 78%\n(N=78) of the apps, followed by Interface Interference with 76% (N=76) and\nForced Action with 62% (N=62), as shown in Fig. 1."
+      ]
+    }
+  },
+  {
+    "id": "article-48bdcebcffc6-06",
+    "articleId": "article-48bdcebcffc6",
+    "question": "O que caracteriza Terms/Policy in Another Language e por que esse caso é relevante?",
+    "answer": "É um caso de [[Untranslation]]: termos de serviço ou política de privacidade aparecem em outro idioma mesmo quando o aplicativo está no idioma do usuário, criando uma barreira informacional. A subclasse Untranslation apareceu em [[45% dos aplicativos]] analisados.",
+    "source": {
+      "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+      "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+      "pages": [
+        6,
+        7
+      ],
+      "sections": [
+        "3 Results",
+        "4 Discussions"
+      ],
+      "evidence": [
+        "“ Terms/Policy\nin Another Language ” (Untranslation case) when crucial information for the\nuser (terms of service or privacy policy) is in another language, even if the app\nis in the native user language, creating a barrier between the user and the in-\nformation;",
+        "Moreover, the fourth most common is Untranslation\n(Linguistic Dead-Ends), appearing at least once in 45% of the apps."
+      ]
+    }
+  },
+  {
+    "id": "article-48bdcebcffc6-07",
+    "articleId": "article-48bdcebcffc6",
+    "question": "Os seis casos relatados como novos são seis novas macroclasses de padrões enganosos?",
+    "answer": "Não. São [[novas aplicações de padrões conhecidos]]: Terms/Policy in Another Language, Terms/Policy Out of Bounds, Ads with Layers, Task-based Rewards, Ad-locked Rewards e Evoke Emotions to Take Action. Eles somaram [[158 ocorrências]], aproximadamente 21% dos 751 padrões encontrados.",
+    "source": {
+      "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+      "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+      "pages": [
+        6
+      ],
+      "sections": [
+        "3 Results"
+      ],
+      "evidence": [
+        "Our findings also revealed six DP cases previously unreported in international\nresearch. They demonstrate novel applications of known DPs: (i) “ Terms/Policy\nin Another Language ” (Untranslation case) when crucial information for the\nuser (terms of service or privacy policy) is in another language, even if the app\nis in the native user language, creating a barrier between the user and the in-\nformation; (ii) “ Terms/Policy Out of Bounds ” (Obstruction case) redirects\nthe user to an external page, typically a web page, to access the terms of service\nor privacy policy, increasing unnecessary stress and reducing the likelihood of\nreading; (iii) “ Ads with layers ” (Obstruction case) specifies chains of multiple\ntime-delayed sub-ads to extend user exposure within the same content, making\nmore than one “attention call” in the same time span; (iv) “ Task-based Re-\nwards ” (Forced Action case) describes cases where the app presents a mission\nbeyond the main flow, that when completed rewards the user with some aspect\nof the app services; (v) “ Ad-locked Rewards ” (Forced Action case) indicates\nwhen the user is forced to watch an advertisement to receive a reward like vir-\ntual coins, time accelerators, or other bonuses; (vi) “ Evoke Emotions to Take\nAction ” (Toying with Emotions case) specifies uses of any language or other\nappealing visual elements to persuade the user into an action. Those DP cases\noccur 158 times in our classification, accounting for approximately 21% of the\n751 DPs found"
+      ]
+    }
+  },
+  {
+    "id": "article-48bdcebcffc6-08",
+    "articleId": "article-48bdcebcffc6",
+    "question": "Quais limites impedem generalizar os resultados para todo uso de aplicativos no Brasil?",
+    "answer": "O escopo foi de [[aplicativos gratuitos em alta na Google Play brasileira]] e dos dez primeiros minutos de uso. Uso prolongado pode revelar outros padrões, e o [[emulador]] pode impedir o acesso a aplicativos ou deixar de mostrar certos padrões.",
+    "source": {
+      "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+      "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+      "pages": [
+        8
+      ],
+      "sections": [
+        "5 Limitations"
+      ],
+      "evidence": [
+        "Our scope contains trending free apps on the Brazilian Google Play Store. We\nrecorded 10 minutes of the first use of each app; any deviation from this prede-\ntermined scope may generate new and different results. Moreover, some interac-\ntions—and consequently DPs—might be limited or vary in an extended usage\nscenario. Despite the sample reduction, we found similar results, indicating that\nthe impact was not substantial.\nThe intention behind using the emulator was to replicate the experience of a\nreal smartphone. However, a specific subset of DPs may not appear in emulated\napplications. In certain instances, specific apps were inaccessible because they\nflagged the emulator as suspicious for usage."
+      ]
+    }
+  }
+]

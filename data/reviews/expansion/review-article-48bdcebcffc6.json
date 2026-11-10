@@ -1,0 +1,890 @@
+[
+  {
+    "cardId": "article-48bdcebcffc6-09",
+    "status": "approved",
+    "reason": "Página1 define escolhas de interface, decisões e interesses do serviço/usuário. A resposta separa fundamentação conceitual de efeitos individuais não medidos no estudo observacional.",
+    "cardSha256": "5a3ea7375ade4cd0b0b38f44916b6e74b5f859be5b332bb1ab76807777ba964f",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      1
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.377Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-10",
+    "status": "approved",
+    "reason": "Páginas1–2 discutem predomínio ocidental/anglocêntrico e caso japonês. A resposta questiona exaustividade contextual sem descartar taxonomias existentes ou atribuir universalidade inversa.",
+    "cardSha256": "2b31077dfaebec39cb069bc93c859264ffc1a9192d2be08f432bddf8e545190c",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      1,
+      2
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.377Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-11",
+    "status": "approved",
+    "reason": "Páginas2/8 sustentam heterogeneidade brasileira e fatores como hipóteses contextuais. A resposta preserva possibilidade e não transforma nacionalidade ou educação em causa uniforme.",
+    "cardSha256": "94550d51806c8a1c94c32b73cd351b5d7aaaa61e5ef3234d4bb1cb066843b83c",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      2,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.377Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-12",
+    "status": "approved",
+    "reason": "Páginas1–3 apresentam Linguistic Dead Ends e sua presença no piloto brasileiro. A resposta explica adaptação baseada no teste sem reivindicar autoria brasileira da classe ou classificar todo idioma estrangeiro.",
+    "cardSha256": "63f99c7308e57d342f971df2b06e8da2daefecc5fa89f8602323ebfc81b9dc35",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      1,
+      2,
+      3
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.377Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-13",
+    "status": "approved",
+    "reason": "Página2 explicita perguntas de frequência/tipos e comparação geográfica;8 limita o diagnóstico. A resposta não alarga o desenho para experimentos de dano ou representatividade universal.",
+    "cardSha256": "a3eb2834135cf17658ed5809788d726501c6d8135aac7de13b4a46ad6debbaad",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      2,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.377Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-14",
+    "status": "approved",
+    "reason": "Página3 relata Tools, nove categorias e100 versus240;8 recomenda ampliar corpus/Finance. A resposta preserva diferenças de desenho em vez de equiparar comparações agregadas.",
+    "cardSha256": "519e8f8a4c5a0c01a8cea93e943c76f629933b164c2e6df71f43d267325cf025",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.377Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-15",
+    "status": "approved",
+    "reason": "Página3 descreve duas duplas/nove apps, dispositivos e razões para o emulador;8 reconhece limites. A resposta não converte detecção no piloto em equivalência geral de meios.",
+    "cardSha256": "4fb757dfc9d8c186db5d61414efdde767931fa85d361638f090b18b3b8e09e31",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.377Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-16",
+    "status": "approved",
+    "reason": "Página3 documenta tarefa de termos/política, rotação e regravação por outro pesquisador. A resposta qualifica essas medidas como redução de viés, não eliminação de subjetividade.",
+    "cardSha256": "1f7b890b368001e198b4765cc9b180a7206d48765f3ab48e4d5938ca049db131",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.377Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-17",
+    "status": "approved",
+    "reason": "Páginas3/6 mostram incorporação de classe existente no piloto e seis casos de aplicação conhecidos. A resposta mantém categoria, caso e adaptação como contribuições distintas.",
+    "cardSha256": "373a7dc0f81cb70cf94d03640859848967ea95358e02b99429edbe913f231a17",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3,
+      6
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.377Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-18",
+    "status": "approved",
+    "reason": "Página3 diferencia19/01/2025 no Google Play de22/01/2025 no Sensor Tower. A resposta preserva rastreabilidade temporal sem apresentar rankings históricos como estado atual.",
+    "cardSha256": "f1342834b5e54de6377bb0660abaf3d6a2e243a2c25233991723d9cd200e4e8a",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.377Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-19",
+    "status": "approved",
+    "reason": "Páginas3/8 sustentam16apps em cada categoria inicial, retirada de Finance pelo emulador e trabalho futuro. A resposta não interpreta exclusão como ausência de riscos financeiros.",
+    "cardSha256": "12b9cfae67e7f8ac0347a32b00d211ce877413108492dadfbcd939a4ad672406",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-20",
+    "status": "approved",
+    "reason": "Páginas3–4 apresentam os quatro critérios e tarefas comerciais. A resposta distingue download gratuito de ausência de monetização e conserva o recorte observado.",
+    "cardSha256": "7f7d54be71cc584baf48f8b94023836c4596dfc5e7c129ec733718cd2067b613",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3,
+      4
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-21",
+    "status": "approved",
+    "reason": "Lista de exclusões atravessa páginas3–4 e foi lida integralmente; a resposta inclui assinatura e identidade governamental. Não certifica os grupos excluídos como seguros nem generaliza o corpus.",
+    "cardSha256": "5c06db49326cefb9ba53ac50ee647406db7c0d346dacd3650a54930726e56e5e",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3,
+      4
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-22",
+    "status": "approved",
+    "reason": "Página4 documenta12 por categoria planejados e distribuição final12/11/9 que soma100. A resposta explica redução operacional sem inferir segurança relativa pela quantidade de apps.",
+    "cardSha256": "5c6f6625bb71a98a8c7a4c8f172b1fa8f636ce51428901271d6ddfa13b94a0ea",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-23",
+    "status": "approved",
+    "reason": "Página4 sustenta BlueStacks5, GalaxyS22Ultra, capturaWindows, Gmail eSIM externo;8 descreve bloqueios/limites. A resposta não promete experiência idêntica à de usuários habituais.",
+    "cardSha256": "69af3809fc04bd7be56a5b9b9c40bdb9635f793db9ae269b42270addc4e8989e",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-24",
+    "status": "approved",
+    "reason": "Página4 contém oito tarefas condicionadas à disponibilidade e dez minutos;8 limita extrapolação. A resposta conserva a condição e não presume todos os fluxos em todo aplicativo.",
+    "cardSha256": "dc1b0e2458e3739dd38faddb2a9170712dbea44246988edd471f59323ee7f7e3",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-25",
+    "status": "approved",
+    "reason": "Página4 afirma checkout e ausência de compras;8 delimita outros percursos possíveis. A resposta corretamente não deduz perdas financeiras ou experiência pós-transação.",
+    "cardSha256": "73c08f395c04d3f63babd15e7b0452b4152773ae996d5f2c0aeb3aaf21beb05a",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-26",
+    "status": "approved",
+    "reason": "Página4 descreve análise individual, discussão, desempate e kappa0,64, além do guia40casos. A resposta lê concordância como apoio à classificação, sem prova de objetividade absoluta ou efeito no usuário.",
+    "cardSha256": "9537cbda9fe5132e356c64a344d2964885a09eddf6270586702bacbedcef4697",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-27",
+    "status": "approved",
+    "reason": "Páginas4–5 distinguem seis macroclasses, subclasses e casos, inclusive nomes usados em dois níveis. A resposta não inventa definições remetidas aos trabalhos não fornecidos.",
+    "cardSha256": "a07a1efd03824bf9d764bbf28387c84617f03fd075ecb5d5ea41c95e9f67a800",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4,
+      5
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-28",
+    "status": "approved",
+    "reason": "Páginas4–5 explicitam guia40casos para reduzir subjetividade. A resposta distingue exemplos operacionais de categorias e ocorrências, sem completar o conteúdo ausente do guia por conhecimento externo.",
+    "cardSha256": "8fd69e6e6b39e84c4ccc1d40b1142b114b481cee2214aad227b0dc02e5d90367",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4,
+      5
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-29",
+    "status": "approved",
+    "reason": "Páginas4–5 registram não contar reaparições iniciais e8 limita duração. A resposta situa751 na convenção operacional e não os trata como toda exposição repetida ou dano acumulado.",
+    "cardSha256": "33e0734230ede24343fd6b28725e2aa28c1b42778979ec3617cd3ef75b7da403",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4,
+      5,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-30",
+    "status": "approved",
+    "reason": "Página5 apresenta13/41/46apps, média7,51 e desvio4,7. A resposta diferencia presença, média e distribuição e evita converter contagens em gravidade psicológica.",
+    "cardSha256": "a014e92c5b256f51ceadea9bc042db88fffaf8bc73c4e323058b390de1cda029",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      5
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-31",
+    "status": "approved",
+    "reason": "Página5 relata3,7macroclasses/desvio1,5 e4,4subclasses por app. A resposta distingue diversidade classificatória de751casos e não soma classes como grupos exclusivos de pessoas.",
+    "cardSha256": "4fea74af68ae81e30c79f28e54a244690fc7eab78b7e3d5e8b805a85d5eae486",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      5
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-32",
+    "status": "approved",
+    "reason": "Página5 sustenta78%,201Nagging,62%macro/54%subForcedAction,115casos e75DisguisedAd. A resposta preserva níveis/unidades e não usa a inferência ambígua da página6.",
+    "cardSha256": "cd2db8ca862e4e17f32171874ea332ec8cd4a966111b97d1f7ca684a8b619ea7",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      5
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-33",
+    "status": "approved",
+    "reason": "Página5 registra NotíciasGlobais25casos/7subclasses e4apps sem registros;8 limita observação. A resposta não certifica ausência universal nem qualifica toda categoria de notícias por extremos.",
+    "cardSha256": "2a8e65c9ff781ce5f83fcf88f8270ed00ad79373901e20baac435635c49fa3c3",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      5,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-34",
+    "status": "approved",
+    "reason": "Página6 descreve redirecionamento e fricção de acesso como Obstruction. A resposta atribui estresse/probabilidade de leitura ao texto, distinguindo a alegação de experimento de leitura não realizado.",
+    "cardSha256": "f9c4ca17bfa620d854023193b4509abb7394cd2fa3d73f8ae83cbd4ca1064427",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-35",
+    "status": "approved",
+    "reason": "Páginas6–7 definem cadeia temporal de subanúncios e múltiplas chamadas de atenção. A resposta identifica o mecanismo e não classifica toda publicidade ou inventa duração/efeito populacional.",
+    "cardSha256": "c3dc32483ba69e52fefaafd0c15ebce4f8ec549bb37db071f00b7374b5bffb5c",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      7
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-36",
+    "status": "approved",
+    "reason": "Páginas6–7 descrevem missão além do fluxo e ações úteis ao desenvolvedor. A resposta não transforma toda meta em dark pattern nem afirma autonomia medida causalmente.",
+    "cardSha256": "a5ce070f3f6c8dbd707fa7e46af274bce4b6ee1687af154f007a67b8ea27b8a6",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      7
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-37",
+    "status": "approved",
+    "reason": "Páginas6–7 definem assistir anúncio para moedas/aceleradores/bônus. A resposta conserva condicionalidade e corpus sem generalizar a todos jogos ou alegar efeitos psicológicos medidos.",
+    "cardSha256": "d541d1073381ea87457ca3f7f4ab6705cbe06677da02b988defb5d83f97992be",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      7
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-38",
+    "status": "approved",
+    "reason": "Páginas6–7 classificam linguagem/visuais apelativos como Toying with Emotions. A resposta descreve persuasão e distingue sua identificação de medição emocional ou dano clínico.",
+    "cardSha256": "4c2cad206850629613e685b05e0bb4d7a6148ca32cdafc35c3e755de8efe01cd",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      7
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-39",
+    "status": "approved",
+    "reason": "Páginas6–7 distinguem Untranslation de redirecionamento/Obstruction. A resposta separa compreensão e acesso e não promete eliminar dano apenas traduzindo ou reposicionando texto.",
+    "cardSha256": "30f3cb0551e5e991e814c29a7b68a32ed0910b7c50a8dbecb6e779b9827d1a72",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      7
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-40",
+    "status": "approved",
+    "reason": "Páginas6–7 sustentam45+26+42+20+14+11=158, cerca21%de751. A resposta trata unidades como casos de padrões conhecidos, não seis novas macroclasses ou grupos de pessoas.",
+    "cardSha256": "501296b0d51452f02ab68fd5f818651280f76ad2c18a73903c2b7d82cf8fdaea",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      7
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-41",
+    "status": "approved",
+    "reason": "Páginas5/7–8 comparam médias7,51/7,4 e prevalências96/95, conservando diferenças de distribuição e contexto. A resposta evita os percentuais comparativos negativos e causalidade nacional.",
+    "cardSha256": "5fe47968c44dc1e8a320f5f3502947ccae143ca475f5a3e7cf75f49c530c1191",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      5,
+      7,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.378Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-42",
+    "status": "approved",
+    "reason": "Páginas2/7–8 sustentam influências socioeconômicas/educacionais/socioculturais como possibilidades. A resposta preserva hipótese e heterogeneidade, não um efeito isolado experimentalmente.",
+    "cardSha256": "28089c622b814cc2e3d1b4d62ff845677af01b23216ef1b62df78c7573ef6309",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      2,
+      7,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.379Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-43",
+    "status": "approved",
+    "reason": "Páginas3/8 excluem Finance por limitação técnica e propõem expansão futura. A resposta não apresenta pesquisa financeira/longitudinal como concluída nem presume que só ampliar amostra resolva contexto.",
+    "cardSha256": "22d10243563b3fe0f3a32091faab9254cfc938eaa970b9b3cb9766539da2e298",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3,
+      8
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.379Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-44",
+    "status": "approved",
+    "reason": "Interact6–7 e SbD21/34–35 sustentam barreiras de acesso/compreensão e políticas claras/visíveis. A síntese distingue disponibilidade de compreensão e mantém notas2019 ilustrativas, sem eficácia conjunta.",
+    "cardSha256": "9760ee348c017e1957624202a4162466e8d43dd508ef82c6b7208f9706adb5db",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      7
+    ],
+    "relatedPagesVerified": {
+      "article-d4b0c4f9d75f": [
+        21,
+        34,
+        35
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.379Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-45",
+    "status": "approved",
+    "reason": "Interact3–4/8 descreve auditoria curta; SbD21/27 pede avaliação documentada e exemplifica pré-lançamento. A resposta articula diagnóstico e prevenção sem atribuir essa avaliação às empresas auditadas.",
+    "cardSha256": "79e7ef510f8a86b42ac98dc2b5139682a4e7b86d5f589c7525c96a4f32fb660b",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3,
+      4,
+      8
+    ],
+    "relatedPagesVerified": {
+      "article-d4b0c4f9d75f": [
+        21,
+        27
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.379Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-46",
+    "status": "approved",
+    "reason": "Interact5/8 fornece descrição de casos; SbD21/36 pede métricas significativas de eficácia. A resposta não confunde baseline/atividade com redução causal de dano ou publicação de relatório com proteção.",
+    "cardSha256": "30d6c6acfe0d3bbfbc498e98b098dc7cea015f358d5f737568bbc13255133683",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      5,
+      8
+    ],
+    "relatedPagesVerified": {
+      "article-d4b0c4f9d75f": [
+        21,
+        36
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.379Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-47",
+    "status": "approved",
+    "reason": "Interact6–7 e Art48p4 sustentam idioma e o alcance restrito do§12. A resposta preserva hospedagem de terceiros, indicação etária e ausência de verificação de vigência, sem declarar infração.",
+    "cardSha256": "6cc5bc806700e259831bd41f4d5324d31519b0801c16d67ea2559bfc5c8e4440",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      7
+    ],
+    "relatedPagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.379Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-48",
+    "status": "approved",
+    "reason": "Interact6–7 define anúncios/recompensas; Art48p3–4 enumera mecanismos e uso prolongado. A ponte não equipara toda publicidade/gamificação a padrão nem critério etário a medida de dano.",
+    "cardSha256": "e64b59c270f13375a0745e66256941dec0c7c05253252a2459072709d83025a7",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      7
+    ],
+    "relatedPagesVerified": {
+      "article-94e7a19d8878": [
+        3,
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.379Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-49",
+    "status": "approved",
+    "reason": "Interact6/8 e Art48p4–5 sustentam barreiras e fatores de curadoria/controles/moderação. A resposta não inventa Guias ausentes, comprovação dos controles ou eliminação de padrões por classificar.",
+    "cardSha256": "837803de15c415407efdf6fa5e155caa73168c238c884a60f1118d8f5239d756",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      8
+    ],
+    "relatedPagesVerified": {
+      "article-94e7a19d8878": [
+        4,
+        5
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.379Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-50",
+    "status": "approved",
+    "reason": "Interact2/6/8 e CHIP1–2 sustentam barreiras linguísticas e lente estrutural distinta. A resposta evita causalidade entre divide e cada caso, homogeneização regional ou generalização de prevalência para jogos.",
+    "cardSha256": "5d79dfb5f989e999a82cb584a421a6758eb61f067f0d6cb59466b37b489e3d7d",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      2,
+      6,
+      8
+    ],
+    "relatedPagesVerified": {
+      "article-eca18e5843e2": [
+        1,
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.380Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-51",
+    "status": "approved",
+    "reason": "Interact4/8 limita observação a dez minutos; CHIP2 explicita ficção de Helena. A síntese distingue ocorrência, hipótese sistêmica e consequência imaginada sem completar empiricamente uma fonte com a outra.",
+    "cardSha256": "35e83553f6fd9bef511fb5a919e2b7b26d41ab7597ed6c6c6e83b0b40bcf2082",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4,
+      8
+    ],
+    "relatedPagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.380Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-52",
+    "status": "approved",
+    "reason": "Interact8 pede expansão do corpus/SulGlobal; CHIP2–3 pede parcerias e cocriação. A resposta diferencia cobertura de redistribuição de participação, sem declarar que ampliar amostra já comprova equidade.",
+    "cardSha256": "30a92ecb2ac0f1e21929c88c51318b2572848c60a5c8880c7ed7186233c06c45",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      8
+    ],
+    "relatedPagesVerified": {
+      "article-eca18e5843e2": [
+        2,
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.380Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-53",
+    "status": "approved",
+    "reason": "Interact3–4 sustenta piloto/guia/discussão/desempate e Agenda7–8 propõe léxico/curadoria/versionamento. A resposta articula infraestrutura sem equiparar concordância a validação de alternativas ou bem-estar.",
+    "cardSha256": "76f3f1eb2de430e68fb545a4aca25a4a31069b41a382fb8a5ea568387f9c1928",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3,
+      4
+    ],
+    "relatedPagesVerified": {
+      "article-d0d500126a80": [
+        7,
+        8
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.380Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-54",
+    "status": "approved",
+    "reason": "Interact6–8 identifica barreiras e Agenda9–10 propõe apoio contextual, agência e cuidados com fadiga/falsos positivos. A resposta separa requisitos investigativos de solução testada e não transfere toda responsabilidade ao usuário.",
+    "cardSha256": "01ca3bae606dcfe21c9ba64e075fdc1fe60af4fc92c47505ef8da06cb4eb67cf",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      7,
+      8
+    ],
+    "relatedPagesVerified": {
+      "article-d0d500126a80": [
+        9,
+        10
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.380Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-55",
+    "status": "approved",
+    "reason": "Segunda revis?o: Interact p6?7 define Task-based Rewards como miss?o al?m do fluxo principal; Operationalizing p12?13 descreve scaffolding, apresenta??o gradual de recursos, tutoriais integrados e feedback para aprender ferramentas. A nova quest?o distingue a fun??o de aprendizagem de uma tarefa condicionada que desloca o fluxo, sem considerar todo tutorial ben?fico ou toda miss?o enganosa e sem alegar efeito causal ou avalia??o conjunta. Esse nexo ? substantivamente distinto de Operationalizing-57, que continua tratando recompensas publicit?rias/externas versus desbloqueios opcionais e acesso ao n?cleo. A repeti??o foi resolvida.",
+    "cardSha256": "9ef20df393e7688cd6836b48c8b3f5f442448bc55188b661d1d2d769e632a41d",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": [
+      6,
+      7
+    ],
+    "relatedPagesVerified": {
+      "article-39adb0cfa84e": [
+        12,
+        13
+      ]
+    },
+    "reviewedAt": "2026-11-10T11:11:51.832Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-56",
+    "status": "approved",
+    "reason": "Interact6/8 descreve mecanismos observados e OP11–13 especifica WatchFor preventivo. A resposta distingue auditoria, condições de solução e efeitos, sem inferir radiância da ausência de casos.",
+    "cardSha256": "79dab4d878aaf471b455519958f71506e5aa98376aed80166bb339158a6f8c00",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      8
+    ],
+    "relatedPagesVerified": {
+      "article-39adb0cfa84e": [
+        11,
+        12,
+        13
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.380Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-57",
+    "status": "approved",
+    "reason": "Interact4/8 sustenta classificação dialogada e limites; HCI13/16 distingue candidatos/governança e ausência de dados longitudinais. A síntese não equipara acordo, recorrência e eficácia.",
+    "cardSha256": "da843add77ec47ad6f682b804d76264b4a0389ea7fa32efb3bba62dcee8bc936",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4,
+      8
+    ],
+    "relatedPagesVerified": {
+      "article-e13c3cb65c28": [
+        13,
+        16
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.380Z"
+  },
+  {
+    "cardId": "article-48bdcebcffc6-58",
+    "status": "approved",
+    "reason": "Interact3/8, HCI10–11/16 e SbD21/35 sustentam adaptação, invariantes/variantes e participação. A resposta explicita comparação metodológica sem alegar método universal validado conjuntamente.",
+    "cardSha256": "9513e0ce424aa2dab0c260c5c19be1e0decd56f7be2caf940024578945c2d99e",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8",
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3,
+      8
+    ],
+    "relatedPagesVerified": {
+      "article-e13c3cb65c28": [
+        10,
+        11,
+        16
+      ],
+      "article-d4b0c4f9d75f": [
+        21,
+        35
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.381Z"
+  }
+]

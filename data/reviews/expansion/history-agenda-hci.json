@@ -1,0 +1,119 @@
+[
+  {
+    "cardId": "article-d0d500126a80-19",
+    "status": "revision_required",
+    "reason": "A fonte na página 6 diz “without exploitative grinding”. “Grinding exploratório” é tradução ambígua que pode sugerir exploração investigativa ou do mundo do jogo. Substituir por “grinding que explore o jogador” ou expressão equivalente clara; as ofertas/urgência e o caráter propositivo estão adequados.",
+    "cardSha256": "ce631ffa456e62b845a29e4101b3b8d6670b42832804a7472b68e1b1f2931c18",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          6
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z",
+    "requiredChanges": [
+      "Substituir “grinding exploratório” por tradução inequívoca de exploitative grinding, como “grinding que explore o jogador”. Preservar ID e evidência original."
+    ],
+    "candidateSnapshot": {
+      "id": "article-d0d500126a80-19",
+      "articleId": "article-d0d500126a80",
+      "question": "Que alternativas concretas de apresentação de progressão e compra a agenda usa para explicar uma intervenção no nível da interação?",
+      "answer": "O texto propõe investigar [[como comunicar esforço e recompensa sem grinding exploratório]] e [[como apresentar ofertas de compra respeitando escolha informada, em vez de explorar urgência]]. Esses exemplos tornam observável a contribuição da IHC: formular alternativas de interface e técnicas de interação e submetê-las a avaliação empírica. A questão não é simplesmente condenar toda progressão ou compra, mas examinar como cada mecanismo é apresentado e vivenciado. Os exemplos são possibilidades de investigação; [[o artigo não relata um teste que tenha confirmado a eficácia de uma interface específica]].",
+      "source": {
+        "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+        "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+        "pages": [
+          6
+        ],
+        "sections": [
+          "3 A Call To Action: Why (and How) We Can (and Should) Go Beyond Our Current Efforts"
+        ],
+        "evidence": [
+          "Hence, we as a community can focus on how to fight DPs practically\n\nin games . While it is valuable to discuss ethical game design principles [ 16 ] or\n\ngame design patterns [ 27 ], HCI can take these concepts further. We can make,\n\nbuild, and test physical interfaces and interaction techniques that actively pro-\nmote player autonomy and well-being. And this should not have to be at the\n\nexpense of the game industry’s business goals. For instance, HCI researchers\n\nare equipped to investigate in what way a game’s progression system may be\n\nportrayed to communicate effort vs. reward without exploitative grinding, or\n\nin-game purchase offers may be presented to honor informed choice rather than\n\nexploiting urgency. HCI provides the tools to both formulate and empirically\n\ntest such alternatives."
+        ]
+      },
+      "kind": "direct"
+    },
+    "snapshotSha256": "ce631ffa456e62b845a29e4101b3b8d6670b42832804a7472b68e1b1f2931c18"
+  },
+  {
+    "cardId": "article-d0d500126a80-48",
+    "status": "revision_required",
+    "reason": "A resposta delimita corretamente §§5–6 e o escopo do §12, mas a pergunta diz que o documento prevê “termos de uso acessíveis” como um todo. O §12 exige a indicação etária clara/acessível dentro dos termos dos fornecedores que hospedam conteúdo de terceiros. Estreitar a pergunta à indicação exibida e informada nos termos, sem ampliar a obrigação documental.",
+    "cardSha256": "c1f4574f9a0de9a75b47712df757ccbf16c5c7a0de498ef8a7336af3dc39220b",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          9
+        ]
+      },
+      {
+        "articleId": "article-94e7a19d8878",
+        "pages": [
+          2,
+          4
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.080Z",
+    "requiredChanges": [
+      "Estreitar a pergunta à indicação etária exibida e informada claramente nos termos de uso; não atribuir ao §12 uma obrigação sobre a acessibilidade dos termos inteiros. A resposta já delimita corretamente o escopo."
+    ],
+    "candidateSnapshot": {
+      "id": "article-d0d500126a80-48",
+      "articleId": "article-d0d500126a80",
+      "question": "Por que exibir classificação etária e termos de uso acessíveis, como prevê o documento local Art. 48, não esgota a ideia de escolha informada da agenda?",
+      "answer": "Os §§5–6 do documento local pedem indicação etária e descritores claros nos momentos de instalação, login e início de uso; o §12 trata da informação nos termos dos fornecedores que hospedam conteúdo de terceiros. A agenda enfatiza [[apoio à agência na interação concreta]], explicando mecanismos e evitando manipular o usuário para uma escolha considerada melhor. A síntese distingue disponibilidade de informação classificatória de capacidade contextual de decidir. [[As obrigações descritas no arquivo não demonstram, sozinhas, compreensão, resistência ou redução de dano]], e as ferramentas da agenda tampouco estão validadas. A comparação não afirma vigência legal nem propõe substituir classificação por avisos automáticos.",
+      "source": {
+        "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+        "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+        "pages": [
+          9
+        ],
+        "sections": [
+          "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+        ],
+        "evidence": [
+          "The advantage provided herein is the immediate empowerment of players\n\nwithin their interaction, upholding their right to informed choice, and alleviating\n\nthe sense of being “deceived” [ 38 ]. That could potentially enable players to bypass\n\nchoices that could harm their autonomy. However, these tools are not supposed to\n\ntrick the user into ‘making a better choice.’ That would also hurt their autonomy.\n\nMoreover, as Xiao and Denoo discussed, advanced players or game platforms\n\nmight devise methods to circumvent or compromise the efficacy of such tools\n\n[ 40 ]. Instead, these mechanisms should aim to enhance player agency by fostering\n\nreal-time awareness, not to diminish it by dictating choices. The core intention is\n\nto transform potentially deceptive or manipulative encounters into opportunities\n\nfor informed decision-making.",
+          "There are specific concerns to consider. These tools must avoid alert fatigue\n\nfrom excessive notifications and monitor subtle DPs across gaming interfaces\n\nwithout generating high false positives. Additionally, they need to minimize\n\nbeing seen as intrusive to maintain a positive gaming experience."
+        ]
+      },
+      "kind": "synthesis",
+      "relatedSources": [
+        {
+          "articleId": "article-94e7a19d8878",
+          "source": {
+            "file": "Art. 48 - Oficina.pdf",
+            "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+            "pages": [
+              2,
+              4
+            ],
+            "sections": [
+              "Art. 48, §§5–6 e §12"
+            ],
+            "evidence": [
+              "§5º Os sujeitos mencionados no caput deverão exibir, de forma clara e\nacessível, as respectivas indicações etárias e os descritores de conteúdo, no\nmodelo brasileiro, no momento do acesso pelos usuários, tanto nas versões\ndisponibilizadas por meio de aplicativos, quanto nas versões web.\n§6º A exibição das indicações etárias e dos descritores de conteúdo de que\ntrata o §5º deverá ocorrer nas páginas de instalação, login e início de uso.",
+              "§12 Os termos de uso de todos os fornecedores de serviços digitais que\nhospedem conteúdo de terceiros, conforme previsto no art. 48, deverão\ninformar, de forma clara e acessível, a indicação etária atribuída pela\nCoordenação-Geral de Política de Classi fi cação Indicativa e, na ausência\ndesta, a atribuição realizada pelo Iarc ou outro modelo autorizado."
+            ]
+          }
+        }
+      ]
+    },
+    "snapshotSha256": "c1f4574f9a0de9a75b47712df757ccbf16c5c7a0de498ef8a7336af3dc39220b"
+  }
+]

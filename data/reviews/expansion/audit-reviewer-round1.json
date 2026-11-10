@@ -1,0 +1,422 @@
+{
+  "method": "Direct PDF.js reads of original local PDFs; NFKC and whitespace normalization; literal audit supplements independent individual semantic review.",
+  "assignedArticles": [
+    "article-d4b0c4f9d75f",
+    "article-94e7a19d8878",
+    "article-eca18e5843e2"
+  ],
+  "candidateHashes": {
+    "article-d4b0c4f9d75f-09": "0e3585d9b9a9e9f38cb2ba75dd5c1462398c32830c09dac5256513f633d8e35d",
+    "article-d4b0c4f9d75f-10": "fc00be7449ffdfc313a59b0919246f3de85a3b687b25525808b6c38143e2ec96",
+    "article-d4b0c4f9d75f-11": "aab49e1058e1297d5869a6c4d86c8b6ca0ff339c17227b63932be8a8db07df52",
+    "article-d4b0c4f9d75f-12": "91e09da7b5088ec43b2e004a278ddb25dc77b8f21807517d1ac7f84f0cc13323",
+    "article-d4b0c4f9d75f-13": "c25e2b2ba35e079233cbae208b164437f8728d0848271ed6521ea47bb6cf1905",
+    "article-d4b0c4f9d75f-14": "64ed3e3f668d5f683787f9dc9142edb9190af208850d1c65c73c83884f8769de",
+    "article-d4b0c4f9d75f-15": "f8d5a684a4a0bd0a30454611825c2944d951e3f1c7f17db47a32e4461e6277d3",
+    "article-d4b0c4f9d75f-16": "f92b93dcc18ed1eacba556ecf156cfa5cf335729bab83f63bd7976856d1f3944",
+    "article-d4b0c4f9d75f-17": "d1ada50d956714c3b251018fd638cf4f421379043626f416b40da4cb08a9df4a",
+    "article-d4b0c4f9d75f-18": "e89ee66af5fed3d40436157742841b0c5cbd33e83f752d4aa80eb40ddd48511d",
+    "article-d4b0c4f9d75f-19": "c97f9fb4810b3fab8eb5451726d965f3d101f66b64c14619d582b1a55926e166",
+    "article-d4b0c4f9d75f-20": "d50142caf027504b5bd244807cf9ecd6dafdccd4dd79be04082f0a7247e57e8e",
+    "article-d4b0c4f9d75f-21": "21a1fb6e5f567332f80cf9205d8ea901bd85e0e385dba24f4dc4321f815125ac",
+    "article-d4b0c4f9d75f-22": "79590c2c86fcfeac89942c35f08dbd555d3e67bd79cb245e2398ec101a345891",
+    "article-d4b0c4f9d75f-23": "162e4dd0a30fce4ce3588bd40c98a37b8504b885555a5bf9d15facf952708984",
+    "article-d4b0c4f9d75f-24": "1b49aeb3f254ddd2e02ab76824bd4c5c261b7b1ff47b4f0561338b53e836d4cd",
+    "article-d4b0c4f9d75f-25": "5b97f641cf6679b7bdb5d0acd40edf732ce2d3181dfe31b62094b2078eb21ded",
+    "article-d4b0c4f9d75f-26": "e9fe1f05a5904baaf6421b0f3fa4d3d3012075c98b71b7014de8d59d197c2732",
+    "article-d4b0c4f9d75f-27": "3714e183412e4679baa0edcc3c2fe73b24f082e192ff0fc4ff1c90bae53e7674",
+    "article-d4b0c4f9d75f-28": "96adb2029795658b555281c5dd588a4915428ecd7467025634f91b9b4389d606",
+    "article-d4b0c4f9d75f-29": "5a6ad0b30fbb526c8160664442bff44593fbf308859a2d387d5236fe20a0eb20",
+    "article-d4b0c4f9d75f-30": "6a263e03eb5bd4735f28827fe3a9f075af04e2c54895f5768f9b3fa7915cc401",
+    "article-d4b0c4f9d75f-31": "7101159a2ed19170f0c24539220505b46b306d911003f5162074b5e4be9ef8cc",
+    "article-d4b0c4f9d75f-32": "98d025a9260c53df95064ca581506fccf5ce5cee1db4289b9702772165fc8320",
+    "article-d4b0c4f9d75f-33": "12b03074a540e9883a9fd7b012f060474f954a1a7fe9e3b3423c4c2425e101b7",
+    "article-d4b0c4f9d75f-34": "033b87f60caaade4a699c128d9b0d79c1f7e6e242321790a518e5e89c9a69968",
+    "article-d4b0c4f9d75f-35": "b0904b52dbbdb9665c05b127abfd0b70b2ec0159d8b46bdb93c4b0c8a00630fb",
+    "article-d4b0c4f9d75f-36": "f0a7caab38a6c5dfd8e41ac12b86c951516cca1f43b89eff37be85389b352187",
+    "article-d4b0c4f9d75f-37": "5e16cc85a6d511a79527004a2dd6bd7f48d5362658790fb861fafad936538d14",
+    "article-d4b0c4f9d75f-38": "e50be243bf71b6558d50d9f76cdaf32fcfa5acd5e4ec0f758bfc2cc988f16376",
+    "article-d4b0c4f9d75f-39": "8ef2988a2147e9bf881e14bf482988d7c0fa4a406bfea38ebd609beb98ee1f07",
+    "article-d4b0c4f9d75f-40": "6e0fa2c5e3d515f3288b669cb7acacbf5807a31e62434da434566f8822f9d27b",
+    "article-d4b0c4f9d75f-41": "aa2dea7489e3276ac9a8f6c17fe3f9435ccfae3d67bbef58bb549f80a15f274b",
+    "article-d4b0c4f9d75f-42": "e7410b403a57f5829c47c24389ca873f2adbef16c43cd1b56a5c5c25dd982c2a",
+    "article-d4b0c4f9d75f-43": "c3466262966d9094f8c808e91c123d54f04a4b58f81166f456200b9f7769db5e",
+    "article-d4b0c4f9d75f-44": "6cca8270beb999595ec448afb1c4c76332eabb33c238cf591db8fb4e0e795562",
+    "article-d4b0c4f9d75f-45": "3adcdc2fb5c73f099d8b538079afe9d6a340f4bdaaa8a7bb8b84651650ae3ffb",
+    "article-d4b0c4f9d75f-46": "0388673e9e7727f59973d0d631263dfe5e71dea72566fed2a4d19c6924352775",
+    "article-d4b0c4f9d75f-47": "93c95a4546fad2999172e38dcf8421bd60c69a12ae04da76bde4ea2f46c2dd72",
+    "article-d4b0c4f9d75f-48": "06447e12649734919a169eebe765ac7375fcdb4418f8c20437e0e4ecadc097b0",
+    "article-d4b0c4f9d75f-49": "bddcd9db9251fa51b6886f02210ac14b15c89e0ff4e70d638c1bf2f5fc9ed2c5",
+    "article-d4b0c4f9d75f-50": "78af5c40c8c6450e7949ce66b9bba35901cf13862d404a3e456d95a95c60d82f",
+    "article-d4b0c4f9d75f-51": "cd3498e25f531dee8fa87c3876e2d1f1fdd4bf3a2bb6a5564a034713d7a38b07",
+    "article-d4b0c4f9d75f-52": "152d3f5ec909138e592110b05eddbd154b87c85ddaabc1e3346641eed5e846eb",
+    "article-d4b0c4f9d75f-53": "52926221b26aef18bf3748239d97ca3b5ca0ce97a1453e1ab01c03f0d8d53f95",
+    "article-d4b0c4f9d75f-54": "8073c5686462c8725d338c9659f69125322717f4ee206631d21a92dd9e898abf",
+    "article-d4b0c4f9d75f-55": "d983e09dec8ce98b1805ec8a2a91bad47ff6948e92ae859a13a36966c1a042d6",
+    "article-d4b0c4f9d75f-56": "6bfb1eddb7f5f740060472f3b27b709ec951c853e4a7557c7f5bc5f0225b4389",
+    "article-d4b0c4f9d75f-57": "fdd37f5780b9882b15b966887fe59dbd50587d516f97f4ea6218b994323ff7fd",
+    "article-d4b0c4f9d75f-58": "baa8f14a28c1c8285813681014b254b3ad9e5f345d46678fcc61d0f29455cd4c",
+    "article-94e7a19d8878-09": "83c87e42b2bce7f8ef464cdceea1ba8265d9f9b2dd7422c02ac5cb39a0f72743",
+    "article-94e7a19d8878-10": "db17365d205b5a691253946016eeefc9af0edcfd053ceefb6e0b7da809a873b9",
+    "article-94e7a19d8878-11": "2ddb5ef56180b6c1af5c7cd66476a658f0934e0ad1c66e2b249dc10911548fb1",
+    "article-94e7a19d8878-12": "e248e4008f234ab44eae9c0e2684e7db6ee71ba70dd237a4ae2c9912baf0ea0a",
+    "article-94e7a19d8878-13": "d9bc50c3f452fdd73bbbfe2ac41a3a5482d3de92254ba3a3ec4d1dc2c3b48e4f",
+    "article-94e7a19d8878-14": "49828e07bd9a464248aa636d756d7a308bf38f6d49d3727b07a8f167252dc14d",
+    "article-94e7a19d8878-15": "341b9cff995ad45663f4b9e7a6e1e5bc6e6a46816aba419e0be85e16a498f581",
+    "article-94e7a19d8878-16": "ed1fb8242db7deb57a310eacf8d8646e67c70ede6aebae88531ff2dc510fc135",
+    "article-94e7a19d8878-17": "c4447c2a30048ff7b2e1e2caa7895eef813ed91330aab64ea7bbcbeec612df26",
+    "article-94e7a19d8878-18": "846ee8150bd9aef3cf4aa458f6357514ca0cc88005c9cc7ca20d0dc4cb6eaba1",
+    "article-94e7a19d8878-19": "b1613e7a15c49e19ae8ebdf90507f70ceae4543aecceda605d5e490a8be397cb",
+    "article-94e7a19d8878-20": "ed1146faa6d2b8aa4ce6ef1526c6b3c91cb80c073e6769f169c8e8a44e6e9047",
+    "article-94e7a19d8878-21": "e119655a5e16f6e1e438a3cb5f8d0fdb7c7c2d3685c3d073cd43aaa351507e59",
+    "article-94e7a19d8878-22": "b3dfdf19a5dd419bcf47882eae8d5c9b241e0d2a0af2b58e6a46331a96df43b1",
+    "article-94e7a19d8878-23": "b0431bf021b466efab4156e3dea19f81668e20265fce77a6beb15169040138bc",
+    "article-94e7a19d8878-24": "3277a1204d3566ba68373aa8f6ba860d87a0901ef12f56a8b12c06b8027a83e8",
+    "article-94e7a19d8878-25": "39462ecf3f2f3b1e3b0cd921d16217939e775da52c998e6b7878cc100bed07b5",
+    "article-94e7a19d8878-26": "49fe003df9d23716cfdad4c5174ce939c8d72316a747fb9f64302bd7c41afbac",
+    "article-94e7a19d8878-27": "38615b0cd88559a62bb548761d7c0e256b8d328c7b30bee82fbc0406f197483a",
+    "article-94e7a19d8878-28": "33c896fafec5c19cb9d6fb7418f3d9f6b2ebb5272117f1e84b8dee82474e1e43",
+    "article-94e7a19d8878-29": "85c180babedd3da37ec325ba8f002515401f01b1c7a3d7d4371b03459486abd4",
+    "article-94e7a19d8878-30": "e802a3976b67362d29d41f5c18545029dfd2e966860fa74bd9de768b5974d71d",
+    "article-94e7a19d8878-31": "36578cea2294e13a021e3e03d2756a07e68a5bf3ec7139f72b12275e5730d520",
+    "article-94e7a19d8878-32": "f5190c57e77800bc68d816ef8cbebd5918da9890e336b8bb911688bbea207703",
+    "article-94e7a19d8878-33": "9b9dc63c30165dab1d37294834ca9c0c1134571ed9fa736870cca2d6a15187d8",
+    "article-94e7a19d8878-34": "9723569f14a2749e0070b49d4f0389707890a98e34f1e2e81db68e66d5092271",
+    "article-94e7a19d8878-35": "436fa4c28307d3a6eb0cc18778a37c46ea64a18a6ab2112cb72b6311e4625f3c",
+    "article-94e7a19d8878-36": "7e2b7a0b13bacba93363da23fa408abc661235c27bb71c94dfd03bc2c6e16356",
+    "article-94e7a19d8878-37": "e300d6847c96cadbacacd103f9191e983c561c587cb54ca7de3958909922bdba",
+    "article-94e7a19d8878-38": "3eb0eb4a8c1bdb0f842103306a9a4358f9705dd98e9370e722babfb8b104a5ad",
+    "article-94e7a19d8878-39": "051c4514c8f95d24e60d77f8a8e02d5f535020c5acf0cf58b49320551e3db80e",
+    "article-94e7a19d8878-40": "e322a7f2c36601092d7c7a0cbe058045799fad41ab01144c205a7d3131bc8e1b",
+    "article-94e7a19d8878-41": "c8886a16849c053d9214b86dfec63d629425c83e7e0813ced1a25345de81adb2",
+    "article-94e7a19d8878-42": "7f46f4a8b504de12870eb942f476f0ab01434bb24f6f97e85be6e11b1ce6ee4d",
+    "article-94e7a19d8878-43": "ed0e7e331ec3a1d8418ce8a5561714d28d8e1cfb7d53f9edb3fb968ecc55ba26",
+    "article-94e7a19d8878-44": "1367510a5a59cfc6044b084bb6b63dccc0cba7fd6cfb085f58e141fe313bfca3",
+    "article-94e7a19d8878-45": "1e166ff27ce51ead1321816c6c7f263d7289377ad21157257ba055feb5745f95",
+    "article-94e7a19d8878-46": "0b165bb8ec672af26059f403d3eff9554f2b5a78f5adbf58325edf565b79c22c",
+    "article-94e7a19d8878-47": "bec6dc8705df4a4ed1d8821211e5f2ba539f485ce96944b21dce97068c6e1dd2",
+    "article-94e7a19d8878-48": "64b5904e10e474904cabf7c9cca7214986e95f7b96b3feb7266650e89c735c7d",
+    "article-94e7a19d8878-49": "5dfe6d461b1c1a9c89dd7d6827624397778d90fd18d01a9bbca110d1d4b93b80",
+    "article-94e7a19d8878-50": "5772a4a93568b43258944bbc906bdecd9a444c7d2210ae5e34a512fb0d632ea1",
+    "article-94e7a19d8878-51": "bea4d4fa7a688fc6deaeba529f264c4b244e124021f90cc11691701036a1750d",
+    "article-94e7a19d8878-52": "ac002158d8f0df067086f031fe9925e5d2e9def2bbfbc47ca6dcf0f7121b4962",
+    "article-94e7a19d8878-53": "776aef89bd16825d244371de642ad4b5e27f73fd71e8ccb993f76055aee944cf",
+    "article-94e7a19d8878-54": "495b498733985a757c1e610b33634e398877dbe56361beb33e8b89ee1e735d45",
+    "article-94e7a19d8878-55": "7ce762afd7341b917191bec8c3cc09e78a0725aeb021675655d4b91bbacef154",
+    "article-94e7a19d8878-56": "66c6392851f5de3d4b9371a039291a6884ed15a0e1583f43020432213a17332a",
+    "article-94e7a19d8878-57": "e64517b6b3ab32c7f8a5136cec5023a704ef4fef8f82e921d0152a6fb933d483",
+    "article-94e7a19d8878-58": "005f2e55d3a31fade13b811bc1059a65f2f53fdf40ab6afa2e9659900b28b442",
+    "article-eca18e5843e2-9": "a10c8d1795b49a63463144581cf1e037305eee10b55ade7159b1c785dbe256b1",
+    "article-eca18e5843e2-10": "2b0022ae2a325866080372258c748063adb8f1f0a0842f24dd2e7f02b371c21c",
+    "article-eca18e5843e2-11": "7857f20aafa1f91bffd517b24fb8ad9a86fdda797ddba29d724e49afad61606f",
+    "article-eca18e5843e2-12": "ac59ec1681c4a0dbe033d0678651ba4f76f41a98239413af8aa2dfed46d4e770",
+    "article-eca18e5843e2-13": "b5d965679a41311f3552ac78222b1c2aea12dd96b1065a7dc7408b13f1eb2dc0",
+    "article-eca18e5843e2-14": "e779855a18a96391a3ab271d30ffee6fd46b3c7547914b31923084e4c1608a95",
+    "article-eca18e5843e2-15": "d2468f54afca31c0f4dfcfcaddc92731a4bf38ed172955b23a95a1bccfbd0e98",
+    "article-eca18e5843e2-16": "48b0cd6b4da1e7f172ab39a987e10c073447d44d5a09a97111d43b8ce9aa626a",
+    "article-eca18e5843e2-17": "553f1d8a2efdff8756c1a63610c384dce093405cfde99862f9aee6458ed06441",
+    "article-eca18e5843e2-18": "a0f4096dd86374954e6dd8c9ebaa8b1a8b5b4d746412eb25dba9fa271c1b8fd4",
+    "article-eca18e5843e2-19": "50a75520f3b3c9ae28b028acfff397cf4a54312dc51cc20abfbbec7600663b63",
+    "article-eca18e5843e2-20": "63716d036ef9d4388e2c24aff7b465f7c10fef9dd33436c0b5d663ba28b18f7b",
+    "article-eca18e5843e2-21": "3739e9087458f811f9ff78fa9bed8679d88fa6ff955d9b2f673ec4ee7b71ab35",
+    "article-eca18e5843e2-22": "aeb018f733e68d71967cb8f5929b62a6d2a4b8c3ffeb8b8f04d80bd32e98abc7",
+    "article-eca18e5843e2-23": "223770f9dbe863c6f4b9addf2672120078ba79b63e81cc5026797c0c0192c6f3",
+    "article-eca18e5843e2-24": "80710c7311790e272bfe8143ea5a1462e1447d1849871fef5299176288dee95c",
+    "article-eca18e5843e2-25": "900f6696bd6e4a149668b5e37442f3e0df5149a2e8150fa24526422052bea466",
+    "article-eca18e5843e2-26": "615f5667320343e63394efd09b6744ccf12f9c3032a18f3bc3ec8c85da8dfa52",
+    "article-eca18e5843e2-27": "740ac2c96ff2f50b075fa38a73b5191d558bbc16730c81c8c62fdbe0bf30f5d8",
+    "article-eca18e5843e2-28": "e71c4817b5774cf976a664fa94fab79a6e258079291843e32f70e277e2b600db",
+    "article-eca18e5843e2-29": "504b3914add4ae4565636781d9f46866ac21070903e4ceda73cef7b04859fe72",
+    "article-eca18e5843e2-30": "24bcbc300fc6a947a399834ec714535b4a99e2abb54c5fe38297d0bda9420c3b",
+    "article-eca18e5843e2-31": "aba4f1920930507396bb00faa53360014f36631223016e828cf76c53ff309db9",
+    "article-eca18e5843e2-32": "756dc5e42e48aab452a83dd0b4e9806d4902195b100e8ba543ceefaa105dee89",
+    "article-eca18e5843e2-33": "5753b43930ed1073c2729ab1bb94f4ee2aef91c66cd52b3f473833b5c78f4ff2",
+    "article-eca18e5843e2-34": "6e5c453ad4a8db0e6d7d2fc0bdf8a573e667e33af49c9d3c6b9aee7a8e477259",
+    "article-eca18e5843e2-35": "0d708c1e99e5869f5154f76fbf66a1b4e157fc8c53aa75bcd94441872492d31f",
+    "article-eca18e5843e2-36": "0e4d1a48e1c8576ed378417a8561245280de642cb58a410c9ab151e010781e33",
+    "article-eca18e5843e2-37": "63378dfbd0e60c51e85e27b5c592e21be3555185b17e064901181881c4b0cbb2",
+    "article-eca18e5843e2-38": "57109ae6fd96b7cb67d5bcac9410d39298731762afb515169fc10d401708dd21",
+    "article-eca18e5843e2-39": "bd98f9e2150a55557a201f106b3e537568bdf0ce86b4684223ad55152e86542f",
+    "article-eca18e5843e2-40": "fba7d6c2f960b37a842fc89be45ba68705cd8bd99fb9023b1bca171910c29dd6",
+    "article-eca18e5843e2-41": "c6bceeab6199001ed4f98f875a4fc2be443d2df7a0a82883e133c5b2ad4f03a5",
+    "article-eca18e5843e2-42": "ba2482b4fa81b5f6860a871f99d7e235f999de90f37e56e139a703608c6187ae",
+    "article-eca18e5843e2-43": "a1ddbaa4d464796dce8cc97340ca239b1ea26b0c37e8f50c13e58454ecc48b64",
+    "article-eca18e5843e2-44": "65c6b1398039d72fb6a986282cec14b5bb9147e78a2dbcb46912ad05fc68ff5c",
+    "article-eca18e5843e2-45": "6dd321f3993c26c41c446564669279dd620be12eed5c92cab664a7208fd730ea",
+    "article-eca18e5843e2-46": "830d729842d9123f975fc8085f4a724c8c37c4e7574658661639587c52ba1ea5",
+    "article-eca18e5843e2-47": "dd9cba0dfcc9ccb4c0c885e8a38d32df36e1c72408a85e94281a68a5520ba1b8",
+    "article-eca18e5843e2-48": "cf55dc2dbc62e2e6059bba44153457f1ed87278a9177b2bb9fbb7238c9e04fb8",
+    "article-eca18e5843e2-49": "4e82f2af999166567bdac576eb591b673baff6255aec831e86619744758d93d4",
+    "article-eca18e5843e2-50": "997743d4870e99cb0bd87aeacaaa726e063f4bb79976fcf7b1f87433206903eb",
+    "article-eca18e5843e2-51": "760622ccaf8efabe7ff18af13d68a3897f7ea56f304699edb97c82bec96c00a6",
+    "article-eca18e5843e2-52": "fbd73e3518a766b34f312dba3618cd9064bb3fee00adee39bdd496f0bb0d0197",
+    "article-eca18e5843e2-53": "4346220c3b043608e39820c3bf4e37cd96f63773d9476687d82d6c7a3a7b6a6c",
+    "article-eca18e5843e2-54": "4e660811eb9e50355391ad824f35508c91e464b325a46ab9684be0db899bcfe5",
+    "article-eca18e5843e2-55": "3acbcfd34c422bb0c6bc7c76f86901f64f3ee28fbd0ed46ca5111064bf176a0f",
+    "article-eca18e5843e2-56": "58d92138f56b3a3daad1368d8a6ab0c2edaecb2c3fe3947453b73731dc162333",
+    "article-eca18e5843e2-57": "442f22e1f6b927a1ea6fea8d7fadf6d579fe2159c75132395917ad670e374ac8",
+    "article-eca18e5843e2-58": "45db67f095955228798f4cf457751669b4545709e538a1fdcb5232ebd20f9300"
+  },
+  "sources": [
+    {
+      "articleId": "article-94e7a19d8878",
+      "file": "Art. 48 - Oficina.pdf",
+      "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+      "originalPages": [
+        {
+          "page": 2,
+          "textSha256": "94ae593b3849361bed5a2fda6ac8dc28e5c5ba631cb8dd465dba316129f7997e"
+        },
+        {
+          "page": 3,
+          "textSha256": "4c401e782f3234c674c6827b2aa3af20fb3e81d9577cf4a8d09a4dd6e10acd6d"
+        },
+        {
+          "page": 4,
+          "textSha256": "b93cfe5caf77575e467dbe89e19a6fa015e1882c0bc2169f24a66a39d68b61fa"
+        },
+        {
+          "page": 5,
+          "textSha256": "c568286a913179bcab8440f9fb095a0eb04ab09806469fcf7358700393ddd7cb"
+        }
+      ],
+      "referencesChecked": 56
+    },
+    {
+      "articleId": "article-eca18e5843e2",
+      "file": "chiplaycompanion25-21.pdf",
+      "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+      "originalPages": [
+        {
+          "page": 1,
+          "textSha256": "b4054b021dca5ff922a730816fe6a7df1fc09371605763a21bef0b6a6ef6f007"
+        },
+        {
+          "page": 2,
+          "textSha256": "18287915fcd148f0111b804d5671f72dd3ea5941af63a4a531f75b56f98b84d9"
+        },
+        {
+          "page": 3,
+          "textSha256": "9fbc9bf5292bafe7b4a1bc4e286aa30aa90d46c057e6cc9e72afa53a2b8270eb"
+        },
+        {
+          "page": 5,
+          "textSha256": "09c9d4309e22a48a59d914f160df36f889223daa86ef80dc5d7a77ce6ec477dc"
+        }
+      ],
+      "referencesChecked": 56
+    },
+    {
+      "articleId": "article-d0d500126a80",
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+      "originalPages": [
+        {
+          "page": 6,
+          "textSha256": "45bde51424fcfb3ba1ac2db044d3e8aab4eb9db6e1013f58cfca75beba6ed90f"
+        },
+        {
+          "page": 8,
+          "textSha256": "87d207fbcef259835753989e9a130d3029ac9f2fd9c76f8b8ef7607a7b627ec7"
+        },
+        {
+          "page": 9,
+          "textSha256": "f77bfb964423dd2c11b25256dc5357c8208fc11fc84d44eecee23418fcc89adb"
+        },
+        {
+          "page": 10,
+          "textSha256": "b59e6bfe4b2eb4db8ef94b23f4eb36f60414564abce5e5c80d54e170fc05126c"
+        },
+        {
+          "page": 11,
+          "textSha256": "4e91124960b11ef3065a1358ec4e855119854e08c0073a12b2d08272366b0a45"
+        }
+      ],
+      "referencesChecked": 11
+    },
+    {
+      "articleId": "article-e13c3cb65c28",
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "sourceSha256": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8",
+      "originalPages": [
+        {
+          "page": 7,
+          "textSha256": "1eab8d132dfdb86527abb9bbbdf4c848498c9421aa2eb72d09c8084c0fcee128"
+        },
+        {
+          "page": 11,
+          "textSha256": "eb8824e17f561c220bc9e06fd1388bd657cbcb049da97248fa11077c894e7fb0"
+        },
+        {
+          "page": 14,
+          "textSha256": "d3dc9f3a744e130b01ae2143e46ded6231f899a858e299fbf5ab49d881291026"
+        },
+        {
+          "page": 15,
+          "textSha256": "b8f8d162199886cd65b8b8271fffb7d3a796e5ac983db47c583220c2ad516c06"
+        }
+      ],
+      "referencesChecked": 10
+    },
+    {
+      "articleId": "article-48bdcebcffc6",
+      "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+      "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+      "originalPages": [
+        {
+          "page": 3,
+          "textSha256": "a967cc631e722f460b4d23c75172f32ba4b0cb209d77a4e135d90ebfd1fd6fa9"
+        },
+        {
+          "page": 4,
+          "textSha256": "4297683b53a55c9b77e16bf13c75adf9e2b863e254cb0c88e81e7f312947b2d5"
+        },
+        {
+          "page": 6,
+          "textSha256": "3898310b7bc5dcda02a7cce4ee1c6459214c14749e7b16a0d9d724539818c6fc"
+        },
+        {
+          "page": 7,
+          "textSha256": "9f9a6d1ac8b044711215777829e0fdb64ada8158dc1f82f62bf623b4bb5668f2"
+        },
+        {
+          "page": 8,
+          "textSha256": "1b3388f5cea0b8336e7e6f81d5700af75d4a88c7bdb763479472c5ad36b29cf4"
+        }
+      ],
+      "referencesChecked": 10
+    },
+    {
+      "articleId": "article-39adb0cfa84e",
+      "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+      "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+      "originalPages": [
+        {
+          "page": 6,
+          "textSha256": "cb7923213326e17baf2b0bceae1cf7c8fe74c45c62424d37aec217d964a605ca"
+        },
+        {
+          "page": 7,
+          "textSha256": "c62778db3e7776aea50584347cc59915d9a43b63ed813d15cff56ba6c1f54b48"
+        },
+        {
+          "page": 8,
+          "textSha256": "647dfd933704256df58f5025b7eacc02ab4491f714113055bd9b5d2748ff6f7f"
+        },
+        {
+          "page": 12,
+          "textSha256": "fc83cdb28944a9536baf9c35dfdd1f0c864ba0a1506e7e8c3a917ffcfb97cdea"
+        },
+        {
+          "page": 14,
+          "textSha256": "4a4e0716d8cf6d81214811717df64f7c4a1dcad3777bb2d85e7cbc56b5d6f853"
+        },
+        {
+          "page": 16,
+          "textSha256": "8d2762a7f10b0a2f41d822a15eb476d35de13d715eb4b4b09cbec1a4020eb8d3"
+        }
+      ],
+      "referencesChecked": 10
+    },
+    {
+      "articleId": "article-d4b0c4f9d75f",
+      "file": "SBD - Overview May19.pdf",
+      "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+      "originalPages": [
+        {
+          "page": 3,
+          "textSha256": "a5904851028a4e9e916718b3e4a338d4665aa892ce6a41d3228207c9e18fc0e8"
+        },
+        {
+          "page": 4,
+          "textSha256": "0769020aa0cf5b64e91472a6d86e01dbdcac3d2152d491dc816117e2c98f1a6b"
+        },
+        {
+          "page": 5,
+          "textSha256": "a7513ec906e9cb614b40456ca5e7ba4dad19c67e6bf1818b37182a851f9e0525"
+        },
+        {
+          "page": 15,
+          "textSha256": "ea0009cad387822b2149c3a6f9d5aa868aa2bb5d8c76b7ccf418df55b07581bf"
+        },
+        {
+          "page": 16,
+          "textSha256": "6b4eab19ba76ef9c48797d3f70f871b6c43c7459fc366d1dcebdf0ca333648a2"
+        },
+        {
+          "page": 19,
+          "textSha256": "aa10402f321da41c540cc0623eb6378af12e08ab7885bdf06a3e2e97f811398d"
+        },
+        {
+          "page": 20,
+          "textSha256": "c686f4dd9ccb5ce680b6718b76c591eca45add3a897f019ceb3ea6629479ff47"
+        },
+        {
+          "page": 21,
+          "textSha256": "803243ee717f0fd9321aed8687966c13e12ce24f72d6aa9e45369f1cfe7f619e"
+        },
+        {
+          "page": 22,
+          "textSha256": "eb7572ece9e7cc4e2667472a9bd490834fe66e523cc07a76cb2f12c0657417b0"
+        },
+        {
+          "page": 23,
+          "textSha256": "6d36c38999fabec9a59c73d17881a8946721ed9795d785d736812286f06ba2a3"
+        },
+        {
+          "page": 24,
+          "textSha256": "65631e17cef0aaf6b2270df44474ac02dc13785cea49df6de27775989965a5f2"
+        },
+        {
+          "page": 25,
+          "textSha256": "084e6524f4381cf295f59e74f34725f8a7e991d45240d48544578ca07adc19f7"
+        },
+        {
+          "page": 26,
+          "textSha256": "f05d609886904649978762d9abda550e05c4dc764802ac93a2a0b1ec0a09e41c"
+        },
+        {
+          "page": 27,
+          "textSha256": "42cc332addb8a0f5b2348a4473fe63ede35aca67fd4379f4c375d32117f3b7c7"
+        },
+        {
+          "page": 28,
+          "textSha256": "8d802c5ca5de59f8607849c1874329f92a91cb1378db16c2c18d12d5537a8d90"
+        },
+        {
+          "page": 29,
+          "textSha256": "6e78b7a2aeff9034ab0c01dcced2cdc6766a9ad33001edda558385396a772874"
+        },
+        {
+          "page": 30,
+          "textSha256": "6de23f7dc614fe665778687a95b295d656a2890057f5f24db06e80d06b1c584f"
+        },
+        {
+          "page": 31,
+          "textSha256": "78237bd1370b033eca87acc810415e62fc28695289011033aa0f3fe1cd8ef90f"
+        },
+        {
+          "page": 32,
+          "textSha256": "dd257794ef257ac9abb533d7a2042634dcbe464e091bcbe5bc27dff7679d6df3"
+        },
+        {
+          "page": 33,
+          "textSha256": "248d2788c851d583431da7748da29e017d348b3cd242875ce40fa2c25027234f"
+        },
+        {
+          "page": 34,
+          "textSha256": "6652c750f447e191d4184ffd2120aed4c732379d8c0808e7e6d31bb353264df9"
+        },
+        {
+          "page": 35,
+          "textSha256": "9db159ddbe03f412998a34df6541633d7763936728e2a3ed8f71af3579f235f3"
+        },
+        {
+          "page": 36,
+          "textSha256": "dd8b719a5085c05446a69de501a1bc0fd5d1282ec135431b0fcd993322c09525"
+        }
+      ],
+      "referencesChecked": 60
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+[
+  {
+    "cardId": "article-d4b0c4f9d75f-50",
+    "status": "revision_required",
+    "reason": "A resposta faz afirmação factual de que as notasSbD são ilustrações, mas a fonte principal seleciona somentep32. Acrescentar p21e trecho literal completo que explicita caráter ilustrativo e ausência de evidência robusta; a comparação com Agenda9–10é semanticamente adequada.",
+    "cardSha256": "78af5c40c8c6450e7949ce66b9bba35901cf13862d404a3e456d95a95c60d82f",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        32
+      ],
+      "article-d0d500126a80": [
+        9,
+        10
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:04:03.021Z",
+    "candidateSnapshot": {
+      "id": "article-d4b0c4f9d75f-50",
+      "articleId": "article-d4b0c4f9d75f",
+      "question": "Como alertas de risco do SbD e ferramentas de apoio ao jogador podem preservar autonomia sem produzir nova manipulação?",
+      "answer": "O SbD 2.3 propõe sinais de risco relevantes e oportunidade de reflexão. A agenda imagina ferramentas contextuais que expliquem mecanismos enganosos e ajudem escolhas informadas, mas adverte contra [[enganar o usuário para fazê-lo escolher melhor]], impor decisões, excesso de alertas, falsos positivos e intrusão. A correlação permite avaliar tanto a intenção protetora quanto a experiência criada pela intervenção: informar, oferecer alternativas e manter escolha não é o mesmo que dirigir coercivamente. Essas ferramentas são [[propostas que exigem teste]], e as notas SbD são ilustrações; nenhum dos textos demonstra que qualquer aviso, por ser protetor na intenção, preserve automaticamente autonomia.",
+      "source": {
+        "file": "SBD - Overview May19.pdf",
+        "title": "Safety by Design Overview (May 2019)",
+        "pages": [
+          32
+        ],
+        "sections": [
+          "Principle 2.3",
+          "Good practice note (Principle 2.3)"
+        ],
+        "evidence": [
+          "eSafety Commissioner 30\n\nGood practice note ( Principle 2.3)\n\nPA Consulting in the UK has developed online risk\n\nalert principles\n79 \nfor creating safety alerts that\n\neducate people on how to spot online dangers.\n\nAlerts to users are instant, specific, relevant,\n\nprivate and supportive. They have developed\n\na proof of concept that presents risk-based\n\nindicator alerts to users, empowering them to\n\nreflect and consider their situation and take\n\nappropriate precautionary steps.\n\nMany platforms use age-gates and interstitial\n\nwarnings on videos, images and messages\n\nthat have been flagged to the service as being\n\nsensitive or age-inappropriate.\n\nTwitter uses behavioural signals to identify users\n\nwho target others with abuse or harassment.\n\nThey then limit the visibility of their tweets,\n\nas well as allowing users to mute specific\n\nindividuals themselves. Tweets will only be\n\nremoved once they have been reviewed as\n\nviolating Twitter’s Rules.\n\nYubo filters images and live-streaming in order\n\nto detect nudity and users posing in their\n\nunderwear, prompting users to reconsider posting\n\nimages, or to be fully dressed, before allowing\n\nlive streams or posts to be uploaded.\n\nRoblox provides users with different safety\n\nsettings and experiences dependent on the age\n\nof the account holder. For those aged 12 and\n\nunder, posts and chats are filtered for both\n\ninappropriate content and behaviour, and to\n\nprevent personal information from being posted\n\nin both private and public chat.\n\nPopJam uses facial recognition technology\n\nand optical character recognition on images\n\nuploaded onto its platform. These tools ensure\n\nthat text embedded onto images does not violate\n\ncommunity standards and that users do not post\n\nreal-life images of their faces onto the platform.\n\n79 Please see www.paconsulting.com/insights/protecting-children-from-online-sexual-exploitation-and-abuse/ .\n\nPrinciple 2.3: Leverage the use of technical features\n\nto mitigate against risks and harms, which can be\n\nflagged to users at point of relevance, and which\n\nprompt and optimise safer interactions\n\nProactive measures can be taken by services to\n\nforewarn or surface risk indicators to users so that\n\nthey are able to take action against, or mitigate,\n\nany potential risks or harms. A proactive approach\n\nenables users to act before an incident takes place,\n\nrather than waiting until the damage has occurred.\n\nSwift action against imminent violations creates\n\nopportunities for reflection and evaluation. This can\n\nempower users to take steps to safeguard not only\n\nthemselves, but also to enhance the resilience of\n\nthe network or system as a whole.\n\nSafety standards and their subsequent protections\n\nare essential elements of a value-sensitive design.\n\nWhile users should have the freedom to express\n\nthemselves and participate fully in the opportunities\n\nthat the online world offers, they should be required\n\nto adhere to the prosocial norms promoted within\n\nthe environment.\n\nMultiple technical tools and features have been\n\ndeveloped that can filter content — not necessarily\n\nfor removal (except when the content is illegal), but\n\nto place it behind age-gates or interstitial warning\n\npages so that users can access the content by\n\nexercising informed consent.\n\nAdvances in technology have meant that services\n\ncan use behavioural and content signals to identify\n\nrisky users, behaviour and content, even at the\n\npoint of upload or contact. Measures can then be\n\ntaken to immediately reduce risk of harm to users,\n\nas well as providing users with the necessary tools\n\nand information so they are able to navigate the\n\nservice safely. Services are therefore able to prompt\n\nor sign-post users towards advice, support and\n\nguidance at point of need."
+        ]
+      },
+      "kind": "synthesis",
+      "relatedSources": [
+        {
+          "articleId": "article-d0d500126a80",
+          "source": {
+            "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+            "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+            "pages": [
+              9,
+              10
+            ],
+            "sections": [
+              "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+            ],
+            "evidence": [
+              "From Understanding to Intervention 95\n\nsoftware artifacts with real-time support and intervention. Extending the learn-\ning possibilities of such projects, we propose a focused research effort on two\n\ntypes of software artifacts. First, player-assisting tools , such as browser exten-\nsions or in-game overlays. Their main goal would be to help transfer the pattern\n\nrecognition skills games into immediate, contextual guidance. Such tools might\n\nhighlight potential DPs as they appear, explain their manipulative mechanisms\n\n(drawing on the typologies and user reactions), and perhaps even suggest alter-\nnative actions derived from a validated repository.\n\nThe advantage provided herein is the immediate empowerment of players\n\nwithin their interaction, upholding their right to informed choice, and alleviating\n\nthe sense of being “deceived” [ 38 ]. That could potentially enable players to bypass\n\nchoices that could harm their autonomy. However, these tools are not supposed to\n\ntrick the user into ‘making a better choice.’ That would also hurt their autonomy.\n\nMoreover, as Xiao and Denoo discussed, advanced players or game platforms\n\nmight devise methods to circumvent or compromise the efficacy of such tools\n\n[ 40 ]. Instead, these mechanisms should aim to enhance player agency by fostering\n\nreal-time awareness, not to diminish it by dictating choices. The core intention is\n\nto transform potentially deceptive or manipulative encounters into opportunities\n\nfor informed decision-making.\n\nThere are specific concerns to consider. These tools must avoid alert fatigue\n\nfrom excessive notifications and monitor subtle DPs across gaming interfaces\n\nwithout generating high false positives. Additionally, they need to minimize\n\nbeing seen as intrusive to maintain a positive gaming experience.\n\nThe second type would be developer-supported tools for major game\n\nengines, which might proactively integrate ethical considerations into the devel-\nopment process. The goal here is to support developer objectives that align\n\nwith player well-being. Plugging in the research on the root of DPs in design\n\ndevelopment and the issues designers encounter, such tools could help identify\n\npotentially problematic design decisions at development time and help design-\ners brainstorm healthier alternatives. They could check against predefined DPs\n\ndefinitions derived from the vast literature that describes them and suggest eth-\nically informed alternatives from the proposed repertoire of different proposals\n\nof positive design patterns.\n\nThe primary benefit is proactive, encouraging inherently ethical practices\n\nand support for designers working towards creating healthier experiences, par-\nticularly when they might not have clear guidance or face strict time limits\n\n[ 23 ]. This approach may help developers better consider, negotiate, and make\n\ninformed design decisions on how to be more ethically engaged in their work-\nflows. Of course, there are potential challenges to be considered. They include the\n\ndifficulty of developing intelligent and context-aware tools that make practical\n\nproposals to players instead of just giving trivial notifications. Also, developers\n\nrisk working around or dismissing such tools if they are perceived as creativity\n\nlimitations, too limiting in design choices, or conflict with perceived financial\n\nobjectives.",
+              "96 T. Darin and N. Carneiro\n\nOf course, these tools’ successful adoption and efficacy would be influenced by\n\nthe industry’s willingness to embrace ethical design standards and integrate such\n\nsupport. However, this integration is a necessary embodiment of ethical princi-\nples rather than a strategy to enhance tool efficacy. It requires a broader shift\n\ntowards embedding these standards deeply within development cultures. Besides,\n\ndeveloping such software products demands an insightful grasp of player psychol-\nogy founded on research surrounding cognitive bias and DPs and the pragmatics\n\nof game development. Rigorous empirical testing will also be essential to guar-\nantee that such tools are effective and easy to use, balance the empowerment of\n\nboth end-users and developers’ sustainable goals, and foster a healthy interactive\n\nexperience.\n\nIt is important to note that while designing developer-support tools is cru-\ncial for fostering ethical game design practices, it is equally essential to recognize\n\nthe structural constraints within the game industry that may limit their adop-\ntion and impact. Many monetization-related decisions are typically made not\n\nby designers or developers but by higher-level stakeholders such as sharehold-\ners, executives, and product or monetization teams. These decision-makers often\n\nhave limited or no background in game development and primarily rely on key\n\nperformance indicators (KPIs) like player retention, session length, active user\n\nbase, and revenue metrics to drive design directives. As a result, developers and\n\ndesigners may have little autonomy to reject manipulative practices, even when\n\nthey are aware of the ethical concerns surrounding DPs. Given this context, we\n\nadvocate for further empirical research – such as large-scale surveys or interviews\n\nwith industry professionals, especially within the mobile and live-ops sectors –\n\nto better understand developers’ awareness of DPs, their perceived agency in\n\ndecision-making processes, and the organizational pressures they face. This line\n\nof inquiry could help clarify how deeply knowledge and decision power regarding\n\nDPs are distributed across different roles in game companies, potentially guiding\n\nmore targeted and feasible counter-strategies in the future.\n\n3.3 Advancing Methods and Measures for Assessing Dark Pattern\n\nPrevalence and Player Experience, Including Well-Being\n\nCurrent HCI research excels at identifying and categorizing DPs, although not\n\nas much within games, and provides critical explorations of their ethical and\n\npsychological impacts [ 16 ]. Significant steps have been made toward evaluation\n\ntools, such as the System Darkness Scale [ 30 ] that assess a system’s perceived\n\n“darkness,” and frameworks like the ADD framework [ 8 ] for critically considering\n\nDPs in children’s applications. While these analytical insights and identification\n\nmethods are foundational, we advocate for expanding efforts to develop and val-\nidate robust methods and measures that can more directly and quantifiably\n\nassess the impact of specific game design elements on player autonomy,\n\nperceived manipulation, and holistic psychological well-being.\n\nThe aim is not merely to identify whether well-being is affected but to under-\nstand and quantify this relationship with greater nuance, particularly when\n\nevaluating the efficacy of proposed countermeasures. It involves developing or"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "article-94e7a19d8878-34",
+    "status": "revision_required",
+    "reason": "A comparação §14/SbD1 é semanticamente adequada, mas a resposta qualifica SbD como orientação voluntária e cita somente p22. Acrescentar SbD p21 e trecho literal completo que fundamenta voluntariedade, mantendo p22 para responsabilidade do prestador.",
+    "cardSha256": "9723569f14a2749e0070b49d4f0389707890a98e34f1e2e81db68e66d5092271",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4,
+        5
+      ],
+      "article-d4b0c4f9d75f": [
+        22
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.300Z",
+    "candidateSnapshot": {
+      "id": "article-94e7a19d8878-34",
+      "articleId": "article-94e7a19d8878",
+      "question": "Como o §14 do Art. 48 local e o princípio de responsabilidade do prestador em Safety by Design deslocam a atenção do usuário isolado para o serviço?",
+      "answer": "No Art. 48 local, a classificação final também considera [[controle editorial, controles etários/parentais acessíveis e políticas de moderação]]. Safety by Design, no Princípio 1, sustenta que a responsabilidade é compartilhada, mas que o [[ônus da segurança nunca deve recair somente sobre o usuário final]], e que danos conhecidos e antecipados devem ser avaliados no projeto e na oferta do serviço. A correlação é uma leitura comparativa: ambos permitem examinar o que o prestador faz, além das escolhas individuais. Eles têm escopos diferentes — critérios de classificação de um documento local e orientação preventiva voluntária — e não demonstram, por sua simples presença, que uma plataforma é segura.",
+      "source": {
+        "file": "Art. 48 - Oficina.pdf",
+        "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+        "pages": [
+          4,
+          5
+        ],
+        "sections": [
+          "Art. 48, §14"
+        ],
+        "evidence": [
+          "§14 Para fi ns de atribuição da classi fi cação indicativa fi nal, serão considerados,\nainda:\nI – o grau de controle editorial e de curadoria exercido pelo prestador de\nserviços digitais sobre os conteúdos disponibilizados;",
+          "II – a existência de ferramentas de controle etário e de controles parentais\nacessíveis ao usuário; e\nIII – a adoção de políticas de moderação que restrinjam o acesso de menores a\nconteúdos sensíveis ou que proíbam tais conteúdos na aplicação, desde que\nalinhadas ao disposto no Marco Civil da Internet (Lei nº 12.965, de 23 de abril\nde 2014)."
+        ]
+      },
+      "kind": "synthesis",
+      "relatedSources": [
+        {
+          "articleId": "article-d4b0c4f9d75f",
+          "source": {
+            "file": "SBD - Overview May19.pdf",
+            "title": "Safety by Design Overview (May 2019)",
+            "pages": [
+              22
+            ],
+            "sections": [
+              "Principle 1: Service provider responsibilities"
+            ],
+            "evidence": [
+              "This principle is based on the central tenet that\n\nwhile user safety is a shared responsibility, the\n\nburden of safety should never fall solely upon\n\nthe end user. It acknowledges that, even though\n\nno platform or service can ensure the complete\n\nsafety of individuals, every attempt should be\n\nmade to ensure that known and anticipated harms\n\nhave been adequately assessed in the design and\n\nprovision of a service.\n\nOnline services can take preventative steps to\n\nguard against their service being used to facilitate,\n\ninflame or encourage illegal and inappropriate\n\nbehaviours. To help ensure that known and\n\nanticipated harms have been evaluated in the\n\ndesign and provision of an online service, eight\n\npreventative steps have been identified under\n\nPrinciple 1."
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "article-eca18e5843e2-14",
+    "status": "revision_required",
+    "reason": "Os números11,1%e27,4%estão corretos e secundários, mas a resposta diz jogadores estudados pelo trabalho, sugerindo uma amostra que o artigo especulativo não apresenta. Trocar por jogadores ou jogadores discutidos, sem atribuir observação empírica própria.",
+    "cardSha256": "e779855a18a96391a3ab271d30ffee6fd46b3c7547914b31923084e4c1608a95",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z",
+    "candidateSnapshot": {
+      "id": "article-eca18e5843e2-14",
+      "articleId": "article-eca18e5843e2",
+      "question": "Como a comparação de pobreza entre Brasil e Estados Unidos é usada no argumento de Games Made Elsewhere, e o que ela não permite concluir?",
+      "answer": "O artigo apresenta taxas de [[11,1% nos Estados Unidos e 27,4% no Brasil]] para ilustrar uma precariedade mais disseminada no contexto brasileiro e a associa à literatura sobre decisão prejudicada pelo estresse. A função da comparação é situar uma assimetria de condições de consumo, não medir diretamente o comportamento dos jogadores estudados pelo trabalho. Não se trata de uma nova coleta empírica feita nesse artigo, tampouco de uma inferência sobre cada pessoa pobre. Os números devem ser tratados como [[dados secundários citados pelo texto]], sem transformá-los em estimativas atuais.",
+      "source": {
+        "file": "chiplaycompanion25-21.pdf",
+        "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+        "pages": [
+          1
+        ],
+        "sections": [
+          "2 The Creator-Consumer Divide as a Lens for Understanding Systemic Player Vulnerability"
+        ],
+        "evidence": [
+          "The contrast between the United States (US) and\nBrazil illustrates this asymmetry. The US poverty rate is 11.1% [31],\nwhile in Brazil it is over double at 27.4% [14], indicating a more\nwidespread precarity, which is linked to stress-impaired decision-\nmaking [16]."
+        ]
+      },
+      "kind": "direct"
+    }
+  },
+  {
+    "cardId": "article-eca18e5843e2-26",
+    "status": "revision_required",
+    "reason": "O original da p2 escreve apenas $18, sem especificar USD. Pergunta e resposta acrescentam US$18. Preservar a notação $18 do documento ou esclarecer explicitamente que a moeda não é especificada; a relação ficcional com gás de cozinha é correta.",
+    "cardSha256": "615f5667320343e63394efd09b6744ccf12f9c3032a18f3bc3ec8c85da8dfa52",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z",
+    "candidateSnapshot": {
+      "id": "article-eca18e5843e2-26",
+      "articleId": "article-eca18e5843e2",
+      "question": "Por que o preço de US$18 no Pay-to-Skip da ficção de Helena é descrito em relação ao gás de cozinha?",
+      "answer": "Na narrativa especulativa, US$18 não são renda disponível para Helena: correspondem à parcela mensal destinada ao [[gás de cozinha]]. A equivalência torna visível o conflito entre progresso virtual e necessidade material, em vez de tratar o preço como número abstrato e igual para todos. O texto acrescenta que a impossibilidade de pagar funciona como sua única defesa naquele momento. Esse exemplo não fornece uma taxa real de conversão nem caracteriza o orçamento de jogadores brasileiros; é uma [[comparação construída dentro da ficção]] para expor a relevância do contexto econômico.",
+      "source": {
+        "file": "chiplaycompanion25-21.pdf",
+        "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+        "pages": [
+          2
+        ],
+        "sections": [
+          "3 A Speculative Perspective: Helena and The Gilded Cage of Ouroboros Seed"
+        ],
+        "evidence": [
+          "Initially, the game delivers. Its AI-optimized loops provide a\ncomforting sense of progress, fostering a deep engagement that\nsoon becomes dependency. The system then creates personalized\ncrises that make progress dependent on either intense Grinding\n[38] or a $18 Pay-to-Skip offer. For Helena, $18 is not disposable\nincome; it represents the portion of her monthly income for cooking\ngas. Her inability to pay is her only defense. But at an AI-calculated\nmoment of peak desperation, the game presents a different kind\nof offer: the ’Community Solidarity Pledge.’ It is not a demand\nfor immediate cash, but a subtle prompt to pledge a portion of\nher upcoming government benefit, the Bolsa Família. Framed as\na pro-social commitment, not a purchase, and designed to exploit\nthe human bias for immediate relief over a future cost, the offer\nbypasses her financial barrier. She sacrifices a piece of her real-\nworld safety net for a fleeting sense of success in her gilded cage."
+        ]
+      },
+      "kind": "direct"
+    }
+  },
+  {
+    "cardId": "article-eca18e5843e2-28",
+    "status": "revision_required",
+    "reason": "O original da p2 diz peak desperation; a resposta traduz como máxima desesperança. Usar máximo desespero/auge do desespero para preservar o estado descrito sem acrescentar a noção de hopelessness. Enquadramento pró-social, custo futuro e ficção estão corretos.",
+    "cardSha256": "e71c4817b5774cf976a664fa94fab79a6e258079291843e32f70e277e2b600db",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z",
+    "candidateSnapshot": {
+      "id": "article-eca18e5843e2-28",
+      "articleId": "article-eca18e5843e2",
+      "question": "Que diferença existe entre a aparência pró-social e o custo futuro do Community Solidarity Pledge na ficção de Ouroboros Seed?",
+      "answer": "A oferta é apresentada como [[compromisso de solidariedade, e não compra]], no momento que a IA ficcional calcula como de máxima desesperança. O texto associa essa moldura à preferência por alívio imediato diante de um custo futuro, de modo a atravessar a resistência financeira da personagem. O nome comunitário não elimina o sacrifício de recursos da vida real. Tudo isso pertence ao cenário crítico imaginado: a questão não descreve um experimento sobre vieses nem prova uma taxa de resposta. Ela expõe a [[distância entre linguagem da oferta e consequência material]].",
+      "source": {
+        "file": "chiplaycompanion25-21.pdf",
+        "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+        "pages": [
+          2
+        ],
+        "sections": [
+          "3 A Speculative Perspective: Helena and The Gilded Cage of Ouroboros Seed"
+        ],
+        "evidence": [
+          "Initially, the game delivers. Its AI-optimized loops provide a\ncomforting sense of progress, fostering a deep engagement that\nsoon becomes dependency. The system then creates personalized\ncrises that make progress dependent on either intense Grinding\n[38] or a $18 Pay-to-Skip offer. For Helena, $18 is not disposable\nincome; it represents the portion of her monthly income for cooking\ngas. Her inability to pay is her only defense. But at an AI-calculated\nmoment of peak desperation, the game presents a different kind\nof offer: the ’Community Solidarity Pledge.’ It is not a demand\nfor immediate cash, but a subtle prompt to pledge a portion of\nher upcoming government benefit, the Bolsa Família. Framed as\na pro-social commitment, not a purchase, and designed to exploit\nthe human bias for immediate relief over a future cost, the offer\nbypasses her financial barrier. She sacrifices a piece of her real-\nworld safety net for a fleeting sense of success in her gilded cage."
+        ]
+      },
+      "kind": "direct"
+    }
+  },
+  {
+    "cardId": "article-d4b0c4f9d75f-50",
+    "status": "approved",
+    "reason": "Segunda revisão: a fonte SbD agora inclui p21 e seu contexto completo sobre notas ilustrativas e ausência de evidência robusta, mantendo p32 e Agenda p9–10. Releitura do PDF confirma as duas premissas e os limites da comparação: alerta protetor não garante autonomia, e ferramentas propostas exigem teste.",
+    "cardSha256": "6ec2bf7f52847fdcc3a003d55bff73363d8d2b9b28d7f0742715bb7e5a2a30e8",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": {
+      "article-d4b0c4f9d75f": [
+        32,
+        21
+      ],
+      "article-d0d500126a80": [
+        9,
+        10
+      ]
+    },
+    "reviewedAt": "2026-11-10T11:13:34.967Z",
+    "candidateSnapshot": {
+      "id": "article-d4b0c4f9d75f-50",
+      "articleId": "article-d4b0c4f9d75f",
+      "question": "Como alertas de risco do SbD e ferramentas de apoio ao jogador podem preservar autonomia sem produzir nova manipulação?",
+      "answer": "O SbD 2.3 propõe sinais de risco relevantes e oportunidade de reflexão. A agenda imagina ferramentas contextuais que expliquem mecanismos enganosos e ajudem escolhas informadas, mas adverte contra [[enganar o usuário para fazê-lo escolher melhor]], impor decisões, excesso de alertas, falsos positivos e intrusão. A correlação permite avaliar tanto a intenção protetora quanto a experiência criada pela intervenção: informar, oferecer alternativas e manter escolha não é o mesmo que dirigir coercivamente. Essas ferramentas são [[propostas que exigem teste]], e as notas SbD são ilustrações; nenhum dos textos demonstra que qualquer aviso, por ser protetor na intenção, preserve automaticamente autonomia.",
+      "source": {
+        "file": "SBD - Overview May19.pdf",
+        "title": "Safety by Design Overview (May 2019)",
+        "pages": [
+          32,
+          21
+        ],
+        "sections": [
+          "Principle 2.3",
+          "Good practice note (Principle 2.3)",
+          "V. Safety by Design Principles"
+        ],
+        "evidence": [
+          "eSafety Commissioner 30\n\nGood practice note ( Principle 2.3)\n\nPA Consulting in the UK has developed online risk\n\nalert principles\n79 \nfor creating safety alerts that\n\neducate people on how to spot online dangers.\n\nAlerts to users are instant, specific, relevant,\n\nprivate and supportive. They have developed\n\na proof of concept that presents risk-based\n\nindicator alerts to users, empowering them to\n\nreflect and consider their situation and take\n\nappropriate precautionary steps.\n\nMany platforms use age-gates and interstitial\n\nwarnings on videos, images and messages\n\nthat have been flagged to the service as being\n\nsensitive or age-inappropriate.\n\nTwitter uses behavioural signals to identify users\n\nwho target others with abuse or harassment.\n\nThey then limit the visibility of their tweets,\n\nas well as allowing users to mute specific\n\nindividuals themselves. Tweets will only be\n\nremoved once they have been reviewed as\n\nviolating Twitter’s Rules.\n\nYubo filters images and live-streaming in order\n\nto detect nudity and users posing in their\n\nunderwear, prompting users to reconsider posting\n\nimages, or to be fully dressed, before allowing\n\nlive streams or posts to be uploaded.\n\nRoblox provides users with different safety\n\nsettings and experiences dependent on the age\n\nof the account holder. For those aged 12 and\n\nunder, posts and chats are filtered for both\n\ninappropriate content and behaviour, and to\n\nprevent personal information from being posted\n\nin both private and public chat.\n\nPopJam uses facial recognition technology\n\nand optical character recognition on images\n\nuploaded onto its platform. These tools ensure\n\nthat text embedded onto images does not violate\n\ncommunity standards and that users do not post\n\nreal-life images of their faces onto the platform.\n\n79 Please see www.paconsulting.com/insights/protecting-children-from-online-sexual-exploitation-and-abuse/ .\n\nPrinciple 2.3: Leverage the use of technical features\n\nto mitigate against risks and harms, which can be\n\nflagged to users at point of relevance, and which\n\nprompt and optimise safer interactions\n\nProactive measures can be taken by services to\n\nforewarn or surface risk indicators to users so that\n\nthey are able to take action against, or mitigate,\n\nany potential risks or harms. A proactive approach\n\nenables users to act before an incident takes place,\n\nrather than waiting until the damage has occurred.\n\nSwift action against imminent violations creates\n\nopportunities for reflection and evaluation. This can\n\nempower users to take steps to safeguard not only\n\nthemselves, but also to enhance the resilience of\n\nthe network or system as a whole.\n\nSafety standards and their subsequent protections\n\nare essential elements of a value-sensitive design.\n\nWhile users should have the freedom to express\n\nthemselves and participate fully in the opportunities\n\nthat the online world offers, they should be required\n\nto adhere to the prosocial norms promoted within\n\nthe environment.\n\nMultiple technical tools and features have been\n\ndeveloped that can filter content — not necessarily\n\nfor removal (except when the content is illegal), but\n\nto place it behind age-gates or interstitial warning\n\npages so that users can access the content by\n\nexercising informed consent.\n\nAdvances in technology have meant that services\n\ncan use behavioural and content signals to identify\n\nrisky users, behaviour and content, even at the\n\npoint of upload or contact. Measures can then be\n\ntaken to immediately reduce risk of harm to users,\n\nas well as providing users with the necessary tools\n\nand information so they are able to navigate the\n\nservice safely. Services are therefore able to prompt\n\nor sign-post users towards advice, support and\n\nguidance at point of need.",
+          "Safety by Design 19\n\nV. Safety by Design Principles\n\nWhile four over-arching principles were initially\n\ndeveloped, two of the principles were combined\n\nfollowing feedback received during consultations.\n\nAs a result, three over-arching high-level principles\n\nwere drafted to provide clear guidance to industry\n\nto help them develop services that harness the\n\nbenefits and potential of the online world, while\n\nmitigating against real risks and harms.\n\nThe principles set out the measures that eSafety\n\nencourages and envisages online and digital\n\nservices will take to ensure that the safety of\n\nusers is suitably addressed and considered during\n\nthe design, development and deployment of their\n\nservice. While voluntary, adopting the principles will\n\nset industries apart in the marketplace, allowing\n\ncompanies to show global leadership in developing\n\nresponsible, value and safety-centred online\n\nproducts and services.\n\nGood practice notes have also been provided\n\nas part of the Principles to guide industry in\n\nunderstanding and implementing the principles\n\nand highlighting that the principles are achievable,\n\nrealistic and actionable. These were highlighted\n\nduring the consultation process as effective,\n\nalthough there is no robust evidence about the\n\neffectiveness and impact of these practices. As\n\nsuch, the good practice notes should be viewed as\n\nillustrations only, and act as a guide.\n\nThe principles that sit underneath each overarching\n\nhigh-level principle have been ranked according\n\nto the sense of urgency with which they need to\n\nbe addressed — a point which was highlighted by\n\nall three stakeholder groups in consultation. While\n\nservices are encouraged to address each principle,\n\ngreater attention and focus should be placed on\n\nmeeting the higher ranked principles."
+        ]
+      },
+      "kind": "synthesis",
+      "relatedSources": [
+        {
+          "articleId": "article-d0d500126a80",
+          "source": {
+            "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+            "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+            "pages": [
+              9,
+              10
+            ],
+            "sections": [
+              "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+            ],
+            "evidence": [
+              "From Understanding to Intervention 95\n\nsoftware artifacts with real-time support and intervention. Extending the learn-\ning possibilities of such projects, we propose a focused research effort on two\n\ntypes of software artifacts. First, player-assisting tools , such as browser exten-\nsions or in-game overlays. Their main goal would be to help transfer the pattern\n\nrecognition skills games into immediate, contextual guidance. Such tools might\n\nhighlight potential DPs as they appear, explain their manipulative mechanisms\n\n(drawing on the typologies and user reactions), and perhaps even suggest alter-\nnative actions derived from a validated repository.\n\nThe advantage provided herein is the immediate empowerment of players\n\nwithin their interaction, upholding their right to informed choice, and alleviating\n\nthe sense of being “deceived” [ 38 ]. That could potentially enable players to bypass\n\nchoices that could harm their autonomy. However, these tools are not supposed to\n\ntrick the user into ‘making a better choice.’ That would also hurt their autonomy.\n\nMoreover, as Xiao and Denoo discussed, advanced players or game platforms\n\nmight devise methods to circumvent or compromise the efficacy of such tools\n\n[ 40 ]. Instead, these mechanisms should aim to enhance player agency by fostering\n\nreal-time awareness, not to diminish it by dictating choices. The core intention is\n\nto transform potentially deceptive or manipulative encounters into opportunities\n\nfor informed decision-making.\n\nThere are specific concerns to consider. These tools must avoid alert fatigue\n\nfrom excessive notifications and monitor subtle DPs across gaming interfaces\n\nwithout generating high false positives. Additionally, they need to minimize\n\nbeing seen as intrusive to maintain a positive gaming experience.\n\nThe second type would be developer-supported tools for major game\n\nengines, which might proactively integrate ethical considerations into the devel-\nopment process. The goal here is to support developer objectives that align\n\nwith player well-being. Plugging in the research on the root of DPs in design\n\ndevelopment and the issues designers encounter, such tools could help identify\n\npotentially problematic design decisions at development time and help design-\ners brainstorm healthier alternatives. They could check against predefined DPs\n\ndefinitions derived from the vast literature that describes them and suggest eth-\nically informed alternatives from the proposed repertoire of different proposals\n\nof positive design patterns.\n\nThe primary benefit is proactive, encouraging inherently ethical practices\n\nand support for designers working towards creating healthier experiences, par-\nticularly when they might not have clear guidance or face strict time limits\n\n[ 23 ]. This approach may help developers better consider, negotiate, and make\n\ninformed design decisions on how to be more ethically engaged in their work-\nflows. Of course, there are potential challenges to be considered. They include the\n\ndifficulty of developing intelligent and context-aware tools that make practical\n\nproposals to players instead of just giving trivial notifications. Also, developers\n\nrisk working around or dismissing such tools if they are perceived as creativity\n\nlimitations, too limiting in design choices, or conflict with perceived financial\n\nobjectives.",
+              "96 T. Darin and N. Carneiro\n\nOf course, these tools’ successful adoption and efficacy would be influenced by\n\nthe industry’s willingness to embrace ethical design standards and integrate such\n\nsupport. However, this integration is a necessary embodiment of ethical princi-\nples rather than a strategy to enhance tool efficacy. It requires a broader shift\n\ntowards embedding these standards deeply within development cultures. Besides,\n\ndeveloping such software products demands an insightful grasp of player psychol-\nogy founded on research surrounding cognitive bias and DPs and the pragmatics\n\nof game development. Rigorous empirical testing will also be essential to guar-\nantee that such tools are effective and easy to use, balance the empowerment of\n\nboth end-users and developers’ sustainable goals, and foster a healthy interactive\n\nexperience.\n\nIt is important to note that while designing developer-support tools is cru-\ncial for fostering ethical game design practices, it is equally essential to recognize\n\nthe structural constraints within the game industry that may limit their adop-\ntion and impact. Many monetization-related decisions are typically made not\n\nby designers or developers but by higher-level stakeholders such as sharehold-\ners, executives, and product or monetization teams. These decision-makers often\n\nhave limited or no background in game development and primarily rely on key\n\nperformance indicators (KPIs) like player retention, session length, active user\n\nbase, and revenue metrics to drive design directives. As a result, developers and\n\ndesigners may have little autonomy to reject manipulative practices, even when\n\nthey are aware of the ethical concerns surrounding DPs. Given this context, we\n\nadvocate for further empirical research – such as large-scale surveys or interviews\n\nwith industry professionals, especially within the mobile and live-ops sectors –\n\nto better understand developers’ awareness of DPs, their perceived agency in\n\ndecision-making processes, and the organizational pressures they face. This line\n\nof inquiry could help clarify how deeply knowledge and decision power regarding\n\nDPs are distributed across different roles in game companies, potentially guiding\n\nmore targeted and feasible counter-strategies in the future.\n\n3.3 Advancing Methods and Measures for Assessing Dark Pattern\n\nPrevalence and Player Experience, Including Well-Being\n\nCurrent HCI research excels at identifying and categorizing DPs, although not\n\nas much within games, and provides critical explorations of their ethical and\n\npsychological impacts [ 16 ]. Significant steps have been made toward evaluation\n\ntools, such as the System Darkness Scale [ 30 ] that assess a system’s perceived\n\n“darkness,” and frameworks like the ADD framework [ 8 ] for critically considering\n\nDPs in children’s applications. While these analytical insights and identification\n\nmethods are foundational, we advocate for expanding efforts to develop and val-\nidate robust methods and measures that can more directly and quantifiably\n\nassess the impact of specific game design elements on player autonomy,\n\nperceived manipulation, and holistic psychological well-being.\n\nThe aim is not merely to identify whether well-being is affected but to under-\nstand and quantify this relationship with greater nuance, particularly when\n\nevaluating the efficacy of proposed countermeasures. It involves developing or"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "article-94e7a19d8878-34",
+    "status": "approved",
+    "reason": "Segunda revisão: a fonte adicional SbD agora inclui p21 com voluntariedade explícita, além de p22 para responsabilidade do prestador. O Art48 p4–5 permanece documental local. As premissas e a distinção de escopos sustentam a síntese, sem afirmar segurança pela classificação ou eficácia automática.",
+    "cardSha256": "52df7f592cebbf95a7bcfb6b4bf4d318f6b1810c6ec2b7d4d9230c0920a1d9a5",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4,
+        5
+      ],
+      "article-d4b0c4f9d75f": [
+        22,
+        21
+      ]
+    },
+    "reviewedAt": "2026-11-10T11:13:34.974Z",
+    "candidateSnapshot": {
+      "id": "article-94e7a19d8878-34",
+      "articleId": "article-94e7a19d8878",
+      "question": "Como o §14 do Art. 48 local e o princípio de responsabilidade do prestador em Safety by Design deslocam a atenção do usuário isolado para o serviço?",
+      "answer": "No Art. 48 local, a classificação final também considera [[controle editorial, controles etários/parentais acessíveis e políticas de moderação]]. Safety by Design, no Princípio 1, sustenta que a responsabilidade é compartilhada, mas que o [[ônus da segurança nunca deve recair somente sobre o usuário final]], e que danos conhecidos e antecipados devem ser avaliados no projeto e na oferta do serviço. A correlação é uma leitura comparativa: ambos permitem examinar o que o prestador faz, além das escolhas individuais. Eles têm escopos diferentes — critérios de classificação de um documento local e orientação preventiva voluntária — e não demonstram, por sua simples presença, que uma plataforma é segura.",
+      "source": {
+        "file": "Art. 48 - Oficina.pdf",
+        "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+        "pages": [
+          4,
+          5
+        ],
+        "sections": [
+          "Art. 48, §14"
+        ],
+        "evidence": [
+          "§14 Para fi ns de atribuição da classi fi cação indicativa fi nal, serão considerados,\nainda:\nI – o grau de controle editorial e de curadoria exercido pelo prestador de\nserviços digitais sobre os conteúdos disponibilizados;",
+          "II – a existência de ferramentas de controle etário e de controles parentais\nacessíveis ao usuário; e\nIII – a adoção de políticas de moderação que restrinjam o acesso de menores a\nconteúdos sensíveis ou que proíbam tais conteúdos na aplicação, desde que\nalinhadas ao disposto no Marco Civil da Internet (Lei nº 12.965, de 23 de abril\nde 2014)."
+        ]
+      },
+      "kind": "synthesis",
+      "relatedSources": [
+        {
+          "articleId": "article-d4b0c4f9d75f",
+          "source": {
+            "file": "SBD - Overview May19.pdf",
+            "title": "Safety by Design Overview (May 2019)",
+            "pages": [
+              22,
+              21
+            ],
+            "sections": [
+              "Principle 1: Service provider responsibilities",
+              "V. Safety by Design Principles"
+            ],
+            "evidence": [
+              "This principle is based on the central tenet that\n\nwhile user safety is a shared responsibility, the\n\nburden of safety should never fall solely upon\n\nthe end user. It acknowledges that, even though\n\nno platform or service can ensure the complete\n\nsafety of individuals, every attempt should be\n\nmade to ensure that known and anticipated harms\n\nhave been adequately assessed in the design and\n\nprovision of a service.\n\nOnline services can take preventative steps to\n\nguard against their service being used to facilitate,\n\ninflame or encourage illegal and inappropriate\n\nbehaviours. To help ensure that known and\n\nanticipated harms have been evaluated in the\n\ndesign and provision of an online service, eight\n\npreventative steps have been identified under\n\nPrinciple 1.",
+              "The principles set out the measures that eSafety\n\nencourages and envisages online and digital\n\nservices will take to ensure that the safety of\n\nusers is suitably addressed and considered during\n\nthe design, development and deployment of their\n\nservice. While voluntary, adopting the principles will\n\nset industries apart in the marketplace, allowing\n\ncompanies to show global leadership in developing\n\nresponsible, value and safety-centred online\n\nproducts and services.\n\nGood practice notes have also been provided\n\nas part of the Principles to guide industry in\n\nunderstanding and implementing the principles\n\nand highlighting that the principles are achievable,\n\nrealistic and actionable. These were highlighted\n\nduring the consultation process as effective,\n\nalthough there is no robust evidence about the\n\neffectiveness and impact of these practices. As\n\nsuch, the good practice notes should be viewed as\n\nillustrations only, and act as a guide."
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "article-eca18e5843e2-14",
+    "status": "approved",
+    "reason": "Segunda revisão: retirada a expressão que sugeria jogadores estudados em amostra própria. O PDF p1 confirma taxas secundárias de11,1%e27,4% e argumento de precariedade/estresse. A resposta agora distingue contextualização teórica de comportamento medido e de estimativas atuais.",
+    "cardSha256": "6121d19233a54ab7538a5477c7e41699fc56f9555faa3764f976a2b2b83ec324",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ]
+    },
+    "reviewedAt": "2026-11-10T11:13:34.979Z",
+    "candidateSnapshot": {
+      "id": "article-eca18e5843e2-14",
+      "articleId": "article-eca18e5843e2",
+      "question": "Como a comparação de pobreza entre Brasil e Estados Unidos é usada no argumento de Games Made Elsewhere, e o que ela não permite concluir?",
+      "answer": "O artigo apresenta taxas de [[11,1% nos Estados Unidos e 27,4% no Brasil]] para ilustrar uma precariedade mais disseminada no contexto brasileiro e a associa à literatura sobre decisão prejudicada pelo estresse. A função da comparação é situar uma assimetria de condições de consumo, não medir diretamente o comportamento dos jogadores. Não se trata de uma nova coleta empírica feita nesse artigo, tampouco de uma inferência sobre cada pessoa pobre. Os números devem ser tratados como [[dados secundários citados pelo texto]], sem transformá-los em estimativas atuais.",
+      "source": {
+        "file": "chiplaycompanion25-21.pdf",
+        "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+        "pages": [
+          1
+        ],
+        "sections": [
+          "2 The Creator-Consumer Divide as a Lens for Understanding Systemic Player Vulnerability"
+        ],
+        "evidence": [
+          "The contrast between the United States (US) and\nBrazil illustrates this asymmetry. The US poverty rate is 11.1% [31],\nwhile in Brazil it is over double at 27.4% [14], indicating a more\nwidespread precarity, which is linked to stress-impaired decision-\nmaking [16]."
+        ]
+      },
+      "kind": "direct"
+    }
+  },
+  {
+    "cardId": "article-eca18e5843e2-26",
+    "status": "approved",
+    "reason": "Segunda revisão: pergunta e resposta preservam $18, notação da p2, sem acrescentar identificação USD. A relação com gás de cozinha e impossibilidade de pagar consta do cenário; ficção e ausência de conversão/orçamento empírico permanecem explícitas.",
+    "cardSha256": "d8b4e877b462277295aac325d85f526a8a999be466c7391ec0bdb29ed44bcc96",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T11:13:34.979Z",
+    "candidateSnapshot": {
+      "id": "article-eca18e5843e2-26",
+      "articleId": "article-eca18e5843e2",
+      "question": "Por que o preço de $18 no Pay-to-Skip da ficção de Helena é descrito em relação ao gás de cozinha?",
+      "answer": "Na narrativa especulativa, $18 não são renda disponível para Helena: correspondem à parcela mensal destinada ao [[gás de cozinha]]. A equivalência torna visível o conflito entre progresso virtual e necessidade material, em vez de tratar o preço como número abstrato e igual para todos. O texto acrescenta que a impossibilidade de pagar funciona como sua única defesa naquele momento. Esse exemplo não fornece uma taxa real de conversão nem caracteriza o orçamento de jogadores brasileiros; é uma [[comparação construída dentro da ficção]] para expor a relevância do contexto econômico.",
+      "source": {
+        "file": "chiplaycompanion25-21.pdf",
+        "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+        "pages": [
+          2
+        ],
+        "sections": [
+          "3 A Speculative Perspective: Helena and The Gilded Cage of Ouroboros Seed"
+        ],
+        "evidence": [
+          "Initially, the game delivers. Its AI-optimized loops provide a\ncomforting sense of progress, fostering a deep engagement that\nsoon becomes dependency. The system then creates personalized\ncrises that make progress dependent on either intense Grinding\n[38] or a $18 Pay-to-Skip offer. For Helena, $18 is not disposable\nincome; it represents the portion of her monthly income for cooking\ngas. Her inability to pay is her only defense. But at an AI-calculated\nmoment of peak desperation, the game presents a different kind\nof offer: the ’Community Solidarity Pledge.’ It is not a demand\nfor immediate cash, but a subtle prompt to pledge a portion of\nher upcoming government benefit, the Bolsa Família. Framed as\na pro-social commitment, not a purchase, and designed to exploit\nthe human bias for immediate relief over a future cost, the offer\nbypasses her financial barrier. She sacrifices a piece of her real-\nworld safety net for a fleeting sense of success in her gilded cage."
+        ]
+      },
+      "kind": "direct"
+    }
+  },
+  {
+    "cardId": "article-eca18e5843e2-28",
+    "status": "approved",
+    "reason": "Segunda revisão: auge do desespero traduz fielmente peak desperation na p2. A oferta pró-social, custo futuro e exploração da preferência por alívio imediato permanecem sustentados, com estatuto especulativo e sem resultado experimental.",
+    "cardSha256": "63c8cf94b2a78210660c823a437d4b203fef8d3202a9a09d142dda9ea97481fe",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T11:13:34.979Z",
+    "candidateSnapshot": {
+      "id": "article-eca18e5843e2-28",
+      "articleId": "article-eca18e5843e2",
+      "question": "Que diferença existe entre a aparência pró-social e o custo futuro do Community Solidarity Pledge na ficção de Ouroboros Seed?",
+      "answer": "A oferta é apresentada como [[compromisso de solidariedade, e não compra]], no momento que a IA ficcional calcula como o auge do desespero. O texto associa essa moldura à preferência por alívio imediato diante de um custo futuro, de modo a atravessar a resistência financeira da personagem. O nome comunitário não elimina o sacrifício de recursos da vida real. Tudo isso pertence ao cenário crítico imaginado: a questão não descreve um experimento sobre vieses nem prova uma taxa de resposta. Ela expõe a [[distância entre linguagem da oferta e consequência material]].",
+      "source": {
+        "file": "chiplaycompanion25-21.pdf",
+        "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+        "pages": [
+          2
+        ],
+        "sections": [
+          "3 A Speculative Perspective: Helena and The Gilded Cage of Ouroboros Seed"
+        ],
+        "evidence": [
+          "Initially, the game delivers. Its AI-optimized loops provide a\ncomforting sense of progress, fostering a deep engagement that\nsoon becomes dependency. The system then creates personalized\ncrises that make progress dependent on either intense Grinding\n[38] or a $18 Pay-to-Skip offer. For Helena, $18 is not disposable\nincome; it represents the portion of her monthly income for cooking\ngas. Her inability to pay is her only defense. But at an AI-calculated\nmoment of peak desperation, the game presents a different kind\nof offer: the ’Community Solidarity Pledge.’ It is not a demand\nfor immediate cash, but a subtle prompt to pledge a portion of\nher upcoming government benefit, the Bolsa Família. Framed as\na pro-social commitment, not a purchase, and designed to exploit\nthe human bias for immediate relief over a future cost, the offer\nbypasses her financial barrier. She sacrifices a piece of her real-\nworld safety net for a fleeting sense of success in her gilded cage."
+        ]
+      },
+      "kind": "direct"
+    }
+  }
+]

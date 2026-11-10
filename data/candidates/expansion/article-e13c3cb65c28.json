@@ -1,0 +1,1411 @@
+[
+  {
+    "id": "article-e13c3cb65c28-09",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Por que o artigo distingue dark de deceptive e exige analisar progressão, recompensa e monetização, além de diálogos de interface?",
+    "answer": "O artigo usa [[dark patterns]] como categoria mais ampla: deceptive implica técnicas de engano, enquanto dark também abrange manipulação e coerção que limitam a agência. A análise não depende apenas de identificar uma mensagem mentirosa ou uma caixa de diálogo problemática. Nos jogos, as práticas podem estar integradas aos [[sistemas de progressão, recompensa e monetização]], direcionando decisões, retenção, entrega de dados ou compras. Assim, compreender o mecanismo exige examinar como o sistema organiza escolhas e incentivos ao longo da experiência. Essa distinção amplia o objeto de análise; não autoriza classificar toda recompensa ou monetização como necessariamente nociva.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        1
+      ],
+      "sections": [
+        "1 Introduction"
+      ],
+      "evidence": [
+        "Dark Patterns (DPs)\n1 \nare interface techniques that obscure agency and pri-\noritize provider utility over autonomy [5]. Regardless of intent, they undermine\ninformed decision-making [25], nudging users toward data surrender, unwanted\nretention, or unsolicited purchases by exploiting heuristic vulnerabilities [5,35].\nIn games, DPs extend beyond isolated dialogs, embedding into progression, re-\nward, and monetization systems [56], often through aggressive practices [44].",
+        "We distinguish between Dark and Deceptive: the latter implies misleading tech-\nniques, while the former includes manipulative and coercive patterns. We use Dark\nPatterns to encompass the full spectrum of designs that limit user agency."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-10",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como o artigo usa autonomia, competência e vínculo como condições estruturais de design sem prometer que um sistema garantirá florescimento?",
+    "answer": "A SDT é apresentada como fundamento para relacionar [[autonomia, competência e vínculo]] à motivação e ao bem-estar. O ponto operacional é que uma interface ou mecânica pode organizar condições de volição, eficácia e conexão, apoiando ou frustrando necessidades. Os autores explicitam que [[sistemas não garantem florescimento]]: o compromisso do design é estruturar condições favoráveis, e não assegurar um resultado psicológico idêntico para cada pessoa. Isso evita interpretar a mera presença de um recurso como prova de benefício. A distinção entre condições do sistema e experiência efetiva sustenta a necessidade de avaliação e atenção ao contexto.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        3
+      ],
+      "sections": [
+        "2.1 Well-being and \"Positive\" Design Patterns"
+      ],
+      "evidence": [
+        "In contrast to manipulative strategies, positive computing positions well-being\nas an explicit design objective rather than a byproduct of usability [8,9,42]. It\ndraws on multiple strands of psychological research to inform the design of sys-\ntems that support human flourishing [9,43]. Among these, Self-Determination\nTheory (SDT) provides a widely adopted and empirically robust framework for\nunderstanding basic psychological needs. SDT identifies autonomy, competence,\nand relatedness as fundamental needs [18,47], linking need satisfaction to in-\ntrinsic motivation and growth, and need frustration to diminished well-being\n[47]. In design terms, these needs function as structural affordances: systems\ncannot guarantee flourishing, but they can organize conditions that support or\nundermine volition, efficacy, and connection [43]."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-11",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Qual tensão entre apoio aos objetivos do usuário e paternalismo aparece na discussão de Bright Patterns?",
+    "answer": "Bright Patterns reorientam técnicas persuasivas para apoiar [[objetivos genuínos dos usuários]], em vez de priorizar o lucro do provedor. O artigo menciona onboarding transparente e contramedidas visuais a sinais de escassez como exemplos dessa orientação. Contudo, escolher o que seria um comportamento desejável e conduzir o usuário até ele pode criar [[paternalismo ético]]. A questão de arguição é justificar quem define o bem e quanto espaço de decisão permanece com a pessoa. Portanto, uma finalidade declarada como positiva não encerra a análise ética: é preciso examinar como a persuasão afeta autonomia e agência.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        3
+      ],
+      "sections": [
+        "2.1 Well-being and \"Positive\" Design Patterns"
+      ],
+      "evidence": [
+        "Bright patterns use persuasive design to support users’ genuine goals rather\nthan provider profit motives [49]. They reframe ambiguous persuasive techniques\nto prioritize user welfare, for example through transparent onboarding or visual\ncountermeasures against scarcity cues. However, this approach introduces a nor-\nmative tension between “nudging for good” and respecting autonomy, as steering\nusers toward desirable behaviors may risk ethical paternalism."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-12",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Por que transparência de Fair Patterns e qualidade intrínseca da experiência em Radiant Patterns têm alcances diferentes?",
+    "answer": "Fair Patterns enfatizam [[neutralidade, informação clara e tempestiva, transparência e confiança]], com aplicação destacada em domínios regulados como comércio eletrônico e serviços digitais. Radiant Patterns são explicitamente situados no design de jogos e vinculados à SDT: escolhas significativas e apoio ao domínio de habilidades dizem respeito à própria estrutura da experiência. A diferença é de foco e domínio, não uma oposição em que um substitui o outro. Um jogo pode precisar de informação transparente e também de mecânicas que não frustrem necessidades. Por isso, clareza de interface, isoladamente, não descreve toda a qualidade psicológica do jogar.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        3
+      ],
+      "sections": [
+        "2.1 Well-being and \"Positive\" Design Patterns"
+      ],
+      "evidence": [
+        "Fair patterns emphasize neutrality and regulatory compliance rather than\npersuasion. They are defined as design solutions that restore fairness by providing\nclear and timely information to facilitate informed decision-making [45]. Their\ngoal is to operationalize transparency and trust through mechanisms such as\nlayered notices and non-coercive defaults, with primary application in regulated\ndomains such as e-commerce and digital services.\nRadiant patterns (RPs) are explicitly tailored to game design and grounded\nin SDT. They aim to discourage addictive play and promote well-being by sup-\nporting SDT basic psychological needs [21]. Unlike the broader applicability of\nBright or Fair patterns, RPs address specific gameplay structures. For example,\nautonomy support involves making meaningful choices visible within the sys-\ntem, while competence scaffolds foster skill-based mastery rather than artificial\nretention loops [20]. This domain specificity allows RPs to target the intrinsic\nquality of the experience, not only the transparency of the interface."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-13",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como definições e critérios compartilhados podem funcionar como unidades para pesquisa empírica cumulativa sobre padrões positivos?",
+    "answer": "O artigo identifica uma assimetria: padrões positivos dispõem de [[menos validação empírica]] que a otimização iterativa associada a dark patterns. Sem definições e critérios compartilhados, diferentes equipes podem implementar ou avaliar coisas distintas sob o mesmo nome. A padronização procura oferecer [[unidades experimentais e variáveis consistentes]] para comparações e estudos cumulativos, inclusive testes em escala. Isso é uma condição metodológica para pesquisar impacto, não um resultado de eficácia já obtido. A defesa de critérios estáveis também não elimina a necessidade de explicitar contexto, implementação e participantes ao interpretar qualquer comparação futura.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        4
+      ],
+      "sections": [
+        "2.1 Well-being and \"Positive\" Design Patterns"
+      ],
+      "evidence": [
+        "A further limitation across positive pattern approaches is the scarcity of\nempirical validation compared to the iterative A/B testing commonly used to\noptimize dark patterns. Without standardized definitions and shared criteria,\nconsistent implementation and evaluation remain difficult. Standardizing defi-\nnitions and identification criteria provides the experimental units required for\nlarge-scale testing. This framework establishes the consistent variables needed\nfor cumulative empirical research to assess impact on player experience."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-14",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Qual lacuna o artigo identifica entre registrar seis exemplos conhecidos e permitir que outras equipes derivem novos Radiant Patterns?",
+    "answer": "O conjunto inicial de seis RPs e o template anterior ofereciam [[exemplos e registro de padrões conhecidos]], mas pouca orientação para identificar ou derivar novos. A expansão ficava dependente de julgamento autoral ad hoc, reduzindo a possibilidade de transferência metodológica para outras equipes. O problema não é apenas aumentar a quantidade de nomes: é tornar explícito como observar, delimitar, refinar e documentar uma proposta. O novo trabalho procura responder com [[processo colaborativo e infraestrutura estruturada]]. A existência dessa estrutura melhora a descrição do procedimento; não prova que qualquer proposta produzida por ela terá impacto positivo.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        4,
+        5
+      ],
+      "sections": [
+        "2.2 Radiant Patterns"
+      ],
+      "evidence": [
+        "An initial set of six RPs previously outlined served as exemplars for this\napproach [38,20]. While these patterns have been applied in reflective design\nartifacts [21], the methodology for expanding this set remains underdeveloped.\nThe existing documentation template supports the recording of known patterns\nbut offers little guidance on the identification or derivation of new ones. Conse-\nquently, the extension of the RP library has relied heavily on ad-hoc authorial\njudgment, limiting its transferability to the broader research community [20].",
+        "contribution of the present work is to move beyond isolated exemplars by es-\ntablishing a collaborative infrastructure and a structured methodology for the\nidentification, refinement, and validation of Games Radiant Patterns."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-15",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como nove participantes podem corresponder a grupos de cinco nas diferentes fases, e o que essa composição permite inferir?",
+    "answer": "A Fase I envolveu [[P01–P05]], enquanto as Fases II e III envolveram [[P01 e P06–P09]]. P01 participou dos dois conjuntos por seu envolvimento prévio com o framework; portanto, somar cinco e cinco sem considerar a sobreposição produziria uma contagem incorreta. No total, são nove pessoas com experiência acadêmica e/ou profissional em jogos. A seleção priorizou [[teste da lógica por especialistas]], não validação ampla com a população de jogadores. Essa composição ajuda a entender de onde vêm as críticas e reformulações, mas não sustenta consenso global da indústria ou representatividade universal.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        5
+      ],
+      "sections": [
+        "3 Methodology"
+      ],
+      "evidence": [
+        "Nine participants took part across the three phases, all with academic and/or\nprofessional experience in digital games (Table 1). Phase I involved five partic-\nipants (P01–P05). Phases II and III included five participants (P01, P06–P09).\nAfter Phase I, P01 joined the refinement and analysis stages due to prior in-\nvolvement with the RP framework. Participant selection prioritized expertise-led\nstress testing over broad-scale validation to ensure the framework’s internal logic\nwas technically sound."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-16",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como a apresentação inicial, as duas mesas e a rotação no World Café contribuíram para o exame dos padrões?",
+    "answer": "O workshop começou com a definição operacional e o template, criando [[entendimento compartilhado]] antes da discussão. Duas mesas receberam três padrões cada: uma tratou de Creative Suite, Progression e Adaptive Challenge; a outra, de Open Gate, Visual Support e Companion. Rodadas de trinta minutos discutiram a coerência da estrutura de cada RP com a definição operacional. A [[rotação entre mesas]] permitiu revisar e estender notas anteriores, em vez de produzir apenas opiniões isoladas. Esse desenho organiza crítica colaborativa de formulações; seus resultados continuam sendo insumos qualitativos de especialistas, sem comprovar efeitos nas experiências dos jogadores.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        5,
+        6
+      ],
+      "sections": [
+        "3.1 Phase I: Collaborative Workshop"
+      ],
+      "evidence": [
+        "Beyond Dark Patterns in Games 5\n\ncontribution of the present work is to move beyond isolated exemplars by es-\ntablishing a collaborative infrastructure and a structured methodology for the\nidentification, refinement, and validation of Games Radiant Patterns.\n\n3 Methodology\n\nTo develop a refined and collaborative catalog of Game Radiant Patterns, we\nconducted a three-phase qualitative process: (I) a Collaborative Workshop, (II)\nCurated Refinement Sessions, and (III) an Exploratory Autoethnography (Fig-\nure 1). Across phases, we collected qualitative materials including workshop\nrecords, session notes, and researcher diaries and memos.\n\nFig. 1. Overview of the methodology to expand and refine the Radiant Pattern catalog.\n\nNine participants took part across the three phases, all with academic and/or\nprofessional experience in digital games (Table 1). Phase I involved five partic-\nipants (P01–P05). Phases II and III included five participants (P01, P06–P09).\nAfter Phase I, P01 joined the refinement and analysis stages due to prior in-\nvolvement with the RP framework. Participant selection prioritized expertise-led\nstress testing over broad-scale validation to ensure the framework’s internal logic\nwas technically sound.\n\n3.1 Phase I: Collaborative Workshop\n\nIn Phase I, we gathered critical feedback on the initial six Radiant Patterns and\ngenerated new candidate RPs grounded in participants’ gameplay experiences.\nTo do so, we conducted a collaborative workshop using the World Café method\n[6], which supports structured yet open dialogue among participants with back-\ngrounds in HCI and game design.\nThe workshop unfolded in two stages: context setting and roundtable dis-\ncussion. We began with a presentation of the operational definition of Radiant\nPatterns and the documentation template [20], ensuring a shared understanding\nof RP structure. Participants were then divided into two tables, each assigned\nthree patterns from the initial set [20]. One table examined Creative Suite (for-\nmerly World Creation), Progression (formerly Item Evolution), and Adaptive\nChallenge (formerly Different Difficulty); the other reviewed Open Gate (for-\nmerly Free Exit), Visual Support (formerly Color Hint), and Companion (for-\nmerly Free Pet Care). Each 30-minute round centered on the question: “Is the",
+        "6 Darin et al.\n\nTable 1. Participant profile across the three methodology phases\n\nP# Age Gen Education Level Study Field Relation to Digital\nGames\nPhase\n\nP01 21–25 M Undergraduate\nstudent\nGames and HCI developer, designer,\nplayer\nI–II–III\nP02 21–25 M Master’s student Hate Speech and\nDigital Games\nresearcher, player I\nP03 21–25 M Master’s student HCI developer, researcher,\nplayer\nI\nP04 36–40 M Master degree Games and HCI developer, researcher,\nplayer\nI\nP05 36–40 F Master degree Games, HCI, and SDT developer, designer,\nresearcher, player\nI\nP06 21–25 F Undergraduate\nstudent\nDigital Media Systems\nand HCI\nresearcher, player II–III\nP07 26–30 M Master degree Computer Science and\nHCI\ndeveloper, designer,\nplayer\nII–III\nP08 21–25 M Undergraduate\nstudent\nDigital Media Systems\nand HCI\ndesigner, student,\nplayer\nII–III\nP09 26–30 M Undergraduate\nstudent\nDigital Media\nSystems, HCI, and\nSDT\ndesigner, player II–III\n\nstructured RP consistent with the operational definition of a RP?” Afterward,\nparticipants rotated tables to review and extend prior notes\n2\n.\nWe audio-recorded and transcribed discussions and collected written notes\nfrom each table. We compiled all materials into a structured spreadsheet to\nsupport systematic comparison across patterns and rounds. Using the RP doc-\numentation template as an analytical lens, we conducted a deductive reflexive\nthematic analysis [14]. We focused on recurring structural issues, including un-\nclear template elements, ambiguous pattern boundaries, inconsistencies with the\noperational definition, and proposed alternative formulations. We grouped issues\nby pattern and coded them by type, examining their distribution across groups\nand rounds to prioritize reformulation. This process produced a consolidated set\nof revision points that informed the Phase II Refinement Sessions.\n\n3.2 Phase II: Curated Refinement Sessions\n\nIn Phase II, we focused on refining the initial proposals. We used feedback from\nPhase I to clarify ambiguities and address implementation concerns raised during\nthe workshop, consolidating these insights into a revised structure and updated\ndocumentation template. Each participant took primary responsibility for one\npattern, except P09, who oversaw two. We distributed assignments to balance\nfamiliarity with the RP framework and disciplinary diversity: P01 (Creative\nSuite), P06 (Visual Support), P07 (Companion), P08 (Progression), and P09\n(Open Gate and Adaptive Challenge).\nTo advance this refinement, we combined individual revision with collective\ndiscussion. Participants first revisited their assigned patterns in light of Phase\n\n2 \nDistribution of Radiant Patterns across discussion rounds available in our dataset"
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-17",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Que cadeia de registros e análise ligou as discussões do workshop aos pontos de revisão da Fase II?",
+    "answer": "As discussões foram [[gravadas e transcritas]], e notas escritas de cada mesa foram reunidas em planilha estruturada. O template serviu de lente para uma análise temática reflexiva dedutiva, voltada a problemas recorrentes: elementos pouco claros, fronteiras ambíguas, inconsistências com a definição e formulações alternativas. Os problemas foram agrupados por padrão e codificados por tipo; sua distribuição entre mesas e rodadas ajudou a priorizar reformulações. A contribuição é uma [[trilha analítica entre material e decisão de revisão]]. Ela torna o processo discutível e rastreável, sem transformar interpretação qualitativa em medição causal de bem-estar.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        6
+      ],
+      "sections": [
+        "3.1 Phase I: Collaborative Workshop"
+      ],
+      "evidence": [
+        "We audio-recorded and transcribed discussions and collected written notes\nfrom each table. We compiled all materials into a structured spreadsheet to\nsupport systematic comparison across patterns and rounds. Using the RP doc-\numentation template as an analytical lens, we conducted a deductive reflexive\nthematic analysis [14]. We focused on recurring structural issues, including un-\nclear template elements, ambiguous pattern boundaries, inconsistencies with the\noperational definition, and proposed alternative formulations. We grouped issues\nby pattern and coded them by type, examining their distribution across groups\nand rounds to prioritize reformulation. This process produced a consolidated set\nof revision points that informed the Phase II Refinement Sessions."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-18",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como o refinamento combinou responsabilidades individuais, sessões coletivas e tratamento dos desacordos?",
+    "answer": "Cada participante assumiu responsabilidade por um padrão, com exceção de P09, que acompanhou dois. As atribuições buscaram combinar familiaridade com o framework e diversidade disciplinar. A revisão individual retomou problemas de clareza, adequação dos exemplos e alinhamento à definição; sessões de uma hora discutiram um ou dois padrões e casos de fronteira. Desacordos foram [[registrados e revisitados]], com notas e histórico de versões, até uma formulação estável por consenso. O próprio texto qualifica esse consenso como [[base lógica inicial para validação mais ampla]], e não como garantia de que as soluções funcionem para todos os jogadores.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        6,
+        7
+      ],
+      "sections": [
+        "3.2 Phase II: Curated Refinement Sessions"
+      ],
+      "evidence": [
+        "6 Darin et al.\n\nTable 1. Participant profile across the three methodology phases\n\nP# Age Gen Education Level Study Field Relation to Digital\nGames\nPhase\n\nP01 21–25 M Undergraduate\nstudent\nGames and HCI developer, designer,\nplayer\nI–II–III\nP02 21–25 M Master’s student Hate Speech and\nDigital Games\nresearcher, player I\nP03 21–25 M Master’s student HCI developer, researcher,\nplayer\nI\nP04 36–40 M Master degree Games and HCI developer, researcher,\nplayer\nI\nP05 36–40 F Master degree Games, HCI, and SDT developer, designer,\nresearcher, player\nI\nP06 21–25 F Undergraduate\nstudent\nDigital Media Systems\nand HCI\nresearcher, player II–III\nP07 26–30 M Master degree Computer Science and\nHCI\ndeveloper, designer,\nplayer\nII–III\nP08 21–25 M Undergraduate\nstudent\nDigital Media Systems\nand HCI\ndesigner, student,\nplayer\nII–III\nP09 26–30 M Undergraduate\nstudent\nDigital Media\nSystems, HCI, and\nSDT\ndesigner, player II–III\n\nstructured RP consistent with the operational definition of a RP?” Afterward,\nparticipants rotated tables to review and extend prior notes\n2\n.\nWe audio-recorded and transcribed discussions and collected written notes\nfrom each table. We compiled all materials into a structured spreadsheet to\nsupport systematic comparison across patterns and rounds. Using the RP doc-\numentation template as an analytical lens, we conducted a deductive reflexive\nthematic analysis [14]. We focused on recurring structural issues, including un-\nclear template elements, ambiguous pattern boundaries, inconsistencies with the\noperational definition, and proposed alternative formulations. We grouped issues\nby pattern and coded them by type, examining their distribution across groups\nand rounds to prioritize reformulation. This process produced a consolidated set\nof revision points that informed the Phase II Refinement Sessions.\n\n3.2 Phase II: Curated Refinement Sessions\n\nIn Phase II, we focused on refining the initial proposals. We used feedback from\nPhase I to clarify ambiguities and address implementation concerns raised during\nthe workshop, consolidating these insights into a revised structure and updated\ndocumentation template. Each participant took primary responsibility for one\npattern, except P09, who oversaw two. We distributed assignments to balance\nfamiliarity with the RP framework and disciplinary diversity: P01 (Creative\nSuite), P06 (Visual Support), P07 (Companion), P08 (Progression), and P09\n(Open Gate and Adaptive Challenge).\nTo advance this refinement, we combined individual revision with collective\ndiscussion. Participants first revisited their assigned patterns in light of Phase\n\n2 \nDistribution of Radiant Patterns across discussion rounds available in our dataset",
+        "Beyond Dark Patterns in Games 7\n\nI feedback, annotating issues of clarity, example adequacy, and alignment with\nthe operational definition. We then held one-hour sessions dedicated to one or\ntwo patterns, debating formulations and examining boundary cases.\nDecisions reached by consensus established a logical baseline, though we rec-\nognize this expert-derived agreement is a starting point for wider validation.\nWhen disagreements emerged, we documented and revisited them until reach-\ning a stable formulation. Session notes and version history recorded the process.\nThis phase resulted in a revised set of Radiant Patterns and an updated docu-\nmentation template, which we then applied in Phase III.\n\n3.3 Phase III: Exploratory Autoethnography\n\nIn Phase III, we applied the refined framework through exploratory autoethnog-\nraphy [14], using researcher gameplay as data to structurally identify how Radi-\nant Patterns are configured in practice and to identify boundary cases for catalog\nrefinement.\nWe selected games based on Phase II citations and researcher familiarity,\nrequiring a minimum of 10 hours of play or narrative completion. This dura-\ntion served as a targeted sampling period to identify specific pattern instances\nrather than an exhaustive audit of entire game. Adopting a dual player–analyst\nrole, we examined how specific design elements shaped experiences of autonomy,\ncompetence, and relatedness. We focused on moments of friction, confusion, or\nbreakdowns in support mechanisms, documenting how design structures were\ncategorized and mapped to psychological need support during play.\nEach researcher was assigned one game; due to an uneven number of re-\nsearchers and titles, one participant analyzed two Table 2 summarizes the games\nplayed by each participant. Each researcher analyzed their assigned game through\nthe lens of its corresponding design pattern, with approximately 10 hours of\ngameplay per title.\n\nTable 2. Games Played per Participant and Assigned Radiant Pattern\n\nPartic. Game Assigned Pattern Playtime\n\nP01 Celeste Open Gate over 10 hours\nP06 God of War: Ragnarok Adaptive Challenge over 10 hours\nP07 Shadow of the Tomb Raider Visual Support over 10 hours\nP07 Minecraft Creative Suite over 10 hours\nP08 Teamfight Tactics (TFT) Companion over 10 hours\nP09 Metroid Dread Progression over 10 hours\n\nWe used structured autoethnographic diaries [14] to record reflective accounts\nlinked to specific RPs. Entries included (i) situational descriptions, (ii) interpre-\ntations of design influence, (iii) reflections on need support or frustration, and\n(iv) alternative design applications. Narrative accounts situated observations\nwithin broader play arcs, while analytical memos and screenshots captured vi-"
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-19",
+    "articleId": "article-e13c3cb65c28",
+    "question": "O que deveria constar dos diários autoetnográficos e como memos e capturas complementavam esses relatos?",
+    "answer": "Os diários estruturados registravam [[situações, interpretações da influência do design, reflexões sobre apoio ou frustração de necessidades e alternativas de aplicação]]. Os relatos narrativos situavam observações no arco mais amplo do jogar. Memos analíticos e capturas de tela acrescentavam evidência visual e percepções no momento da experiência; um template comum organizava os materiais. Essa combinação procura relacionar experiência situada e classificação estrutural, reconhecendo a perspectiva analítica dos pesquisadores. Os registros não equivalem a dados representativos de jogadores externos nem isolam o efeito causal de cada mecânica sobre bem-estar.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        7,
+        8
+      ],
+      "sections": [
+        "3.3 Phase III: Exploratory Autoethnography"
+      ],
+      "evidence": [
+        "Beyond Dark Patterns in Games 7\n\nI feedback, annotating issues of clarity, example adequacy, and alignment with\nthe operational definition. We then held one-hour sessions dedicated to one or\ntwo patterns, debating formulations and examining boundary cases.\nDecisions reached by consensus established a logical baseline, though we rec-\nognize this expert-derived agreement is a starting point for wider validation.\nWhen disagreements emerged, we documented and revisited them until reach-\ning a stable formulation. Session notes and version history recorded the process.\nThis phase resulted in a revised set of Radiant Patterns and an updated docu-\nmentation template, which we then applied in Phase III.\n\n3.3 Phase III: Exploratory Autoethnography\n\nIn Phase III, we applied the refined framework through exploratory autoethnog-\nraphy [14], using researcher gameplay as data to structurally identify how Radi-\nant Patterns are configured in practice and to identify boundary cases for catalog\nrefinement.\nWe selected games based on Phase II citations and researcher familiarity,\nrequiring a minimum of 10 hours of play or narrative completion. This dura-\ntion served as a targeted sampling period to identify specific pattern instances\nrather than an exhaustive audit of entire game. Adopting a dual player–analyst\nrole, we examined how specific design elements shaped experiences of autonomy,\ncompetence, and relatedness. We focused on moments of friction, confusion, or\nbreakdowns in support mechanisms, documenting how design structures were\ncategorized and mapped to psychological need support during play.\nEach researcher was assigned one game; due to an uneven number of re-\nsearchers and titles, one participant analyzed two Table 2 summarizes the games\nplayed by each participant. Each researcher analyzed their assigned game through\nthe lens of its corresponding design pattern, with approximately 10 hours of\ngameplay per title.\n\nTable 2. Games Played per Participant and Assigned Radiant Pattern\n\nPartic. Game Assigned Pattern Playtime\n\nP01 Celeste Open Gate over 10 hours\nP06 God of War: Ragnarok Adaptive Challenge over 10 hours\nP07 Shadow of the Tomb Raider Visual Support over 10 hours\nP07 Minecraft Creative Suite over 10 hours\nP08 Teamfight Tactics (TFT) Companion over 10 hours\nP09 Metroid Dread Progression over 10 hours\n\nWe used structured autoethnographic diaries [14] to record reflective accounts\nlinked to specific RPs. Entries included (i) situational descriptions, (ii) interpre-\ntations of design influence, (iii) reflections on need support or frustration, and\n(iv) alternative design applications. Narrative accounts situated observations\nwithin broader play arcs, while analytical memos and screenshots captured vi-",
+        "8 Darin et al.\n\nsual evidence and real-time insights. A shared template organized the materials\nto ensure coherence while acknowledging researcher analytical perspective.\nWe analyzed the data through a reflexive thematic approach grounded in\nthe RP definition, identifying recurring patterns, ambiguities, and design ele-\nments satisfying Phase II invariants that aligned with or diverged from intended\nneed support. This phase generated illustrative cases and clarification notes that\ninformed further refinement and stabilization of the Radiant Pattern catalog.\n\n4 Findings and Decurrent Improvements\n\nThis section presents results from the collaborative workshop, curated refinement\nsessions, and exploratory autoethnography. Game titles appear in italics (e.g.,\n\nSuper Mario Maker ), and pattern names are underlined (e.g., Creative Suite).\n\n4.1 Baseline Radiant Patterns Required Structural Refinement\n\nWorkshop results revealed that while original patterns had the necessary infor-\nmation, the template organization obscured alignment with RP definitions. Par-\nticipants emphasized the need to revise titles for specificity, structure patterns\ninto levels for genre flexibility, and improve the template to clarify components.\nTwo participants (P01, P02) highlighted the need to revise the titles of the\ninitial set for quick and clear identification of what each pattern addressed, par-\nticularly for Free Pet Care, Different Difficulty, and World Creation to support\nquicker identification. As one noted: ’[P02]: we were revising it to make it more\nrelated to the idea of a companion rather than a pet, because \"pet care\" strongly\nevokes the idea of taking care of it. ’\nDescriptions also lacked explicit references to basic psychological needs, hin-\ndering practical use. This concern is reflected in P01’s statement: ’[P01]: It is\nimportant for the title to be more specific. It should be more distinctive and re-\nfer to the names of the elements from Self-Determination Theory ’. These issues\nrequired changes across the entire set to ensure consistency and standardization.\nAlthough examples were generally clear, four of five participants argued that\nstructuring patterns into levels was necessary due to cross-genre complexity. P04\nnoted difficulty applying Different Difficulty to souls-like games\n3\n: “[P04]: Dark\nSouls style games are meant to be difficult. So it’s not only about the developer’s\ngoal of profit or engagement, you also have to consider the narrative objectives\nthat the game itself proposes .” P02 similarly argued that World Creation was too\nbroad: “[P02] World Creation involves many things. For example, if I say ’allow\nplayers to create scenarios using a set of tools’, that’s one thing. Customization\nstarting from something that already exists, is another....There are particularities\nwithin these interactions that also address different elements .”\nTo accommodate these contexts, participants proposed a tiered structure\ninspired by WCAG [55]: ’[P01]: Like in WCAG, where you have Level A, AA\n\n3 \nThe term “Soulslike” describes games that resemble the Dark Souls series, typically\nfeaturing clear goals combined with high difficulty and multiple obstacles."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-20",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como a escolha dos seis jogos e a distribuição entre pesquisadores delimitam o alcance da autoetnografia?",
+    "answer": "A escolha partiu de citações das sessões de refinamento e da familiaridade dos pesquisadores, com dez horas mínimas ou conclusão narrativa. A tabela relaciona Celeste/Open Gate, God of War: Ragnarok/Adaptive Challenge, Shadow of the Tomb Raider/Visual Support, Minecraft/Creative Suite, Teamfight Tactics/Companion e Metroid Dread/Progression. Um participante analisou dois jogos. É [[amostragem direcionada a instâncias e casos de fronteira]], não uma seleção probabilística ou auditoria exaustiva. A dupla posição jogador–analista permite reflexão situada, mas impede tratar a presença observada nesses títulos como estimativa de prevalência em todos os jogos.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        7
+      ],
+      "sections": [
+        "3.3 Phase III: Exploratory Autoethnography",
+        "Table 2"
+      ],
+      "evidence": [
+        "Beyond Dark Patterns in Games 7\n\nI feedback, annotating issues of clarity, example adequacy, and alignment with\nthe operational definition. We then held one-hour sessions dedicated to one or\ntwo patterns, debating formulations and examining boundary cases.\nDecisions reached by consensus established a logical baseline, though we rec-\nognize this expert-derived agreement is a starting point for wider validation.\nWhen disagreements emerged, we documented and revisited them until reach-\ning a stable formulation. Session notes and version history recorded the process.\nThis phase resulted in a revised set of Radiant Patterns and an updated docu-\nmentation template, which we then applied in Phase III.\n\n3.3 Phase III: Exploratory Autoethnography\n\nIn Phase III, we applied the refined framework through exploratory autoethnog-\nraphy [14], using researcher gameplay as data to structurally identify how Radi-\nant Patterns are configured in practice and to identify boundary cases for catalog\nrefinement.\nWe selected games based on Phase II citations and researcher familiarity,\nrequiring a minimum of 10 hours of play or narrative completion. This dura-\ntion served as a targeted sampling period to identify specific pattern instances\nrather than an exhaustive audit of entire game. Adopting a dual player–analyst\nrole, we examined how specific design elements shaped experiences of autonomy,\ncompetence, and relatedness. We focused on moments of friction, confusion, or\nbreakdowns in support mechanisms, documenting how design structures were\ncategorized and mapped to psychological need support during play.\nEach researcher was assigned one game; due to an uneven number of re-\nsearchers and titles, one participant analyzed two Table 2 summarizes the games\nplayed by each participant. Each researcher analyzed their assigned game through\nthe lens of its corresponding design pattern, with approximately 10 hours of\ngameplay per title.\n\nTable 2. Games Played per Participant and Assigned Radiant Pattern\n\nPartic. Game Assigned Pattern Playtime\n\nP01 Celeste Open Gate over 10 hours\nP06 God of War: Ragnarok Adaptive Challenge over 10 hours\nP07 Shadow of the Tomb Raider Visual Support over 10 hours\nP07 Minecraft Creative Suite over 10 hours\nP08 Teamfight Tactics (TFT) Companion over 10 hours\nP09 Metroid Dread Progression over 10 hours\n\nWe used structured autoethnographic diaries [14] to record reflective accounts\nlinked to specific RPs. Entries included (i) situational descriptions, (ii) interpre-\ntations of design influence, (iii) reflections on need support or frustration, and\n(iv) alternative design applications. Narrative accounts situated observations\nwithin broader play arcs, while analytical memos and screenshots captured vi-"
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-21",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como as quatro regras de nomeação procuram tornar o léxico expansível sem fixá-lo em um botão ou objeto específico?",
+    "answer": "As regras são [[abstração funcional]], que privilegia o estado de interação em vez de rótulos e ações literais de interface; [[classificação genérica]], que usa categorias funcionais mais amplas; [[orientação ao resultado]], centrada no efeito sistêmico ou psicológico; e [[caracterização relacional]], que descreve a resposta ativa do sistema à condição ou habilidade do jogador. Juntas, elas procuram associar nomes e descrições funcionais, preservando neutralidade entre plataformas e espaço para expansão. O objetivo não é escolher palavras apenas mais atraentes: é reduzir ambiguidades que dificultariam reconhecimento, documentação e adaptação do mesmo conceito.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        9
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon"
+      ],
+      "evidence": [
+        "Establishing How to Name a Radiant Pattern Discussion sessions revealed\nthat original titles were often too narrow or lacked alignment with the functional\ndepth of the patterns. Analysis of the lexical shifts produced four pragmatic\nnaming rules to guide future expansion:\n1. Functional Abstraction : Use terms that describe the interaction state\nrather than specific menus, labels, or literal UI elements or actions.\n2. Generic Classification : Replace specific elements with broader functional\ncategories to ensure cross-platform neutrality.\n3. Outcome Orientation : Focus the title on the systemic or psychological\nresult of the interaction rather than the specific object or mechanic involved.\n4. Relational Characterization : Define the system’s active response to the\nplayer’s status or skill rather than using static comparative descriptors.\nThese rules were applied to connect the titles of the baseline set of RPs\ndirectly to their functional descriptions while providing a scalable protocol for\nfuture repository expansion."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-22",
+    "articleId": "article-e13c3cb65c28",
+    "question": "O que se perderia se Open Gate fosse entendido apenas como um botão de sair, mantendo a leitura literal de Free Exit?",
+    "answer": "A renomeação procura ampliar a leitura de simples liberdade de saída para [[segurança do progresso e retorno sem custo]]. Segundo o texto, Free Exit não comunicava suficientemente a preservação do progresso. Open Gate funciona como metáfora de saída e retorno contínuos, articulando autonomia e proteção do que já foi alcançado. Assim, a análise do padrão deve considerar o que acontece com a experiência quando se interrompe o jogo, não só a existência de uma opção de encerramento. Essa interpretação funcional orienta a documentação; não torna qualquer implementação denominada Open Gate automaticamente adequada.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        9
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon"
+      ],
+      "evidence": [
+        "RP1 - Free Exit changes to Open Gate : The original title emphasized free-\ndom to leave but did not convey progress preservation. The revised name\nhighlights both autonomy and progress security, adopting Open Gate as\na metaphor for seamless exit and return without cost."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-23",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Que possibilidades a mudança de Free Pet Care para Companion torna visíveis, além do cuidado com um animal?",
+    "answer": "O termo pet restringia o reconhecimento do padrão a animais e podia sugerir que cuidar deles fosse sua função central. [[Companion]] inclui entidades animais, humanas, tecnológicas ou simbólicas e permite examinar papéis [[decorativos, narrativos ou funcionais]]. A renomeação modifica o alcance conceitual, sem determinar que todos esses casos apoiem as mesmas necessidades da mesma forma. Um companheiro com função de combate e um elemento cosmético podem requerer implementações distintas. O ganho do léxico é possibilitar essa descrição contextual em vez de inferir a estrutura do padrão apenas pela aparência ou espécie da entidade.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        10
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon"
+      ],
+      "evidence": [
+        "RP2 - Free Pet Care changes to Companion : The term pet was too narrow\nto cover the variety of companions in games. Companion broadens the\nscope to include animal, human, technological, or symbolic entities with\ndecorative, narrative, or functional roles.",
+        "These rules allow a more precise integration across varied RP titles. For\ninstance, the core mechanic of Companion requires different implementations\nfor decorative mascots in The Sims compared to combat partners in World of\nWarcraft . Similarly, Creative Suite spans a broad design space—from aesthetic\ncustomization to complex scenario sharing—that cannot be addressed by a single\ndescription without losing developer utility."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-24",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Por que Progression não deve ser reduzido à evolução de um item?",
+    "answer": "A denominação anterior, Item Evolution, fixava a interpretação em uma classe específica de objetos. [[Progression]] desloca o foco para [[percepção de progresso e realização]], permitindo descrever mecanismos que não dependam exclusivamente de itens. O ponto é preservar a finalidade conceitual e reconhecer diferentes concretizações, em vez de confundir o padrão com uma implementação particular. Essa ampliação facilita variantes e comparação entre contextos. Contudo, o novo nome não implica que qualquer progressão, recompensa ou aumento de números seja radiant: a estrutura ainda precisa ser examinada à luz de necessidades psicológicas, invariantes e contexto.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        10,
+        11
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon"
+      ],
+      "evidence": [
+        "RP3 - Item Evolution changes to Progression : The original name restricted\nthe pattern to items. It was reframed to emphasize perceived progress\nand achievement, decoupling it from exclusive item-based mechanics.",
+        "To ensure scalability of the RP framework, we defined four pragmatic rules\nfor the RP template:\n1. Goal–Outcome Decoupling : Separate developers’ technical goals from\n\nPlayer Problems (the experiential goals or need frustrations addressed).\n2. Multi-Dimensional Scoping : Specify target actors and context to avoid\nvague terminology and support diverse settings.\n3. Invariant–Variant Duality : Define core properties (Invariants) that must\nhold across adaptations to preserve identity, regardless of the Variant.\n4. Traceable Need Satisfaction : Map each solution to hierarchical design\nlevels (L1–L3) to validate radiance through structural criteria."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-25",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como Creative Suite expande World Creation e por que essa ampliação exige preservar diferenças de interação?",
+    "answer": "[[Creative Suite]] abrange conteúdo gerado pelo jogador, incluindo personalização, design de fases, criação de sistemas e construção de mundos. O nome anterior destacava world-building e não comunicava todo esse espaço criativo. O texto também observa que customizar algo existente e criar cenários com ferramentas não constituem interações idênticas. A ampliação do nome deve, portanto, ser acompanhada por [[variantes contextuais e descrição funcional]], para que o termo não se torne tão abrangente que perca utilidade ao desenvolvedor. Não se trata de declarar qualquer recurso de edição benéfico, mas de organizar diferenças relevantes dentro de um conceito compartilhado.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        10,
+        8
+      ],
+      "sections": [
+        "4.1 Baseline Radiant Patterns Required Structural Refinement",
+        "4.2 Refined RPs Framework Established a Shared Lexicon"
+      ],
+      "evidence": [
+        "RP4 - World Creation changes to Creative Suite : The initial title centered\non world-building and did not reflect the range of creative experiences\nin games. Creative Suite broadly encompasses player-generated content\nsuch as customization, level design, system creation, and worldbuilding.",
+        "P02 similarly argued that World Creation was too\nbroad: “[P02] World Creation involves many things. For example, if I say ’allow\nplayers to create scenarios using a set of tools’, that’s one thing. Customization\nstarting from something that already exists, is another....There are particularities\nwithin these interactions that also address different elements .”"
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-26",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Que equívocos a renomeação Color Hint → Visual Support procura evitar ao analisar affordances de jogo?",
+    "answer": "Hint podia ser interpretado como dica de tutorial, enquanto o papel do padrão é mais amplo: [[apoio visual à interação]] e mitigação de elementos que bloqueiam visualmente a experiência. Visual Support também evita restringir o conceito a pistas baseadas em cor. A distinção importa para reconhecer soluções que operam durante o gameplay e por meios visuais diversos, em vez de procurar apenas um tutorial ou uma cor destacada. A mudança de título melhora a delimitação do objeto descrito; a adequação de uma solução concreta ainda depende do contexto e dos critérios estruturais do framework.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        10
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon"
+      ],
+      "evidence": [
+        "RP5 - Color Hint changes to Visual Support : Hint risked being interpreted\nas tutorial guidance rather than gameplay affordances. Visual Support\nbroadens the scope beyond color cues and better reflects its role in miti-\ngating visually blocking elements."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-27",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como Adaptive Challenge amplia a interpretação de Different Difficulty sem exigir que todo jogo abandone seus desafios?",
+    "answer": "Different Difficulty sugeria apenas a possibilidade de o jogador escolher uma dificuldade. [[Adaptive Challenge]] inclui tanto ajustes manuais quanto respostas adaptativas a perfis e estilos de jogo. A discussão do workshop reconhece que dificuldade pode integrar objetivos narrativos, como no exemplo de jogos soulslike, e não ser simplesmente um obstáculo a eliminar. Assim, analisar apoio às necessidades requer distinguir [[desafio significativo e frustração de necessidades]], considerando a proposta do jogo. O novo nome amplia o repertório de implementação, sem impor uma única interface de seleção nem demonstrar que qualquer adaptação produzirá a mesma experiência para todos.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        10,
+        8
+      ],
+      "sections": [
+        "4.1 Baseline Radiant Patterns Required Structural Refinement",
+        "4.2 Refined RPs Framework Established a Shared Lexicon"
+      ],
+      "evidence": [
+        "RP6 - Different Difficulty changes to Adaptive Challenge : The original\nname suggested only player-controlled difficulty adjustments. The revised\ntitle captures both manual adjustments and adaptive responses to differ-\nent player profiles and play styles.",
+        "Although examples were generally clear, four of five participants argued that\nstructuring patterns into levels was necessary due to cross-genre complexity. P04\nnoted difficulty applying Different Difficulty to souls-like games\n3\n: “[P04]: Dark\nSouls style games are meant to be difficult. So it’s not only about the developer’s\ngoal of profit or engagement, you also have to consider the narrative objectives\nthat the game itself proposes .”"
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-28",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Por que o framework combina escalonamento progressivo de requisitos com subclasses baseadas no ambiente, em vez de um único catálogo de exemplos?",
+    "answer": "[[Progressive Requirement Scaling]] organiza camadas hierárquicas de apoio às necessidades, a partir do piso de não frustração. [[Environment-Based Subclassing]] permite variantes para gênero, modo, plataforma e outras condições, sem alterar a lógica central. As duas regras resolvem problemas diferentes: intensidade ou composição dos requisitos, de um lado, e adaptação contextual, de outro. O texto ilustra essa necessidade com companheiros decorativos ou de combate e com diferentes modalidades de criação. Um inventário de exemplos isolados não explicitaria essas relações; a estrutura procura manter identidade e extensibilidade, sem prometer eficácia universal das adaptações.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        10,
+        11
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon"
+      ],
+      "evidence": [
+        "Defining Hierarchical Scaling and Contextual Variants for RPs Discus-\nsion revealed that original RPs failed to account for genre-specific constraints,\nplatform limitations, or player profiles. Contextual differences, such as the transi-\ntion from single-player to multiplayer, are not isolated exceptions but structural\nadaptations required to maintain the pattern’s efficacy. By analyzing these re-\nquirements, we established two pragmatic rules for framework expansion:\n1. Progressive Requirement Scaling : Structure pattern application into\nhierarchical tiers, each representing increasing psychological need satisfaction\nfrom a baseline of non-frustration.\n2. Environment-Based Subclassing : Define structural variants that adapt\nuniversal levels to specific gameplay contexts (e.g., genre, mode, platform)\nwithout changing core logic.\nThese rules allow a more precise integration across varied RP titles. For\ninstance, the core mechanic of Companion requires different implementations\nfor decorative mascots in The Sims compared to combat partners in World of\nWarcraft . Similarly, Creative Suite spans a broad design space—from aesthetic\ncustomization to complex scenario sharing—that cannot be addressed by a single\ndescription without losing developer utility.",
+        "Following progressive scaling, patterns are organized into universal applica-\ntion levels. Level L1 establishes the ethical floor of non-frustration. While L1\nrepresents standard practice, i.e., its inclusion in the framework identifies it as a\nnecessary boundary against deceptive monetization or retention tactics, L2 and\nL3 progressively enhance need satisfaction. For example, Open Gate includes\nL1 – Safety (automatic progress saving), L2 – Autonomy (intentional stopping),\nand L3 – Competence (visual feedback reinforcing achievement).\nThe use of environment-based subclassing through variants ensures extensi-\nbility. This dual structure allows practitioners to add contextual implementations\nto the RP catalog while preserving each pattern’s conceptual identity."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-29",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Qual é a função ética de registrar práticas ordinárias no L1, se elas não representam o ponto máximo aspiracional do framework?",
+    "answer": "O artigo apresenta [[L1 como piso defensivo de não frustração]], uma fronteira necessária contra práticas de retenção ou monetização enganosas. Mesmo quando corresponde a prática considerada padrão, explicitá-la impede que essa base seja tratada como opcional diante de pressões comerciais. L2 e L3 acrescentam apoio mais ativo à satisfação das necessidades. Portanto, registrar L1 não é anunciar que um jogo atingiu o melhor bem-estar possível: é tornar visível uma [[condição estrutural mínima]] dentro de um modelo cumulativo. A discussão usa not-Dark para descrever esse piso, mantendo a distinção entre base e aspiração.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        11,
+        14
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon",
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "Following progressive scaling, patterns are organized into universal applica-\ntion levels. Level L1 establishes the ethical floor of non-frustration. While L1\nrepresents standard practice, i.e., its inclusion in the framework identifies it as a\nnecessary boundary against deceptive monetization or retention tactics, L2 and\nL3 progressively enhance need satisfaction. For example, Open Gate includes\nL1 – Safety (automatic progress saving), L2 – Autonomy (intentional stopping),\nand L3 – Competence (visual feedback reinforcing achievement).\nThe use of environment-based subclassing through variants ensures extensi-\nbility. This dual structure allows practitioners to add contextual implementations\nto the RP catalog while preserving each pattern’s conceptual identity.",
+        "We clarify that L1 is a defensive baseline\nrather than an aspirational peak. It represents ’not-Dark’ design, serving as the\nessential technical foundation upon which L2 and L3 build active support for\nplayer flourishing, using suitable mechanics in the game industry."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-30",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como Target Actor, Goal e Developer Need distinguem quem usa o padrão, o objetivo técnico e as condições necessárias para realizá-lo?",
+    "answer": "[[Target Actor]] identifica o usuário principal do padrão no processo de desenvolvimento, não simplesmente o público do jogo. [[Goal]] explicita o objetivo principal de quem desenvolve, formulado de modo genérico entre variantes. [[Developer Need]] descreve requisitos estruturais ou sistêmicos necessários para apoiar esse objetivo. Separar esses campos evita usar uma única formulação vaga para ator, intenção e requisito. O refinamento reage à confusão entre objetivos do desenvolvedor e resultados do jogador: documentar essa cadeia permite discutir como uma escolha técnica pretende apoiar um objetivo ético, sem confundir intenção com efeito comprovado.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        12,
+        11
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon",
+        "Table 3"
+      ],
+      "evidence": [
+        "Table 3. Final Structural Template for Radiant Game Design Patterns (RPs)\n\nTemplate Component Brief Description\nPattern Name Short, conceptual name representing the essence of the solution at an\nabstract level.\n\nTarget Actor Primary user of the pattern within the game development process.\n\nGoal Developer’s main objective when applying the pattern, formulated\ngenerically across variants.\n\nDeveloper Need Structural or systemic requirements needed to support the Goal.\n\nPlayer Problem Recurring player need or difficulty addressed by the pattern.\n\nNegative\nConsequences\n\nEmotional, motivational, and behavioral impacts if the Player Problem\nremains unresolved.\n\nCore Solution Conceptual strategy explaining how the RP addresses the Player\nProblem and supports the Goal.\n\nPsychological Needs\nSupported\n\nSDT needs supported or kept neutral by the RP.\n\nRP Invariants Essential properties that must hold across all variants and levels.\n\nUniversal Application\nLevels\n\nAbstract cumulative levels representing increasing satisfaction of\npsychological needs.\n\nRP Variants Contextual adaptations of the RP across genres, platforms, or systems\nwhile preserving invariants.\n\nExpected Outcomes Anticipated effects on player experience, well-being, engagement, and\ndesign goals.",
+        "An Updated Radiant Pattern Framework Workshop evaluations and re-\nfinement sessions confirmed that original pattern descriptions lacked the struc-\ntural rigor required for industry application. The primary failure involved the\nconflation of developer goals with player outcomes, which obscured how specific\ndesign choices support ethical objectives. Furthermore, the absence of explicit\ndimensions like genre or platform prevented the framework from capturing the\nstructural adaptations necessary for diverse play environments. Table 3 presents\nthe resulting template. This systematic structure reorganizes the Radiant Pat-\ntern Framework, ensuring that every RP added to the catalog supports consistent\napplication and future extensibility without fragmenting conceptual integrity."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-31",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Por que Player Problem e Negative Consequences são campos distintos e como isso evita confundir um problema de experiência com uma meta de produção?",
+    "answer": "[[Player Problem]] registra a necessidade recorrente ou dificuldade do jogador que o padrão aborda. [[Negative Consequences]] explicita impactos emocionais, motivacionais e comportamentais caso esse problema permaneça sem solução. Um campo identifica a situação a enfrentar; o outro descreve por que ela importa para a experiência. Separá-los também ajuda a não substituir o problema do jogador por uma meta de produção, como um objetivo técnico ou comercial. Esses registros tornam a justificativa do padrão examinável. Como descrições estruturais e consequências previstas, porém, não equivalem por si só a medição dos impactos em participantes.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        12,
+        11
+      ],
+      "sections": [
+        "Table 3",
+        "4.2 Refined RPs Framework Established a Shared Lexicon"
+      ],
+      "evidence": [
+        "Table 3. Final Structural Template for Radiant Game Design Patterns (RPs)\n\nTemplate Component Brief Description\nPattern Name Short, conceptual name representing the essence of the solution at an\nabstract level.\n\nTarget Actor Primary user of the pattern within the game development process.\n\nGoal Developer’s main objective when applying the pattern, formulated\ngenerically across variants.\n\nDeveloper Need Structural or systemic requirements needed to support the Goal.\n\nPlayer Problem Recurring player need or difficulty addressed by the pattern.\n\nNegative\nConsequences\n\nEmotional, motivational, and behavioral impacts if the Player Problem\nremains unresolved.\n\nCore Solution Conceptual strategy explaining how the RP addresses the Player\nProblem and supports the Goal.\n\nPsychological Needs\nSupported\n\nSDT needs supported or kept neutral by the RP.\n\nRP Invariants Essential properties that must hold across all variants and levels.\n\nUniversal Application\nLevels\n\nAbstract cumulative levels representing increasing satisfaction of\npsychological needs.\n\nRP Variants Contextual adaptations of the RP across genres, platforms, or systems\nwhile preserving invariants.\n\nExpected Outcomes Anticipated effects on player experience, well-being, engagement, and\ndesign goals.",
+        "The primary failure involved the\nconflation of developer goals with player outcomes, which obscured how specific\ndesign choices support ethical objectives. Furthermore, the absence of explicit\ndimensions like genre or platform prevented the framework from capturing the\nstructural adaptations necessary for diverse play environments."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-32",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como Core Solution e Psychological Needs Supported ligam uma estratégia de design às necessidades sem exigir que toda dimensão seja intensificada?",
+    "answer": "[[Core Solution]] descreve a estratégia conceitual que enfrenta o problema do jogador e apoia o objetivo de desenvolvimento. [[Psychological Needs Supported]] explicita quais necessidades SDT são apoiadas ou mantidas neutras pela solução. Essa formulação torna a relação entre mecanismo e necessidade examinável, em vez de usar apenas uma declaração genérica de bem-estar. A referência à neutralidade de uma necessidade não dispensa a orientação ética do padrão como um todo, nem autoriza frustrar outra dimensão para obter um ganho. O template organiza uma justificativa estrutural que ainda precisa ser analisada no contexto da implementação.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        12,
+        4
+      ],
+      "sections": [
+        "Table 3",
+        "2.2 Radiant Patterns"
+      ],
+      "evidence": [
+        "Table 3. Final Structural Template for Radiant Game Design Patterns (RPs)\n\nTemplate Component Brief Description\nPattern Name Short, conceptual name representing the essence of the solution at an\nabstract level.\n\nTarget Actor Primary user of the pattern within the game development process.\n\nGoal Developer’s main objective when applying the pattern, formulated\ngenerically across variants.\n\nDeveloper Need Structural or systemic requirements needed to support the Goal.\n\nPlayer Problem Recurring player need or difficulty addressed by the pattern.\n\nNegative\nConsequences\n\nEmotional, motivational, and behavioral impacts if the Player Problem\nremains unresolved.\n\nCore Solution Conceptual strategy explaining how the RP addresses the Player\nProblem and supports the Goal.\n\nPsychological Needs\nSupported\n\nSDT needs supported or kept neutral by the RP.\n\nRP Invariants Essential properties that must hold across all variants and levels.\n\nUniversal Application\nLevels\n\nAbstract cumulative levels representing increasing satisfaction of\npsychological needs.\n\nRP Variants Contextual adaptations of the RP across genres, platforms, or systems\nwhile preserving invariants.\n\nExpected Outcomes Anticipated effects on player experience, well-being, engagement, and\ndesign goals.",
+        "However, the emphasis on “preserving well-being” was considered too abstract\nto guide consistent application, particularly since meaningful play often involves\ntension and challenge [20]. The definition was therefore reframed to focus on the\nnon-frustration of psychological needs. Radiant Patterns are interaction patterns\nintentionally implemented to ensure foundational player well-being is not signif-\nicantly undermined. Specifically, RPs avoid decreasing autonomy, relatedness,\nand competence. They are conscious design choices that minimize predictable\npsychological harm and avoid patterns known to frustrate these needs, estab-\nlishing ethical boundaries for player experience."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-33",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Por que preencher Expected Outcomes não permite anunciar que o efeito de um padrão já foi demonstrado?",
+    "answer": "O campo [[Expected Outcomes]] contém efeitos antecipados sobre experiência, bem-estar, engajamento e objetivos do design. Ele torna explícita a expectativa que orienta a proposta e pode ajudar a formular o que avaliar. Entretanto, [[resultado esperado não é resultado medido]]. O próprio artigo reconhece ausência de testes longitudinais e necessidade futura de verificar o uso do framework no desenvolvimento ativo. Assim, é legítimo documentar a hipótese de contribuição de uma solução, mas não converter esse preenchimento em evidência causal. Essa distinção é essencial para defender o valor do template sem exagerar o alcance da validação apresentada.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        12,
+        15,
+        16
+      ],
+      "sections": [
+        "Table 3",
+        "6 Discussion: Radiant Patterns and Industry Practice",
+        "7 Final Remarks"
+      ],
+      "evidence": [
+        "Table 3. Final Structural Template for Radiant Game Design Patterns (RPs)\n\nTemplate Component Brief Description\nPattern Name Short, conceptual name representing the essence of the solution at an\nabstract level.\n\nTarget Actor Primary user of the pattern within the game development process.\n\nGoal Developer’s main objective when applying the pattern, formulated\ngenerically across variants.\n\nDeveloper Need Structural or systemic requirements needed to support the Goal.\n\nPlayer Problem Recurring player need or difficulty addressed by the pattern.\n\nNegative\nConsequences\n\nEmotional, motivational, and behavioral impacts if the Player Problem\nremains unresolved.\n\nCore Solution Conceptual strategy explaining how the RP addresses the Player\nProblem and supports the Goal.\n\nPsychological Needs\nSupported\n\nSDT needs supported or kept neutral by the RP.\n\nRP Invariants Essential properties that must hold across all variants and levels.\n\nUniversal Application\nLevels\n\nAbstract cumulative levels representing increasing satisfaction of\npsychological needs.\n\nRP Variants Contextual adaptations of the RP across genres, platforms, or systems\nwhile preserving invariants.\n\nExpected Outcomes Anticipated effects on player experience, well-being, engagement, and\ndesign goals.",
+        "The autoethnography identified RPs in released games, confirming their real-\nworld presence. This analysis serves as a discovery method, though validating the\nframework’s use during active development remains a future requirement.",
+        "This work evolves the RP framework by shifting focus to the structural non-\nfrustration of basic psychological needs through a refined lexicon, tiered levels,\nand standardized templates. These components establish a system to connect\nethical research with game development practice. While this version lacks longi-\ntudinal data, relies on a small expert-centric sample, and excludes systemic issues\nlike worker welfare or online toxicity, it establishes the technical foundation for\nfuture industry-led verification."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-34",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como as observações de diálogos em Celeste ajudam a identificar uma prioridade de expansão do léxico sem provar efeitos de vínculo em todos os jogadores?",
+    "answer": "O relato de Celeste inclui uma observação de diário segundo a qual os diálogos contribuíam para construir a relação. Os autores usam essas instâncias para destacar [[relatedness como prioridade de expansão]], enquanto a iteração atual estabiliza mais diretamente autonomia e competência. O valor do exemplo é indicar uma dimensão e um mecanismo a investigar, não estabelecer uma medida populacional de vínculo. Trata-se de [[interpretação autoetnográfica situada]], inserida em uma metodologia de descoberta e refinamento. Portanto, a observação pode orientar candidatos e perguntas futuras, sem provar que todo diálogo ou companheiro produza o mesmo benefício psicológico.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        11,
+        12
+      ],
+      "sections": [
+        "4.3 Eliciting RPs from Play Experiences with Commercial Games"
+      ],
+      "evidence": [
+        "Autoethnographic results\n4 \nconfirm that these patterns already appear within\nsuccessful commercial titles, though their presence does not yet validate the\nframework as a production tool. Celeste [10] yielded eight instances: three for\nOpen Gate, four for Adaptive Challenge, and one for Companion. A researcher\ndiary entry noted: ’ the dialogues contribute a lot to building the relationship ’.\nWhile the current iteration prioritizes levels for autonomy and competence, these\ndialogue-driven instances confirm the relatedness dimension as a priority for fu-\nture lexicon expansion.",
+        "which are frequent DP targets in games, relatedness remains a priority for future\nexpansion, as suggested by dialogue-driven instances observed in Celeste."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-35",
+    "articleId": "article-e13c3cb65c28",
+    "question": "O exemplo de ajuda em puzzles por companheiros em God of War Ragnarök mostra por que uma instância não precisa corresponder a um único padrão?",
+    "answer": "O artigo descreve companheiros de Kratos oferecendo uma solução quando o jogador passa muito tempo tentando resolver um puzzle. Essa mesma configuração foi interpretada como [[variante funcional de Companion]] e [[variante single-player de Adaptive Challenge]]. O exemplo mostra interconexão: a entidade que acompanha também participa da adaptação do desafio, em vez de funcionar em uma categoria isolada. Para analisar um design, importa documentar os papéis e relações do mecanismo. A sobreposição de classificações descreve sua estrutura observada, mas não substitui a investigação de como jogadores diferentes vivenciam a ajuda ou de seus efeitos.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        12
+      ],
+      "sections": [
+        "4.3 Eliciting RPs from Play Experiences with Commercial Games"
+      ],
+      "evidence": [
+        "God of War Ragnarök [23] featured seven instances, six for Adaptive Challenge\nand one of Companion. One specific instance illustrated pattern interconnect-\nedness rather than isolated design: ’ Kratos’ companions (Atreus and Mimir)\nprovide support by offering the appropriate solution after the player spends too\nlong attempting to solve a puzzle ’. This simultaneously enacts a Companion\nfunctional variant and the Adaptive Challenge single-player variant."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-36",
+    "articleId": "article-e13c3cb65c28",
+    "question": "O que Make Your Path e Non-Playable Time ilustram como novas ideias de padrão, e por que o texto as mantém como candidatas?",
+    "answer": "As duas propostas identificadas na análise são [[Make Your Path]], associada a narrativas secundárias, e [[Non-Playable Time]], relacionada ao engajamento durante carregamentos ou cutscenes. Elas ilustram possibilidades de ampliar o repertório a partir da observação de estruturas de jogo. O artigo, porém, distingue identificar uma ideia de confirmar um padrão: são necessárias [[recorrência, coerência com o framework e discussão colaborativa]]. A amostra autoetnográfica pode produzir falsos positivos e não revelar toda a profundidade sistêmica do título. Por isso, a denominação candidata preserva a natureza provisória da proposta em vez de apresentá-la como padrão finalizado.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        12,
+        15
+      ],
+      "sections": [
+        "4.3 Eliciting RPs from Play Experiences with Commercial Games",
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "Analysis detected two candidate patterns \n5\n.: Make Your Path (secondary\nnarratives) and Non-Playable Time (active loading/cutscene engagement).",
+        "Besides, identifying these new mechanics through autoethnography does not\nautomatically qualify them as Radiant Patterns. This is why they are referred\non findings as candidate RPs. Identifying an RP requires evidence of recurrence,\nwhich establishes it as a pattern[2], as well as discussion and coherence with the\ncomponents defined by the framework. This distinction creates a logical need for\nthe Radiant Patterns Catalog (Section 5). Because a single autoethnographic\ninstance cannot confirm a pattern, and a 10-hour sample may not capture the\nfull systemic depth of complex titles, the Catalog serves as a filter where these\ninitial observations are flagged for further verification. The ’candidate’ ideas\nare subjected to a verification protocol. This ensures that only those designs\nproven to be recurring and ethically sound are finalized, transforming subjective\nobservations into community-validated design knowledge. Expert observation\nmay result in false positives, reinforcing the need for the Catalog’s collaborative\nverification protocol in which the practical application of these patterns can be\nobserved, analyzed, and discussed collectively."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-37",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Que diferenças entre expressão cosmética, equilíbrio competitivo e adaptação de itens aparecem nas variantes candidatas identificadas?",
+    "answer": "O texto relata uma extensão multiplayer de [[Companion em Teamfight Tactics]], ligada à expressão cosmética e ao vínculo, e duas variantes de [[Adaptive Challenge]]: Competitive Balance em TFT e Item Adaptation em God of War. São descrições de mecanismos distintos dentro de famílias conceituais, mostrando por que um nome estável precisa admitir contexto e funções diferentes. A análise não torna cosméticos, equilíbrio ou adaptação automaticamente radiantes. Essas propostas permanecem candidatas, sujeitas à coerência com invariantes e à verificação de recorrência. A contribuição imediata é ampliar o espaço de descrição e investigação, não comprovar efeitos de cada variante.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        12,
+        15
+      ],
+      "sections": [
+        "4.3 Eliciting RPs from Play Experiences with Commercial Games",
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "Fur-\nthermore, ten candidate variants emerged for the set of patterns. Companion was\nextended via Multiplayer Variants in Teamfight Tactics [54], supporting Relat-\nedness through cosmetic self-expression. Adaptive Challenge revealed Competi-\ntive Balance ( TFT ) and Item Adaptation ( God of War ).",
+        "Besides, identifying these new mechanics through autoethnography does not\nautomatically qualify them as Radiant Patterns. This is why they are referred\non findings as candidate RPs. Identifying an RP requires evidence of recurrence,\nwhich establishes it as a pattern[2], as well as discussion and coherence with the\ncomponents defined by the framework. This distinction creates a logical need for\nthe Radiant Patterns Catalog (Section 5). Because a single autoethnographic\ninstance cannot confirm a pattern, and a 10-hour sample may not capture the\nfull systemic depth of complex titles, the Catalog serves as a filter where these\ninitial observations are flagged for further verification. The ’candidate’ ideas\nare subjected to a verification protocol. This ensures that only those designs\nproven to be recurring and ethically sound are finalized, transforming subjective\nobservations into community-validated design knowledge. Expert observation\nmay result in false positives, reinforcing the need for the Catalog’s collaborative\nverification protocol in which the practical application of these patterns can be\nobserved, analyzed, and discussed collectively."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-38",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como Construction Planning e Creation Preview tornam a discussão de Creative Suite mais específica do que a ideia genérica de liberdade criativa?",
+    "answer": "Nas observações de Minecraft, o artigo apresenta [[Construction Planning e Creation Preview]] como variantes candidatas de Creative Suite. Os autores relacionam prototipagem de baixa fricção e criação antecipatória a [[Safety e Competence]] durante a criação no jogo. O interesse analítico está em identificar como a experiência criativa é estruturada, não apenas registrar que existe um editor ou possibilidade de construir. O mesmo conceito amplo pode precisar de mecanismos contextuais diferentes. Esses exemplos ajudam a formular e documentar hipóteses de apoio, mas continuam pertencendo ao processo de descoberta e verificação, sem comprovação causal ou longitudinal dos efeitos.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        13,
+        10,
+        15
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon",
+        "4.3 Eliciting RPs from Play Experiences with Commercial Games"
+      ],
+      "evidence": [
+        "Finally, Creative Suite in\n\nMinecraft generated Construction Planning and Creation Preview; these high-\nlight how low-friction prototyping and anticipatory creation support Safety and\nCompetence during in-game creation.",
+        "These rules allow a more precise integration across varied RP titles. For\ninstance, the core mechanic of Companion requires different implementations\nfor decorative mascots in The Sims compared to combat partners in World of\nWarcraft . Similarly, Creative Suite spans a broad design space—from aesthetic\ncustomization to complex scenario sharing—that cannot be addressed by a single\ndescription without losing developer utility.",
+        "Besides, identifying these new mechanics through autoethnography does not\nautomatically qualify them as Radiant Patterns. This is why they are referred\non findings as candidate RPs. Identifying an RP requires evidence of recurrence,\nwhich establishes it as a pattern[2], as well as discussion and coherence with the\ncomponents defined by the framework. This distinction creates a logical need for\nthe Radiant Patterns Catalog (Section 5). Because a single autoethnographic\ninstance cannot confirm a pattern, and a 10-hour sample may not capture the\nfull systemic depth of complex titles, the Catalog serves as a filter where these\ninitial observations are flagged for further verification. The ’candidate’ ideas\nare subjected to a verification protocol. This ensures that only those designs\nproven to be recurring and ethically sound are finalized, transforming subjective\nobservations into community-validated design knowledge. Expert observation\nmay result in false positives, reinforcing the need for the Catalog’s collaborative\nverification protocol in which the practical application of these patterns can be\nobserved, analyzed, and discussed collectively."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-39",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como filtros por contexto e a distinção entre Candidate e Finalized procuram tornar o catálogo útil sem esconder a maturidade das propostas?",
+    "answer": "Os filtros permitem procurar padrões por [[objetivos do desenvolvedor, necessidades do jogador e contextos de variante]], como single-player ou multiplayer. A organização responde às dificuldades de aplicação genérica identificadas no workshop. O catálogo distingue [[Finalized RPs]], submetidos à verificação formal, e [[Candidate RPs]], ainda em cocriação, tornando visível o grau de maturidade. Assim, profissionais podem diferenciar padrões revisados de alternativas experimentais. Essa classificação informa o processo de conhecimento e não garante que um padrão finalizado tenha segurança ou efeitos positivos universais. A utilidade do filtro depende de preservar as condições e limites documentados.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        13
+      ],
+      "sections": [
+        "5 A Catalog of Games Radiant Patterns"
+      ],
+      "evidence": [
+        "The Radiant Patterns Catalog \n6 \nis a structured knowledge system designed to\nbridge player well-being research and game development practice. It operational-\nizes the multidimensional framework of Universal Levels and Contextual Vari-\nants derived from our refinement sessions. The platform is organized around\ncontext-driven filters that allow practitioners and researchers to query patterns\naccording to developer goals and player needs, directly reflecting Phase I findings\non genre specificity and application context. The system distinguishes between\nFinalized RPs – those validated through formal verification – and Candidate\nRPs, which are undergoing co-creation. This separation enables transparency re-\ngarding pattern maturity while allowing users to choose between peer-validated\nstandards and experimental alternatives. Filters include variant-based con-\ntexts (e.g., Single-Player, Multiplayer) and development goals (e.g., preserving\nprogress, managing companions), all within the boundaries of the RP framework."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-40",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como contribuições estruturadas e contribuições baseadas em problemas permitem participar do catálogo com tipos diferentes de conhecimento?",
+    "answer": "As [[structured submissions]] propõem novos padrões ou variantes usando o vocabulário do template. As [[problem-based contributions]] documentam problemas recorrentes de design que demandam alternativas éticas, mesmo sem trazer de início uma solução formalizada. Essa dupla entrada permite compartilhar tanto formulações de solução quanto dificuldades que podem motivar cocriação. O texto determina que todas as submissões sejam inicialmente sinalizadas como [[candidatas]], visíveis, mas distintas dos RPs verificados. A abertura de participação não elimina a necessidade de revisão: o mecanismo procura combinar crescimento do repositório e transparência sobre o que ainda está em elaboração.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        13
+      ],
+      "sections": [
+        "5 A Catalog of Games Radiant Patterns"
+      ],
+      "evidence": [
+        "To ensure scalability, the platform includes a collaboration module en-\nabling repository expansion. It supports two entry types: structured submissions ,\nwhere contributors propose new patterns or variants using the RP template\nvocabulary; and problem-based contributions , which document recurring design\nproblems requiring ethical alternatives. All submissions are flagged as Candi-\ndates and remain visible but distinct from validated RPs until reviewed through\nthe governance process, preserving transparency while maintaining reliability."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-41",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Por que a governança proposta devolve submissões para refinamento, em vez de apenas aceitá-las ou rejeitá-las?",
+    "answer": "O modelo proposto prevê sessões com especialistas da academia e da indústria, inspiradas no workshop do estudo, para confrontar propostas com [[RP Invariants]]. Em vez de uma decisão binária encerrar o processo, as contribuições retornam aos autores para [[refinamento iterativo]], permanecendo acessíveis como candidatas. Isso torna a revisão parte da construção do conhecimento e preserva a diferença entre elaboração e finalização. O convite a revisores voluntários procura sustentar esse processo colaborativo. Contudo, trata-se de governança e protocolo propostos; sua descrição não demonstra que a comunidade já tenha validado efeitos de longo prazo em jogadores.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        13,
+        16
+      ],
+      "sections": [
+        "5 A Catalog of Games Radiant Patterns",
+        "7 Final Remarks"
+      ],
+      "evidence": [
+        "To safeguard integrity, we propose a governance model in which community-\nproposed RPs undergo a formal verification protocol modeled after the collabo-\nrative workshops described in this paper. Sessions involving both academic and\nindustry specialists assess submissions against defined RP Invariants. Rather\nthan binary acceptance, proposals return to contributors for iterative refine-\nment, ensuring that candidate patterns remain accessible while being polished\ninto finalized standards. We invite volunteers from academia and industry to\nparticipate as reviewers. Although reliance on a self-selected community may\nintroduce selection bias or uneven SDT expertise, the documentation template\nserves as the primary objective check. By requiring mechanics to be mapped to\nspecific needs, it reduces the risk of subjective gatekeeping.",
+        "Future work focuses on testing long-term impact, expanding the relatedness\ndimension based on observed dialogue-driven instances, and implementing the\ncollaborative verification protocol to transition candidate patterns into finalized\nstandards. By providing this structure, the framework offers a technical path\nfor the industry to move beyond identifying dark patterns toward the active\nco-creation of design cultures centered on player well-being"
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-42",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Que riscos de viés e gatekeeping o texto reconhece na revisão comunitária, e por que o template é apenas uma salvaguarda parcial?",
+    "answer": "A dependência de uma comunidade [[autosselecionada]] pode produzir viés de seleção e níveis desiguais de conhecimento de SDT. O template exige que as mecânicas sejam relacionadas a necessidades específicas e funciona, segundo a proposta, como um critério mais explícito para reduzir [[gatekeeping subjetivo]]. Isso não significa que o formulário elimine viés ou que todos os contextos e grupos estejam representados. O estudo também reconhece que seu painel de nove especialistas oferece uma perspectiva focalizada, e não consenso global da indústria. Tornar critérios visíveis apoia contestação e revisão, mas não substitui diversidade e validação mais ampla.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        13,
+        14
+      ],
+      "sections": [
+        "5 A Catalog of Games Radiant Patterns",
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "To safeguard integrity, we propose a governance model in which community-\nproposed RPs undergo a formal verification protocol modeled after the collabo-\nrative workshops described in this paper. Sessions involving both academic and\nindustry specialists assess submissions against defined RP Invariants. Rather\nthan binary acceptance, proposals return to contributors for iterative refine-\nment, ensuring that candidate patterns remain accessible while being polished\ninto finalized standards. We invite volunteers from academia and industry to\nparticipate as reviewers. Although reliance on a self-selected community may\nintroduce selection bias or uneven SDT expertise, the documentation template\nserves as the primary objective check. By requiring mechanics to be mapped to\nspecific needs, it reduces the risk of subjective gatekeeping.",
+        "This evolution was made possible by\nbroadening the discussion beyond the initial authors [20] to a specialized panel\nwith diverse academic backgrounds and development practices. This panel re-\nfined the logic and, yet nine participants offer a focused expert perspective rather\nthan a global industry consensus, they enriched the process with practical ex-\namples and developer expertise. The new titles, variants, and levels produced\na more actionable set of Radiant Patterns while maintaining the qualities that\ndefine them as such."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-43",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como defender níveis universais como base metodológica sem afirmar uma experiência psicológica universal entre sandbox e soulslike?",
+    "answer": "Os autores distinguem [[base metodológica comum]] e experiência efetiva: níveis L1–L3 oferecem uma linguagem estável, mas o significado e a vivência de uma mecânica variam entre ambientes. A competência em um sandbox e em um soulslike não precisa ser experienciada da mesma forma. O denominador ético comum é a exigência de [[não frustrar necessidades básicas]], enquanto variantes respeitam diferenças contextuais. Assim, a palavra universal não autoriza apagar gênero, objetivos ou perfis, nem garante resultados idênticos. O ganho metodológico é permitir comparação e documentação sem transformar o modelo em afirmação de uniformidade da experiência.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        15
+      ],
+      "sections": [
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "By establishing universal levels alongside these variants, the Radiant Pat-\nterns framework a contextually-specific approach, recognizing that the ethical\nimpact of a mechanic is grounded in the unique characteristics of its gameplay\nenvironment[3]. It is important to clarify that the Universal Levels (L1-L3) are\nintended as a methodological baseline rather than a claim of universal experi-\nence. While the experiential reality of a patterns varies wildly between genres,\nsuch as the difference between competence in a sandbox and a soulslike, the re-\nquirement to not frustrate basic psychological needs remains the common ethical\ndenominator. Hence, the RP variants allow the lexicon to remain stable while\nrespecting these diverse contextual boundaries identified in the literature."
+      ]
+    },
+    "kind": "direct"
+  },
+  {
+    "id": "article-e13c3cb65c28-44",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como relacionar a responsabilidade preventiva do prestador em Safety by Design ao piso L1 dos RPs, sem reduzir segurança a uma propriedade psicológica da mecânica?",
+    "answer": "Como [[síntese comparativa]], os dois documentos deslocam a atenção para condições que devem ser previstas no design, antes de atribuir toda a proteção ao usuário. SbD afirma que o ônus da segurança não deve recair exclusivamente sobre a pessoa e que danos conhecidos e antecipados precisam ser avaliados. No HCI, L1 documenta uma base de [[não frustração de necessidades]] contra retenção ou monetização enganosas. As escalas diferem: segurança de um serviço abrange responsabilidades e processos que não cabem em uma mecânica. Portanto, L1 pode contribuir para uma discussão preventiva, mas não constitui checklist completo de SbD nem prova de eficácia ou ausência de riscos.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        11,
+        14
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon",
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "Following progressive scaling, patterns are organized into universal applica-\ntion levels. Level L1 establishes the ethical floor of non-frustration. While L1\nrepresents standard practice, i.e., its inclusion in the framework identifies it as a\nnecessary boundary against deceptive monetization or retention tactics, L2 and\nL3 progressively enhance need satisfaction. For example, Open Gate includes\nL1 – Safety (automatic progress saving), L2 – Autonomy (intentional stopping),\nand L3 – Competence (visual feedback reinforcing achievement).\nThe use of environment-based subclassing through variants ensures extensi-\nbility. This dual structure allows practitioners to add contextual implementations\nto the RP catalog while preserving each pattern’s conceptual identity.",
+        "We clarify that L1 is a defensive baseline\nrather than an aspirational peak. It represents ’not-Dark’ design, serving as the\nessential technical foundation upon which L2 and L3 build active support for\nplayer flourishing, using suitable mechanics in the game industry."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-d4b0c4f9d75f",
+        "source": {
+          "file": "SBD - Overview May19.pdf",
+          "title": "Safety by Design Overview (May 2019)",
+          "pages": [
+            22,
+            21
+          ],
+          "sections": [
+            "Principle 1: Service provider responsibilities",
+            "V. Safety by Design Principles"
+          ],
+          "evidence": [
+            "Principle 1: Service provider\n\nresponsibilities\n\nThis principle is based on the central tenet that\n\nwhile user safety is a shared responsibility, the\n\nburden of safety should never fall solely upon\n\nthe end user. It acknowledges that, even though\n\nno platform or service can ensure the complete\n\nsafety of individuals, every attempt should be\n\nmade to ensure that known and anticipated harms\n\nhave been adequately assessed in the design and\n\nprovision of a service.\n\nOnline services can take preventative steps to\n\nguard against their service being used to facilitate,\n\ninflame or encourage illegal and inappropriate\n\nbehaviours. To help ensure that known and\n\nanticipated harms have been evaluated in the\n\ndesign and provision of an online service, eight\n\npreventative steps have been identified under\n\nPrinciple 1.",
+            "Safety by Design 19\n\nV. Safety by Design Principles\n\nWhile four over-arching principles were initially\n\ndeveloped, two of the principles were combined\n\nfollowing feedback received during consultations.\n\nAs a result, three over-arching high-level principles\n\nwere drafted to provide clear guidance to industry\n\nto help them develop services that harness the\n\nbenefits and potential of the online world, while\n\nmitigating against real risks and harms.\n\nThe principles set out the measures that eSafety\n\nencourages and envisages online and digital\n\nservices will take to ensure that the safety of\n\nusers is suitably addressed and considered during\n\nthe design, development and deployment of their\n\nservice. While voluntary, adopting the principles will\n\nset industries apart in the marketplace, allowing\n\ncompanies to show global leadership in developing\n\nresponsible, value and safety-centred online\n\nproducts and services.\n\nGood practice notes have also been provided\n\nas part of the Principles to guide industry in\n\nunderstanding and implementing the principles\n\nand highlighting that the principles are achievable,\n\nrealistic and actionable. These were highlighted\n\nduring the consultation process as effective,\n\nalthough there is no robust evidence about the\n\neffectiveness and impact of these practices. As\n\nsuch, the good practice notes should be viewed as\n\nillustrations only, and act as a guide.\n\nThe principles that sit underneath each overarching\n\nhigh-level principle have been ranked according\n\nto the sense of urgency with which they need to\n\nbe addressed — a point which was highlighted by\n\nall three stakeholder groups in consultation. While\n\nservices are encouraged to address each principle,\n\ngreater attention and focus should be placed on\n\nmeeting the higher ranked principles."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-45",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Que relação pode ser construída entre o engajamento aberto do princípio 3.3 de SbD e a governança Candidate/Finalized do catálogo de RPs?",
+    "answer": "A relação é uma [[comparação analítica entre mecanismos de revisão e participação]]. SbD recomenda diálogo com uma base ampla de usuários, especialistas independentes e stakeholders sobre padrões de segurança e sua adequação. O catálogo HCI torna propostas candidatas visíveis e prevê refinamento com especialistas, usando invariantes como critérios explícitos. A proximidade está na abertura à crítica e na revisão de formulações; a diferença é que uma comunidade de revisores voluntários não representa automaticamente todos os usuários afetados. Além disso, [[Finalized indica maturidade no processo de verificação]], não demonstração de efeito longitudinal ou segurança universal. As boas práticas SbD também são ilustrações, sem evidência robusta de eficácia.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        13
+      ],
+      "sections": [
+        "5 A Catalog of Games Radiant Patterns"
+      ],
+      "evidence": [
+        "The Radiant Patterns Catalog \n6 \nis a structured knowledge system designed to\nbridge player well-being research and game development practice. It operational-\nizes the multidimensional framework of Universal Levels and Contextual Vari-\nants derived from our refinement sessions. The platform is organized around\ncontext-driven filters that allow practitioners and researchers to query patterns\naccording to developer goals and player needs, directly reflecting Phase I findings\non genre specificity and application context. The system distinguishes between\nFinalized RPs – those validated through formal verification – and Candidate\nRPs, which are undergoing co-creation. This separation enables transparency re-\ngarding pattern maturity while allowing users to choose between peer-validated\nstandards and experimental alternatives. Filters include variant-based con-\ntexts (e.g., Single-Player, Multiplayer) and development goals (e.g., preserving\nprogress, managing companions), all within the boundaries of the RP framework.",
+        "To safeguard integrity, we propose a governance model in which community-\nproposed RPs undergo a formal verification protocol modeled after the collabo-\nrative workshops described in this paper. Sessions involving both academic and\nindustry specialists assess submissions against defined RP Invariants. Rather\nthan binary acceptance, proposals return to contributors for iterative refine-\nment, ensuring that candidate patterns remain accessible while being polished\ninto finalized standards. We invite volunteers from academia and industry to\nparticipate as reviewers. Although reliance on a self-selected community may\nintroduce selection bias or uneven SDT expertise, the documentation template\nserves as the primary objective check. By requiring mechanics to be mapped to\nspecific needs, it reduces the risk of subjective gatekeeping."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-d4b0c4f9d75f",
+        "source": {
+          "file": "SBD - Overview May19.pdf",
+          "title": "Safety by Design Overview (May 2019)",
+          "pages": [
+            35,
+            21
+          ],
+          "sections": [
+            "Principle 3.3",
+            "V. Safety by Design Principles"
+          ],
+          "evidence": [
+            "Principle 3.3: Carry out open engagement with a\n\nwide user-base, including independent experts\n\nand key stakeholders, on the development,\n\ninterpretation and application of safety standards\n\nand their effectiveness or appropriateness\n\nRisks and harms are inter-related, inter-connected\n\nand can manifest in different and sometimes\n\nunexpected ways. Services cannot expect to have\n\nthe expertise or knowledge about how to manage\n\nand mitigate against these harms on their own.\n\nThe global online safety community has built up\n\nexpertise and skills that can be accessed and\n\nleveraged by industry to their advantage. Services\n\ncan easily seek affiliation with renowned online\n\nsafety councils or bodies to achieve this aim.\n\nDespite technical features and tools being\n\nbuilt with the best of intentions, unintended\n\nconsequences and negative impacts can occur.\n\nIncorporating open channels of communication and\n\nfeedback with independent experts and the general\n\npublic can ensure that potential consequences and\n\nramifications are identified, rectified and informed\n\nby best practice before the feature launches.",
+            "Safety by Design 19\n\nV. Safety by Design Principles\n\nWhile four over-arching principles were initially\n\ndeveloped, two of the principles were combined\n\nfollowing feedback received during consultations.\n\nAs a result, three over-arching high-level principles\n\nwere drafted to provide clear guidance to industry\n\nto help them develop services that harness the\n\nbenefits and potential of the online world, while\n\nmitigating against real risks and harms.\n\nThe principles set out the measures that eSafety\n\nencourages and envisages online and digital\n\nservices will take to ensure that the safety of\n\nusers is suitably addressed and considered during\n\nthe design, development and deployment of their\n\nservice. While voluntary, adopting the principles will\n\nset industries apart in the marketplace, allowing\n\ncompanies to show global leadership in developing\n\nresponsible, value and safety-centred online\n\nproducts and services.\n\nGood practice notes have also been provided\n\nas part of the Principles to guide industry in\n\nunderstanding and implementing the principles\n\nand highlighting that the principles are achievable,\n\nrealistic and actionable. These were highlighted\n\nduring the consultation process as effective,\n\nalthough there is no robust evidence about the\n\neffectiveness and impact of these practices. As\n\nsuch, the good practice notes should be viewed as\n\nillustrations only, and act as a guide.\n\nThe principles that sit underneath each overarching\n\nhigh-level principle have been ranked according\n\nto the sense of urgency with which they need to\n\nbe addressed — a point which was highlighted by\n\nall three stakeholder groups in consultation. While\n\nservices are encouraged to address each principle,\n\ngreater attention and focus should be placed on\n\nmeeting the higher ranked principles."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-46",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como segurança por padrão e possibilidade de revisar escolhas em SbD ajudam a discutir autonomia nos RPs sem opor proteção e agência?",
+    "answer": "Em SbD, o princípio 2.1 articula [[ferramentas de controle, configurações seguras por padrão e possibilidade de rever preferências]]. O HCI trata necessidades como condições estruturais que podem apoiar volição e apresenta L1 como piso, com apoio adicional nos níveis seguintes. A ponte analítica é que proteção inicial e escolha informada não precisam ser tratadas como alternativas excludentes: o sistema pode estabelecer uma base protetiva e permitir decisões significativas. Contudo, default seguro de privacidade não equivale por definição a apoio à competência ou ao vínculo. São dimensões e domínios distintos, que exigem descrição contextual e avaliação; nenhum dos textos garante florescimento individual pelo simples uso de um controle.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        3,
+        11
+      ],
+      "sections": [
+        "2.1 Well-being and \"Positive\" Design Patterns",
+        "4.2 Refined RPs Framework Established a Shared Lexicon"
+      ],
+      "evidence": [
+        "In contrast to manipulative strategies, positive computing positions well-being\nas an explicit design objective rather than a byproduct of usability [8,9,42]. It\ndraws on multiple strands of psychological research to inform the design of sys-\ntems that support human flourishing [9,43]. Among these, Self-Determination\nTheory (SDT) provides a widely adopted and empirically robust framework for\nunderstanding basic psychological needs. SDT identifies autonomy, competence,\nand relatedness as fundamental needs [18,47], linking need satisfaction to in-\ntrinsic motivation and growth, and need frustration to diminished well-being\n[47]. In design terms, these needs function as structural affordances: systems\ncannot guarantee flourishing, but they can organize conditions that support or\nundermine volition, efficacy, and connection [43].",
+        "Following progressive scaling, patterns are organized into universal applica-\ntion levels. Level L1 establishes the ethical floor of non-frustration. While L1\nrepresents standard practice, i.e., its inclusion in the framework identifies it as a\nnecessary boundary against deceptive monetization or retention tactics, L2 and\nL3 progressively enhance need satisfaction. For example, Open Gate includes\nL1 – Safety (automatic progress saving), L2 – Autonomy (intentional stopping),\nand L3 – Competence (visual feedback reinforcing achievement).\nThe use of environment-based subclassing through variants ensures extensi-\nbility. This dual structure allows practitioners to add contextual implementations\nto the RP catalog while preserving each pattern’s conceptual identity."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-d4b0c4f9d75f",
+        "source": {
+          "file": "SBD - Overview May19.pdf",
+          "title": "Safety by Design Overview (May 2019)",
+          "pages": [
+            30
+          ],
+          "sections": [
+            "Principle 2: User empowerment and autonomy",
+            "Principle 2.1"
+          ],
+          "evidence": [
+            "Principle 2: User empowerment and\n\nautonomy\n\nThis principle is based on two key tenets. First, that\n\nthe dignity of users is of central importance when\n\ndesigning safe online services, and second, that it is\n\nimportant for services to treat the interests of users\n\nas an inalienable consideration.\n\nHuman agency and autonomy can be supported,\n\namplified and strengthened in the design of online\n\nenvironments. An inclusive design approach that\n\nsecures user safety as part of the in-service\n\nexperience will enable, optimise and support users\n\nto have greater control over their interactions.\n\nFeatures and functionality that allow users to\n\nfully govern and regulate their own experiences —\n\nparticularly at times when their safety is being, or is\n\nat risk of being, compromised is recommended.\n\nPrinciple 2.1: Provide technical measures and tools\n\nthat allow users to manage their own safety, and\n\nthat are set to the most secure privacy and safety\n\nlevels by default\n\nIn a shared responsibility framework, for users to\n\nhave control over their own safety they need to be\n\nprovided with the right tools — and feel empowered\n\nto use these tools. In a rights-based framework\n\nsuch as the SbD Framework, individuals should\n\nbe provided with opportunities to revise their\n\npreferences and choices as they see fit. They should\n\nalso have control over their personal information\n\nand how it is portrayed.\n\nOur consultation process with young people,\n\nparents and carers highlighted a consumer\n\nexpectation that privacy and safety settings should\n\nbe placed at the highest levels by default — that\n\nis, at sign-up or registration. This is particularly\n\nimportant when considering that the vast majority\n\nof users keep privacy settings at the level they were\n\nconfigured at on registration\n78\n.\n\nFor young people, in particular, having greater\n\ncontrol and autonomy was of the utmost\n\nimportance. There was a strong belief that features\n\nwhich offer control, and empower users to\n\ndirectly tackle violations of conduct, foster greater\n\nconfidence and a sense that the user was safe\n\nonline. These features included blocking, muting\n\nand reporting functions.\n\nIndividuals should not have to accept that in order\n\nto use a service, they may have to compromise\n\nelements of their privacy or safety. Services\n\ncan develop features and functionality which\n\nhand freedom of choice and control back to the\n\nindividual."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-47",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como o item sobre uso prolongado no documento local Art. 48 pode ser contrastado com Open Gate, sem concluir que toda retenção é enganosa?",
+    "answer": "O documento local lista, no inciso XX, funcionalidades que incentivem manutenção do usuário ativo por períodos prolongados, incluindo notificações constantes, recompensas variáveis, autoplay e outras. No HCI, [[Open Gate]] oferece um contraste estrutural: preservação automática de progresso, parada intencional e retorno sem custo. Como síntese para arguição, a pergunta é se a organização da experiência permite interromper por decisão própria ou impõe custos e pressões. [[Listagem classificatória e análise de necessidades não são equivalentes]]: a presença de uma funcionalidade não prova, sozinha, manipulação ou dano. A relação também não afirma vigência jurídica do Art. 48 nem que o padrão resolva todos os riscos de uso prolongado.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        11,
+        9
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon"
+      ],
+      "evidence": [
+        "Following progressive scaling, patterns are organized into universal applica-\ntion levels. Level L1 establishes the ethical floor of non-frustration. While L1\nrepresents standard practice, i.e., its inclusion in the framework identifies it as a\nnecessary boundary against deceptive monetization or retention tactics, L2 and\nL3 progressively enhance need satisfaction. For example, Open Gate includes\nL1 – Safety (automatic progress saving), L2 – Autonomy (intentional stopping),\nand L3 – Competence (visual feedback reinforcing achievement).\nThe use of environment-based subclassing through variants ensures extensi-\nbility. This dual structure allows practitioners to add contextual implementations\nto the RP catalog while preserving each pattern’s conceptual identity.",
+        "RP1 - Free Exit changes to Open Gate : The original title emphasized free-\ndom to leave but did not convey progress preservation. The revised name\nhighlights both autonomy and progress security, adopting Open Gate as\na metaphor for seamless exit and return without cost."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-94e7a19d8878",
+        "source": {
+          "file": "Art. 48 - Oficina.pdf",
+          "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+          "pages": [
+            4
+          ],
+          "sections": [
+            "Art. 48, §10, inciso XX"
+          ],
+          "evidence": [
+            "XX – funcionalidades que incentivem a manutenção do usuário ativo por\nperíodos prolongados, tais como: scroll in fi nito, noti fi cações constantes,\nrecompensas variáveis, algoritmos de recomendação, gami fi cação, autoplay\n(reprodução automática), sistema de seguidores e engajamento social,\npromoções e ofertas limitadas, entre outros;"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-48",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como revisão de classificação no documento Art. 48 e variantes contextuais dos RPs mostram que uma avaliação não deve congelar as características de um sistema?",
+    "answer": "O §4º do documento local permite rever indicação etária diante de novas características ou conteúdos classificáveis; o §15 remete especificações técnicas de certos critérios aos Guias Práticos. No HCI, [[variantes contextualizam a aplicação]] e preservam invariantes sem pressupor experiência universal. A correlação analítica é a necessidade de tornar condições e mudanças do objeto avaliável explícitas, em vez de tratar uma conclusão inicial como eterna. Mas os processos têm finalidades distintas: [[faixa etária não é nível L1–L3]], e revisão classificatória não constitui validação psicológica de RP. A comparação não afirma vigência do documento, equivalência entre procedimentos ou eficácia preventiva já demonstrada.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        10,
+        15
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon",
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "Defining Hierarchical Scaling and Contextual Variants for RPs Discus-\nsion revealed that original RPs failed to account for genre-specific constraints,\nplatform limitations, or player profiles. Contextual differences, such as the transi-\ntion from single-player to multiplayer, are not isolated exceptions but structural\nadaptations required to maintain the pattern’s efficacy. By analyzing these re-\nquirements, we established two pragmatic rules for framework expansion:\n1. Progressive Requirement Scaling : Structure pattern application into\nhierarchical tiers, each representing increasing psychological need satisfaction\nfrom a baseline of non-frustration.\n2. Environment-Based Subclassing : Define structural variants that adapt\nuniversal levels to specific gameplay contexts (e.g., genre, mode, platform)\nwithout changing core logic.\nThese rules allow a more precise integration across varied RP titles. For\ninstance, the core mechanic of Companion requires different implementations\nfor decorative mascots in The Sims compared to combat partners in World of\nWarcraft . Similarly, Creative Suite spans a broad design space—from aesthetic\ncustomization to complex scenario sharing—that cannot be addressed by a single\ndescription without losing developer utility.",
+        "By establishing universal levels alongside these variants, the Radiant Pat-\nterns framework a contextually-specific approach, recognizing that the ethical\nimpact of a mechanic is grounded in the unique characteristics of its gameplay\nenvironment[3]. It is important to clarify that the Universal Levels (L1-L3) are\nintended as a methodological baseline rather than a claim of universal experi-\nence. While the experiential reality of a patterns varies wildly between genres,\nsuch as the difference between competence in a sandbox and a soulslike, the re-\nquirement to not frustrate basic psychological needs remains the common ethical\ndenominator. Hence, the RP variants allow the lexicon to remain stable while\nrespecting these diverse contextual boundaries identified in the literature."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-94e7a19d8878",
+        "source": {
+          "file": "Art. 48 - Oficina.pdf",
+          "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+          "pages": [
+            2,
+            5
+          ],
+          "sections": [
+            "Art. 48, §§4º e 15"
+          ],
+          "evidence": [
+            "§4º A indicação etária poderá ser revista sempre que os conteúdos\napresentarem novas características ou conteúdos classi fi cáveis, conforme os\ncritérios estabelecidos nos Guias Práticos de Classi fi cação Indicativa.",
+            "II – a existência de ferramentas de controle etário e de controles parentais\nacessíveis ao usuário; e\nIII – a adoção de políticas de moderação que restrinjam o acesso de menores a\nconteúdos sensíveis ou que proíbam tais conteúdos na aplicação, desde que\nalinhadas ao disposto no Marco Civil da Internet (Lei nº 12.965, de 23 de abril\nde 2014).\n§15 As especi fi cações técnicas e operacionais para a aplicação dos critérios\nestabelecidos no §14 e em seus incisos serão detalhadas nos Guias Práticos\nde Classi fi cação Indicativa."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-49",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como o creator-consumer divide tensiona a interpretação dos níveis universais e variantes dos RPs?",
+    "answer": "Games Made Elsewhere propõe uma lente teórica para a [[distância entre contextos de criação e consumo]], questionando a transferência de conhecimento concentrado em contextos WEIRD e a possibilidade de amplificação de danos em outros mercados. O HCI esclarece que níveis universais são uma [[base metodológica]], não alegação de experiência universal, e usa variantes para respeitar ambientes distintos. A ponte analítica é que estabilidade de vocabulário não elimina diferenças materiais, sociais e culturais. A lente de divide amplia as perguntas a fazer sobre contexto; ela não foi empiricamente testada pelo HCI nem prova que suas variantes já cubram essas desigualdades. O cenário Helena continua sendo uma provocação especulativa, não confirmação de impacto.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        15
+      ],
+      "sections": [
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "By establishing universal levels alongside these variants, the Radiant Pat-\nterns framework a contextually-specific approach, recognizing that the ethical\nimpact of a mechanic is grounded in the unique characteristics of its gameplay\nenvironment[3]. It is important to clarify that the Universal Levels (L1-L3) are\nintended as a methodological baseline rather than a claim of universal experi-\nence. While the experiential reality of a patterns varies wildly between genres,\nsuch as the difference between competence in a sandbox and a soulslike, the re-\nquirement to not frustrate basic psychological needs remains the common ethical\ndenominator. Hence, the RP variants allow the lexicon to remain stable while\nrespecting these diverse contextual boundaries identified in the literature."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-eca18e5843e2",
+        "source": {
+          "file": "chiplaycompanion25-21.pdf",
+          "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+          "pages": [
+            2
+          ],
+          "sections": [
+            "2 The Creator-Consumer Divide as a Lens for Understanding Systemic Player Vulnerability",
+            "3 A Speculative Perspective"
+          ],
+          "evidence": [
+            "So, to what extent does our current game and DP knowledge\napply to non-WEIRD contexts, as research in this topic originates\npredominantly from WEIRD contexts [18] (e.g., [11, 13, 15, 22, 29])?\nThis bias, mirrored in psychology (where WEIRD populations are\n12% globally but dominate studies [17]) and broad HCI research\n[21], limits findings’ external validity for the global majority and\noverlooks socio-economic nuances. From a decolonial perspective\n[3, 10], the WEIRD-centricity is not merely a methodological over-\nsight; it is a systemic issue. Still, it reflects a more profound power\nimbalance, where WEIRD perspectives, values, and designs, includ-\ning those that embed DPs and predatory monetization, are often\nuncritically exported and imposed upon diverse global audiences.\nNovel DP cases in widely used apps in Brazil [9, 28], most of which\nwere developed elsewhere, suggest that the context may enable\nnew forms of exploitation. Is it purposeful or coincidental? Does it\nmatter?\nThe creator-consumer divide can serve as a lens to examine\nboth the impact of manipulative and exploitative game designs\nand monetization models on Global South markets, as well as the\npotential for a design considered safe in a WEIRD context to become\nharmful when deployed in a non-WEIRD one.",
+            "This paper uses a speculative design extrapolation [12] to propose\na critical future artifact and an imagined scenario that asks: What\nif the creator-consumer divide ensnares individuals in a cycle\nwhere virtual escape consumes real-world essentials and erodes\ncivic integrity?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-50",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Por que abrir um catálogo a especialistas voluntários não equivale, por si só, à parceria equitativa com comunidades defendida em Games Made Elsewhere?",
+    "answer": "O HCI propõe revisão comunitária com especialistas da academia e indústria, mas reconhece [[autosseleção, expertise desigual e perspectiva focalizada]] do painel. Games Made Elsewhere pede ir além de tratar contextos não-WEIRD como fontes de dados, construindo [[parcerias equitativas e cocriação de agendas]]. A comparação permite perguntar quem decide critérios, quem participa e quais experiências ficam ausentes. Não é uma acusação de que o catálogo necessariamente exclua essas comunidades, nem evidência de que abrir submissões redistribua poder por si só. São requisitos analíticos diferentes: transparência e estrutura de revisão podem apoiar colaboração, enquanto equidade exige examinar participação e poder efetivos, não apenas presença de um formulário.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        13,
+        14
+      ],
+      "sections": [
+        "5 A Catalog of Games Radiant Patterns",
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "To safeguard integrity, we propose a governance model in which community-\nproposed RPs undergo a formal verification protocol modeled after the collabo-\nrative workshops described in this paper. Sessions involving both academic and\nindustry specialists assess submissions against defined RP Invariants. Rather\nthan binary acceptance, proposals return to contributors for iterative refine-\nment, ensuring that candidate patterns remain accessible while being polished\ninto finalized standards. We invite volunteers from academia and industry to\nparticipate as reviewers. Although reliance on a self-selected community may\nintroduce selection bias or uneven SDT expertise, the documentation template\nserves as the primary objective check. By requiring mechanics to be mapped to\nspecific needs, it reduces the risk of subjective gatekeeping.",
+        "This evolution was made possible by\nbroadening the discussion beyond the initial authors [20] to a specialized panel\nwith diverse academic backgrounds and development practices. This panel re-\nfined the logic and, yet nine participants offer a focused expert perspective rather\nthan a global industry consensus, they enriched the process with practical ex-\namples and developer expertise. The new titles, variants, and levels produced\na more actionable set of Radiant Patterns while maintaining the qualities that\ndefine them as such."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-eca18e5843e2",
+        "source": {
+          "file": "chiplaycompanion25-21.pdf",
+          "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+          "pages": [
+            3
+          ],
+          "sections": [
+            "4 Toward a Decolonial Game and Play Research"
+          ],
+          "evidence": [
+            "that societies like mine, mainly in the Global South, have already\ninflicted upon their citizens. Informed by decolonial thought, this vi-\nsion challenges the HCI and games communities to reflect on when\nplay becomes another frontier for extraction. This compels us to ask\nhow we can move beyond studying non-WEIRD contexts as mere\nsources of data and toward building genuine, equitable partnerships\nwith communities in the Global South. What are our responsibilities\nin co-creating research agendas and design paradigms that build\nresilience rather than deepen the precarity of the already vulner-\nable? It is not trivial. But ultimately, is the CHI PLAY community\nwilling to try?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-51",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Em que o catálogo de RPs responde à agenda de documentação colaborativa, e que parte da agenda continua além da organização de um repositório?",
+    "answer": "A agenda propõe [[léxico rico, documentação de princípios psicológicos, validação empírica, curadoria, revisão e versionamento]], apoiados por colaboração sustentada. O HCI oferece vocabulário, template, filtros e entradas candidatas/finalizadas, além de um protocolo de refinamento. Como correlação, há uma passagem de recomendações de infraestrutura para uma organização mais concreta do conhecimento. Porém, [[organizar e revisar não é provar impacto]]: a agenda exige exemplos empiricamente fundamentados, e o HCI reconhece ausência de dados longitudinais e necessidade de verificar uso em desenvolvimento ativo. A comparação deve valorizar a infraestrutura e simultaneamente explicitar o trabalho de avaliação e sustentação comunitária ainda necessário.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        13,
+        15
+      ],
+      "sections": [
+        "5 A Catalog of Games Radiant Patterns",
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "The Radiant Patterns Catalog \n6 \nis a structured knowledge system designed to\nbridge player well-being research and game development practice. It operational-\nizes the multidimensional framework of Universal Levels and Contextual Vari-\nants derived from our refinement sessions. The platform is organized around\ncontext-driven filters that allow practitioners and researchers to query patterns\naccording to developer goals and player needs, directly reflecting Phase I findings\non genre specificity and application context. The system distinguishes between\nFinalized RPs – those validated through formal verification – and Candidate\nRPs, which are undergoing co-creation. This separation enables transparency re-\ngarding pattern maturity while allowing users to choose between peer-validated\nstandards and experimental alternatives. Filters include variant-based con-\ntexts (e.g., Single-Player, Multiplayer) and development goals (e.g., preserving\nprogress, managing companions), all within the boundaries of the RP framework.",
+        "To ensure scalability, the platform includes a collaboration module en-\nabling repository expansion. It supports two entry types: structured submissions ,\nwhere contributors propose new patterns or variants using the RP template\nvocabulary; and problem-based contributions , which document recurring design\nproblems requiring ethical alternatives. All submissions are flagged as Candi-\ndates and remain visible but distinct from validated RPs until reviewed through\nthe governance process, preserving transparency while maintaining reliability.",
+        "To safeguard integrity, we propose a governance model in which community-\nproposed RPs undergo a formal verification protocol modeled after the collabo-\nrative workshops described in this paper. Sessions involving both academic and\nindustry specialists assess submissions against defined RP Invariants. Rather\nthan binary acceptance, proposals return to contributors for iterative refine-\nment, ensuring that candidate patterns remain accessible while being polished\ninto finalized standards. We invite volunteers from academia and industry to\nparticipate as reviewers. Although reliance on a self-selected community may\nintroduce selection bias or uneven SDT expertise, the documentation template\nserves as the primary objective check. By requiring mechanics to be mapped to\nspecific needs, it reduces the risk of subjective gatekeeping.",
+        "The autoethnography identified RPs in released games, confirming their real-\nworld presence. This analysis serves as a discovery method, though validating the\nframework’s use during active development remains a future requirement."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-d0d500126a80",
+        "source": {
+          "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+          "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+          "pages": [
+            7,
+            8
+          ],
+          "sections": [
+            "3.1"
+          ],
+          "evidence": [
+            "From Understanding to Intervention 93\n\nplayer psychological needs. Lewis [ 22 ] similarly suggests “motivational design\n\npatterns” while also warning against DPs that cause long-term motivational\n\nharm. Aagaard and colleagues [ 1 ] delineate the origins of DPs in mobile game\n\ndevelopment, use, and commercialization and advocate for game experiences that\n\nprioritize player and industry professionals’ well-being. However, as valuable as\n\nthey are, these concepts and guidelines are not often incorporated by the game\n\nindustry for various reasons, one being that conceptualizations like these remain\n\nprimarily descriptive, lacking readily actionable translations.\n\nTo bridge this gap and to advance initiatives like these, a collaborative\n\neffort in designing, prototyping, and empirically evaluating is necessary. This\n\neffort would involve demonstrating how ethical, “radiant” or “motivational” and\n\nother positive design ideals translate into concrete, context-specific practices\n\nthat incorporate player dignity and informed choice. For instance, Frommel &\n\nMandryk [ 10 ] found that daily quest rewards, while engaging, can negatively\n\nimpact players through fear of missing out or feeling like a chore. Based on their\n\ninsights, the community could develop, test, and document alternative reward\n\nsystems. And then, sharing these vetted examples grounded in empirical findings\nand clear design rationales to easily accessible channels, including but not limited\n\nto formal repositories. The idea is to ease the bridge between academic knowledge\n\nand general industry use.\n\nBefore establishing cooperative collections or databases, a common ground\n\nfor documenting and sharing these ethical game design elements requires fos-\ntering a shared understanding and robust methodologies. A key element is\n\nthe collaborative creation of a rich lexicon for describing problematic patterns\n\n(based on well-founded taxonomies) and their ethical counterparts—designs that\n\nrespect player agency as a primary concern. This requires ongoing dialogue\n\nwithin the HCI and games research community, facilitated through diverse col-\nlaborative platforms such as workshops, dedicated tracks at conferences, spe-\ncial interest groups, and open online forums for discussion and co-creation of\n\ndocumentation.\n\nStandardized yet flexible ways to validate “working examples” are also nec-\nessary to fulfill this vision. As research groups worldwide will pursue various\n\nresearch questions, they would benefit from shared principles for empirical veri-\nfication, possibly including metrics related to both player well-being and engage-\nment. For instance, the “System Darkness Scale” [ 30 ] represents an interest\n\nin quantifiable evaluations, offering a potential starting point, which could be\n\nadapted and combined with mixed-method approaches to capture the positive\n\ndimensions of ethical designs. The emphasis here is on demonstrating respect for\n\nthe player, not solely optimizing engagement metrics.\n\nWhile a dynamic, web-based repository – perhaps inspired by collaborative\n\nplatforms or open-source documentation projects rather than just static sites\n\nowned by a particular researcher – remains a valuable long-term goal for struc-\ntured sharing, the immediate focus should be on diverse modes of collaboration\nand dissemination . That would ideally allow researchers to contribute compre-\nhensive documentation of design patterns. This documentation should go beyond",
+            "94 T. Darin and N. Carneiro\n\nvisual layouts and interaction sequences. It should also explicitly articulate the\n\nethical principles and psychological constructs addressed alongside robust empir-\nical validation. Peer review, community-led curation including developers, and\n\nversioning would be essential for maintaining this shared knowledge’s quality,\n\nintegrity, and evolving nature.\n\nTo encourage broad participation in these collaborative documentation and\n\nsharing efforts, the processes must be inclusive and offer clear value to contrib-\nutors, such as opportunities for co-authorship, peer recognition, and fostering a\n\ncommunity of practice around ethical game design. These shared resources can\n\nalso serve as powerful educational tools, complementing efforts to raise aware-\nness on the impact of DPs, like serious games developed with this aim [ 7 , 36 , 38 ],\n\nby providing concrete examples of ethical design in action.\n\nFunding and sustaining such collaborative endeavors will probably repre-\nsent significant challenges. Support could come from research consortia, uni-\nversity partnerships, or grants from foundations promoting ethical technology\n\nand open knowledge. Most importantly, sustained community engagement and\n\nshared ownership are essential for these shared resources’ ongoing and long-term\n\ndevelopment, relevance, and ethical stewardship.\n\nThe decentralized nature of research can be valuable here. Various groups\n\ncan contribute expertise on specific game genres, diverse player populations\n\n(e.g., children or those with particular vulnerabilities), or nuanced ethical issues\n\n(e.g., data privacy, fair monetization). Well-orchestrated collaborative efforts and\n\nthoughtfully designed sharing platforms can consolidate these diverse insights,\n\nmaking specialized knowledge and practical examples of ethical design\n\naccessible to the broader game development community, thereby promoting a\n\ndesign ethos grounded in respect for the player.\n\nDespite the ambitious scope, fostering collaboration for documenting and\n\nsharing ethical design knowledge aligns with the core tenets of scholarly research.\n\nIt directly addresses the demand for actionable solutions to ethical challenges\n\nin game design, as highlighted by Aagaard et al. [ 1 ]. Such collaborative efforts,\n\nfocused on creating and disseminating practical, ethically grounded knowledge,\n\ncan significantly accelerate the adoption of design principles that genuinely pri-\noritize player well-being within the game industry.\n\n3.2 Development of Software Artifacts to Foster Real-Time\n\nAwareness on Users and Developers\n\nGood gains have been achieved in enhancing player sensitivity and insight into\n\nmanipulative practices by developing and piloting serious games [ 7 , 21 , 36 , 38 , 39 ]\n\nand developing tools that enable users to spot manipulative design elements\n\n[ 2 , 7 ]. To provide but one illustration, Fiedler and colleagues [ 7 ] showed that their\n\nserious game significantly improves the ability of participants to identify DPs,\n\nand Kronhardt and coauthors [ 21 ] showed how game-adapted DPs integrated\n\ninto a serious game can raise awareness through immediate consequences.\n\nWhile raising awareness is necessary because it provides the cognitive tools\n\nfor detection, HCI research can augment this impact by designing interactive"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-52",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como definições estáveis de RP e protocolos adaptáveis de avaliação podem se complementar sem confundir presença com impacto?",
+    "answer": "O HCI argumenta que [[definições e critérios compartilhados]] oferecem unidades mais consistentes para pesquisa cumulativa. A agenda de intervenção, por sua vez, pede metodologias padronizadas mas adaptáveis a gêneros e modelos de monetização, medindo não apenas presença de padrões, mas [[impacto em autonomia, justiça, transparência e bem-estar]]. A síntese é que uma descrição consistente ajuda a saber o que está sendo comparado, enquanto adaptação contextual e medidas adequadas ajudam a avaliar o que acontece com as pessoas. Nenhuma dessas tarefas substitui a outra. O artigo HCI não apresenta o ensaio de eficácia que essa combinação permitiria planejar, e a agenda permanece uma chamada à pesquisa.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        4
+      ],
+      "sections": [
+        "2.1 Well-being and \"Positive\" Design Patterns"
+      ],
+      "evidence": [
+        "A further limitation across positive pattern approaches is the scarcity of\nempirical validation compared to the iterative A/B testing commonly used to\noptimize dark patterns. Without standardized definitions and shared criteria,\nconsistent implementation and evaluation remain difficult. Standardizing defi-\nnitions and identification criteria provides the experimental units required for\nlarge-scale testing. This framework establishes the consistent variables needed\nfor cumulative empirical research to assess impact on player experience."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-d0d500126a80",
+        "source": {
+          "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+          "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+          "pages": [
+            11,
+            12
+          ],
+          "sections": [
+            "3.3",
+            "4 Forging Ahead: A Research Agenda"
+          ],
+          "evidence": [
+            "From Understanding to Intervention 97\n\nadapting specific player experience instruments, such as validated questionnaires\n\nor carefully designed behavioral metrics, that explicitly capture core tenets of\n\nethical interaction. These instruments should focus on perceived autonomy, fair-\nness, transparency, the sense of being respected (or manipulated), and critical\n\naspects of psychological well-being, drawing inspiration from well-established\n\ntheories like the Self-Determination Theory [ 33 , 34 ]. Such measures would allow\n\nresearchers to move beyond general assessments of “darkness” to indicate how\n\nspecific patterns or their alternatives influence these fundamental human needs,\n\na necessary point of departure to investigate how to counteract them.\n\nBuilding upon existing frameworks, we call for creating standardized yet\n\nadaptable methodologies for evaluating both the presence and, crucially, the\n\nimpact of DPs across diverse game genres and monetization models. It includes\n\nrefining our approaches to measure the actual effect of interventions designed\n\nto mitigate DPs or enhance player awareness. For example, understanding why\n\nsome educational interventions show limited impact on knowledge about DPs\n\nmatters [ 39 ] requires more sensitive evaluation protocols to determine true effi-\ncacy and identify areas for improvement.\n\nAddressing these challenges involves not only identifying the absence\n\nof DPs but also evaluating the effectiveness of ethical design choices\n\nin creating a positive, engaging game experience driven by genuine enjoyment,\n\nnot coercion. We can enhance our use of gameplay data by developing teleme-\ntry and behavioral analytics to uncover patterns that indicate compromised\n\nplayer autonomy or manipulative mechanics. Integrating this data with qual-\nitative insights and refined player experience tools can lead to a more compre-\nhensive assessment. Additionally, we could improve methodologies for assessing\n\nthe prevalence of DPs in new games by combining expert evaluations tailored to\n\nspecific game types and monetization strategies, along with emerging automated\n\ndetection approaches where ethically appropriate.\n\nDeveloping and adapting methods and validated measures is not an end in\n\nitself. Instead, it is a step toward generating highly specific, empirically grounded\n\nguidelines that practitioners can trust and readily apply. These methods will\n\nallow us to move from general advice to concrete, evidence-backed recommen-\ndations (e.g., “ To uphold player autonomy in reward systems, design X which\ndemonstrably leads to Y outcome in perceived fairness, as measured by Z ”). By\n\nfocusing on quantifiable impacts on core aspects of ethical player experience,\n\nwe can make assessments more systematic, comparable across studies, and ulti-\nmately more impactful in driving real change in game design practices.\n\n4 Forging Ahead: A Research Agenda\n\nThis position paper argued for systematically expanding the focus of HCI games\n\nresearch regarding game DPs. It means moving from identifying what is problem-\natic to demonstrating what is possible. We urge a dedicated focus on interven-\ntionist and practical methodologies that enrich and are enriched by our existing\n\nfoundational understanding of DPs, creating a robust cycle of theory and applica-\ntion. The aim is not to offer definitive, one-size-fits-all solutions, as the landscape",
+            "98 T. Darin and N. Carneiro\n\nof game design and player experience is far too diverse and dynamic for such\n\nprescriptions. Instead, we have intended to outline a call to action, highlighting\n\nspecific areas where research efforts can make a tangible difference in fostering\n\nmore ethical and player-respecting game environments.\n\nFrom our discussion, a research agenda emerges, embracing the complexities\n\nand committing to developing empirically grounded, actionable knowledge by:\n\n– Developing and Validating Ethical Solutions: How can the HCI com-\nmunity collaboratively document, prototype, and rigorously evaluate specific\n\npositive patterns or ethical design alternatives for familiar game mechan-\nics prone to exploitation? What methodologies best capture their impact on\n\nplayer autonomy, well-being, and potential alignment with sustainable devel-\noper goals?\n\n– Creating and Assessing Intervention Tools: What types of player-\nassisting software artifacts (e.g., real-time awareness tools, contextual guides)\n\ncan effectively empower players against DPs without being overly intrusive\n\nor easily avoided? Conversely, how can we design developer-support tools to\n\nseamlessly integrate ethical considerations into existing game development\n\nworkflows, offering practical guidance rather than mere warnings? What are\n\nthe most effective ways to empirically test the real-world impact of such tools?\n\n– Refining Methods for Impact Assessment: How can we develop more\n\nnuanced and validated metrics and methodologies to assess the prevalence of\n\nDPs and their tangible impact on player well-being and perceived fairness?\n\nCan we create standardized yet flexible protocols for evaluating the effective-\nness of countermeasures across diverse game genres and player populations?\n\n– Translating Research into Actionable Guidance for Practitioners:\n\nWhat are the most effective formats and channels for translating empirical\n\nfindings into practical, context-specific design guidelines and heuristics that\n\ngame developers can readily understand and apply? How can we better bridge\n\nthe implementation gap between academic research and industry practice?\n\nAddressing these questions requires a multi-faceted approach, integrating\n\nqualitative depth with quantitative rigor and fostering stronger collaborations\n\nbetween researchers, designers, developers, and players. More importantly, it\n\nshould come from people from different backgrounds and countries, including\n\nthe Global South perspective. This endeavor is not about dictating what games\n\nshould be but expanding their palette – engaging, entertaining, and fundamen-\ntally respectful of the individuals who play them. This call to action is an invi-\ntation to the HCI and games research community. By focusing our collective\n\nexpertise on these interventionist and practical trajectories rooted in theory, we\n\ncan move beyond critique to creation, spearheading the development of knowl-\nedge and tools that genuinely support designing a more ethical future for digital\n\ngames.\n\nAcknowledgments. This work is a partial result of the project Digital Well-Being,\n\nsupported by CNPq (CNPq/MCTI Call No. 10/2023 – UNIVERSAL), under grant\n\nnumber 404559/2023-9. We would like to thank the anonymous reviewers for their"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-53",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Por que o piso not-Dark de L1 deve ser relacionado à exigência da agenda de avaliar experiência positiva, em vez de encerrar a avaliação na ausência de dark patterns?",
+    "answer": "O HCI define [[L1 como base defensiva]], sobre a qual L2 e L3 constroem apoio mais ativo às necessidades. A agenda afirma que investigar ausência de DPs não basta: é necessário avaliar se escolhas éticas criam experiência positiva, envolvente e baseada em prazer genuíno, não coerção. A correlação esclarece uma sequência de perguntas: a estrutura evita frustração previsível? Como apoia necessidades? [[Que evidência de experiência e impacto sustenta essa expectativa?]] Não são etapas de eficácia já comprovadas por esses trabalhos. O catálogo e o modelo podem organizar hipóteses e implementações, mas não substituem instrumentos, métodos mistos e investigação longitudinal.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        14,
+        16
+      ],
+      "sections": [
+        "6 Discussion: Radiant Patterns and Industry Practice",
+        "7 Final Remarks"
+      ],
+      "evidence": [
+        "We clarify that L1 is a defensive baseline\nrather than an aspirational peak. It represents ’not-Dark’ design, serving as the\nessential technical foundation upon which L2 and L3 build active support for\nplayer flourishing, using suitable mechanics in the game industry.",
+        "This work evolves the RP framework by shifting focus to the structural non-\nfrustration of basic psychological needs through a refined lexicon, tiered levels,\nand standardized templates. These components establish a system to connect\nethical research with game development practice. While this version lacks longi-\ntudinal data, relies on a small expert-centric sample, and excludes systemic issues\nlike worker welfare or online toxicity, it establishes the technical foundation for\nfuture industry-led verification."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-d0d500126a80",
+        "source": {
+          "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+          "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+          "pages": [
+            11
+          ],
+          "sections": [
+            "3.3"
+          ],
+          "evidence": [
+            "Addressing these challenges involves not only identifying the absence\n\nof DPs but also evaluating the effectiveness of ethical design choices\n\nin creating a positive, engaging game experience driven by genuine enjoyment,\n\nnot coercion. We can enhance our use of gameplay data by developing teleme-\ntry and behavioral analytics to uncover patterns that indicate compromised\n\nplayer autonomy or manipulative mechanics. Integrating this data with qual-\nitative insights and refined player experience tools can lead to a more compre-\nhensive assessment. Additionally, we could improve methodologies for assessing\n\nthe prevalence of DPs in new games by combining expert evaluations tailored to\n\nspecific game types and monetization strategies, along with emerging automated\n\ndetection approaches where ethically appropriate."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-54",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como separar Goal, Developer Need e Player Problem no HCI aprofunda a estrutura Problem/Context/Proposed Solution de Operationalizing?",
+    "answer": "Operationalizing descreve [[problema, contexto e solução proposta]], além da prevenção de frustração das necessidades e de cuidados de implementação. O HCI relata que confundir objetivos do desenvolvedor e resultados do jogador dificultava a aplicação, e os separa em campos como Goal, Developer Need e Player Problem. A relação analítica é um refinamento da [[rastreabilidade entre intenção técnica, condição estrutural e dificuldade experiencial]]. O novo template não invalida a contribuição anterior nem torna seu preenchimento prova de bem-estar. Ele torna diferenças que poderiam ficar implícitas mais visíveis para discussão, adaptação e pesquisa; os efeitos das soluções ainda dependem de avaliação no jogo e no contexto.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        12,
+        11
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon",
+        "Table 3"
+      ],
+      "evidence": [
+        "Table 3. Final Structural Template for Radiant Game Design Patterns (RPs)\n\nTemplate Component Brief Description\nPattern Name Short, conceptual name representing the essence of the solution at an\nabstract level.\n\nTarget Actor Primary user of the pattern within the game development process.\n\nGoal Developer’s main objective when applying the pattern, formulated\ngenerically across variants.\n\nDeveloper Need Structural or systemic requirements needed to support the Goal.\n\nPlayer Problem Recurring player need or difficulty addressed by the pattern.\n\nNegative\nConsequences\n\nEmotional, motivational, and behavioral impacts if the Player Problem\nremains unresolved.\n\nCore Solution Conceptual strategy explaining how the RP addresses the Player\nProblem and supports the Goal.\n\nPsychological Needs\nSupported\n\nSDT needs supported or kept neutral by the RP.\n\nRP Invariants Essential properties that must hold across all variants and levels.\n\nUniversal Application\nLevels\n\nAbstract cumulative levels representing increasing satisfaction of\npsychological needs.\n\nRP Variants Contextual adaptations of the RP across genres, platforms, or systems\nwhile preserving invariants.\n\nExpected Outcomes Anticipated effects on player experience, well-being, engagement, and\ndesign goals.",
+        "An Updated Radiant Pattern Framework Workshop evaluations and re-\nfinement sessions confirmed that original pattern descriptions lacked the struc-\ntural rigor required for industry application. The primary failure involved the\nconflation of developer goals with player outcomes, which obscured how specific\ndesign choices support ethical objectives. Furthermore, the absence of explicit\ndimensions like genre or platform prevented the framework from capturing the\nstructural adaptations necessary for diverse play environments. Table 3 presents\nthe resulting template. This systematic structure reorganizes the Radiant Pat-\ntern Framework, ensuring that every RP added to the catalog supports consistent\napplication and future extensibility without fragmenting conceptual integrity."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-39adb0cfa84e",
+        "source": {
+          "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+          "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+          "pages": [
+            9,
+            10
+          ],
+          "sections": [
+            "5.1 Radiant Pattern Structure"
+          ],
+          "evidence": [
+            "120 L. S. Filho and T. Darin\n\nand described when articulating an RP. By providing a standardized format,\n\nwe aim to facilitate clear communication, enable comparative analysis between\n\ndifferent patterns, and support the creation of a robust, shareable repository of\n\nthese beneficial design elements. Each identified Pattern as an RP should follow\n\nthe same structural template.\n\nTable 1. Structural Template for Radiant Game Design Patterns (RPs)\n\nTemplate Component Brief Description\n\nName Evocative title for the RP.\n\nProblem Game design issue the RP addresses.\n\nContext Recommended scenarios for RP application.\n\nProposed Solution Core mechanic/interaction of the RP.\n\nAvoiding Decrease in SDT\nNeeds\n\nHow the RP supports Autonomy, Competence,\n\nand Relatedness.\n\nWatch For Potential pitfalls and misapplications.\n\nImplementation Examples\n(Failing/Matching)\n\nContrasting correct and incorrect uses.\n\nGood Examples Illustrative games/features using the RP.\n\nName. The name of a Radiant Pattern may be a single word or a phrase that\n\ndescribes its fundamental concept. To establish a direct association between the\n\npattern and a positive experience for the player, it is recommended that names\n\nbe selected that evoke autonomy and a sense of accomplishment. Examples of\n\nsuitable names include creation, free, and evolution.\n\nProblem. As [ 2 ] noted, patterns function as solutions to recurring problem\n\nsituations. Given that the objective of Radiant Patterns is to promote player\n\nwell-being, the problems they seek to address pertain to game design issues that\n\nhave a detrimental effect on players’ well-being or that fail to satisfy their basic\n\npsychological needs. Consequently, each Radiant Pattern should be accompanied\n\nby a description of the game design issue that this pattern aims to address.\n\nContext. Each pattern should be accompanied by a description of recommended\n\nscenarios and game styles in which it can be applied. Given that patterns possess\n\ndistinct characteristics, it is essential to define their recommended use within\n\nthe game context to ensure the pattern’s effectiveness in achieving its intended\n\npositive outcomes.\n\nProposed Solution. As a solution to a recurring problem, each description\n\nshould present how the RP can effectively address the identified problem. The\n\nproposed solution outlines how game mechanics can be implemented to enable\n\nthe pursuit of development goals while ensuring foundational player well-being.",
+            "Operationalizing Radiant Patterns 121\n\nAvoiding Decrease in Autonomy, Relatedness and Competence. The\n\npattern then continues with a description of how it supports the player’s basic\n\npsychological needs. The three fundamental needs—autonomy, competence, and\n\nrelatedness—are addressed individually, with a thorough exposition of how each\n\npattern positively impacts them. These descriptions elucidate the manner in\n\nwhich the needs are supported independently, thereby ensuring that the fulfill-\nment of one need does not interfere with the fulfillment of others.\n\nWatch For. If implemented improperly or outside of the intended context, the\n\nefficacy of patterns may be compromised. Therefore, it is essential to include\n\na description of how to minimize predictable risks, avoid frustrating implemen-\ntations, and highlight examples of poor applications of the pattern. Additional\n\nwarnings should also be provided to help designers recognize and prevent poten-\ntial issues.\n\nExample of Implementations: Failing and Matching the RP Criteria.\n\nAs an extension of the “watch for” section, it is important to present examples\n\nof pattern implementations that align with the criteria defined for Radiant Pat-\nterns. Likewise, it is necessary to provide examples where the implementation\n\ndoes not meet these criteria. This enables a more in-depth discussion on imple-\nmentation strategies and key considerations to help mitigate potential obstacles.\n\nGood Examples. As the identified patterns are based on mechanics already\n\npresent in existing games, it is essential to present a comprehensive list of games\n\nthat effectively incorporate these patterns. A visual representation of the pat-\ntern’s practical application within a game can enrich the definition and offer\n\ngame developers a better understanding of its practical implementation.\n\n5.2 Radiant Pattern Example\n\nIn this subsection, we demonstrate the application of the proposed RP structure\n\nand present a game mechanic found in existing games that meets the criteria for\n\na Radiant Pattern. This Radiant Pattern is called World Creation. Below, we\n\npresent its documentation as a Radiant Pattern following the structure (Table 2 ).\n\nName. World Creation - Allows players to create and customize scenarios and\n\nstages.\n\nProblem. Players may have too little agency, creative paths, or channels of\n\nmeaningful expression within the boundaries of a game’s pre-determined param-\neters. Inert game worlds can limit long-term play and social interaction based\n\non shared experiences.\n\nContext. Digital games where players interact with game systems and poten-\ntially each other. Applicable across various genres (sandbox, platformers, creative\n\nsuites).\n\nProposed Solution. Allows players to create, customize, and collaborate on or\n\nshare scenarios using readily accessible tools and resources, deliberately avoiding"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-55",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como Context e Watch For de Operationalizing se articulam com variantes, invariantes e níveis do framework HCI?",
+    "answer": "Em Operationalizing, [[Context]] delimita cenários recomendados, enquanto [[Watch For]] alerta para aplicações inadequadas, riscos previsíveis e implementações frustrantes. O HCI acrescenta organização por níveis e variantes, exigindo que adaptações mantenham propriedades essenciais. A ponte é combinar orientação contextual e advertências com uma estrutura que explicita [[o que pode variar e o que deve permanecer]]. Isso evita copiar um exemplo sem justificar sua adequação ao novo ambiente. Não significa que a enumeração de invariantes elimine riscos, nem que uma variante tecnicamente coerente tenha benefício demonstrado. A comparação descreve ferramentas de formulação e crítica, não resultados comprovados de eficácia ou viabilidade comercial.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        10,
+        12
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon",
+        "Table 3"
+      ],
+      "evidence": [
+        "Defining Hierarchical Scaling and Contextual Variants for RPs Discus-\nsion revealed that original RPs failed to account for genre-specific constraints,\nplatform limitations, or player profiles. Contextual differences, such as the transi-\ntion from single-player to multiplayer, are not isolated exceptions but structural\nadaptations required to maintain the pattern’s efficacy. By analyzing these re-\nquirements, we established two pragmatic rules for framework expansion:\n1. Progressive Requirement Scaling : Structure pattern application into\nhierarchical tiers, each representing increasing psychological need satisfaction\nfrom a baseline of non-frustration.\n2. Environment-Based Subclassing : Define structural variants that adapt\nuniversal levels to specific gameplay contexts (e.g., genre, mode, platform)\nwithout changing core logic.\nThese rules allow a more precise integration across varied RP titles. For\ninstance, the core mechanic of Companion requires different implementations\nfor decorative mascots in The Sims compared to combat partners in World of\nWarcraft . Similarly, Creative Suite spans a broad design space—from aesthetic\ncustomization to complex scenario sharing—that cannot be addressed by a single\ndescription without losing developer utility.",
+        "Table 3. Final Structural Template for Radiant Game Design Patterns (RPs)\n\nTemplate Component Brief Description\nPattern Name Short, conceptual name representing the essence of the solution at an\nabstract level.\n\nTarget Actor Primary user of the pattern within the game development process.\n\nGoal Developer’s main objective when applying the pattern, formulated\ngenerically across variants.\n\nDeveloper Need Structural or systemic requirements needed to support the Goal.\n\nPlayer Problem Recurring player need or difficulty addressed by the pattern.\n\nNegative\nConsequences\n\nEmotional, motivational, and behavioral impacts if the Player Problem\nremains unresolved.\n\nCore Solution Conceptual strategy explaining how the RP addresses the Player\nProblem and supports the Goal.\n\nPsychological Needs\nSupported\n\nSDT needs supported or kept neutral by the RP.\n\nRP Invariants Essential properties that must hold across all variants and levels.\n\nUniversal Application\nLevels\n\nAbstract cumulative levels representing increasing satisfaction of\npsychological needs.\n\nRP Variants Contextual adaptations of the RP across genres, platforms, or systems\nwhile preserving invariants.\n\nExpected Outcomes Anticipated effects on player experience, well-being, engagement, and\ndesign goals."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-39adb0cfa84e",
+        "source": {
+          "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+          "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+          "pages": [
+            9,
+            10
+          ],
+          "sections": [
+            "5.1 Radiant Pattern Structure"
+          ],
+          "evidence": [
+            "Context. Each pattern should be accompanied by a description of recommended\n\nscenarios and game styles in which it can be applied. Given that patterns possess\n\ndistinct characteristics, it is essential to define their recommended use within\n\nthe game context to ensure the pattern’s effectiveness in achieving its intended\n\npositive outcomes.",
+            "Watch For. If implemented improperly or outside of the intended context, the\n\nefficacy of patterns may be compromised. Therefore, it is essential to include\n\na description of how to minimize predictable risks, avoid frustrating implemen-\ntations, and highlight examples of poor applications of the pattern. Additional\n\nwarnings should also be provided to help designers recognize and prevent poten-\ntial issues."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-56",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como interpretar a tensão entre not-Dark no L1 do HCI e a advertência de Operationalizing de que nem tudo que não é dark é radiant?",
+    "answer": "Há uma nuance que precisa ser preservada, e não apagada por sinonímia. Operationalizing exige [[orientação construtiva e consciente]], observando que um padrão pode ser neutro sem ser radiant. O HCI chama [[L1 de piso defensivo not-Dark]], sobre o qual níveis posteriores ampliam apoio às necessidades. Uma interpretação comparativa possível é distinguir o requisito mínimo dentro de um framework da definição ética e contextual do padrão como um todo. Isso não autoriza classificar qualquer mecânica neutra como RP, nem afirmar contradição resolvida pelos autores. As invariantes, o contexto e a justificação das necessidades continuam necessários; efeito psicológico e sucesso comercial seguem sem demonstração por esse raciocínio.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        14,
+        12
+      ],
+      "sections": [
+        "6 Discussion: Radiant Patterns and Industry Practice",
+        "Table 3"
+      ],
+      "evidence": [
+        "We clarify that L1 is a defensive baseline\nrather than an aspirational peak. It represents ’not-Dark’ design, serving as the\nessential technical foundation upon which L2 and L3 build active support for\nplayer flourishing, using suitable mechanics in the game industry.",
+        "Table 3. Final Structural Template for Radiant Game Design Patterns (RPs)\n\nTemplate Component Brief Description\nPattern Name Short, conceptual name representing the essence of the solution at an\nabstract level.\n\nTarget Actor Primary user of the pattern within the game development process.\n\nGoal Developer’s main objective when applying the pattern, formulated\ngenerically across variants.\n\nDeveloper Need Structural or systemic requirements needed to support the Goal.\n\nPlayer Problem Recurring player need or difficulty addressed by the pattern.\n\nNegative\nConsequences\n\nEmotional, motivational, and behavioral impacts if the Player Problem\nremains unresolved.\n\nCore Solution Conceptual strategy explaining how the RP addresses the Player\nProblem and supports the Goal.\n\nPsychological Needs\nSupported\n\nSDT needs supported or kept neutral by the RP.\n\nRP Invariants Essential properties that must hold across all variants and levels.\n\nUniversal Application\nLevels\n\nAbstract cumulative levels representing increasing satisfaction of\npsychological needs.\n\nRP Variants Contextual adaptations of the RP across genres, platforms, or systems\nwhile preserving invariants.\n\nExpected Outcomes Anticipated effects on player experience, well-being, engagement, and\ndesign goals."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-39adb0cfa84e",
+        "source": {
+          "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+          "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+          "pages": [
+            7,
+            15
+          ],
+          "sections": [
+            "4 Revisiting and Reshaping Game Radiant Patterns",
+            "6.2"
+          ],
+          "evidence": [
+            "To imply that being ‘not dark’ does not inherently make a pattern ‘radiant.’\n\nOur refined definition emphasizes a proactive stance: Radiant Patterns are not\n\njust about avoiding the frustration of basic psychological needs (which many dark\n\npatterns explicitly cause), but about somewhat stimulating well-being, which is\n\nnot significantly undermined while allowing for the pursuit of development goals.\n\nThis means an RP is actively designed around principles that support (or at least\n\ndo not detract from) autonomy, competence, and relatedness in a constructive\n\nway.",
+            "Radiant design is more than the absence of harm; it is the presence of thought-\nful, ethically-grounded design choices to ensure player well-being is not signifi-\ncantly undermined while pursuing engaging experiences. True radiance implies\n\na constructive, positive orientation that may go beyond simply counteracting\n\nmanipulative techniques. This nuanced understanding is crucial as we advocate\n\nfor their broader adoption and exploration. A pattern could be neutral, nei-\nther dark nor particularly radiant. Radiant Patterns aim higher, representing a\n\nconscious, positive design orientation focused on fostering healthier player-game\n\ninteractions, rather than merely existing as a negation of harmful practices. This\n\nbroader, more constructive view allows Radiant Patterns to be a guiding prin-\nciple for innovative game design, not just a corrective measure."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-57",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Que semelhanças e diferenças existem entre a classificação de DPs no Interact e a verificação de candidatos RPs no HCI?",
+    "answer": "O Interact combina [[guia de casos, classificação individual, discussão e desempate]], documentando padrões em gravações de aplicativos. O HCI combina léxico, invariantes, observação de instâncias e uma exigência de [[recorrência e verificação colaborativa]] para novos RPs. A semelhança analítica é explicitar critérios e submeter interpretações a confronto; os objetos e inferências são diferentes. Interact observou cem apps gratuitos e em alta por dez minutos, em emulador; HCI usou experiência de pesquisadores em jogos com amostragem direcionada. Concordância classificatória não prova efeito de uma contramedida, e uma instância positiva não confirma um padrão. Nenhum desses procedimentos, sozinho, mede bem-estar longitudinal dos usuários.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        13,
+        15
+      ],
+      "sections": [
+        "5 A Catalog of Games Radiant Patterns",
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "To safeguard integrity, we propose a governance model in which community-\nproposed RPs undergo a formal verification protocol modeled after the collabo-\nrative workshops described in this paper. Sessions involving both academic and\nindustry specialists assess submissions against defined RP Invariants. Rather\nthan binary acceptance, proposals return to contributors for iterative refine-\nment, ensuring that candidate patterns remain accessible while being polished\ninto finalized standards. We invite volunteers from academia and industry to\nparticipate as reviewers. Although reliance on a self-selected community may\nintroduce selection bias or uneven SDT expertise, the documentation template\nserves as the primary objective check. By requiring mechanics to be mapped to\nspecific needs, it reduces the risk of subjective gatekeeping.",
+        "Besides, identifying these new mechanics through autoethnography does not\nautomatically qualify them as Radiant Patterns. This is why they are referred\non findings as candidate RPs. Identifying an RP requires evidence of recurrence,\nwhich establishes it as a pattern[2], as well as discussion and coherence with the\ncomponents defined by the framework. This distinction creates a logical need for\nthe Radiant Patterns Catalog (Section 5). Because a single autoethnographic\ninstance cannot confirm a pattern, and a 10-hour sample may not capture the\nfull systemic depth of complex titles, the Catalog serves as a filter where these\ninitial observations are flagged for further verification. The ’candidate’ ideas\nare subjected to a verification protocol. This ensures that only those designs\nproven to be recurring and ethically sound are finalized, transforming subjective\nobservations into community-validated design knowledge. Expert observation\nmay result in false positives, reinforcing the need for the Catalog’s collaborative\nverification protocol in which the practical application of these patterns can be\nobserved, analyzed, and discussed collectively."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-48bdcebcffc6",
+        "source": {
+          "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+          "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+          "pages": [
+            4,
+            8
+          ],
+          "sections": [
+            "2.2 Corpus Generation and Recording of Usage",
+            "2.3 DPs Classification",
+            "5 Limitations"
+          ],
+          "evidence": [
+            "4 L. Ribeiro et al.\n\nRequired a subscription to access its main features; (vi) Tied to the citizen’s ID\nand used to access governmental services.\nWe approved 12 trending apps in each category for the analysis phase. Some\napps malfunctioned in the emulator, resulting in the analysis approval of 100\napps divided into the following structure: 12 in Family; 12 in Music & Audio;\n12 in News & Magazines; 12 in Photography; 12 in Social; 11 in Shopping; 11 in\nTools; 9 in Communication; 9 in Entertainment.\nWe used BlueStacks 5 [1] to emulate the Samsung Galaxy S22 Ultra and\nrun the apps. To capture the screen, we used a native tool on desktops powered\nby Windows. Each researcher created a new Gmail account. We also purchased\na SIM card and plugged it into a smartphone to validate its use in apps that\nrequired a phone number. To ensure consistency in the usage, we recorded the\nfirst 10 minutes of the selected apps following eight tasks (when available): (i)\ncreating an account and log out; (ii) closing and reopening the app; (iii) visiting\nthe market page; (iv) going to the setting page; (v) checking the terms of service\nand privacy policy; (vi) continuing shopping until checkout; (vii) trying to select\nproduct names in e-shopping; (viii) using the app for its intended use. We did\nnot purchase any products or services in the apps.\n\n2.3 DPs Classification\n\nWe organized ourselves into two pairs. While one pair was recording the usage,\nthe other was analyzing the videos. Once we had already analyzed the first\nhalf of the apps, we switched roles. During the classification process, we first\nanalyzed the videos individually. Then, we discussed them together to mitigate\nDP Blindness. The agreement between the pairs was good according to Weighted\nCohen’s Kappa ( κ = 0.64) which indicates substantial agreement. We included\na third researcher to break ties when the pair did not reach an agreement.\nDi Geronimo’s expansion [3] of Gray’s taxonomy [9], together with Hidaka’s\nlater findings related to linguistic DPs [20], based our classification process.\nTherefore, the taxonomy used in this study divides the DPs into six macro\nclasses: (i) Nagging; (ii) Obstruction including three subclasses (Intermediate\nCurrency, Price Comparison Prevention, and Roach Motel); (iii) Sneaking in-\ncluding four subclasses (Bait and Switch, Hidden Information, Preselection, and\nSneak into Basket); (iv) Interface Interferences including five subclasses (Dis-\nguised Ad, Aesthetic Manipulation, Toying with Emotions, False Hierarchy, and\nTrick Question); (v) Forced Action including two subclasses (Privacy Zuchering\nand Disguised Ad); (vi) Linguistic Dead-End including the subclass Untransla-\ntion. Besides the macro class Linguistic Dead-Ends defined by Hidaka [20], the\nmacro classes and subclasses are defined in detail in Gray’s study [9].\nAlongside the types of DPs, we also followed a guide of 40 specific DP\ncases [16] to address the subjectivity of identifying DPs based solely on their\ndescriptions. There were DP cases that fit more directly with the macro class it-\nself. For this reason, Nagging, Obstruction, and Forced Action are macro classes\nthat also function as unique subclasses within themselves. Additionally, to en-",
+            "8 L. Ribeiro et al.\n\nThe comparison of our findings with those of Di Geronimo and Hidaka reveals\ndifferences in the expression of DPs in each context (e.g., the DP occurrence sur-\nplus in 10 out of 16 subclasses, compared with Hidaka’s findings). This suggests\nthat various socioeconomic, educational, and sociocultural factors may influence\nhow, where, and when DPs are manifested. Future research conducted in vari-\nous contexts should expand this discussion and provide new insights into how\ncultural differences influence the presence of DPs.\n\n5 Limitations\n\nOur scope contains trending free apps on the Brazilian Google Play Store. We\nrecorded 10 minutes of the first use of each app; any deviation from this prede-\ntermined scope may generate new and different results. Moreover, some interac-\ntions—and consequently DPs—might be limited or vary in an extended usage\nscenario. Despite the sample reduction, we found similar results, indicating that\nthe impact was not substantial.\nThe intention behind using the emulator was to replicate the experience of a\nreal smartphone. However, a specific subset of DPs may not appear in emulated\napplications. In certain instances, specific apps were inaccessible because they\nflagged the emulator as suspicious for usage.\n\n6 Conclusion\n\nAfter analyzing 100 trending mobile apps in Brazil, we found an average of 7.51\nDPs/app and six new cases of use of known dark patterns in the Brazilian con-\ntext. The results showed key differences compared to contexts in the United\nStates [3] and Japan [20] (e.g., average DPs per app, common DP subclass).\nOur findings enhance the understanding of DPs and their consequences in soci-\neties beyond the WEIRD classification, promoting a more comprehensive view\nof the topic, especially within Brazilian culture. Future work should explore the\npresence of DPs in Finance apps and expand research by using a larger corpus\nthat considers more representatives of the Global South and their unique as-\npects as non-WEIRD societies. We encourage the HCI community to broaden\nits perspective and actively research how DPs affect society’s economy, popula-\ntion well-being, and culture beyond the WEIRD spectrum.\n\n7 Acknowledgments\n\nThis paper is a partial result of the project “Digital Well-Being” , supported\nby the Brazilian agency National Council for Scientific and Technological De-\nvelopment (CNPq/MCTI, Call No. 10/2023 – Universal), under grant number\n404559/2023-9, coordinated by Dr. Ticianne Darin."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "article-e13c3cb65c28-58",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como correlacionar Untranslation, agência e léxico de RPs sem confundir linguagem profissional compartilhada com acesso efetivo à informação do produto?",
+    "answer": "O Interact descreve [[termos ou políticas em outro idioma]] mesmo quando o aplicativo usa a língua do usuário, criando uma barreira entre a pessoa e informação crucial. O HCI defende um [[léxico compartilhado para pesquisadores e desenvolvedores]] e trata autonomia como condição de volição; SbD recomenda políticas visíveis, encontráveis e compreensíveis. A síntese distingue três tarefas relacionadas, mas diferentes: nomear soluções entre profissionais, disponibilizar informação acessível no produto e apoiar agência na interação. Melhorar o vocabulário de um catálogo não traduz automaticamente termos de uso nem remove barreiras linguísticas. A observação de Untranslation também não constitui medição causal de perda de autonomia ou validação de uma solução RP.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        3,
+        15
+      ],
+      "sections": [
+        "2.1 Well-being and \"Positive\" Design Patterns",
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "In contrast to manipulative strategies, positive computing positions well-being\nas an explicit design objective rather than a byproduct of usability [8,9,42]. It\ndraws on multiple strands of psychological research to inform the design of sys-\ntems that support human flourishing [9,43]. Among these, Self-Determination\nTheory (SDT) provides a widely adopted and empirically robust framework for\nunderstanding basic psychological needs. SDT identifies autonomy, competence,\nand relatedness as fundamental needs [18,47], linking need satisfaction to in-\ntrinsic motivation and growth, and need frustration to diminished well-being\n[47]. In design terms, these needs function as structural affordances: systems\ncannot guarantee flourishing, but they can organize conditions that support or\nundermine volition, efficacy, and connection [43].",
+        "The common lexicon aims to offer a systematic alternative to rapid-response\nresearch triggered by technology panics [41]. Yet, a shared vocabulary is a tool\nfor interaction design, not a solution for all ethical challenges. Systemic issues\nsuch as game worker welfare, harassment, and online toxicity require regulatory\nand cultural interventions that lie beyond the scope of interaction design [27]."
+      ]
+    },
+    "kind": "synthesis",
+    "relatedSources": [
+      {
+        "articleId": "article-48bdcebcffc6",
+        "source": {
+          "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+          "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+          "pages": [
+            6
+          ],
+          "sections": [
+            "3 Results"
+          ],
+          "evidence": [
+            "Our findings also revealed six DP cases previously unreported in international\nresearch. They demonstrate novel applications of known DPs: (i) “ Terms/Policy\nin Another Language ” (Untranslation case) when crucial information for the\nuser (terms of service or privacy policy) is in another language, even if the app\nis in the native user language, creating a barrier between the user and the in-\nformation; (ii) “ Terms/Policy Out of Bounds ” (Obstruction case) redirects\nthe user to an external page, typically a web page, to access the terms of service\nor privacy policy, increasing unnecessary stress and reducing the likelihood of\nreading;"
+          ]
+        }
+      },
+      {
+        "articleId": "article-d4b0c4f9d75f",
+        "source": {
+          "file": "SBD - Overview May19.pdf",
+          "title": "Safety by Design Overview (May 2019)",
+          "pages": [
+            34
+          ],
+          "sections": [
+            "Principle 3.2"
+          ],
+          "evidence": [
+            "Principle 3.2: Ensure that user safety policies,\n\nterms and conditions, community standards and\n\nprocesses about user safety are visible, easy to\n\nfind, regularly updated and easy to understand.\n\nUsers should be periodically reminded of these\n\npolicies and given the option of being proactively\n\nnotified of changes or updates through targeted in-\n\nservice communications\n\nRaising awareness and educating users, and parents\n\nor carers, about the safety features, processes and\n\nprotocols that exist on services can help inform\n\nusers about how they can best navigate the service.\n\nDuring the course of consultations carried out\n\nby eSafety, a single, well-publicised repository\n\nof safety information was felt to be particularly\n\nimportant for those users who could not, or would\n\nnot, seek advice or support from those around\n\nthem. This was especially true for young people.\n\nTo assist with user engagement, this information\n\nneeds to be easy to find, written in plain language\n\nthat is comprehensible to younger users and ideally\n\ndesigned using short-form notices as standard.\n\nAddressing user safety concerns is an iterative\n\nprocess, and updates to safety policies and\n\nprocesses occur frequently. It is important that\n\nusers are proactively informed about any changes\n\nto allow individuals to review their safety and\n\nprivacy posture, especially when policy updates\n\nrelate to secondary uses of data."
+          ]
+        }
+      }
+    ]
+  }
+]

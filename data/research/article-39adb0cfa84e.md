@@ -1,0 +1,56 @@
+# Pesquisador Operationalizing Radiant Patterns
+
+Fonte principal: `article-39adb0cfa84e`, PDF local de 20 páginas físicas. Plano: 35 questões diretas (09–43) e 15 sínteses (44–58), com respostas desenvolvidas e trechos literais completos das extrações. Os oito cartões anteriores permanecem intactos. A definição é preventiva e contextual; nenhuma questão apresentará exemplos ilustrativos como prova de eficácia, neutralidade como radiância, desafios de jogo como dano necessário ou rentabilidade como demonstrada.
+
+## Duas propostas para cada outra frente
+
+- **Safety by Design:** conectar responsabilidade preventiva e avaliação de riscos com restrições negativas e `Watch For`; contrastar autonomia/defaults com acesso às ferramentas criativas, compartilhamento e scaffolding. As notas SbD são exemplos históricos e não ensaios de eficácia.
+- **Art. 48:** relacionar funcionalidades de uso prolongado e monetização com acesso condicionado por grind/pagamento; distinguir critérios de classificação da plataforma da análise de necessidades psicológicas no contexto de uma mecânica. Sem afirmação de vigência.
+- **Games Made Elsewhere:** confrontar a aparência criativa/social do cenário especulativo com critérios de não frustração; relacionar diferenças de letramento/contexto à interpretação variável dos padrões e à necessidade de avaliar perfis. Não tratar Helena como participante real nem intenção como garantia funcional.
+- **From Understanding to Intervention:** conectar template e exemplos failing/matching à documentação de working examples e ferramentas de apoio ao desenvolvedor; conectar PENS/IMI e confusão entre efeitos da mecânica e do jogo à agenda de avaliação com métricas plurais. Propostas não são ferramentas implementadas/validadas.
+- **Beyond Dark Patterns in Games:** comparar template prescritivo contextual com níveis, invariantes e variantes; relacionar proposta de repositório à governança, verificação e recorrência. Consenso ou ocorrência em jogo não prova efeito direto longitudinal.
+- **It’s Like a Dark Patterns Paradise:** relacionar Untranslation e termos inacessíveis a letramento, controle e descoberta; contrastar Forced Action/Ad-locked Rewards com diferença entre núcleo criativo livre e desbloqueios opcionais. Uma auditoria de apps não prova mecanismos ou efeitos em todos os jogos.
+
+## Escopo das questões diretas
+
+Lacuna entre catálogos e implementação; incentivos de baixo custo/escala/imitação; leitura ética e familiaridade; hedonia/eudaimonia e playtime condicionado; critérios operacionais e trade-offs; padrões recorrentes com instâncias variadas; campos do template aprofundados; problema/contexto/solução de World Creation; mecanismos de autonomia/competência/vínculo; núcleo versus monetização/grind; ferramentas opacas, compartilhamento restritivo e scaffolding; implementações compatíveis e exemplos ilustrativos; distinção entre consciência ética e efeitos sobre bem-estar; métricas PENS/IMI, confundimento e avaliação; abertura colaborativa do repositório e obstáculos de mercado.
+
+## Diálogo inicial
+
+Li os planos de SbD, Art. 48 e CHIP. O documento de agenda ainda não estava salvo na primeira leitura. Enviarei duas pontes e uma cautela específica a cada pesquisador já criado. A rodada com os sete será completada posteriormente. Isto é autoria e interlocução, não revisão independente nem aprovação.
+
+## Entrega inicial
+
+Foram salvos 50 candidatos, IDs 09–58: **34 diretos (09–42) e 16 sínteses (43–58)**. Ajustei a divisão inicial de 35/15 para não acrescentar uma questão direta que apenas repetisse a discussão já existente sobre não ser dark. As evidências são páginas físicas completas e literais, incluindo contexto, cabeçalhos, notas e continuidades; não são novas transcrições visuais. O verso poderá mostrar os trechos sem omitir qualificações, embora uma página possa conter assuntos além do foco específico da pergunta.
+
+- 09–15: lacuna de implementação, incentivos, letramento/percepção, hedonia/eudaimonia, tempo/motivação, verificabilidade e objetivos de desenvolvimento.
+- 16–21: recorrência/variação e campos Name, Problem, Context, Proposed Solution e análise individual das necessidades.
+- 22–35: problema/contexto de World Creation; mecanismos de autonomia, competência e vínculo; núcleo criativo, monetização, ferramentas opacas, compartilhamento, scaffolding, implementação acessível, feedback, desbloqueios opcionais e exemplos.
+- 36–42: confundimento, PENS/IMI, conscientização versus efeito, perfis, mercado, colaboração e padronização.
+- 43–45: Safety by Design; 46–47: Art. 48; 48–49: CHIP; 50–52: Agenda; 53–55: HCI; 56–57: Interact; 58: Operationalizing + Safety by Design + Agenda.
+
+Conferência executada por `node data/candidates/expansion/build-39adb0cfa84e.mjs`: 50 IDs únicos e novos, títulos de extração atuais, SHA-256 dos sete originais iguais ao inventário e às extrações, evidências literais encontradas nas páginas citadas. Essa conferência não constitui revisão semântica independente. O script apenas recria candidatos; reexecutá-lo pode exigir nova revisão. Nenhum cartão foi publicado ou aprovado por seu autor.
+
+## Trocas diretas e cuidados incorporados
+
+- Enviei a SbD duas pontes: responsabilidade/riscos ↔ Watch For e defaults/autonomia ↔ acesso ao núcleo criativo/scaffolding. Diferenciei necessidades SDT de todo risco de segurança e efeitos demonstrados.
+- Enviei a Art. 48 a distinção entre classificação de plataforma e análise contextual da mecânica; ressaltei que monetização opcional/acesso à plataforma não equivale a bloquear ferramentas essenciais. Mantive ausência de afirmação de vigência.
+- CHIP alertou que prazer/controle iniciais da ficção não demonstram satisfação SDT. Respondi e incorporei em 48–49: rótulo criativo/social e aparência de progresso não garantem funcionamento preventivo; diferenças de perfil não eliminam estruturas de poder.
+- Agenda confirmou documentação/working examples e mensuração/isolamento como pontes e alertou contra converter satisfação em ausência de frustração ou causalidade. Respondi indicando 50–52/58 e incorporei a cautela de construtos não intercambiáveis e ausência de protocolo único validado.
+- HCI enviou template/invariantes/níveis e instâncias/avaliação como pontes. Conferi páginas 10–11 e 13–16 e respondi com a nuance entre orientação construtiva de Operationalizing e L1 not-Dark baseline do estudo posterior. Os 53–55 preservam níveis metodológicos e diferença entre presença, verificação e efeito.
+- Na entrega inicial, a interlocução com Interact ainda aguardava a rodada dos sete. A troca foi efetivamente completada no fechamento abaixo.
+
+## Rodada final — diálogo concluído com os seis pares
+
+Li as seis notas de pesquisa atualizadas e as mensagens recebidas. Também li os candidatos Interact 55–56 e HCI 54–56 para conferir os pontos que ainda estavam em elaboração na primeira rodada. Enviei uma resposta direta real a cada um dos seis pesquisadores por ferramenta de colaboração. Não confundo essa interlocução autoral com revisão semântica independente.
+
+| Par | Mensagem recebida e ponto específico | Resposta direta enviada nesta rodada | Decisão editorial |
+| --- | --- | --- | --- |
+| Safety by Design | Recebi duas mensagens da rodada 2 confirmando meus 43–45/58 e distinguindo escala de serviço e necessidades SDT. O colega destacou que SbD 2.1, página física 30, combina defaults protetores com revisão de escolhas. | Relacionei novamente seus 44/45, SbD 1.6 na página 27, World Creation na página 12 e variação de perfis na página 14. Confirmei que template não cria autoridade institucional e proteção por padrão não elimina agência. | Manter 43–45/58. Não equiparar SDT a toda segurança, associação de princípios a garantia de bem-estar ou notas ilustrativas a teste de eficácia. |
+| Art. 48 | Recebi a confirmação de que meu 47 separa classificação da plataforma e avaliação da mecânica. O colega incorporou a ressalva de que proteger o núcleo criativo não proíbe monetizar opcionais ou acesso à plataforma. | Respondi com meus 46–47, uso prolongado no §10 XX da página 4, controles acessíveis no §14 II da página 5 e contexto/Watch For nas páginas 6–10 de Operationalizing. Reafirmei a nuance econômica das páginas 12–13. | Manter 46–47. Não inferir vigência, diagnóstico automático de dark pattern, efeito psicológico ou validação de RP a partir do fator classificatório. |
+| Games Made Elsewhere | Recebi a confirmação sobre meus 48–49: promessa de progresso/comunidade na ficção da página 2 não mede satisfação SDT; perfis de Operationalizing e estruturas de poder de CHIP não são um mecanismo causal comum provado. | Reafirmei o contraste de funcionamento do núcleo, não só rótulos ou intenção. Acrescentei que ampliar diversidade de perfis não equivale automaticamente à parceria equitativa proposta em CHIP página 3. | Manter 48–49 com ficção explícita, sem psicologizar toda vulnerabilidade estrutural e sem transformar prazer narrado em dado empírico. |
+| From Understanding to Intervention | Recebi a mensagem final sobre seus 55–56 e meus 50–52/58: template prepara hipóteses e testes; PENS/IMI não resolve atribuição nem torna satisfação igual a ausência de frustração. | Respondi com Operationalizing páginas 8–10/15–16 e Agenda páginas 9–11, distinguindo documentação, utilidade da intervenção, poder organizacional e medidas plurais. | Manter 50–52/58. A síntese de governança/design/evidência não é uma solução integrada já testada nem demonstra retorno comercial. |
+| Beyond Dark Patterns in Games | Recebi mensagem explicando como a nuance Operationalizing páginas 7/15 versus HCI página 14 motivou sua questão 56; 54–55 aprofundam Goal/Player Problem e Context/Watch For. Li esses três candidatos. | Confirmei que a diferença entre L1 not-Dark e orientação construtiva pode ser discutida como interpretação comparativa possível, sem atribuir resolução aos autores. Relacionei meus 53–55 a HCI páginas 13/15–16 e distingui recorrência, verificação e avaliação de efeitos. | Manter 53–55. Template e consenso não demonstram ausência de risco, eficácia longitudinal ou uso validado durante desenvolvimento ativo. |
+| It’s Like a Dark Patterns Paradise | Recebi duas pontes e pedido de crítica: Task-based/Ad-locked Rewards nas páginas 6–7 versus núcleo criativo/desbloqueios opcionais; contexto versus Watch For. Li seus 55–56 e as notas finais. | Respondi com seus 55–56 e meus 56–57: analisar o que é condicionado, centralidade do benefício e funcionamento. Recompensa ou rótulo voluntário não provam escolha significativa. Auditoria de presença e condições preventivas do template são tarefas distintas. | Manter 56–57. Não classificar toda recompensa como manipulativa nem transferir automaticamente taxonomia/prevalência de apps para frustração psicológica ou radiância em jogos. |
+
+As trocas confirmaram limites já presentes nas respostas; não foi necessária alteração dos 50 candidatos nesta rodada. Permanecem 34 diretos e 16 sínteses, IDs 09–58, com fontes adicionais para todas as seis frentes. Não houve edição de candidatos dos pares, cartões antigos, revisões ou dados publicados. A decisão de manter é autoral; aprovação/publicação continuam exclusivas do revisor independente.

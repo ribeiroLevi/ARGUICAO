@@ -1,0 +1,78 @@
+{
+  "publishedAt": "2026-11-10T11:14:37.647Z",
+  "publisher": "academic_reviewer:/root/reviewer",
+  "previousCards": 56,
+  "approvedNewCards": 350,
+  "totalCards": 406,
+  "newMainCardsPerArticle": {
+    "article-94e7a19d8878": 50,
+    "article-eca18e5843e2": 50,
+    "article-d0d500126a80": 50,
+    "article-e13c3cb65c28": 50,
+    "article-48bdcebcffc6": 50,
+    "article-39adb0cfa84e": 50,
+    "article-d4b0c4f9d75f": 50
+  },
+  "newSynthesisCards": 121,
+  "reviewers": [
+    "academic_reviewer:/root/reviewer",
+    "review_agenda_hci",
+    "review_radiant_interact"
+  ],
+  "sourceSha256": {
+    "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8",
+    "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+  },
+  "inputs": [
+    {
+      "candidateFile": "data/candidates/expansion/article-94e7a19d8878.json",
+      "candidateSha256": "122eb13d4769291ecd915cc2e6d603748cb1608c9e75933542cc1ec29f867a19",
+      "reviewFile": "data/reviews/expansion/review-article-94e7a19d8878.json",
+      "reviewSha256": "5087826cbde3633701e86347cff92fa04eae4fc87f59726d61a578f36cfd54ab"
+    },
+    {
+      "candidateFile": "data/candidates/expansion/article-eca18e5843e2.json",
+      "candidateSha256": "b3679641b3938e600dfbed62e6ad838517afb4fa70b3126cb98bd1d287777012",
+      "reviewFile": "data/reviews/expansion/review-article-eca18e5843e2.json",
+      "reviewSha256": "67357a1efba3aaad84978b1069e17cdc528fc3c7824ec4989408992301955882"
+    },
+    {
+      "candidateFile": "data/candidates/expansion/article-d0d500126a80.json",
+      "candidateSha256": "de2097fd29d769c511541b3a598783b781bc79006acb169a10ed804a2d37bf7b",
+      "reviewFile": "data/reviews/expansion/review-article-d0d500126a80.json",
+      "reviewSha256": "e94aef256db812b07f2d2e8873c65868931d5ca18cddb64c41507dffd9b6cbc2"
+    },
+    {
+      "candidateFile": "data/candidates/expansion/article-e13c3cb65c28.json",
+      "candidateSha256": "84f21ca4c024038ffd75ef91faeba64e367701f1ae4fd9038cb3ec7a77b7d517",
+      "reviewFile": "data/reviews/expansion/review-article-e13c3cb65c28.json",
+      "reviewSha256": "0da14858f2546daaf863048b8a79dff053aac46efaa515bc85eb9ac1d588b820"
+    },
+    {
+      "candidateFile": "data/candidates/expansion/article-48bdcebcffc6.json",
+      "candidateSha256": "43421934090e9cf79812ae85c135b32189c6f161d58bcd0fe6586ed386772d36",
+      "reviewFile": "data/reviews/expansion/review-article-48bdcebcffc6.json",
+      "reviewSha256": "cb76b4c6dbd28529f3a3d0bd035e0de1134a23a115a4a0d26c7a4226e2a1516e"
+    },
+    {
+      "candidateFile": "data/candidates/expansion/article-39adb0cfa84e.json",
+      "candidateSha256": "94b5296f657ee16a52b78b5dbbfb61ab3b2a05817917f7b48ba0fdeabe169388",
+      "reviewFile": "data/reviews/expansion/review-article-39adb0cfa84e.json",
+      "reviewSha256": "5e9d75105238f5e20c2484d1d4c79cc970d6505cf395b3eeb7fb0645ac72c1b4"
+    },
+    {
+      "candidateFile": "data/candidates/expansion/article-d4b0c4f9d75f.json",
+      "candidateSha256": "903fd8ce0eff1b79a5381d05d4bea305b131d80f71cd22c738032b930ed36457",
+      "reviewFile": "data/reviews/expansion/review-article-d4b0c4f9d75f.json",
+      "reviewSha256": "2ad2f8ec607c8a37ba5b45ae19542e6d911350f8af29fcc3764f71aa52eb3c3f"
+    }
+  ],
+  "publishedCardsFileSha256": "83d69de8671b407779bb7e89c36eaa8fdac0a2987261da0c13dffffa78b5a6b7",
+  "publishedReviewsFileSha256": "c73af740d11ef09bf3b89a17d719738761e2e246b9b8d5743c2080530ff8dd36",
+  "baselinePreserved": true
+}

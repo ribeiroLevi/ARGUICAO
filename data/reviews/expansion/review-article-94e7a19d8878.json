@@ -1,0 +1,1003 @@
+[
+  {
+    "cardId": "article-94e7a19d8878-09",
+    "status": "approved",
+    "reason": "Página 2: incisos I/II distinguem hospedagem audiovisual e mensageria pública ou privada. A resposta preserva o alcance do documento sem limitar serviços a feeds públicos.",
+    "cardSha256": "83c87e42b2bce7f8ef464cdceea1ba8265d9f9b2dd7422c02ac5cb39a0f72743",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.298Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-10",
+    "status": "approved",
+    "reason": "Página 2: §2 remete aos Guias e ao art.12 sem reproduzi-los. A resposta reconhece a lacuna documental e não inventa eixos, correspondências ou idades.",
+    "cardSha256": "db17365d205b5a691253946016eeefc9af0edcfd053ceefb6e0b7da809a873b9",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-11",
+    "status": "approved",
+    "reason": "Páginas 2–3: os oito grupos do §8 e a expressão entre outros foram conferidos. A resposta preserva contexto publicitário e natureza exemplificativa da enumeração.",
+    "cardSha256": "2ddb5ef56180b6c1af5c7cd66476a658f0934e0ad1c66e2b249dc10911548fb1",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        2,
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-12",
+    "status": "approved",
+    "reason": "Páginas 2–3: §§7–9 alcançam enlaces/redirecionamentos patrocinados ou impulsionados. A resposta mantém essa condição e não estende a regra textual indistintamente a todo link.",
+    "cardSha256": "e248e4008f234ab44eae9c0e2684e7db6ee71ba70dd237a4ae2c9912baf0ea0a",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        2,
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-13",
+    "status": "approved",
+    "reason": "Página 3: §10 I cobre conteúdo sexual, violento, discriminatório e dignidade humana, sob oferta/promoção direta ou indireta. A resposta não reduz o critério a nudez nem inventa idade.",
+    "cardSha256": "d9bc50c3f452fdd73bbbfe2ac41a3a5482d3de92254ba3a3ec4d1dc2c3b48e4f",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-14",
+    "status": "approved",
+    "reason": "Página 3: incisos I/II distinguem conteúdo representado e desafios/interações estimulantes de risco, autolesão ou violência. A análise textual não é convertida em causalidade demonstrada.",
+    "cardSha256": "49828e07bd9a464248aa636d756d7a308bf38f6d49d3727b07a8f167252dc14d",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-15",
+    "status": "approved",
+    "reason": "Página 3: inciso III qualifica incentivo à compulsividade, dependência ou exposição prolongada a conteúdo inadequado. A resposta preserva a formulação sem diagnosticar usuários ou técnicas isoladas.",
+    "cardSha256": "341b9cff995ad45663f4b9e7a6e1e5bc6e6a46816aba419e0be85e16a498f581",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-16",
+    "status": "approved",
+    "reason": "Página 3: inciso IV inclui acesso facilitado ou induzido a espaços exclusivos para adultos. A resposta mantém as duas modalidades e a exclusividade, sem ampliar o objeto do trecho.",
+    "cardSha256": "ed1fb8242db7deb57a310eacf8d8646e67c70ede6aebae88531ff2dc510fc135",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-17",
+    "status": "approved",
+    "reason": "Página 3: inciso V mantém a abertura do inventário vinculada aos Guias. A resposta não converte a cláusula residual em autorização para inventar critérios ou faixas etárias.",
+    "cardSha256": "c4447c2a30048ff7b2e1e2caa7895eef813ed91330aab64ea7bbcbeec612df26",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-18",
+    "status": "approved",
+    "reason": "Páginas 2–3: mensageria no inciso II e comunicação direta no VI são referências corretas. A conexão interna distingue tipo de serviço e funcionalidade, sem restrição a comunicação pública.",
+    "cardSha256": "846ee8150bd9aef3cf4aa458f6357514ca0cc88005c9cc7ca20d0dc4cb6eaba1",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        2,
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-19",
+    "status": "approved",
+    "reason": "Página 3: VII, X e XI distinguem localização, dados pessoais e desativação de proteção. A resposta preserva essas dimensões e reconhece ausência de pesos e idades.",
+    "cardSha256": "b1613e7a15c49e19ae8ebdf90507f70ceae4543aecceda605d5e490a8be397cb",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-20",
+    "status": "approved",
+    "reason": "Páginas 3–4: VIII, XII e XIV sustentam distinguir alteração de aparência, compartilhamento e registros audiovisuais. A resposta não atribui efeito psicológico geral a editores.",
+    "cardSha256": "ed1146faa6d2b8aa4ce6ef1526c6b3c91cb80c073e6769f169c8e8a44e6e9047",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3,
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-21",
+    "status": "approved",
+    "reason": "Página 3: inciso IX menciona possibilidade de compras. A resposta distingue capacidade de transação de compra realizada sem adicionar regras contratuais ou etárias.",
+    "cardSha256": "e119655a5e16f6e1e438a3cb5f8d0fdb7c7c2d3685c3d073cd43aaa351507e59",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-22",
+    "status": "approved",
+    "reason": "Página 3: incisos X/XI tratam de fornecer dados e desativar privacidade. A resposta interpreta a diferença funcional sem atribuir pesos classificatórios idênticos.",
+    "cardSha256": "b3dfdf19a5dd419bcf47882eae8d5c9b241e0d2a0af2b58e6a46331a96df43b1",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-23",
+    "status": "approved",
+    "reason": "Páginas 3–4: XII, XIV e XV sustentam compartilhamento, realização/inclusão de registros e transmissão ao vivo. A resposta mantém precisão funcional e remissão aos critérios do documento.",
+    "cardSha256": "b0431bf021b466efab4156e3dea19f81668e20265fce77a6beb15169040138bc",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3,
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-24",
+    "status": "approved",
+    "reason": "Páginas 2–4: §8 III pertence ao contexto publicitário de produtos, e §10 XIII a conteúdo sobre drogas. A resposta preserva os dois contextos sem confundir representação e publicidade.",
+    "cardSha256": "3277a1204d3566ba68373aa8f6ba860d87a0901ef12f56a8b12c06b8027a83e8",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        2,
+        3,
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-25",
+    "status": "approved",
+    "reason": "Páginas 3–4: §8 IV menciona sites de apostas; §10 XVI qualifica probabilidades que possibilitem/estimulem/incentivem apostar. A resposta não transforma qualquer probabilidade isolada nessa condição.",
+    "cardSha256": "39462ecf3f2f3b1e3b0cd921d16217939e775da52c998e6b7878cc100bed07b5",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3,
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.299Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-26",
+    "status": "approved",
+    "reason": "Página 4: inciso XVII descreve promoção/facilitação de encontros entre pessoas. A resposta não restringe a categoria comercial nem declara todo encontro danoso.",
+    "cardSha256": "49fe003df9d23716cfdad4c5174ce939c8d72316a747fb9f64302bd7c41afbac",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.300Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-27",
+    "status": "approved",
+    "reason": "Página 4: XVIII/XIX distinguem curadoria/personalização/recomendação e impulsionamento/sites sugeridos. A resposta admite combinação prática sem inventar identidade técnica ou efeito medido.",
+    "cardSha256": "38615b0cd88559a62bb548761d7c0e256b8d328c7b30bee82fbc0406f197483a",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.300Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-28",
+    "status": "approved",
+    "reason": "Página 4: inciso XXII considera participação possível de crianças/adolescentes nas interações anteriores. A resposta preserva caráter transversal sem inventar idade de corte.",
+    "cardSha256": "33c896fafec5c19cb9d6fb7418f3d9f6b2ebb5272117f1e84b8dee82474e1e43",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.300Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-29",
+    "status": "approved",
+    "reason": "Páginas 4–5: §14 I considera grau de controle editorial/curadoria e §15 remete a detalhamento nos Guias. A resposta não inventa escala ou procedimento operacional.",
+    "cardSha256": "85c180babedd3da37ec325ba8f002515401f01b1c7a3d7d4371b03459486abd4",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4,
+        5
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.300Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-30",
+    "status": "approved",
+    "reason": "Página 5: §14 II qualifica controles etários/parentais como acessíveis, e §15 remete especificações. A resposta distingue presença nominal de acessibilidade e reconhece limites de implementação/evidência.",
+    "cardSha256": "e802a3976b67362d29d41f5c18545029dfd2e966860fa74bd9de768b5974d71d",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        5
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.300Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-31",
+    "status": "approved",
+    "reason": "Página 5: §14 III contém restrição a menores ou proibição de conteúdo, qualificadas pelo alinhamento ao Marco Civil. A resposta relata o documento sem certificar conformidade jurídica de bloqueios.",
+    "cardSha256": "36578cea2294e13a021e3e03d2756a07e68a5bf3ec7139f72b12275e5730d520",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        5
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.300Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-32",
+    "status": "approved",
+    "reason": "Páginas 4–5: §15 remete especificações dos fatores do §14 aos Guias. A resposta preserva a diferença entre enumeração e operacionalização, sem preencher lacunas com pontuação externa.",
+    "cardSha256": "f5190c57e77800bc68d816ef8cbebd5918da9890e336b8bb911688bbea207703",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4,
+        5
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.300Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-33",
+    "status": "approved",
+    "reason": "Página 4: §13 identifica provedores no território nacional, representantes claros/atualizados e finalidades institucionais/regulatórias/responsabilização. A resposta não confunde identificação com fiscalização efetivada.",
+    "cardSha256": "9b9dc63c30165dab1d37294834ca9c0c1134571ed9fa736870cca2d6a15187d8",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.300Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-34",
+    "status": "approved",
+    "reason": "Segunda revisão: a fonte adicional SbD agora inclui p21 com voluntariedade explícita, além de p22 para responsabilidade do prestador. O Art48 p4–5 permanece documental local. As premissas e a distinção de escopos sustentam a síntese, sem afirmar segurança pela classificação ou eficácia automática.",
+    "cardSha256": "52df7f592cebbf95a7bcfb6b4bf4d318f6b1810c6ec2b7d4d9230c0920a1d9a5",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4,
+        5
+      ],
+      "article-d4b0c4f9d75f": [
+        22,
+        21
+      ]
+    },
+    "reviewedAt": "2026-11-10T11:13:34.974Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-35",
+    "status": "approved",
+    "reason": "Art48 p5 e SbD p30 distinguem controles acessíveis de defaults mais protetores e escolhas revisáveis. A comparação não atribui literalmente ao documento local toda a prescrição SbD.",
+    "cardSha256": "436fa4c28307d3a6eb0cc18778a37c46ea64a18a6ab2112cb72b6311e4625f3c",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        5
+      ],
+      "article-d4b0c4f9d75f": [
+        30
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.301Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-36",
+    "status": "approved",
+    "reason": "Art48 p2 e SbD p34 tratam de informação etária e políticas compreensíveis, respectivamente. A resposta explicita objetos distintos e não infere compreensão efetiva pela exibição.",
+    "cardSha256": "7e2b7a0b13bacba93363da23fa408abc661235c27bb71c94dfd03bc2c6e16356",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        2
+      ],
+      "article-d4b0c4f9d75f": [
+        34
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.301Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-37",
+    "status": "approved",
+    "reason": "Art48 p2,5 e SbD p32 sustentam exclusões do §3, moderação no §14 e age-gates preventivos. A resposta preserva âmbitos distintos sem inferir revogação ou proibição geral de moderação.",
+    "cardSha256": "e300d6847c96cadbacacd103f9191e983c561c587cb54ca7de3958909922bdba",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        2,
+        5
+      ],
+      "article-d4b0c4f9d75f": [
+        32
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.301Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-38",
+    "status": "approved",
+    "reason": "Art48 p4–5 e SbD p21 sustentam fatores/remissão aos Guias, voluntariedade e notas ilustrativas sem eficácia robusta. A síntese distingue critério, orientação e evidência de redução de dano.",
+    "cardSha256": "3eb0eb4a8c1bdb0f842103306a9a4358f9705dd98e9370e722babfb8b104a5ad",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4,
+        5
+      ],
+      "article-d4b0c4f9d75f": [
+        21
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.301Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-39",
+    "status": "approved",
+    "reason": "Art48 p4 e CHIP p2 sustentam identificação institucional e argumento de arbitragem regulatória. A resposta não confunde representação, fiscalização efetiva e superação de assimetrias.",
+    "cardSha256": "051c4514c8f95d24e60d77f8a8e02d5f535020c5acf0cf58b49320551e3db80e",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ],
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.301Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-40",
+    "status": "approved",
+    "reason": "Art48 p3–4 e CHIP p2 sustentam lista funcional e hipótese contextual de segurança/dano. A resposta não atribui ao documento comparação entre países nem ao artigo teste empírico de cada recurso.",
+    "cardSha256": "e322a7f2c36601092d7c7a0cbe058045799fad41ab01144c205a7d3131bc8e1b",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3,
+        4
+      ],
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.301Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-41",
+    "status": "approved",
+    "reason": "Art48 p3–4 e CHIP p2 sustentam compras/dados/retenção e cadeia ficcional de exploração. A resposta identifica explicitamente especulação e não infere a trajetória em produtos reais.",
+    "cardSha256": "c8886a16849c053d9214b86dfec63d629425c83e7e0813ced1a25345de81adb2",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3,
+        4
+      ],
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.301Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-42",
+    "status": "approved",
+    "reason": "Art48 p2,5 e CHIP p3 sustentam remissões documentais e chamado à cocriação equitativa. A síntese não toma silêncio sobre participação como prova de sua ausência nem atribui avaliação desse processo ao artigo.",
+    "cardSha256": "7f46f4a8b504de12870eb942f476f0ab01434bb24f6f97e85be6e11b1ce6ee4d",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        2,
+        5
+      ],
+      "article-eca18e5843e2": [
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.301Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-43",
+    "status": "approved",
+    "reason": "Art48 p3–4 e Agenda p6 sustentam permanência/compulsividade e alternativas orientadas a agência/engajamento ético. A resposta preserva a agenda de testes e rejeita equivalência automática entre recurso e dano.",
+    "cardSha256": "ed0e7e331ec3a1d8418ce8a5561714d28d8e1cfb7d53f9edb3fb968ecc55ba26",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3,
+        4
+      ],
+      "article-d0d500126a80": [
+        6
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.301Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-44",
+    "status": "approved",
+    "reason": "Art48 p4 e Agenda p9 sustentam notificações constantes versus riscos de fadiga, falsos positivos e manipulação pela intervenção. A síntese não equipara intenção protetora a eficácia já estabelecida.",
+    "cardSha256": "1367510a5a59cfc6044b084bb6b63dccc0cba7fd6cfb085f58e141fe313bfca3",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ],
+      "article-d0d500126a80": [
+        9
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.301Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-45",
+    "status": "approved",
+    "reason": "Art48 p4 e Agenda p10 distinguem representação institucional e poder cotidiano sobre monetização. A resposta mantém a pesquisa organizacional como proposta, sem retratar uma empresa específica.",
+    "cardSha256": "1e166ff27ce51ead1321816c6c7f263d7289377ad21157257ba055feb5745f95",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ],
+      "article-d0d500126a80": [
+        10
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.301Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-46",
+    "status": "approved",
+    "reason": "Art48 p3–4 e Agenda p10 distinguem classificação documental de avaliação de autonomia/manipulação/bem-estar. A comparação é metodológica e não apresenta resultado psicológico já demonstrado.",
+    "cardSha256": "0b165bb8ec672af26059f403d3eff9554f2b5a78f5adbf58325edf565b79c22c",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3,
+        4
+      ],
+      "article-d0d500126a80": [
+        10
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.301Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-47",
+    "status": "approved",
+    "reason": "Art48 p4 e Interact p6 sustentam escopo do §12 e casos de idioma/página externa. A síntese distingue acessibilidade informacional de mera existência sem diagnosticar descumprimento jurídico nos aplicativos.",
+    "cardSha256": "bec6dc8705df4a4ed1d8821211e5f2ba539f485ce96944b21dce97068c6e1dd2",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ],
+      "article-48bdcebcffc6": [
+        6
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.302Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-48",
+    "status": "approved",
+    "reason": "Art48 p2–4 e Interact p6 sustentam publicidade/retensão e três dinâmicas de anúncio/recompensa. A resposta diferencia taxonomia observacional e fatores classificatórios, sem provar efeitos individuais.",
+    "cardSha256": "64b5904e10e474904cabf7c9cca7214986e95f7b96b3feb7266650e89c735c7d",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        2,
+        3,
+        4
+      ],
+      "article-48bdcebcffc6": [
+        6
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.302Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-49",
+    "status": "approved",
+    "reason": "Art48 p4 e Interact p4,8 sustentam uso prolongado e janela inicial sem compras/emulação. A síntese não transforma detecção curta em avaliação longitudinal completa.",
+    "cardSha256": "5dfe6d461b1c1a9c89dd7d6827624397778d90fd18d01a9bbca110d1d4b93b80",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ],
+      "article-48bdcebcffc6": [
+        4,
+        8
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.302Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-50",
+    "status": "approved",
+    "reason": "Art48 p2 e Interact p8 sustentam escopo amplo documental e corpus limitado de apps gratuitos. A resposta não generaliza achados a todo serviço, versão ou modelo de acesso.",
+    "cardSha256": "5772a4a93568b43258944bbc906bdecd9a444c7d2210ae5e34a512fb0d632ea1",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        2
+      ],
+      "article-48bdcebcffc6": [
+        8
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.302Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-51",
+    "status": "approved",
+    "reason": "Art48 p3–4 e Operationalizing p6 sustentam mecanismos observáveis e prevenção de frustração das três necessidades. A resposta evita converter checklist ou presença de recurso em diagnóstico de radiância/dano.",
+    "cardSha256": "bea4d4fa7a688fc6deaeba529f264c4b244e124021f90cc11691701036a1750d",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3,
+        4
+      ],
+      "article-39adb0cfa84e": [
+        6
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.302Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-52",
+    "status": "approved",
+    "reason": "Art48 p3–4 e Operationalizing p8 distinguem capacidades listadas de problema/contexto/solução situada. A resposta não declara toda compra ou comunicação radiante ou enganosa.",
+    "cardSha256": "ac002158d8f0df067086f031fe9925e5d2e9def2bbfbc47ca6dcf0f7121b4962",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3,
+        4
+      ],
+      "article-39adb0cfa84e": [
+        8
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.302Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-53",
+    "status": "approved",
+    "reason": "Art48 p3 e Operationalizing p7 sustentam avaliação de interações de risco e prevenção específica de dano psicológico. A comparação mantém escopos e não iguala desafio ou emoção negativa a dano.",
+    "cardSha256": "776aef89bd16825d244371de642ad4b5e27f73fd71e8ccb993f76055aee944cf",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3
+      ],
+      "article-39adb0cfa84e": [
+        7
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.302Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-54",
+    "status": "approved",
+    "reason": "Art48 p5 e Operationalizing p8 sustentam fatores protetores e riscos de má implementação. A resposta formula análise, sem atribuir falhas empíricas a controles nem eficácia demonstrada a RPs.",
+    "cardSha256": "495b498733985a757c1e610b33634e398877dbe56361beb33e8b89ee1e735d45",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        5
+      ],
+      "article-39adb0cfa84e": [
+        8
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.302Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-55",
+    "status": "approved",
+    "reason": "Art48 p4 e HCI p11 sustentam permanência prolongada e níveis de Open Gate. A resposta usa contraponto estrutural, sem declarar redução longitudinal de compulsividade ou ilegalidade de retenção.",
+    "cardSha256": "7ce762afd7341b917191bec8c3cc09e78a0725aeb021675655d4b91bbacef154",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ],
+      "article-e13c3cb65c28": [
+        11
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.302Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-56",
+    "status": "approved",
+    "reason": "Art48 p2,4 e HCI p15 distinguem metodologia etária e base metodológica contextual L1–L3. A resposta não inventa conversão entre faixas e níveis ou experiência universal.",
+    "cardSha256": "66c6392851f5de3d4b9371a039291a6884ed15a0e1583f43020432213a17332a",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        2,
+        4
+      ],
+      "article-e13c3cb65c28": [
+        15
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.302Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-57",
+    "status": "approved",
+    "reason": "Art48 p4 e HCI p11 sustentam retenção e separação de objetivo técnico/problema do jogador. A síntese propõe raciocínio sem afirmar divergência empírica em aplicativo específico.",
+    "cardSha256": "e64517b6b3ab32c7f8a5136cec5023a704ef4fef8f82e921d0152a6fb933d483",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ],
+      "article-e13c3cb65c28": [
+        11
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.302Z"
+  },
+  {
+    "cardId": "article-94e7a19d8878-58",
+    "status": "approved",
+    "reason": "Art48 p3–4 e HCI p15 sustentam fatores de violência/discriminação, responsabilização e limites sistêmicos do léxico. A resposta não eleva instrumentos de interface/classificação a solução de assédio ou bem-estar laboral.",
+    "cardSha256": "005f2e55d3a31fade13b811bc1059a65f2f53fdf40ab6afa2e9659900b28b442",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-94e7a19d8878": [
+        3,
+        4
+      ],
+      "article-e13c3cb65c28": [
+        15
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:05:09.302Z"
+  }
+]

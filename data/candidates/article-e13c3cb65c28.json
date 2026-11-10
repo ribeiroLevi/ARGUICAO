@@ -1,0 +1,156 @@
+[
+  {
+    "id": "article-e13c3cb65c28-01",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Quais ferramentas práticas Beyond Dark Patterns in Games oferece para operacionalizar Radiant Patterns?",
+    "answer": "Um [[léxico refinado]], um [[modelo de níveis e variantes]] e um [[template de documentação]]. O artigo também propõe a estrutura de um catálogo colaborativo com modelo de governança para crescimento futuro.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        1
+      ],
+      "sections": [
+        "Abstract"
+      ],
+      "evidence": [
+        "We provide three practical tools: a refined lexicon, a tiered\nmodel of levels and variants, and a documentation template. We also pro-\npose a framework for a collaborative catalog with a governance model\nto enable future community growth."
+      ]
+    }
+  },
+  {
+    "id": "article-e13c3cb65c28-02",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Quais foram as três fases e o perfil geral de participação da metodologia?",
+    "answer": "Um processo qualitativo com [[workshop colaborativo, sessões de refinamento e autoetnografia exploratória]]. Nove participantes com experiência acadêmica e/ou profissional em jogos participaram no total. A seleção priorizou [[teste da lógica por especialistas]], não validação em larga escala.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        5
+      ],
+      "sections": [
+        "3 Methodology"
+      ],
+      "evidence": [
+        "To develop a refined and collaborative catalog of Game Radiant Patterns, we\nconducted a three-phase qualitative process: (I) a Collaborative Workshop, (II)\nCurated Refinement Sessions, and (III) an Exploratory Autoethnography (Fig-\nure 1). Across phases, we collected qualitative materials including workshop\nrecords, session notes, and researcher diaries and memos.",
+        "Nine participants took part across the three phases, all with academic and/or\nprofessional experience in digital games (Table 1). Phase I involved five partic-\nipants (P01–P05). Phases II and III included five participants (P01, P06–P09).\nAfter Phase I, P01 joined the refinement and analysis stages due to prior in-\nvolvement with the RP framework. Participant selection prioritized expertise-led\nstress testing over broad-scale validation to ensure the framework’s internal logic\nwas technically sound."
+      ]
+    }
+  },
+  {
+    "id": "article-e13c3cb65c28-03",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Qual foi o papel da autoetnografia exploratória na terceira fase?",
+    "answer": "Usou a [[experiência de jogo dos pesquisadores como dados]] para identificar configurações de Radiant Patterns e casos de fronteira. A seleção exigia ao menos dez horas de jogo ou conclusão narrativa, como [[amostragem direcionada]], não auditoria exaustiva de cada jogo.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        7
+      ],
+      "sections": [
+        "3.3 Phase III: Exploratory Autoethnography"
+      ],
+      "evidence": [
+        "In Phase III, we applied the refined framework through exploratory autoethnog-\nraphy [14], using researcher gameplay as data to structurally identify how Radi-\nant Patterns are configured in practice and to identify boundary cases for catalog\nrefinement.\nWe selected games based on Phase II citations and researcher familiarity,\nrequiring a minimum of 10 hours of play or narrative completion. This dura-\ntion served as a targeted sampling period to identify specific pattern instances\nrather than an exhaustive audit of entire game."
+      ]
+    }
+  },
+  {
+    "id": "article-e13c3cb65c28-04",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Como se diferenciam os níveis L1, L2 e L3 no framework refinado?",
+    "answer": "[[L1]] estabelece o piso ético de não frustração; [[L2 e L3]] ampliam progressivamente a satisfação das necessidades. Em Open Gate, o exemplo é L1: salvamento automático; L2: parada intencional; L3: feedback visual que reforça a conquista.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        11
+      ],
+      "sections": [
+        "4.2 Refined RPs Framework Established a Shared Lexicon"
+      ],
+      "evidence": [
+        "Following progressive scaling, patterns are organized into universal applica-\ntion levels. Level L1 establishes the ethical floor of non-frustration. While L1\nrepresents standard practice, i.e., its inclusion in the framework identifies it as a\nnecessary boundary against deceptive monetization or retention tactics, L2 and\nL3 progressively enhance need satisfaction. For example, Open Gate includes\nL1 – Safety (automatic progress saving), L2 – Autonomy (intentional stopping),\nand L3 – Competence (visual feedback reinforcing achievement)."
+      ]
+    }
+  },
+  {
+    "id": "article-e13c3cb65c28-05",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Qual é a diferença entre invariantes e variantes no framework?",
+    "answer": "[[Invariantes]] são propriedades essenciais que precisam permanecer em todos os níveis e adaptações para preservar a identidade do padrão. [[Variantes]] são adaptações contextuais entre gêneros, plataformas ou sistemas que mantêm essas propriedades.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        12
+      ],
+      "sections": [
+        "Table 3. Final Structural Template for Radiant Game Design Patterns (RPs)"
+      ],
+      "evidence": [
+        "RP Invariants Essential properties that must hold across all variants and levels.\n\nUniversal Application\nLevels\n\nAbstract cumulative levels representing increasing satisfaction of\npsychological needs.\n\nRP Variants Contextual adaptations of the RP across genres, platforms, or systems\nwhile preserving invariants."
+      ]
+    }
+  },
+  {
+    "id": "article-e13c3cb65c28-06",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Quais quatro regras pragmáticas orientam o template refinado?",
+    "answer": "[[Separar objetivos do desenvolvedor dos problemas do jogador]]; explicitar atores e contexto; preservar a identidade pela relação [[invariante–variante]]; e mapear soluções aos níveis L1–L3 para tornar [[rastreável o apoio às necessidades psicológicas]].",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        11
+      ],
+      "sections": [
+        "An Updated Radiant Pattern Framework"
+      ],
+      "evidence": [
+        "To ensure scalability of the RP framework, we defined four pragmatic rules\nfor the RP template:\n1. Goal–Outcome Decoupling : Separate developers’ technical goals from\n\nPlayer Problems (the experiential goals or need frustrations addressed).\n2. Multi-Dimensional Scoping : Specify target actors and context to avoid\nvague terminology and support diverse settings.\n3. Invariant–Variant Duality : Define core properties (Invariants) that must\nhold across adaptations to preserve identity, regardless of the Variant.\n4. Traceable Need Satisfaction : Map each solution to hierarchical design\nlevels (L1–L3) to validate radiance through structural criteria."
+      ]
+    }
+  },
+  {
+    "id": "article-e13c3cb65c28-07",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Por que uma observação autoetnográfica não basta para confirmar um novo Radiant Pattern?",
+    "answer": "Porque a identificação exige [[recorrência]], discussão e coerência com o framework. Uma instância isolada ou uma amostra de dez horas pode ser insuficiente; a observação por especialistas pode produzir [[falsos positivos]]. Por isso, o artigo trata novas ideias como candidatas para verificação colaborativa.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        15
+      ],
+      "sections": [
+        "6 Discussion: Radiant Patterns and Industry Practice"
+      ],
+      "evidence": [
+        "Besides, identifying these new mechanics through autoethnography does not\nautomatically qualify them as Radiant Patterns. This is why they are referred\non findings as candidate RPs. Identifying an RP requires evidence of recurrence,\nwhich establishes it as a pattern[2], as well as discussion and coherence with the\ncomponents defined by the framework. This distinction creates a logical need for\nthe Radiant Patterns Catalog (Section 5). Because a single autoethnographic\ninstance cannot confirm a pattern, and a 10-hour sample may not capture the\nfull systemic depth of complex titles, the Catalog serves as a filter where these\ninitial observations are flagged for further verification. The ’candidate’ ideas\nare subjected to a verification protocol. This ensures that only those designs\nproven to be recurring and ethically sound are finalized, transforming subjective\nobservations into community-validated design knowledge. Expert observation\nmay result in false positives, reinforcing the need for the Catalog’s collaborative\nverification protocol in which the practical application of these patterns can be\nobserved, analyzed, and discussed collectively."
+      ]
+    }
+  },
+  {
+    "id": "article-e13c3cb65c28-08",
+    "articleId": "article-e13c3cb65c28",
+    "question": "Quais limites do framework o artigo reconhece ao apresentar suas conclusões?",
+    "answer": "Faltam [[dados longitudinais]]; a amostra é pequena e centrada em especialistas; e o escopo não cobre questões sistêmicas como condições de trabalho e toxicidade online. A verificação na indústria e a avaliação do [[impacto de longo prazo]] permanecem trabalho futuro.",
+    "source": {
+      "file": "HCI_IN_GAMES_2026.pdf",
+      "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+      "pages": [
+        16
+      ],
+      "sections": [
+        "7 Final Remarks"
+      ],
+      "evidence": [
+        "While this version lacks longi-\ntudinal data, relies on a small expert-centric sample, and excludes systemic issues\nlike worker welfare or online toxicity, it establishes the technical foundation for\nfuture industry-led verification.",
+        "Future work focuses on testing long-term impact, expanding the relatedness\ndimension based on observed dialogue-driven instances, and implementing the\ncollaborative verification protocol to transition candidate patterns into finalized\nstandards."
+      ]
+    }
+  }
+]

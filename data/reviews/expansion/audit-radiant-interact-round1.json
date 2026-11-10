@@ -1,0 +1,1593 @@
+{
+  "reviewer": "review_radiant_interact",
+  "method": "Direct PDF.js text extraction from original PDFs; literal check complements individual semantic review.",
+  "candidateCount": 100,
+  "evidenceCount": 276,
+  "originalPagesRead": 47,
+  "sourceHashes": {
+    "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8",
+    "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+  },
+  "cards": [
+    {
+      "cardId": "article-39adb0cfa84e-09",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            2
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-10",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            3,
+            4
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-11",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            4,
+            14
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-12",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            4,
+            5
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-13",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            4,
+            5
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-14",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            6
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-15",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            6,
+            12
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-16",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            7,
+            8,
+            9
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-17",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            9
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-18",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            8,
+            9
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-19",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            8,
+            9,
+            14
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-20",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            8,
+            9
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-21",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            6,
+            8,
+            10
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-22",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            10,
+            11,
+            16
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-23",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            10,
+            11
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-24",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            11,
+            12,
+            16
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-25",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            11,
+            12,
+            16
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-26",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            11,
+            12,
+            13
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-27",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            12
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-28",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            12,
+            13,
+            16
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-29",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            12
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-30",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            12,
+            13
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-31",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            12,
+            13
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-32",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            12,
+            13,
+            16
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-33",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            11,
+            13
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-34",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            13
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-35",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            10,
+            13,
+            16
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-36",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            15,
+            16
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-37",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            15
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-38",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            15,
+            16
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-39",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            14,
+            16
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-40",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            15,
+            16
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-41",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            9,
+            16
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-42",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            8,
+            9,
+            10
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-43",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            6,
+            10
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-d4b0c4f9d75f",
+          "pages": [
+            22,
+            27
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-44",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            11,
+            12
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-d4b0c4f9d75f",
+          "pages": [
+            30
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-45",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            15,
+            16
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-d4b0c4f9d75f",
+          "pages": [
+            36
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-46",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            12,
+            13
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-94e7a19d8878",
+          "pages": [
+            4
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-47",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            9,
+            10,
+            12
+          ],
+          "evidenceCount": 3
+        },
+        {
+          "articleId": "article-94e7a19d8878",
+          "pages": [
+            4,
+            5
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-48",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            11,
+            12,
+            16
+          ],
+          "evidenceCount": 3
+        },
+        {
+          "articleId": "article-eca18e5843e2",
+          "pages": [
+            2
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-49",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            14,
+            16
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-eca18e5843e2",
+          "pages": [
+            1,
+            2,
+            3
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-50",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            8,
+            9,
+            10
+          ],
+          "evidenceCount": 3
+        },
+        {
+          "articleId": "article-d0d500126a80",
+          "pages": [
+            9,
+            10
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-51",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            15,
+            16
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-d0d500126a80",
+          "pages": [
+            10
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-52",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            15,
+            16
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-d0d500126a80",
+          "pages": [
+            10,
+            11
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-53",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            9,
+            10,
+            11
+          ],
+          "evidenceCount": 3
+        },
+        {
+          "articleId": "article-e13c3cb65c28",
+          "pages": [
+            8,
+            10,
+            11,
+            15
+          ],
+          "evidenceCount": 4
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-54",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            9,
+            16
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-e13c3cb65c28",
+          "pages": [
+            13,
+            15,
+            16
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-55",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            10,
+            13,
+            16
+          ],
+          "evidenceCount": 3
+        },
+        {
+          "articleId": "article-e13c3cb65c28",
+          "pages": [
+            11,
+            15,
+            16
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-56",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            12,
+            14
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-57",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            12,
+            13
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-39adb0cfa84e-58",
+      "references": [
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            6,
+            10,
+            15,
+            16
+          ],
+          "evidenceCount": 4
+        },
+        {
+          "articleId": "article-d4b0c4f9d75f",
+          "pages": [
+            22,
+            27
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-d0d500126a80",
+          "pages": [
+            10,
+            11
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-09",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            1
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-10",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            1,
+            2
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-11",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            2,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-12",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            1,
+            2,
+            3
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-13",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            2,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-14",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            3,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-15",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            3,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-16",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            3
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-17",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            3,
+            6
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-18",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            3
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-19",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            3,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-20",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            3,
+            4
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-21",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            3,
+            4
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-22",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            4
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-23",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            4,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-24",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            4,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-25",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            4,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-26",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            4
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-27",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            4,
+            5
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-28",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            4,
+            5
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-29",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            4,
+            5,
+            8
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-30",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            5
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-31",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            5
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-32",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            5
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-33",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            5,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-34",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-35",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            7
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-36",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            7
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-37",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            7
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-38",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            7
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-39",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            7
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-40",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            7
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-41",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            5,
+            7,
+            8
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-42",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            2,
+            7,
+            8
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-43",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            3,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-44",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            7
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-d4b0c4f9d75f",
+          "pages": [
+            21,
+            34,
+            35
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-45",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            3,
+            4,
+            8
+          ],
+          "evidenceCount": 3
+        },
+        {
+          "articleId": "article-d4b0c4f9d75f",
+          "pages": [
+            21,
+            27
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-46",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            5,
+            8
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-d4b0c4f9d75f",
+          "pages": [
+            21,
+            36
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-47",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            7
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-94e7a19d8878",
+          "pages": [
+            4
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-48",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            7
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-94e7a19d8878",
+          "pages": [
+            3,
+            4
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-49",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            8
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-94e7a19d8878",
+          "pages": [
+            4,
+            5
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-50",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            2,
+            6,
+            8
+          ],
+          "evidenceCount": 3
+        },
+        {
+          "articleId": "article-eca18e5843e2",
+          "pages": [
+            1,
+            2
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-51",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            4,
+            8
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-eca18e5843e2",
+          "pages": [
+            2
+          ],
+          "evidenceCount": 1
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-52",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            8
+          ],
+          "evidenceCount": 1
+        },
+        {
+          "articleId": "article-eca18e5843e2",
+          "pages": [
+            2,
+            3
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-53",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            3,
+            4
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-d0d500126a80",
+          "pages": [
+            7,
+            8
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-54",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            7,
+            8
+          ],
+          "evidenceCount": 3
+        },
+        {
+          "articleId": "article-d0d500126a80",
+          "pages": [
+            9,
+            10
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-55",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            7
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            11,
+            12,
+            13
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-56",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            6,
+            8
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-39adb0cfa84e",
+          "pages": [
+            11,
+            12,
+            13
+          ],
+          "evidenceCount": 3
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-57",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            4,
+            8
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-e13c3cb65c28",
+          "pages": [
+            13,
+            16
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    },
+    {
+      "cardId": "article-48bdcebcffc6-58",
+      "references": [
+        {
+          "articleId": "article-48bdcebcffc6",
+          "pages": [
+            3,
+            8
+          ],
+          "evidenceCount": 2
+        },
+        {
+          "articleId": "article-e13c3cb65c28",
+          "pages": [
+            10,
+            11,
+            16
+          ],
+          "evidenceCount": 3
+        },
+        {
+          "articleId": "article-d4b0c4f9d75f",
+          "pages": [
+            21,
+            35
+          ],
+          "evidenceCount": 2
+        }
+      ]
+    }
+  ],
+  "failures": []
+}

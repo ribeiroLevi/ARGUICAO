@@ -1,0 +1,966 @@
+[
+  {
+    "cardId": "article-eca18e5843e2-9",
+    "status": "approved",
+    "reason": "Página 1: mercado de 103 milhões, capacidade de produção/pesquisa e restrições de financiamento constam da introdução. A resposta atribui os dados ao artigo de 2025, sem atualização estatística própria.",
+    "cardSha256": "a10c8d1795b49a63463144581cf1e037305eee10b55ade7159b1c785dbe256b1",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.189Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-10",
+    "status": "approved",
+    "reason": "Página 1: exploração de vieses e opacidade de custos sustentam a crítica à monetização predatória. A resposta mantém risco/possibilidade e não diagnostica todo jogador ou condena qualquer preço.",
+    "cardSha256": "2b0022ae2a325866080372258c748063adb8f1f0a0842f24dd2e7f02b371c21c",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-11",
+    "status": "approved",
+    "reason": "Página 1: o artigo reconhece DPs em contextos WEIRD e pergunta por natureza/magnitude do dano não-WEIRD. A resposta não restringe exploração ao Sul Global nem inventa comparação causal própria.",
+    "cardSha256": "7857f20aafa1f91bffd517b24fb8ad9a86fdda797ddba29d724e49afad61606f",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-12",
+    "status": "approved",
+    "reason": "Página 1: vulnerabilidades sistêmicas preexistentes, direcionamento deliberado e automação indiferente sustentam a lente estrutural. A resposta não precisa presumir má intenção individual nem declara toda automação exploratória.",
+    "cardSha256": "ac59ec1681c4a0dbe033d0678651ba4f76f41a98239413af8aa2dfed46d4e770",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-13",
+    "status": "approved",
+    "reason": "Página 1: entretenimento pode reduzir vigilância crítica, ampliada por condições sociais. A resposta preserva possibilidade, heterogeneidade e contexto anterior ao uso, sem patologizar a população.",
+    "cardSha256": "b5d965679a41311f3552ac78222b1c2aea12dd96b1065a7dc7408b13f1eb2dc0",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-14",
+    "status": "approved",
+    "reason": "Segunda revisão: retirada a expressão que sugeria jogadores estudados em amostra própria. O PDF p1 confirma taxas secundárias de11,1%e27,4% e argumento de precariedade/estresse. A resposta agora distingue contextualização teórica de comportamento medido e de estimativas atuais.",
+    "cardSha256": "6121d19233a54ab7538a5477c7e41699fc56f9555faa3764f976a2b2b83ec324",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ]
+    },
+    "reviewedAt": "2026-11-10T11:13:34.979Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-15",
+    "status": "approved",
+    "reason": "Página 1:86,2%,29%e36%estão corretamente atribuídos a fontes secundárias. A resposta distingue acesso e letramento de experiência individual ou prova causal de dano.",
+    "cardSha256": "d2468f54afca31c0f4dfcfcaddc92731a4bf38ed172955b23a95a1bccfbd0e98",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-16",
+    "status": "approved",
+    "reason": "Páginas1–2: indicadores com referências sustentam contextualização secundária. A resposta preserva ausência de participantes/manipulação experimental e não quantifica efeito de um padrão sobre grupos.",
+    "cardSha256": "48b0cd6b4da1e7f172ab39a987e10c073447d44d5a09a97111d43b8ce9aa626a",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1,
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-17",
+    "status": "approved",
+    "reason": "Página 2: transparência de preço, vulnerabilidades, custos e desistência constam do argumento regulatório. A resposta atribui a descrição a2025 e não verifica ou uniformiza legislação vigente.",
+    "cardSha256": "553f1d8a2efdff8756c1a63610c384dce093405cfde99862f9aee6458ed06441",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-18",
+    "status": "approved",
+    "reason": "Página 2:12%refere-se às populações WEIRD na discussão da psicologia, não a percentual de pesquisa de jogos. A resposta preserva origem secundária e validade externa como problema.",
+    "cardSha256": "a0f4096dd86374954e6dd8c9ebaa8b1a8b5b4d746412eb25dba9fa271c1b8fd4",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-19",
+    "status": "approved",
+    "reason": "Página 2: a crítica decolonial conecta centralidade WEIRD, poder e exportação de projetos. A resposta mantém caráter interpretativo sem converter todo projeto estrangeiro em causa necessária de dano.",
+    "cardSha256": "50a75520f3b3c9ae28b028acfff397cf4a54312dc51cc20abfbbec7600663b63",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-20",
+    "status": "approved",
+    "reason": "Página 2: transferência de segurança/dano é apresentada como potencial teórico da lente. A resposta não fabrica teste comparativo entre países ou efeito comprovado de um padrão particular.",
+    "cardSha256": "63716d036ef9d4388e2c24aff7b465f7c10fef9dd33436c0b5d663ba28b18f7b",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-21",
+    "status": "approved",
+    "reason": "Páginas1–2: novos casos brasileiros motivam perguntas de intenção/contexto. A resposta não prova intenção empresarial nem valida causalmente o construto pela identificação dos casos.",
+    "cardSha256": "3739e9087458f811f9ff78fa9bed8679d88fa6ff955d9b2f673ec4ee7b71ab35",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2,
+        1
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-22",
+    "status": "approved",
+    "reason": "Página 2: a pergunta sobre fuga virtual, recursos essenciais e integridade cívica define cenário imaginado/artefato futuro. A resposta preserva função crítica e estatuto ficcional.",
+    "cardSha256": "aeb018f733e68d71967cb8f5929b62a6d2a4b8c3ffeb8b8f04d80bd32e98abc7",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-23",
+    "status": "approved",
+    "reason": "Página 2: Helena procura controle/realização e recebe promessa de comunidade/crescimento. A resposta identifica arquétipo especulativo, sem tratá-la como participante ou representante empírica do Sul Global.",
+    "cardSha256": "223770f9dbe863c6f4b9addf2672120078ba79b63e81cc5026797c0c0192c6f3",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-24",
+    "status": "approved",
+    "reason": "Página 2: proibição do motor deIA na origem e implantação por arbitragem são elementos explícitos da ficção. A resposta não denuncia estúdio/motor real ou proibição comprovada.",
+    "cardSha256": "80710c7311790e272bfe8143ea5a1462e1447d1849871fef5299176288dee95c",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-25",
+    "status": "approved",
+    "reason": "Página 2: conforto, progresso, dependência e crises/pagamento sustentam o arco narrativo. A resposta não o apresenta como seguimento clínico ou teste empírico de dependência.",
+    "cardSha256": "900f6696bd6e4a149668b5e37442f3e0df5149a2e8150fa24526422052bea466",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-26",
+    "status": "approved",
+    "reason": "Segunda revisão: pergunta e resposta preservam $18, notação da p2, sem acrescentar identificação USD. A relação com gás de cozinha e impossibilidade de pagar consta do cenário; ficção e ausência de conversão/orçamento empírico permanecem explícitas.",
+    "cardSha256": "d8b4e877b462277295aac325d85f526a8a999be466c7391ec0bdb29ed44bcc96",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T11:13:34.979Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-27",
+    "status": "approved",
+    "reason": "Página 2: compromisso de benefício futuro contorna a barreira financeira no cenário. A resposta preserva sacrifício material e ficção, sem anunciar mecanismo comercial ou ocorrência real.",
+    "cardSha256": "740ac2c96ff2f50b075fa38a73b5191d558bbc16730c81c8c62fdbe0bf30f5d8",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.190Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-28",
+    "status": "approved",
+    "reason": "Segunda revisão: auge do desespero traduz fielmente peak desperation na p2. A oferta pró-social, custo futuro e exploração da preferência por alívio imediato permanecem sustentados, com estatuto especulativo e sem resultado experimental.",
+    "cardSha256": "63c8cf94b2a78210660c823a437d4b203fef8d3202a9a09d142dda9ea97481fe",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T11:13:34.979Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-29",
+    "status": "approved",
+    "reason": "Página 2: perfil de ansiedades/baixa resistência é vendido para desinformação política no enredo. A resposta preserva reutilização de vulnerabilidades e estatuto não empírico.",
+    "cardSha256": "504b3914add4ae4565636781d9f46866ac21070903e4ceda73cef7b04859fe72",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-30",
+    "status": "approved",
+    "reason": "Página 2:92%é atributo do dashboard especulativo e o texto explicita desumanização por quantificação. A resposta não o transforma em precisão de modelo, prevalência ou resultado validado.",
+    "cardSha256": "24bcbc300fc6a947a399834ec714535b4a99e2abb54c5fe38297d0bda9420c3b",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-31",
+    "status": "approved",
+    "reason": "Página 2: Projected Redistribution, Harvest Equinox e Narrative Anchors são eufemismos corporativos da ficção. A interpretação crítica mantém contexto e não cria categorias técnicas reais.",
+    "cardSha256": "aba4f1920930507396bb00faa53360014f36631223016e828cf76c53ff309db9",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-32",
+    "status": "approved",
+    "reason": "Páginas2e5:12,7%, replicação do nudge, revisão e escalonamento ético constam do artefato/narrativa. A resposta preserva números ficcionais e qualificação performática sem alegar banco real.",
+    "cardSha256": "756dc5e42e48aab452a83dd0b4e9806d4902195b100e8ba543ceefaa105dee89",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        5,
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-33",
+    "status": "approved",
+    "reason": "Páginas2e5: janela2–3h, privação de sono e gatilhos de escassez/ansiedade aparecem no dashboard. A resposta não os apresenta como medidas clínicas ou logs de participante real.",
+    "cardSha256": "5753b43930ed1073c2729ab1bb94f4ee2aef91c66cd52b3f473833b5c78f4ff2",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        5,
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-34",
+    "status": "approved",
+    "reason": "Página 2: a venda do perfil reutiliza vulnerabilidades monetizadas pelo jogo. A resposta interpreta encadeamento ficcional, sem inferir inevitabilidade em todo jogo ou rastreamento empírico.",
+    "cardSha256": "6e5c453ad4a8db0e6d7d2fc0bdf8a573e667e33af49c9d3c6b9aee7a8e477259",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-35",
+    "status": "approved",
+    "reason": "Página 2: perguntas críticas contrapõem vieses universais e vulnerabilidades estruturais disseminadas. A resposta preserva natureza normativa/teórica e não estima dano populacional ou consenso comunitário.",
+    "cardSha256": "0d708c1e99e5869f5154f76fbf66a1b4e157fc8c53aa75bcd94441872492d31f",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-36",
+    "status": "approved",
+    "reason": "Página 2: cognitive colonialism aparece numa pergunta sobre extração unidirecional. A resposta mantém lente decolonial, encadeamento argumentativo e especulação, sem declarar diagnóstico medido.",
+    "cardSha256": "0e4d1a48e1c8576ed378417a8561245280de642cb58a410c9ab151e010781e33",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-37",
+    "status": "approved",
+    "reason": "Página 2: a distopia é explicitamente provocação de um extremo possível. A resposta não deriva frequência, probabilidade ou inevitabilidade de um cenário sem amostra observada.",
+    "cardSha256": "63378dfbd0e60c51e85e27b5c592e21be3555185b17e064901181881c4b0cbb2",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-38",
+    "status": "approved",
+    "reason": "Página 3: parcerias equitativas, cocriação e resiliência são chamados abertos à comunidade. A resposta não os transforma em protocolo participativo implementado/avaliado.",
+    "cardSha256": "57109ae6fd96b7cb67d5bcac9410d39298731762afb515169fc10d401708dd21",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {},
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-39",
+    "status": "approved",
+    "reason": "CHIP1–2eSbD27: vulnerabilidade contextual e gestão documentada dinâmica sustentam perguntas de implantação. A síntese não afirma eliminação de danos pela comparação ou teste conjunto.",
+    "cardSha256": "bd98f9e2150a55557a201f106b3e537568bdf0ce86b4684223ad55152e86542f",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1,
+        2
+      ],
+      "article-d4b0c4f9d75f": [
+        27
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-40",
+    "status": "approved",
+    "reason": "CHIP2eSbD30: oferta ficcional sob vulnerabilidade e controle/defaults protetores permitem distinguir escolha operacional e condições de agência. A resposta não presume incapacidade individual nem eficácia universal.",
+    "cardSha256": "fba7d6c2f960b37a842fc89be45ba68705cd8bd99fb9023b1bca171910c29dd6",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ],
+      "article-d4b0c4f9d75f": [
+        30
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-41",
+    "status": "approved",
+    "reason": "CHIP2,5eSbD22: revisão performática contrasta com responsabilidades mensuráveis. A síntese formula questão de poder preventivo, sem garantir funcionamento de toda estrutura formal.",
+    "cardSha256": "c6bceeab6199001ed4f98f875a4fc2be443d2df7a0a82883e133c5b2ad4f03a5",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2,
+        5
+      ],
+      "article-d4b0c4f9d75f": [
+        22
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-42",
+    "status": "approved",
+    "reason": "CHIP2eSbD19: exportação/contexto e objeções à solução única são premissas corretas. A resposta mantém diferença entre crítica decolonial e consulta, sem alegar método intercultural validado.",
+    "cardSha256": "ba2482b4fa81b5f6860a871f99d7e235f999de90f37e56e139a703608c6187ae",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ],
+      "article-d4b0c4f9d75f": [
+        19
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-43",
+    "status": "approved",
+    "reason": "CHIP2eArt48p3: preço/benefício futuro ficcionais e possibilidade de compras são comparados em unidades distintas. A resposta preserva documento local, ausência de vigência certificada e caráter não observado do cenário.",
+    "cardSha256": "a1ddbaa4d464796dce8cc97340ca239b1ea26b0c37e8f50c13e58454ecc48b64",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ],
+      "article-94e7a19d8878": [
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-44",
+    "status": "approved",
+    "reason": "CHIP2eArt48p3: reutilização de perfil dialoga com dados/desativação de privacidade. A resposta distingue finalidade e funcionalidade sem atribuir prevenção jurídica ou exploração real aos trechos.",
+    "cardSha256": "65c6b1398039d72fb6a986282cec14b5bb9147e78a2dbcb46912ad05fc68ff5c",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ],
+      "article-94e7a19d8878": [
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-45",
+    "status": "approved",
+    "reason": "CHIP2eArt48p4: loops extremos e funcionalidades de permanência permitem análise de implantação. A resposta não declara toda gamificação enganosa nem converte inventário em prova de dano.",
+    "cardSha256": "6dd321f3993c26c41c446564669279dd620be12eed5c92cab664a7208fd730ea",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ],
+      "article-94e7a19d8878": [
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-46",
+    "status": "approved",
+    "reason": "CHIP2eArt48p4: arbitragem regulatória e representante identificável sustentam questões institucionais distintas. A resposta não equipara visibilidade, fiscalização e simetria de proteção.",
+    "cardSha256": "830d729842d9123f975fc8085f4a724c8c37c4e7574658661639587c52ba1ea5",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ],
+      "article-94e7a19d8878": [
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-47",
+    "status": "approved",
+    "reason": "CHIP1eAgenda9: vulnerabilidade/letramento e apoio contextual sem nova manipulação sustentam a pergunta de compreensão e ação. A resposta reconhece hipótese não testada conjuntamente e heterogeneidade de pessoas.",
+    "cardSha256": "dd9cba0dfcc9ccb4c0c885e8a38d32df36e1c72408a85e94281a68a5520ba1b8",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ],
+      "article-d0d500126a80": [
+        9
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-48",
+    "status": "approved",
+    "reason": "CHIP1eAgenda10: automação indiferente e decisão hierárquica de monetização sustentam análise de governança. A resposta não isenta papéis nem generaliza o retrato organizacional a toda empresa.",
+    "cardSha256": "cf55dc2dbc62e2e6059bba44153457f1ed87278a9177b2bb9fbb7238c9e04fb8",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ],
+      "article-d0d500126a80": [
+        10
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.191Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-49",
+    "status": "approved",
+    "reason": "CHIP2eAgenda11: dados ficcionais para exploração contrastam com proposta ética de avaliação/telemetria. A resposta distingue finalidades e critérios, sem atribuir eficácia ou realidade ao dashboard.",
+    "cardSha256": "4e82f2af999166567bdac576eb591b673baff6255aec831e86619744758d93d4",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ],
+      "article-d0d500126a80": [
+        11
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.192Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-50",
+    "status": "approved",
+    "reason": "CHIP1eInteract7: acesso/letramento e barreira de idioma sustentam discussão de compreensibilidade. A resposta distingue letramento funcional e proficiência estrangeira, sem fundi-los em indicador ou efeito causal comum.",
+    "cardSha256": "997743d4870e99cb0bd87aeacaaa726e063f4bb79976fcf7b1f87433206903eb",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ],
+      "article-48bdcebcffc6": [
+        7
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.192Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-51",
+    "status": "approved",
+    "reason": "CHIP2eInteract8: trajetória ficcional e janela observacional de dez minutos exigem inferências distintas. A síntese não usa uma frente para completar empiricamente a outra.",
+    "cardSha256": "760622ccaf8efabe7ff18af13d68a3897f7ea56f304699edb97c82bec96c00a6",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ],
+      "article-48bdcebcffc6": [
+        8
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.192Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-52",
+    "status": "approved",
+    "reason": "CHIP2eInteract3,8: crítica de transferibilidade e corpus contextual motivam investigação, mas não equivalem amostras de aplicativos e jogos. A resposta preserva restrições e ausência de validação causal da lente.",
+    "cardSha256": "fbd73e3518a766b34f312dba3618cd9064bb3fee00adee39bdd496f0bb0d0197",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ],
+      "article-48bdcebcffc6": [
+        3,
+        8
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.192Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-53",
+    "status": "approved",
+    "reason": "CHIP1eOperationalizing6: automação indiferente contrasta com seleção consciente de padrões preventivos. A síntese não toma ausência de intenção maliciosa ou rótulo ético como efeito comprovado.",
+    "cardSha256": "4346220c3b043608e39820c3bf4e37cd96f63773d9476687d82d6c7a3a7b6a6c",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1
+      ],
+      "article-39adb0cfa84e": [
+        6
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.192Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-54",
+    "status": "approved",
+    "reason": "CHIP2eOperationalizing12: grinding/pagamento ficcionais e Watch For de ferramentas essenciais permitem tensão econômica. A resposta preserva possibilidade de monetização opcional e não equipara gênero/mecânica ou eficácia.",
+    "cardSha256": "4e660811eb9e50355391ad824f35508c91e464b325a46ab9684be0db899bcfe5",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ],
+      "article-39adb0cfa84e": [
+        12
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.192Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-55",
+    "status": "approved",
+    "reason": "CHIP2eOperationalizing14,16: hipótese de transferibilidade e diferenças de perfis/ausência de validação sustentam avaliação contextual. A resposta não afirma que RPs falhem no Sul Global.",
+    "cardSha256": "3acbcfd34c422bb0c6bc7c76f86901f64f3ee28fbd0ed46ca5111064bf176a0f",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ],
+      "article-39adb0cfa84e": [
+        14,
+        16
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.192Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-56",
+    "status": "approved",
+    "reason": "CHIP1–2eHCI15: contexto social e variantes de gameplay são dimensões relacionadas, não equivalentes. A síntese preserva níveis como base metodológica e não declara solução geopolítica pelo framework.",
+    "cardSha256": "58d92138f56b3a3daad1368d8a6ab0c2edaecb2c3fe3947453b73731dc162333",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        1,
+        2
+      ],
+      "article-e13c3cb65c28": [
+        15
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.192Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-57",
+    "status": "approved",
+    "reason": "CHIP2eHCI11: loops ficcionais contrastam com salvamento, parada e feedback de Open Gate. A resposta não promete eliminar exploração por adicionar salvamento nem supõe teste no cenário.",
+    "cardSha256": "442f22e1f6b927a1ea6fea8d7fadf6d579fe2159c75132395917ad670e374ac8",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ],
+      "article-e13c3cb65c28": [
+        11
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.192Z"
+  },
+  {
+    "cardId": "article-eca18e5843e2-58",
+    "status": "approved",
+    "reason": "CHIP3,HCI14–15eSbD35: cocriação, perspectiva de nove especialistas, recorrência e participação aberta sustentam a síntese. Consulta, parceria equitativa, consenso e efeito longitudinal permanecem distintos.",
+    "cardSha256": "45db67f095955228798f4cf457751669b4545709e538a1fdcb5232ebd20f9300",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8",
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "academic_reviewer:/root/reviewer",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": {
+      "article-eca18e5843e2": [
+        3
+      ],
+      "article-e13c3cb65c28": [
+        14,
+        15
+      ],
+      "article-d4b0c4f9d75f": [
+        35
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:17.192Z"
+  }
+]

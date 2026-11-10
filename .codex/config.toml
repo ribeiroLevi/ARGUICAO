@@ -1,0 +1,4 @@
+﻿[agents]
+enabled = true
+# Three subagents plus the orchestrator: four active agents total.
+max_concurrent_threads_per_session = 3

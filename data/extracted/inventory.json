@@ -1,0 +1,79 @@
+[
+  {
+    "articleId": "article-94e7a19d8878",
+    "file": "Art. 48 - Oficina.pdf",
+    "sha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+    "status": "ok",
+    "outputFile": "article-94e7a19d8878.json",
+    "pageCount": 5,
+    "characterCount": 8925,
+    "reused": true
+  },
+  {
+    "articleId": "article-eca18e5843e2",
+    "file": "chiplaycompanion25-21.pdf",
+    "sha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+    "status": "ok",
+    "outputFile": "article-eca18e5843e2.json",
+    "pageCount": 5,
+    "characterCount": 26385,
+    "reused": true
+  },
+  {
+    "articleId": "article-d0d500126a80",
+    "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+    "sha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+    "status": "ok",
+    "outputFile": "article-d0d500126a80.json",
+    "pageCount": 15,
+    "characterCount": 49488,
+    "reused": true
+  },
+  {
+    "articleId": "article-e13c3cb65c28",
+    "file": "HCI_IN_GAMES_2026.pdf",
+    "sha256": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8",
+    "title": "Beyond Dark Patterns in Games: A Radiant Framework for Sustainable Player Well-being",
+    "status": "ok",
+    "outputFile": "article-e13c3cb65c28.json",
+    "pageCount": 20,
+    "characterCount": 59943,
+    "reused": true
+  },
+  {
+    "articleId": "article-48bdcebcffc6",
+    "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+    "sha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "title": "It’s Like a Dark Patterns Paradise: New Findings from Brazilian Mobile Apps in Light of International Research",
+    "status": "ok",
+    "outputFile": "article-48bdcebcffc6.json",
+    "pageCount": 10,
+    "characterCount": 26695,
+    "reused": true
+  },
+  {
+    "articleId": "article-39adb0cfa84e",
+    "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+    "sha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "title": "Operationalizing Radiant Patterns: A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices",
+    "status": "ok",
+    "outputFile": "article-39adb0cfa84e.json",
+    "pageCount": 20,
+    "characterCount": 59230,
+    "reused": true
+  },
+  {
+    "articleId": "article-d4b0c4f9d75f",
+    "file": "SBD - Overview May19.pdf",
+    "sha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "title": "Safety by Design Overview (May 2019)",
+    "status": "ok",
+    "outputFile": "article-d4b0c4f9d75f.json",
+    "pageCount": 48,
+    "characterCount": 146761,
+    "reused": true
+  }
+]

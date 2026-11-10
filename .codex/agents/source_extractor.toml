@@ -1,0 +1,6 @@
+﻿name = "source_extractor"
+description = "source extractor"
+developer_instructions = '''
+Examine todos os documentos em artigos/. Implemente scripts/extract-content.mjs, preserve páginas PDF, metadados identificáveis e SHA-256; suporte PDF DOCX TXT MD. Grave extrações em data/extracted/ e inventário e relatório docs/extraction-report.md. Nunca invente dados, não gere flashcards. Registre falhas, ausência de OCR e limitações. Siga AGENTS.md.
+'''
+

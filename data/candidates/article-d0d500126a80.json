@@ -1,0 +1,158 @@
+[
+  {
+    "id": "article-d0d500126a80-01",
+    "articleId": "article-d0d500126a80",
+    "question": "Qual lacuna motiva From Understanding to Intervention?",
+    "answer": "Apesar dos avanços em identificar e analisar padrões enganosos, faltam [[métodos robustos e empiricamente validados para enfrentá-los]]. O position paper propõe aproximar o conhecimento ético da [[prática de design]], enfrentando a lacuna de implementação.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        1
+      ],
+      "sections": [
+        "Abstract"
+      ],
+      "evidence": [
+        "Abstract. Human-Computer Interaction (HCI) research has signifi-\ncantly advanced our understanding of Deceptive or Dark Patterns (DPs)\n\nin digital games through identification, ethical analysis, and awareness\n\ninitiatives. However, a critical gap persists in developing robust, empir-\nically validated methods to counteract these manipulative designs effec-\ntively. Prevailing business models and financial incentives often lead\n\nto the perception that proposing countermeasures is unrealistic despite\n\nwidespread concerns about fairness and exploitation. This position paper\n\ndirectly challenges this assumption, arguing that moving beyond founda-\ntional understanding towards applied, interventionist research is crucial\n\nto bridge the ‘implementation gap’ between ethical insight and design\n\npractice."
+      ]
+    }
+  },
+  {
+    "id": "article-d0d500126a80-02",
+    "articleId": "article-d0d500126a80",
+    "question": "A agenda proposta substitui as pesquisas de identificação e análise de padrões enganosos?",
+    "answer": "Não. As autoras pedem uma [[expansão sistemática]] da pesquisa em IHC e jogos: metodologias práticas e intervencionistas devem [[complementar]] o trabalho contínuo de identificar e analisar esses padrões.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        3
+      ],
+      "sections": [
+        "1 Introduction"
+      ],
+      "evidence": [
+        "Therefore, we call not for a shift but a systematic expansion of HCI games\n\nresearch to dedicate significant effort towards more interventionist and prac-\ntical methodologies, complementing the necessary ongoing work in identifying\n\nand analyzing DPs in games."
+      ]
+    }
+  },
+  {
+    "id": "article-d0d500126a80-03",
+    "articleId": "article-d0d500126a80",
+    "question": "Qual contribuição específica de IHC o artigo destaca no enfrentamento de padrões enganosos em jogos?",
+    "answer": "Produzir [[estratégias e ferramentas concretas apoiadas em evidência empírica]], testando alternativas no nível da interface e do design da interação para reduzir danos e fortalecer a experiência do jogador.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        6
+      ],
+      "sections": [
+        "3 A Call To Action: Why (and How) We Can (and Should) Go Beyond Our Current Efforts"
+      ],
+      "evidence": [
+        "Therefore, our task is not to replace the fundamental work of ethicists,\n\nlawyers, psychologists, or teachers. Instead, we call for HCI research to produce\n\nconcrete strategies and tools informed by empirical evidence upon which those\n\nother disciplines can rely. We can show what is effective at the interface level\n\nto avert harm and strengthen positive player experience. This evidence-based,\n\npragmatic, design-centered approach, with a focus on the design of the interac-\ntion itself, is HCI’s distinctive and core contribution to addressing DPs in games."
+      ]
+    }
+  },
+  {
+    "id": "article-d0d500126a80-04",
+    "articleId": "article-d0d500126a80",
+    "question": "Como a documentação colaborativa pode tornar alternativas éticas mais aplicáveis?",
+    "answer": "O artigo propõe [[projetar, prototipar e avaliar empiricamente]] exemplos em contextos específicos, compartilhando-os em canais acessíveis com evidências e justificativas claras. Isso busca aproximar conhecimento acadêmico e [[uso pela indústria]].",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        7
+      ],
+      "sections": [
+        "3.1 Collaboration to Document Positive Patterns and Share Working Examples of Ethical Game Design Elements"
+      ],
+      "evidence": [
+        "To bridge this gap and to advance initiatives like these, a collaborative\n\neffort in designing, prototyping, and empirically evaluating is necessary. This\n\neffort would involve demonstrating how ethical, “radiant” or “motivational” and\n\nother positive design ideals translate into concrete, context-specific practices\n\nthat incorporate player dignity and informed choice. For instance, Frommel &\n\nMandryk [ 10 ] found that daily quest rewards, while engaging, can negatively\n\nimpact players through fear of missing out or feeling like a chore. Based on their\n\ninsights, the community could develop, test, and document alternative reward\n\nsystems. And then, sharing these vetted examples grounded in empirical findings\nand clear design rationales to easily accessible channels, including but not limited\n\nto formal repositories. The idea is to ease the bridge between academic knowledge\n\nand general industry use."
+      ]
+    }
+  },
+  {
+    "id": "article-d0d500126a80-05",
+    "articleId": "article-d0d500126a80",
+    "question": "Quais dois tipos de artefatos de software o position paper propõe investigar?",
+    "answer": "[[Ferramentas de apoio ao jogador]], como extensões ou sobreposições que ofereçam orientação contextual sobre possíveis padrões enganosos; e [[ferramentas de apoio ao desenvolvimento]] integradas a engines, que ajudem a identificar decisões problemáticas e sugerir alternativas éticas. São propostas de pesquisa, não ferramentas cuja eficácia já foi demonstrada pelo artigo.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        9
+      ],
+      "sections": [
+        "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+      ],
+      "evidence": [
+        "we propose a focused research effort on two\n\ntypes of software artifacts. First, player-assisting tools , such as browser exten-\nsions or in-game overlays. Their main goal would be to help transfer the pattern\n\nrecognition skills games into immediate, contextual guidance. Such tools might\n\nhighlight potential DPs as they appear, explain their manipulative mechanisms\n\n(drawing on the typologies and user reactions), and perhaps even suggest alter-\nnative actions derived from a validated repository.",
+        "The second type would be developer-supported tools for major game\n\nengines, which might proactively integrate ethical considerations into the devel-\nopment process. The goal here is to support developer objectives that align\n\nwith player well-being. Plugging in the research on the root of DPs in design\n\ndevelopment and the issues designers encounter, such tools could help identify\n\npotentially problematic design decisions at development time and help design-\ners brainstorm healthier alternatives. They could check against predefined DPs\n\ndefinitions derived from the vast literature that describes them and suggest eth-\nically informed alternatives from the proposed repertoire of different proposals\n\nof positive design patterns."
+      ]
+    }
+  },
+  {
+    "id": "article-d0d500126a80-06",
+    "articleId": "article-d0d500126a80",
+    "question": "Que cuidados devem orientar as ferramentas de conscientização em tempo real para jogadores?",
+    "answer": "Devem apoiar [[agência e escolhas informadas]], sem ditar escolhas ou manipular o jogador para uma decisão considerada melhor. Precisam evitar [[fadiga de alertas, falsos positivos e intrusão]] na experiência.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        9
+      ],
+      "sections": [
+        "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+      ],
+      "evidence": [
+        "However, these tools are not supposed to\n\ntrick the user into ‘making a better choice.’ That would also hurt their autonomy.\n\nMoreover, as Xiao and Denoo discussed, advanced players or game platforms\n\nmight devise methods to circumvent or compromise the efficacy of such tools\n\n[ 40 ]. Instead, these mechanisms should aim to enhance player agency by fostering\n\nreal-time awareness, not to diminish it by dictating choices. The core intention is\n\nto transform potentially deceptive or manipulative encounters into opportunities\n\nfor informed decision-making.",
+        "There are specific concerns to consider. These tools must avoid alert fatigue\n\nfrom excessive notifications and monitor subtle DPs across gaming interfaces\n\nwithout generating high false positives. Additionally, they need to minimize\n\nbeing seen as intrusive to maintain a positive gaming experience."
+      ]
+    }
+  },
+  {
+    "id": "article-d0d500126a80-07",
+    "articleId": "article-d0d500126a80",
+    "question": "Por que ferramentas voltadas apenas a designers podem ter impacto limitado?",
+    "answer": "O artigo destaca [[restrições organizacionais]]: decisões de monetização muitas vezes vêm de acionistas, executivos e equipes de produto ou monetização, orientados por indicadores de desempenho. Designers e desenvolvedores podem ter [[pouca autonomia]] para rejeitar práticas manipulativas.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        10
+      ],
+      "sections": [
+        "3.2 Development of Software Artifacts to Foster Real-Time Awareness on Users and Developers"
+      ],
+      "evidence": [
+        "It is important to note that while designing developer-support tools is cru-\ncial for fostering ethical game design practices, it is equally essential to recognize\n\nthe structural constraints within the game industry that may limit their adop-\ntion and impact. Many monetization-related decisions are typically made not\n\nby designers or developers but by higher-level stakeholders such as sharehold-\ners, executives, and product or monetization teams. These decision-makers often\n\nhave limited or no background in game development and primarily rely on key\n\nperformance indicators (KPIs) like player retention, session length, active user\n\nbase, and revenue metrics to drive design directives. As a result, developers and\n\ndesigners may have little autonomy to reject manipulative practices, even when\n\nthey are aware of the ethical concerns surrounding DPs."
+      ]
+    }
+  },
+  {
+    "id": "article-d0d500126a80-08",
+    "articleId": "article-d0d500126a80",
+    "question": "Que avanço na avaliação de impacto o artigo defende, além de identificar a presença de padrões enganosos?",
+    "answer": "Defende métodos e medidas validados para avaliar efeitos de escolhas de design sobre [[autonomia, manipulação percebida e bem-estar psicológico]]. Questionários e métricas comportamentais devem captar, por exemplo, [[justiça, transparência e respeito percebido]], permitindo avaliar contramedidas.",
+    "source": {
+      "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+      "title": "From Understanding to Intervention: Towards an Agenda for Countering Dark Patterns in Games",
+      "pages": [
+        10,
+        11
+      ],
+      "sections": [
+        "3.3 Advancing Methods and Measures for Assessing Dark Pattern Prevalence and Player Experience, Including Well-Being"
+      ],
+      "evidence": [
+        "we advocate for expanding efforts to develop and val-\nidate robust methods and measures that can more directly and quantifiably\n\nassess the impact of specific game design elements on player autonomy,\n\nperceived manipulation, and holistic psychological well-being.",
+        "adapting specific player experience instruments, such as validated questionnaires\n\nor carefully designed behavioral metrics, that explicitly capture core tenets of\n\nethical interaction. These instruments should focus on perceived autonomy, fair-\nness, transparency, the sense of being respected (or manipulated), and critical\n\naspects of psychological well-being, drawing inspiration from well-established\n\ntheories like the Self-Determination Theory [ 33 , 34 ]."
+      ]
+    }
+  }
+]

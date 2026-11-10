@@ -1,0 +1,166 @@
+[
+  {
+    "id": "article-d4b0c4f9d75f-01",
+    "articleId": "article-d4b0c4f9d75f",
+    "question": "Qual é a ideia central de Safety by Design no documento de maio de 2019?",
+    "answer": "Incorporar [[direitos e segurança dos usuários]] ao design e à funcionalidade de produtos e serviços desde o desenvolvimento. A segurança constitui um [[terceiro pilar]], ao lado de privacidade e segurança da informação, e um imperativo de design do produto.",
+    "source": {
+      "file": "SBD - Overview May19.pdf",
+      "title": "Safety by Design Overview (May 2019)",
+      "pages": [
+        37
+      ],
+      "sections": [
+        "Summary"
+      ],
+      "evidence": [
+        "At its core, SbD is about embedding the rights\n\nof users and user safety into the design and\n\nfunctionality of products and services. It places\n\nsafety as the third pillar in the developmental\n\nprocess, sitting alongside the well-established\n\nprocesses of privacy and security. Safety is a\n\nproduct design imperative."
+      ]
+    }
+  },
+  {
+    "id": "article-d4b0c4f9d75f-02",
+    "articleId": "article-d4b0c4f9d75f",
+    "question": "Como o relatório descreve a consulta utilizada para desenvolver o framework?",
+    "answer": "Uma consulta iniciada em junho de 2018 com [[indústria e organizações relacionadas, pais e cuidadores, e jovens de 14 a 17 anos]]. O objetivo era formular princípios significativos, práticos e alcançáveis, considerando pessoas que necessitam de proteção especial.",
+    "source": {
+      "file": "SBD - Overview May19.pdf",
+      "title": "Safety by Design Overview (May 2019)",
+      "pages": [
+        12
+      ],
+      "sections": [
+        "IV. Consultation process"
+      ],
+      "evidence": [
+        "In June 2018, eSafety undertook a three-pronged\n\nconsultation process to guide the development of\n\nthe SbD Framework. This included consultation with:\n\n1. Industry and other companies, trade bodies\n\nor representative organisations that were\n\nidentified as having synergies or an interest in\n\nsafeguarding users online.\n\n2. Parents and carers.\n\n3. Young people (aged 14-17).\n\nThe purpose of the consultation was to ensure\n\nthat the SbD Principles encapsulated all aspects\n\nof user safety in a meaningful, achievable and\n\npractical way. We felt it was imperative that the\n\nPrinciples reflected the needs and expectations\n\nof those in need of special protections, such as\n\nchildren and young people and those in vulnerable\n\ncircumstances, as well as parents and carers."
+      ]
+    }
+  },
+  {
+    "id": "article-d4b0c4f9d75f-03",
+    "articleId": "article-d4b0c4f9d75f",
+    "question": "Qual foi a participação de pais e jovens na consulta descrita?",
+    "answer": "O relatório registra pesquisa com [[3.520 pais e responsáveis]] por crianças de 2 a 17 anos, em julho e agosto de 2018. Depois, houve um [[fórum online estruturado de cinco dias com 123 jovens]], de 14 a 17 anos.",
+    "source": {
+      "file": "SBD - Overview May19.pdf",
+      "title": "Safety by Design Overview (May 2019)",
+      "pages": [
+        12,
+        13
+      ],
+      "sections": [
+        "IV. Consultation process",
+        "Parents and guardians",
+        "Young people"
+      ],
+      "evidence": [
+        "In July and August 2018, eSafety conducted a\n\nnationally representative survey (2018 Parent\n\nSurvey) of 3,520 parents and guardians of children\n\naged 2 to 17 using multiple online panels (n=3,044)\n\nand computer assisted telephone interviewing\n\n(n=476).",
+        "Following the findings of the 2018 Parent Survey,\n\neSafety held a five-day, structured online\n\nforum with 123 young people aged 14 to 17."
+      ]
+    }
+  },
+  {
+    "id": "article-d4b0c4f9d75f-04",
+    "articleId": "article-d4b0c4f9d75f",
+    "question": "Quais são os três princípios gerais de Safety by Design no relatório?",
+    "answer": "[[Responsabilidades do prestador do serviço]], [[empoderamento e autonomia do usuário]] e [[transparência e prestação de contas]]. Eles organizam orientações para considerar segurança no design, desenvolvimento e disponibilização dos serviços.",
+    "source": {
+      "file": "SBD - Overview May19.pdf",
+      "title": "Safety by Design Overview (May 2019)",
+      "pages": [
+        22,
+        30,
+        34,
+        21
+      ],
+      "sections": [
+        "V. Safety by Design Principles"
+      ],
+      "evidence": [
+        "Principle 1: Service provider\n\nresponsibilities",
+        "Principle 2: User empowerment and\n\nautonomy",
+        "Principle 3: Transparency and\n\naccountability",
+        "The principles set out the measures that eSafety\n\nencourages and envisages online and digital\n\nservices will take to ensure that the safety of\n\nusers is suitably addressed and considered during\n\nthe design, development and deployment of their\n\nservice. While voluntary,"
+      ]
+    }
+  },
+  {
+    "id": "article-d4b0c4f9d75f-05",
+    "articleId": "article-d4b0c4f9d75f",
+    "question": "Que responsabilidade do prestador o primeiro princípio enfatiza?",
+    "answer": "Embora a segurança seja compartilhada, o ônus [[não deve recair apenas no usuário final]]. Nenhum serviço garante segurança completa, mas os danos conhecidos e previstos devem ser [[avaliados no design e na oferta do serviço]].",
+    "source": {
+      "file": "SBD - Overview May19.pdf",
+      "title": "Safety by Design Overview (May 2019)",
+      "pages": [
+        22
+      ],
+      "sections": [
+        "Principle 1: Service provider responsibilities"
+      ],
+      "evidence": [
+        "This principle is based on the central tenet that\n\nwhile user safety is a shared responsibility, the\n\nburden of safety should never fall solely upon\n\nthe end user. It acknowledges that, even though\n\nno platform or service can ensure the complete\n\nsafety of individuals, every attempt should be\n\nmade to ensure that known and anticipated harms\n\nhave been adequately assessed in the design and\n\nprovision of a service."
+      ]
+    }
+  },
+  {
+    "id": "article-d4b0c4f9d75f-06",
+    "articleId": "article-d4b0c4f9d75f",
+    "question": "Como o princípio 2 relaciona configurações padrão e autonomia?",
+    "answer": "O relatório defende funções que permitam ao usuário controlar sua experiência e recomenda [[configurações de privacidade e segurança no nível mais alto por padrão]], já no cadastro. Ressalta que muitos usuários mantêm as configurações iniciais.",
+    "source": {
+      "file": "SBD - Overview May19.pdf",
+      "title": "Safety by Design Overview (May 2019)",
+      "pages": [
+        30
+      ],
+      "sections": [
+        "Principle 2: User empowerment and autonomy",
+        "Principle 2.1"
+      ],
+      "evidence": [
+        "Features and functionality that allow users to\n\nfully govern and regulate their own experiences —\n\nparticularly at times when their safety is being, or is\n\nat risk of being, compromised is recommended.\n\nPrinciple 2.1: Provide technical measures and tools\n\nthat allow users to manage their own safety, and\n\nthat are set to the most secure privacy and safety\n\nlevels by default\n\nIn a shared responsibility framework, for users to\n\nhave control over their own safety they need to be\n\nprovided with the right tools — and feel empowered\n\nto use these tools. In a rights-based framework\n\nsuch as the SbD Framework, individuals should\n\nbe provided with opportunities to revise their\n\npreferences and choices as they see fit. They should\n\nalso have control over their personal information\n\nand how it is portrayed.\n\nOur consultation process with young people,\n\nparents and carers highlighted a consumer\n\nexpectation that privacy and safety settings should\n\nbe placed at the highest levels by default — that\n\nis, at sign-up or registration. This is particularly\n\nimportant when considering that the vast majority\n\nof users keep privacy settings at the level they were\n\nconfigured at on registration"
+      ]
+    }
+  },
+  {
+    "id": "article-d4b0c4f9d75f-07",
+    "articleId": "article-d4b0c4f9d75f",
+    "question": "Que retorno aos usuários o subprincípio 2.4 recomenda no tratamento de denúncias?",
+    "answer": "[[Funções de suporte e ciclos de feedback]] que informem o estado das denúncias e os resultados das medidas adotadas, com [[oportunidade de recurso]]. A resposta deve também orientar para outras fontes de apoio, reconhecendo o bem-estar e as vulnerabilidades de quem denuncia.",
+    "source": {
+      "file": "SBD - Overview May19.pdf",
+      "title": "Safety by Design Overview (May 2019)",
+      "pages": [
+        33
+      ],
+      "sections": [
+        "Principle 2.4"
+      ],
+      "evidence": [
+        "Principle 2.4: Provide built-in support functions and\n\nfeedback loops for users that inform users on the\n\nstatus of their reports, what outcomes have been\n\ntaken and offer an opportunity for appeal\n\nA holistic response to safety concerns is needed:\n\none that not only deals with the issue or problem at\n\nhand, but also guides the user to additional sources\n\nof support or help. This approach recognises that\n\nuser wellbeing can be just as important as user\n\nsafety. It also respects the particular vulnerabilities\n\nthat might be experienced by users making reports\n\nor complaints, especially when the reporting leaves\n\nthem feeling exposed or visible."
+      ]
+    }
+  },
+  {
+    "id": "article-d4b0c4f9d75f-08",
+    "articleId": "article-d4b0c4f9d75f",
+    "question": "Qual cautela o relatório estabelece sobre a adoção dos princípios e as notas de boas práticas?",
+    "answer": "A adoção dos princípios é [[voluntária]]. As notas de boas práticas são [[ilustrações orientadoras]]: o relatório afirma que não há evidência robusta sobre sua efetividade e seu impacto, portanto não devem ser tratadas como intervenções de eficácia comprovada.",
+    "source": {
+      "file": "SBD - Overview May19.pdf",
+      "title": "Safety by Design Overview (May 2019)",
+      "pages": [
+        21
+      ],
+      "sections": [
+        "V. Safety by Design Principles"
+      ],
+      "evidence": [
+        "service. While voluntary, adopting the principles will\n\nset industries apart in the marketplace, allowing\n\ncompanies to show global leadership in developing\n\nresponsible, value and safety-centred online\n\nproducts and services.",
+        "Good practice notes have also been provided\n\nas part of the Principles to guide industry in\n\nunderstanding and implementing the principles\n\nand highlighting that the principles are achievable,\n\nrealistic and actionable. These were highlighted\n\nduring the consultation process as effective,\n\nalthough there is no robust evidence about the\n\neffectiveness and impact of these practices. As\n\nsuch, the good practice notes should be viewed as\n\nillustrations only, and act as a guide."
+      ]
+    }
+  }
+]

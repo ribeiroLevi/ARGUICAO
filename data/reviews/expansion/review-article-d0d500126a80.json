@@ -1,0 +1,1116 @@
+[
+  {
+    "cardId": "article-d0d500126a80-09",
+    "status": "approved",
+    "reason": "A página 2 reconhece pressões econômicas e contesta o encerramento prematuro da investigação de contramedidas incorporáveis ao fluxo. A resposta preserva o caráter programático e não promete receita.",
+    "cardSha256": "dc4657f763c467d656c4c14e44d278887123c72ff9d79fec7731772a1f87d703",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          2
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.077Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-10",
+    "status": "approved",
+    "reason": "A página 2 relata a literatura sobre Bélgica com conformidade, recursos/escala de fiscalização e evasão técnica. A resposta corretamente o delimita como exemplo contextual, sem alegar situação jurídica atual ou inutilidade de toda regulação.",
+    "cardSha256": "69dce9dbde81190ad3cf75e405ce417507905e2af0c5c2a0d5d06143a81f1c42",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          2
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-11",
+    "status": "approved",
+    "reason": "A página 4 contém 45% dos padrões conhecidos e a evolução manual/automatizada. A qualificação como resultado da literatura citada impede transformá-lo em acurácia universal ou contemporânea de qualquer detector.",
+    "cardSha256": "c30f0fb73671b1c5270b50530afa3997df5c2b2583691006235ae49ee34a9d34",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          4
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-12",
+    "status": "approved",
+    "reason": "DPAF, 68 tipos e acréscimo de 20 sobre Gray constam na página 3; a continuidade na 4 delimita a taxonomia/detecção. A conclusão de que catalogação não demonstra contramedidas acompanha a lacuna argumentada no artigo.",
+    "cardSha256": "dcd685961c27e50c5ea151fff4d1a37d97e433c2004210912d47cad708ccac8d",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          3,
+          4
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-13",
+    "status": "approved",
+    "reason": "A página 3 relaciona plataformas tradicionais/AR/VR e vieses cognitivos à suscetibilidade. A resposta descreve essa revisão contextual e não atribui ao position paper um experimento próprio.",
+    "cardSha256": "e0a5055d1f9cce2e6895f83b324c11f71a01f958f40fd86563c4b2b7c3110112",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          3
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-14",
+    "status": "approved",
+    "reason": "As iniciativas curriculares e a responsabilidade profissional estão na página 4; a limitação de poder decisório e incentivos está na 10. A resposta articula os dois trechos sem apresentar educação como garantia organizacional.",
+    "cardSha256": "5f2c098df607546a70f52f4df8d71ab67081a2e382988932a9dc574822eadd09",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          4,
+          10
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-15",
+    "status": "approved",
+    "reason": "A página 4 contrapõe ferramentas estáticas a jogos sérios/persuasivos imersivos que espelham manipulação. A ressalva sobre resistência duradoura mantém a diferença entre promessa educacional e eficácia comprovada.",
+    "cardSha256": "6786c27e7321c5e4eb36bca49c7abd978663bcb136bcffa46313609a3acda8dd",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          4
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-16",
+    "status": "approved",
+    "reason": "A página 4 afirma que até usuários conscientes podem sentir-se incapazes de se opor. A resposta distingue reconhecimento e ação e não converte a insuficiência da educação isolada em dispensa da educação.",
+    "cardSha256": "372fe7fb19cf92d78bd95720637a1dc6b894377d5d45a2ce3323ed285a112e84",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          4
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-17",
+    "status": "approved",
+    "reason": "A página 5 apresenta limites de execução ética, adaptação regulatória/jurisdições e transformação de achados de saúde em padrões exigíveis. A integração é corretamente formulada como direção de ação, não pacote testado.",
+    "cardSha256": "c1c0d8db0badc4d09ab6caf7b5965a849709ec571f9d478d46a64d571bc45d6a",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          5
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-18",
+    "status": "approved",
+    "reason": "A enumeração de etnografia, playtesting, experimentos e experiência do jogador está na página 5, com autonomia/consentimento na 6. A resposta não afirma que esses estudos tenham sido executados pelo próprio position paper.",
+    "cardSha256": "23742810e06e3ee9c3a7cf7d5d7dff6533262797ca7c577da7336e0b5e81e048",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          5,
+          6
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-19",
+    "status": "approved",
+    "reason": "Segunda rodada: “grinding que explore o jogador” traduz inequivocamente exploitative grinding da página física 6. A resposta conserva esforço/recompensa, escolha informada versus urgência e a ausência de teste de eficácia; ID e evidência integral permaneceram idênticos.",
+    "cardSha256": "33c717e6bd479a4e69422cd910c3062c33b250184fa78e6cbf5ed1461e8459a5",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          6
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T11:13:41.050Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-20",
+    "status": "approved",
+    "reason": "A página 6 rejeita eliminar monetização/engajamento e propõe sustentabilidade, prazer, motivação intrínseca, controle de tempo/dados e divulgação de monetização. A resposta não transforma essa proposta em garantia comercial.",
+    "cardSha256": "a8003c43845e176a7970424caf7a2afbf4f7a23e7be685a6a3a56a81b03a5bb7",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          6
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-21",
+    "status": "approved",
+    "reason": "Lealdade e atitudes da comunidade como potenciais ativos aparecem em modo hipotético na página 6. A resposta conserva esse modo e explicita a inexistência de demonstração de retorno comercial neste texto.",
+    "cardSha256": "09b05cf712feab93dd219b7a09009e27b1cdaa9624949c81eeb8f625993fbe38",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          6
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-22",
+    "status": "approved",
+    "reason": "A página 7 exige entendimento compartilhado, léxico e colaboração contínua antes de coleções cooperativas. A resposta distingue processo comunitário de mera armazenagem e mantém o foco na tradução pesquisa/prática.",
+    "cardSha256": "30f21ff747f4c018f1b85443074c725f9e2af99c9311282c27c82b675da8be17",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-23",
+    "status": "approved",
+    "reason": "A página 7 sugere métodos padronizados/flexíveis, bem-estar e engajamento, e a System Darkness Scale como ponto inicial adaptável com métodos mistos. A resposta não inventa protocolo final ou validação de adaptação.",
+    "cardSha256": "1cf85379b8c6b2e9f84f405e92334ca2c328d7bfb25b32a8456861f364cd8934",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-24",
+    "status": "approved",
+    "reason": "As páginas 7–8 distinguem repositório dinâmico como meta de longo prazo e colaboração/disseminação como foco imediato, incluindo documentação além do layout. A resposta preserva essa prioridade e não atribui eficácia à infraestrutura.",
+    "cardSha256": "c4a1b3c2d39e85bd103f8bb7008a3db642b5af0b67bab0ec936bfe00f5e0d575",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          7,
+          8
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-25",
+    "status": "approved",
+    "reason": "A página 8 explicita revisão por pares, curadoria comunitária incluindo desenvolvedores e versionamento para qualidade/integridade/evolução. A resposta os trata como requisitos de uma proposta, sem governança já avaliada.",
+    "cardSha256": "a5a187df4ecacfb9b936efc0b7e5ed7c57b1a8f0e7b093a07bcab1f3a2c0ab86",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          8
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-26",
+    "status": "approved",
+    "reason": "Coautoria, reconhecimento e comunidade de prática constam na página 8 como incentivos possíveis à participação inclusiva. A resposta não afirma comparação experimental de incentivos nem superação de desigualdades.",
+    "cardSha256": "042187527134696e8a7d2176d71005aae0191c49d6c9e20e37aeaa7eda6eddc4",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          8
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-27",
+    "status": "approved",
+    "reason": "A página 8 lista consórcios, universidades e fundações e ressalta engajamento e propriedade compartilhada continuados. A resposta representa sustentabilidade como tarefa permanente, sem pressupor suficiência de financiamento inicial.",
+    "cardSha256": "b4c24a23a0b8969a5a7339586fd09035047ea2c9169ea18248efb1864af7f88b",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          8
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-28",
+    "status": "approved",
+    "reason": "A página 8 descreve especialização por gênero, população e questão ética, coordenada em plataformas compartilhadas. A resposta conserva contexto e caráter potencial da descentralização, sem universalizar exemplos.",
+    "cardSha256": "8668ae68768d7c7f2f680891fd928db40e546711a8e21166cd67352cb65c28bb",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          8
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-29",
+    "status": "approved",
+    "reason": "A página 7 remete a Frommel/Mandryk para FOMO/sensação de tarefa e propõe desenvolver/testar alternativas. A resposta distingue achado citado e investigação futura e não condena toda recompensa diária.",
+    "cardSha256": "d094e1dbcd9ac27f730c1a080b3385edae1b6f777780261d41a150c4af7d4177",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.078Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-30",
+    "status": "approved",
+    "reason": "As páginas 8–10 fundamentam extensões/overlays, identificação contextual, explicação e possível ação alternativa, com testes e agência. A resposta não toma esse encadeamento proposto como detector pronto, preciso ou eficaz.",
+    "cardSha256": "a64a97a54ef04bc1b21f30c36c3c12c6d9f1a40051dcb6d0c4dd1482f9b01eae",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-31",
+    "status": "approved",
+    "reason": "A página 9 proíbe enganar o usuário para uma escolha considerada melhor e orienta apoio à agência sem ditar decisões. A resposta preserva o caráter normativo e não garante autonomia por mero aviso.",
+    "cardSha256": "7c57ac74e379808101a50215996bb204a7164ed92ef8d57231fe255763b096f4",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          9
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-32",
+    "status": "approved",
+    "reason": "A página 9 admite que jogadores avançados/plataformas contornem ou comprometam ferramentas; a 10 exige testes rigorosos. A resposta não torna a evasão inevitável nem transforma demonstração técnica em solução definitiva.",
+    "cardSha256": "71dea6598c5eb290cf28969090753aa01c4527a0086683800ae0e7d59786fb54",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          9,
+          10
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-33",
+    "status": "approved",
+    "reason": "A página 9 registra propostas práticas/contextuais, risco de notificações triviais e rejeição por criatividade, restrição ou finanças. A resposta descreve obstáculos propostos e não resultados de aceitação de um plugin implementado.",
+    "cardSha256": "96d5229230e9720e6955146e5476217095f8ac497f06ce0abbe2b1be5ba501e2",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          9
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-34",
+    "status": "approved",
+    "reason": "A página 10 distingue incorporação cultural de princípios éticos de uma simples estratégia de eficácia da ferramenta. A resposta mantém requisitos empíricos e organizacionais sem equiparar instalação a transformação cultural.",
+    "cardSha256": "80512c51dda23ae14edcb53828ed617077b55e9c97b1dbcd13c593fba354bbff",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          10
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-35",
+    "status": "approved",
+    "reason": "Surveys/entrevistas com mobile/live-ops e distribuição de conhecimento, agência e pressões estão explicitamente propostos na página 10. A resposta não os apresenta como pesquisa já realizada.",
+    "cardSha256": "6887619c000fb456c85b0d50b985353e6dd84630caf60ae384f5595a3a737d86",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          10
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-36",
+    "status": "approved",
+    "reason": "KPIs comerciais estão na página 10 e instrumentos de autonomia/justiça/transparência/bem-estar na 11. O contraste é analítico e corretamente não presume equivalência nem incompatibilidade necessária entre os objetivos.",
+    "cardSha256": "e439489a4d7b66c595d0f0476ab2005c56895d06b338f8dba7c6ed3342482b8f",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          10,
+          11
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-37",
+    "status": "approved",
+    "reason": "A página 11 exige avaliar experiência positiva/prazer genuíno além da ausência de DPs. A resposta amplia a pergunta empírica sem afirmar que experiência positiva dispense investigar riscos.",
+    "cardSha256": "421dc1fa6b358a8914e7ec90dd67c6ece74914a067e0adf83e396156362a68f9",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          11
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-38",
+    "status": "approved",
+    "reason": "A página 11 propõe telemetria/análise comportamental integrada a dados qualitativos e instrumentos. A resposta preserva linguagem propositiva e não inventa sinal diagnóstico validado de manipulação.",
+    "cardSha256": "ed5ddbb485bd92532e70897b17bf4215c333e883aa177b26fb2f6d0fd699f788",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          11
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-39",
+    "status": "approved",
+    "reason": "A página 11 exige padronização adaptável a gênero/monetização e combinação de avaliação especializada com automação eticamente apropriada. A resposta não anuncia protocolo universal nem substituição do contexto.",
+    "cardSha256": "0a23c005d9451c5c3ad7ccbac7cb1f7d216428c65a6d2d3c09a2d1181d020b1d",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          11
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-40",
+    "status": "approved",
+    "reason": "O exemplo X/Y/Z na página 11 é ilustrativo de recomendação específica respaldada por medida. A resposta mantém os placeholders como argumento metodológico, sem inventar intervenção ou resultado.",
+    "cardSha256": "3269cc590a6a3d3a4b0e93d37593398590474b93cff25d6d0549308cd7f08c67",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          11
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-41",
+    "status": "approved",
+    "reason": "As quatro frentes da página 12 são reproduzidas com sentido correto e articuladas como perguntas abertas de teoria/aplicação, sem prescrição única para todos os jogos.",
+    "cardSha256": "cae5ce129a88836f352fe86d1e14f39aa5c6f86fb54405233fa6efb1d4defc06",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          12
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-42",
+    "status": "approved",
+    "reason": "As páginas 11–12 rejeitam solução universal e pedem profundidade qualitativa, rigor quantitativo e múltiplos papéis/países, explicitamente Sul Global. A resposta não atribui ao artigo um estudo intercultural próprio.",
+    "cardSha256": "4c650f2fad34bc58e10600cdf9ec6348fd19bbe5f58c7c88840ecf7e3a24aa9c",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          11,
+          12
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-43",
+    "status": "approved",
+    "reason": "As páginas 7–8 exigem princípios éticos, construtos psicológicos e validação além de layout/sequência, com revisão/curadoria/versionamento. A resposta distingue documentação convincente de comprovação de efeito.",
+    "cardSha256": "bb277b60483be584f0c23aa120a500eb595844efeef3e7616a6d8d50acbeb015",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          7,
+          8
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-44",
+    "status": "approved",
+    "reason": "Agenda 9–10 propõe ferramentas e cultura; SbD 22/27 atribui responsabilidade ao serviço e exemplifica avaliação antes do lançamento. O nexo organizacional é explícito como análise, sem supor avaliação conjunta ou eficácia histórica em qualquer jogo.",
+    "cardSha256": "905cac3cd2319c2cff319b7d71846abd28a6159330e45e306ca5945a564cb13d",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          9,
+          10
+        ]
+      },
+      {
+        "articleId": "article-d4b0c4f9d75f",
+        "pages": [
+          22,
+          27
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-45",
+    "status": "approved",
+    "reason": "SbD 36 distingue escala de relatos de eficácia de regras e pede avaliação anual/métricas significativas; Agenda 11 pede indicadores éticos/psicológicos. A resposta compara objetivos sem equiparar denúncia, retenção e benefício.",
+    "cardSha256": "11801b54d5b5f8b7c644bd27f766fe956de1c3194bacc8ebabf3b0348869a114",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          11
+        ]
+      },
+      {
+        "articleId": "article-d4b0c4f9d75f",
+        "pages": [
+          36
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-46",
+    "status": "approved",
+    "reason": "SbD 35–36 contém engajamento aberto/compartilhamento tecnológico e Agenda 8 fundamentos, curadoria/versionamento e sustentação comunitária. A síntese diferencia colaboração, consulta e validação empírica, sem efeito já demonstrado.",
+    "cardSha256": "c23583c6b131bc5258a939fcf0891ede9f0f7400eeefe64faf4ee84860dfe5c7",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          8
+        ]
+      },
+      {
+        "articleId": "article-d4b0c4f9d75f",
+        "pages": [
+          35,
+          36
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-47",
+    "status": "approved",
+    "reason": "O inciso XX local na página 4 lista funcionalidades de permanência prolongada; Agenda 6 discute prazer, agência e transparência. A resposta conserva o nexo como comparação de critérios/experiência, sem vigência ou diagnóstico causal pela presença da mecânica.",
+    "cardSha256": "c9ed85a1a44a1b61858386fc72288cf62b5a2996d46e6e1e487472e33a61db1b",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          6
+        ]
+      },
+      {
+        "articleId": "article-94e7a19d8878",
+        "pages": [
+          4
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.079Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-48",
+    "status": "approved",
+    "reason": "Segunda rodada: a pergunta agora trata da indicação etária exibida e informada clara/acessivelmente nos termos dos fornecedores que hospedam conteúdo de terceiros, preservando o alcance específico do §12 local (p4) e §§5–6 (p2). A comparação com agência contextual da Agenda p9 não amplia a obrigação aos termos inteiros, não afirma vigência nem eficácia.",
+    "cardSha256": "21635024506a3cff3d04344a28b30c6ea38e727621f50691f598fb110196139d",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 2,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          9
+        ]
+      },
+      {
+        "articleId": "article-94e7a19d8878",
+        "pages": [
+          2,
+          4
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T11:13:41.052Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-49",
+    "status": "approved",
+    "reason": "Art.48 local 4–5 contém controle editorial/parental/moderação e remissão aos Guias; Agenda 10–11 exige medir impactos/eficácia. A resposta distingue classificação de evidência psicológica e não completa o conteúdo dos Guias nem a vigência.",
+    "cardSha256": "3dc1fa690547111d90cd2a622958e284fcfcd53754acd2580d0655175e74febf",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          10,
+          11
+        ]
+      },
+      {
+        "articleId": "article-94e7a19d8878",
+        "pages": [
+          4,
+          5
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.080Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-50",
+    "status": "approved",
+    "reason": "Agenda 4/9 diferencia consciência e agência; CHIP 1 apresenta vulnerabilidades sistêmicas/preexistentes e letramento. A relação é explicitamente analítica, não atribui incapacidade a todo jogador nem usa ficção como teste.",
+    "cardSha256": "0e4b68b45f94ec8e6000cff3f932f71073a07fe84855b9b3f66f82fef41fad50",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          4,
+          9
+        ]
+      },
+      {
+        "articleId": "article-eca18e5843e2",
+        "pages": [
+          1
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.080Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-51",
+    "status": "approved",
+    "reason": "Agenda 10 trata de KPIs/poder e CHIP 1–2 de automação indiferente e dashboard ficcional. A resposta desloca a pergunta para governança sem afirmar sistema observado ou mecanismo causal universal entre empresas.",
+    "cardSha256": "051650a150e05407b221b54271f4906fb1d29a771eef38197ec9926576bfe0f1",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          10
+        ]
+      },
+      {
+        "articleId": "article-eca18e5843e2",
+        "pages": [
+          1,
+          2
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.080Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-52",
+    "status": "approved",
+    "reason": "Agenda 12 inclui Sul Global e colaboração; CHIP 3 exige parceria equitativa e cocriação além de fontes de dados. A resposta distingue amostragem e poder e conserva ambos como chamadas à ação.",
+    "cardSha256": "b45f48cd1ade0ec94e67fe27efa1adf653797802a2c5d958bd4794f3a93d0b2f",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          12
+        ]
+      },
+      {
+        "articleId": "article-eca18e5843e2",
+        "pages": [
+          3
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.080Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-53",
+    "status": "approved",
+    "reason": "Interact 4/8 documenta corpus, tarefas, dez minutos e emulador/limites; Agenda 10–11 demanda impacto. A síntese não generaliza cem aplicativos nem transforma classificação em medida de bem-estar/intervenção.",
+    "cardSha256": "c87d4004008ccd30d7dedb262d0a0d1fc78730be907980861c19012b2f909dd4",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          10,
+          11
+        ]
+      },
+      {
+        "articleId": "article-48bdcebcffc6",
+        "pages": [
+          4,
+          8
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.080Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-54",
+    "status": "approved",
+    "reason": "Interact 6 descreve Untranslation e página externa nos termos; Agenda 4/9 problematiza consciência e agência. A comparação não presume consentimento efetivo, efeito causal de língua ou solução já validada.",
+    "cardSha256": "87385823ad6802f9aeff5bd057b1ed94bb79f0bb17ee48e2bab346624ad675fc",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          4,
+          9
+        ]
+      },
+      {
+        "articleId": "article-48bdcebcffc6",
+        "pages": [
+          6
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.080Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-55",
+    "status": "approved",
+    "reason": "Agenda 7–8 requer documentação e validação; OP 9 fornece campos e OP 16 reconhece falta de avaliações/viabilidade. A resposta trata o template como hipótese explicitável/testável, sem anunciar conclusão da agenda.",
+    "cardSha256": "53694f31ae3fec16f54948a0d5caad795d6e0938f4bbd5758e0e2b9cf4218d20",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          7,
+          8
+        ]
+      },
+      {
+        "articleId": "article-39adb0cfa84e",
+        "pages": [
+          9,
+          16
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.080Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-56",
+    "status": "approved",
+    "reason": "OP 7/15 diferencia preservação de necessidades, avaliação PENS/IMI e atribuição do efeito; Agenda 11 solicita construtos/medidas. A resposta separa satisfação/motivação, frustração e causalidade como pergunta analítica, sem protocolo definitivo.",
+    "cardSha256": "7c557828945cb07f782c8e54729bcef0328b3b067898ff6767629ded801280c5",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-39adb0cfa84e": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          11
+        ]
+      },
+      {
+        "articleId": "article-39adb0cfa84e",
+        "pages": [
+          7,
+          15
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.080Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-57",
+    "status": "approved",
+    "reason": "Agenda 7–8 exige léxico/curadoria e HCI 15–16 diferencia recorrência/verificação de efeito longitudinal. A resposta conecta infraestrutura e processo, preservando requisitos ainda futuros.",
+    "cardSha256": "4ffb91afa8d4bc676685bc4da5d3ab8a8bac1b0031ecfc9b5a9850d4e641177f",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          7,
+          8
+        ]
+      },
+      {
+        "articleId": "article-e13c3cb65c28",
+        "pages": [
+          15,
+          16
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.080Z"
+  },
+  {
+    "cardId": "article-d0d500126a80-58",
+    "status": "approved",
+    "reason": "Agenda 11–12 requer comparação com adaptação; HCI 11/15–16 explicita invariantes/variantes e níveis metodológicos não universais na experiência. A síntese não converte arquitetura em eficácia ou instrumento de medida validado.",
+    "cardSha256": "0d44bfb7c3336c9bbd9e381f29cdce8cdf396f9d721e0727d19dd9148bad06c2",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "review_agenda_hci",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      {
+        "articleId": "article-d0d500126a80",
+        "pages": [
+          11,
+          12
+        ]
+      },
+      {
+        "articleId": "article-e13c3cb65c28",
+        "pages": [
+          11,
+          15,
+          16
+        ]
+      }
+    ],
+    "reviewedAt": "2026-11-10T03:11:56.080Z"
+  }
+]

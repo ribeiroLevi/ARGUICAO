@@ -1,0 +1,912 @@
+[
+  {
+    "cardId": "article-39adb0cfa84e-09",
+    "status": "approved",
+    "reason": "Página 2 distingue princípios conceituais de implementações detalhadas e avaliadas; daily quests, compras e os dois tipos de objetivo constam do texto. Não afirma que o template resolveu a lacuna empírica.",
+    "cardSha256": "d89bc5d3d6e495e2ff61de9bdba2fdeca3456dd4264e675617342526fbe0698f",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      2
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.364Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-10",
+    "status": "approved",
+    "reason": "Páginas 3–4 sustentam custo baixo, escala, vieses, captura e reprodução de estratégias de títulos comerciais. A resposta atribui a explicação ao artigo, sem criar uma medição causal própria.",
+    "cardSha256": "391d80ea6ee55ecbeeae5871a1266863bc5b36a2e3b69a8844e4100d2982ee7d",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      3,
+      4
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.365Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-11",
+    "status": "approved",
+    "reason": "Páginas 4 e14 distinguem letramento, percepção de frequência/UI e familiaridade sem compreensão das consequências. A resposta preserva variação de perfis e não equipara reconhecer a compreender.",
+    "cardSha256": "a408ea1577fd44678cb29b9d13c7dc3c11e21b36bc34aa932fee64ad3c3a69dd",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4,
+      14
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.365Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-12",
+    "status": "approved",
+    "reason": "Páginas 4–5 apresentam hedonia, eudaimonia e SDT nesses termos. A articulação entre prazer, significado e necessidades é fiel e não transforma diversão momentânea em medida total de bem-estar.",
+    "cardSha256": "62d8a563bcf4fa0debe66e768b30616928f196744f867fd28ffcf7bd9728cfa2",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4,
+      5
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.365Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-13",
+    "status": "approved",
+    "reason": "Páginas 4–5 condicionam a associação entre tempo de jogo e bem-estar às motivações e satisfação de necessidades. A ressalva de que horas isoladas não estabelecem causalidade delimita corretamente o argumento.",
+    "cardSha256": "fb45b162b09a54ad8479b1f0f492cd038bc3f9b399c217485f01a07f8a0e6a22",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      4,
+      5
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.365Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-14",
+    "status": "approved",
+    "reason": "Página 6 explicita amplitude dos termos originais, desafios emocionais, verificabilidade e trade-offs entre necessidades. A resposta diferencia aspiração de critérios operacionais sem alegar validação concluída.",
+    "cardSha256": "8d34acbd1b20fcc26ef2d0783a768712775ff07223818bb76c0a0897abf82e05",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.365Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-15",
+    "status": "approved",
+    "reason": "Definição refinada na página6 admite objetivos de desenvolvimento dentro de limites preventivos; World Creation na página12 admite monetização periférica. A resposta não generaliza essa admissão a toda compra ou rentabilidade.",
+    "cardSha256": "306581e11237fcc57bc549ce235dad8739e41e9934b39934efb0b350f8e955bf",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      12
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.365Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-16",
+    "status": "approved",
+    "reason": "Página7 apresenta recorrência, núcleo reutilizável e variação de realizações; páginas8–9 exigem contexto. A inferência de que padrão não é receita idêntica respeita essa fundamentação.",
+    "cardSha256": "46dee085856d082a7a98861e1033db18eab71638bc3fc82565ce3196f769d622",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      7,
+      8,
+      9
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.365Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-17",
+    "status": "approved",
+    "reason": "Campo Name na página9 permite palavra/frase e recomenda associação a autonomia/realização, com os exemplos citados. A ressalva de que nome positivo não prova adequação é coerente com o restante do template.",
+    "cardSha256": "057b901255707b1cab9128bd31872bf569405d57dc7546c9564363df5bda7705",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      9
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.365Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-18",
+    "status": "approved",
+    "reason": "Páginas8–9 explicam Problem, situação recorrente e alternativas a respostas enganosas. A resposta preserva a relação problema–contexto–solução, sem inventar critério empírico.",
+    "cardSha256": "6eadc8450016a084f711656f7d0a6db890fb65037ab3855d3270588596daf3bc",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      8,
+      9
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-19",
+    "status": "approved",
+    "reason": "Context nas páginas8–9 delimita cenários/estilos; página14 explicita variação de perfis. A resposta mantém condições de aplicação e necessidade de avaliação, sem prometer benefício universal.",
+    "cardSha256": "6b0b9350f4f68d4aa37aaaab011bf68c1a3bd69259f2d4bd9d9b39501ef92afc",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      8,
+      9,
+      14
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-20",
+    "status": "approved",
+    "reason": "Proposed Solution nas páginas8–9 liga problema, contexto e mecânica aos objetivos de desenvolvimento e bem-estar básico. A resposta não confunde descrição funcional com comprovação de efeitos.",
+    "cardSha256": "b358afbebd40d6df14651aaf1ce3dee3c0543c2c01b7f27216886eb1085ffe83",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      8,
+      9
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-21",
+    "status": "approved",
+    "reason": "Páginas6,8 e10 sustentam análise individual das três necessidades e cuidado com interferências entre elas. Rastreabilidade é uma interpretação documental adequada, sem pressupor experimento com jogadores.",
+    "cardSha256": "d924d45c7cb2f67b39d346398b2178419a5a7ac9c66f29bc1d449f6c57ab0003",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      8,
+      10
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-22",
+    "status": "approved",
+    "reason": "Problem/Solution de World Creation nas páginas10–11 descrevem agência, expressão, mundo inerte e compartilhamento. Página16 confirma ausência de avaliação direta dos efeitos; a resposta preserva essa limitação.",
+    "cardSha256": "7c482e8630015bb88cd08f7a67d6d6c65293b3bbe2432314ed2e16eb11abc8c9",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      10,
+      11,
+      16
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-23",
+    "status": "approved",
+    "reason": "Páginas10–11 trazem gêneros, interação e acesso a ferramentas, incluindo a tabela com núcleo livre de pagamento/grind excessivo. O alcance amplo é corretamente condicionado ao contexto.",
+    "cardSha256": "177e5218edc2b74238077eea42cc8a7ad72d9f0ff778d07209a4d97568ae865a",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      10,
+      11
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-24",
+    "status": "approved",
+    "reason": "Páginas11–12 conectam autonomia a controle criativo e ferramentas fundamentais; página16 impede tratar isso como resultado medido. A distinção entre opção cosmética e capacidade real é sustentada pelo exemplo.",
+    "cardSha256": "d7c71528706409e96989987ad3bd266d3108879d1b467ba5d43b6b8a2f4fc14c",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      11,
+      12,
+      16
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-25",
+    "status": "approved",
+    "reason": "Páginas11–12 sustentam aprendizado/domínio e a diferença entre habilidade e impedimentos da ferramenta. A resposta preserva a natureza argumentativa do exemplo e sua validação ainda ausente.",
+    "cardSha256": "09d2749556563871488ea15a28079ac67a0f7efff2799d4a5e52f1aa96872872",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      11,
+      12,
+      16
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-26",
+    "status": "approved",
+    "reason": "Páginas11–13 descrevem vínculo por compartilhar, colaborar e jogar criações; falhas de descoberta/restrição negam essa dimensão. A conclusão sobre editor isolado é limitada à estrutura efetiva do exemplo.",
+    "cardSha256": "9b330b49ef12551906c8648f34a06fd399024b1783a66584f8e40dc28287090e",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      11,
+      12,
+      13
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-27",
+    "status": "approved",
+    "reason": "Watch For na página12 enumera ferramentas fundamentais, elementos básicos, salvamento e compartilhamento. A resposta conserva o recorte de núcleo criativo e não proíbe toda compra/progressão.",
+    "cardSha256": "d56cde59c7aaf23f3ebe1e625a2cb23396908591529f28dbfcbebaabccd21ac0",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      12
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-28",
+    "status": "approved",
+    "reason": "Páginas12–13 permitem melhorias opcionais, acesso à plataforma, ofertas comunitárias e peças extras, preservando o núcleo. A resposta não atribui rentabilidade demonstrada nem aceita apenas o rótulo opcional.",
+    "cardSha256": "7af49278598fd099ae6b6f64a6fa6ec00eabbe9e933e8a858e15b977afe8b6ad",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      12,
+      13,
+      16
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-29",
+    "status": "approved",
+    "reason": "Página12 cita bugs, documentação, posicionamento preciso e undo, vinculando-os a autonomia/competência. A resposta distingue limitações do instrumento das habilidades, conforme o texto.",
+    "cardSha256": "b906fbbd691a8d049b0d7c5de2e39a778d5b03cddfa001b7d4c3751c636496a7",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      12
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-30",
+    "status": "approved",
+    "reason": "Páginas12–13 tratam restrições de circulação e descoberta como obstáculo ao vínculo e propõem conexão comunitária acessível. A resposta não infere resultados de avaliação social não realizados.",
+    "cardSha256": "c73ec485529d6e29af439608d9cb23063ee9efb31c870d9361bdfdc2fa8a3401",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      12,
+      13
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-31",
+    "status": "approved",
+    "reason": "Insufficient Scaffolding na página12 e implementação compatível na13 sustentam orientação, tutoriais e apropriação gradual. A resposta distingue falta de apoio da complexidade criativa em si.",
+    "cardSha256": "531c9c0a9c9473afbf8e3fd3a210cc622dec1079e77986f598a155008a48d8cf",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      12,
+      13
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-32",
+    "status": "approved",
+    "reason": "Páginas12–13 exigem núcleo robusto imediatamente acessível e admitem extras; página16 qualifica a ausência de validação com jogadores. A fronteira essencial/periférico está corretamente delimitada.",
+    "cardSha256": "c4200c8965061b2c650af8f41d8ab20d1e6705c2b17aa71a146ee1a4282ad6a8",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      12,
+      13,
+      16
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-33",
+    "status": "approved",
+    "reason": "Páginas11 e13 descrevem aprender/dominar e ferramentas responsivas com feedback/tutoriais. A leitura de orientação como apoio, não substituição da atividade criativa, segue esses mecanismos.",
+    "cardSha256": "b22e934202bdc31854e534a555d80ace4bbe49a1bcd64089001c6a1ad3221dee",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      11,
+      13
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-34",
+    "status": "approved",
+    "reason": "Optional Unlocks na página13 admite cosméticos/peças/temas por participação variada, não centrada somente em grind. A resposta mantém centralidade/opcionalidade e não alega efeito psicológico ou comercial medido.",
+    "cardSha256": "74d0e0ee9f768425dcbacc53a463f17a2aba77b879f9f9eaebfa88f0bddcc84b",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      13
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-35",
+    "status": "approved",
+    "reason": "Páginas10 e13 apresentam os três exemplos para ilustrar a mecânica, enquanto16 registra ausência de avaliações. A resposta evita converter exemplos em auditoria ética do jogo inteiro.",
+    "cardSha256": "f38d3c669abb0a1a0fac61187328225cd722ed90f7d93bfd3f04970b9c8f49bd",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      10,
+      13,
+      16
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.366Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-36",
+    "status": "approved",
+    "reason": "Páginas15–16 identificam confundimento por componentes visuais, sonoros e narrativos e pedem métodos para atribuição. A pergunta e resposta não apresentam essa separação como problema já resolvido.",
+    "cardSha256": "930e47fe5b576a6f5af61ef07283163395f73e96f5a3bc0dfe863fa50fdd9a9f",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      15,
+      16
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-37",
+    "status": "approved",
+    "reason": "Página15 menciona PENS/IMI para necessidades/motivação e explicita falta de metodologia direta para atribuir bem-estar ao padrão. A resposta preserva a diferença entre construtos e causalidade.",
+    "cardSha256": "9f0db058bff10dfa2d08f864b46c61d33ecab53d2ff9b6b3eebcc4bb411a315e",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      15
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-38",
+    "status": "approved",
+    "reason": "Página15 diferencia consciência ética em trabalho anterior de efeitos reais ainda não investigados;16 reafirma ausência de avaliações com jogadores. A resposta não usa awareness como proxy de bem-estar.",
+    "cardSha256": "c7dd9a838446b68d348d0c8abcd9e45cf3c3b49efb5e759351c04fb581fb8cdb",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      15,
+      16
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-39",
+    "status": "approved",
+    "reason": "Páginas14 e16 sustentam variação de perfis, letramento, exposição e interpretação. A resposta reconhece possibilidades divergentes sem reduzir eficácia a intenção preventiva ou prometer universalidade.",
+    "cardSha256": "259a99a59fd3e4a6edb578f4bacb9703f8887b8c655f1d5c30e066a509780420",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      14,
+      16
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-40",
+    "status": "approved",
+    "reason": "Páginas15–16 discutem rentabilidade de práticas enganosas e futuro estudo do retorno de alternativas, com viabilidade ainda não demonstrada. A resposta distingue ética e retorno sem declarar inviabilidade.",
+    "cardSha256": "54fca2682d04496e022e65502d2569286cf10aff83e6bf09f9d09e1dae9ce903",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      15,
+      16
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-41",
+    "status": "approved",
+    "reason": "Páginas9 e16 propõem documentação padronizada e colaboração rumo a repositório aberto. A resposta mantém esse caráter propositivo e separa infraestrutura de prova de efeitos ou adoção.",
+    "cardSha256": "3ccd5a069d692913e9ba7f7bdf66dcb56e331c556411ebfa610361bffae3c6fb",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      9,
+      16
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-42",
+    "status": "approved",
+    "reason": "Páginas8–10 exigem estrutura comum para comunicação/comparação e registram contexto e riscos. A resposta não confunde padronização documental com implementações idênticas ou eficácia empírica.",
+    "cardSha256": "97fd9a105671c2ac13a1ba9a36f5dfb9eb494c63456d5fd286f4d769f57558f1",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      8,
+      9,
+      10
+    ],
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-43",
+    "status": "approved",
+    "reason": "OP6/10 e SbD22/27 sustentam riscos psicológicos de mecânica e responsabilidades/avaliação organizacional, respectivamente. O nexo preventivo é analítico e diferencia escalas, necessidades e segurança geral.",
+    "cardSha256": "8730d597c832bc605aa001b44315c42e600da9c0c80ff1f9ade207f1453f3b53",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      10
+    ],
+    "relatedPagesVerified": {
+      "article-d4b0c4f9d75f": [
+        22,
+        27
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-44",
+    "status": "approved",
+    "reason": "OP11–12 sustenta controle criativo e acesso ao núcleo; SbD30 sustenta autonomia, ferramentas e defaults protetores. A resposta distingue finalidades e não substitui denúncia/privacidade por liberdade criativa.",
+    "cardSha256": "49676a90c394d719ba1191397aa564f7a926d33fdb4f4f70ed3dc365c138d5f1",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      11,
+      12
+    ],
+    "relatedPagesVerified": {
+      "article-d4b0c4f9d75f": [
+        30
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-45",
+    "status": "approved",
+    "reason": "OP15–16 trata atribuição dos efeitos; SbD36 distingue escala de atividade de métricas de eficácia. A síntese exige alinhamento da medida à pergunta sem imputar um protocolo conjunto validado.",
+    "cardSha256": "48a66fd6c4ccdf66af0c9a4f3c0990dd05bc8c0541029eafd02a42d2b4b14312",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      15,
+      16
+    ],
+    "relatedPagesVerified": {
+      "article-d4b0c4f9d75f": [
+        36
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-46",
+    "status": "approved",
+    "reason": "OP12–13 delimita funções criativas e grind/pagamento; Art48p4 lista uso prolongado. A comparação não equipara fator classificatório a diagnóstico psicológico, nem afirma vigência normativa.",
+    "cardSha256": "ae6a10c237cedbaed5b81fee6a2a0e756ef05d985d8a4c871e570c2ee21f6d4e",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      12,
+      13
+    ],
+    "relatedPagesVerified": {
+      "article-94e7a19d8878": [
+        4
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-47",
+    "status": "approved",
+    "reason": "Art48p4–5 apresenta curadoria/controles/moderação e remissão aos Guias; OP9–12 exige análise situada de necessidades/ferramentas. A resposta preserva domínios diferentes e não inventa especificações dos Guias.",
+    "cardSha256": "602194446e2541d5d6d9b72e89e2c9cc274cdeea045fa8d4e377653fcc27464b",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-94e7a19d8878": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      9,
+      10,
+      12
+    ],
+    "relatedPagesVerified": {
+      "article-94e7a19d8878": [
+        4,
+        5
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-48",
+    "status": "approved",
+    "reason": "CHIP2 sustenta o cenário imaginado e OP11–12/16 os critérios e limites do exemplo. A síntese distingue aparência de progresso/comunidade de suporte às necessidades e explicita ficção e ausência de eficácia medida.",
+    "cardSha256": "c1f52ac80ff5edd1930d064f1c25b2f2fd3d834377ba4a43a92734c9b9158f4e",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      11,
+      12,
+      16
+    ],
+    "relatedPagesVerified": {
+      "article-eca18e5843e2": [
+        2
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.367Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-49",
+    "status": "approved",
+    "reason": "OP14/16 e CHIP1–3 sustentam perfis individuais e assimetrias estruturais como níveis distintos. A ponte contextual não homogeneíza populações nem afirma mecanismo causal conjunto comprovado.",
+    "cardSha256": "a8801ff736eaa2b301ec8ae06e284ac9b48f46373b8722bdbc7820e0b88a7b6a",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-eca18e5843e2": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      14,
+      16
+    ],
+    "relatedPagesVerified": {
+      "article-eca18e5843e2": [
+        1,
+        2,
+        3
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.368Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-50",
+    "status": "approved",
+    "reason": "OP8–10 documenta template e Agenda9–10 propõe suporte contextual em engines com testes/limites de adoção. A hipótese de alimentar sugestões é explicitamente analítica, sem confundir documentação com ferramenta validada.",
+    "cardSha256": "8bb80a7b8d5193818ff78a61fa7610cce51f6d545ae9d3b62ceedab1c5424774",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      8,
+      9,
+      10
+    ],
+    "relatedPagesVerified": {
+      "article-d0d500126a80": [
+        9,
+        10
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.368Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-51",
+    "status": "approved",
+    "reason": "OP15–16 declara viabilidade comercial não demonstrada; Agenda10 descreve KPIs e poder decisório superior. A síntese diferencia conhecer alternativas de poder adotá-las, sem justificar práticas nocivas.",
+    "cardSha256": "91a98bc67d64202448e5c3c77cc1a09d4da43937f636bfd2d2c02abb6d6546d4",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      15,
+      16
+    ],
+    "relatedPagesVerified": {
+      "article-d0d500126a80": [
+        10
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.368Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-52",
+    "status": "approved",
+    "reason": "OP15–16 e Agenda10–11 sustentam construtos, instrumentos e métodos mistos ainda a desenvolver. A resposta conserva diferenças entre necessidades, manipulação e engajamento, sem inventar protocolo causal validado.",
+    "cardSha256": "089b6bdf0ee025e2b1045813c1b8c29495eee16afbcdab559e427989009a3129",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      15,
+      16
+    ],
+    "relatedPagesVerified": {
+      "article-d0d500126a80": [
+        10,
+        11
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.368Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-53",
+    "status": "approved",
+    "reason": "OP9–11 e HCI8/10–11/15 sustentam contexto, renomeação Creative Suite, níveis e variantes. A resposta lê refinamento estrutural sem tratar níveis como experiência universal ou prova longitudinal.",
+    "cardSha256": "8aac35cc73a5822ba7b5d60a284b69494be64e926c74a9ae1de0268ad3ac70b9",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      9,
+      10,
+      11
+    ],
+    "relatedPagesVerified": {
+      "article-e13c3cb65c28": [
+        8,
+        10,
+        11,
+        15
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.368Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-54",
+    "status": "approved",
+    "reason": "OP9/16 propõe repositório; HCI13/15–16 descreve contribuições/governança e seus limites. A síntese não confunde maturidade documental, consenso e eficácia com jogadores.",
+    "cardSha256": "b98e20e8446f2758a8f0d5ffa99907ab2b8f0bf9492774e272d7f760a5f0b73e",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      9,
+      16
+    ],
+    "relatedPagesVerified": {
+      "article-e13c3cb65c28": [
+        13,
+        15,
+        16
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.368Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-55",
+    "status": "approved",
+    "reason": "OP10/13/16 exemplifica sem avaliação direta; HCI11/15–16 exige recorrência, coerência e verificação de candidatos. A separação observar–descrever–verificar–avaliar é sustentada, sem validar produção pelo título comercial.",
+    "cardSha256": "9cc153fd87581c473094bce68d66db0d58f932c65263b3c9f609cda10b1aba80",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-e13c3cb65c28": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      10,
+      13,
+      16
+    ],
+    "relatedPagesVerified": {
+      "article-e13c3cb65c28": [
+        11,
+        15,
+        16
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.368Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-56",
+    "status": "approved",
+    "reason": "Interact6/8 documenta barreiras e limites; OP12/14 documenta ferramentas opacas e letramento. A comparação sobre condições de ação distingue objetos e não transfere prevalência/taxonomia para jogos.",
+    "cardSha256": "5df25aed079b10366daf598c676ca94aadfabce3b19f6fdc25f6deb68fe943d6",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      12,
+      14
+    ],
+    "relatedPagesVerified": {
+      "article-48bdcebcffc6": [
+        6,
+        8
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.369Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-57",
+    "status": "approved",
+    "reason": "Interact6/8 descreve duas recompensas condicionadas; OP12–13 admite extras opcionais mantendo núcleo acessível. A distinção função/pressão/contexto é fiel, sem classificar toda recompensa como manipulação.",
+    "cardSha256": "ec7d97ce5c714e45f35aa6a3fe81a365bf864ff10a43f9066bfc079b17ba9bcc",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-48bdcebcffc6": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      12,
+      13
+    ],
+    "relatedPagesVerified": {
+      "article-48bdcebcffc6": [
+        6,
+        8
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.369Z"
+  },
+  {
+    "cardId": "article-39adb0cfa84e-58",
+    "status": "approved",
+    "reason": "SbD22/27, OP6/10/15–16 e Agenda10–11 oferecem responsabilidades, documentação e avaliação. A articulação é apresentada como perguntas complementares e explicita que nenhuma camada resolve as outras ou foi validada conjuntamente.",
+    "cardSha256": "256818baf5f6e9aa3e5e476e8eb0a7a7207a8fc33d1e90a1de205575dca1e383",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "relatedSourceSha256": {
+      "article-d4b0c4f9d75f": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+      "article-d0d500126a80": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258"
+    },
+    "reviewer": "review_radiant_interact",
+    "independentFromAuthor": true,
+    "round": 1,
+    "pagesVerified": [
+      6,
+      10,
+      15,
+      16
+    ],
+    "relatedPagesVerified": {
+      "article-d4b0c4f9d75f": [
+        22,
+        27
+      ],
+      "article-d0d500126a80": [
+        10,
+        11
+      ]
+    },
+    "reviewedAt": "2026-11-10T03:06:56.370Z"
+  }
+]

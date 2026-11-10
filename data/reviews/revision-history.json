@@ -1,0 +1,96 @@
+[
+  {
+    "cardId": "article-94e7a19d8878-07",
+    "status": "revision_required",
+    "reason": "O §12 restringe a exigência a fornecedores de serviços digitais que hospedem conteúdo de terceiros. A pergunta/resposta deve explicitar esse alcance para evitar generalização a todos os termos de uso.",
+    "cardSha256": "a62caabc5bf0a718cf197158dcc33544246a3194e3fd15885e46fca3b9fff0d6",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "reviewer": "academic_reviewer",
+    "round": 1,
+    "pagesVerified": [
+      4
+    ],
+    "candidateSnapshot": {
+      "id": "article-94e7a19d8878-07",
+      "articleId": "article-94e7a19d8878",
+      "question": "O que o §12 exige dos termos de uso no documento local do Art. 48?",
+      "answer": "Que informem de modo [[claro e acessível]] a indicação etária atribuída pela Coordenação-Geral de Política de Classificação Indicativa; na ausência desta, a atribuição realizada pelo [[Iarc ou outro modelo autorizado]].",
+      "source": {
+        "file": "Art. 48 - Oficina.pdf",
+        "title": "Da Classificação Indicativa de Aplicativos e Serviços Digitais",
+        "pages": [
+          4
+        ],
+        "sections": [
+          "Art. 48, §12"
+        ],
+        "evidence": [
+          "§12 Os termos de uso de todos os fornecedores de serviços digitais que\nhospedem conteúdo de terceiros, conforme previsto no art. 48, deverão\ninformar, de forma clara e acessível, a indicação etária atribuída pela\nCoordenação-Geral de Política de Classi fi cação Indicativa e, na ausência\ndesta, a atribuição realizada pelo Iarc ou outro modelo autorizado."
+        ]
+      }
+    }
+  },
+  {
+    "cardId": "article-eca18e5843e2-03",
+    "status": "revision_required",
+    "reason": "A resposta é compatível com a página 1, mas as evidências selecionadas não explicitam precariedade econômica e letramento. Acrescentar trechos literais que sustentem essas qualificações.",
+    "cardSha256": "1e426cfd3328ae8757e1305c6883e56b42de43389c12a83704eda8aebc79e6cc",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "reviewer": "academic_reviewer",
+    "round": 1,
+    "pagesVerified": [
+      1
+    ],
+    "candidateSnapshot": {
+      "id": "article-eca18e5843e2-03",
+      "articleId": "article-eca18e5843e2",
+      "question": "Por que o contexto socioeconômico importa na primeira dimensão da divisão criador-consumidor?",
+      "answer": "O artigo propõe que o caráter de entretenimento dos jogos pode [[reduzir a vigilância crítica]]. Esse efeito pode ser ampliado por vulnerabilidades sociais, como precariedade econômica e dificuldades de letramento, dificultando a defesa contra práticas manipulativas.",
+      "source": {
+        "file": "chiplaycompanion25-21.pdf",
+        "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+        "pages": [
+          1
+        ],
+        "sections": [
+          "2 The Creator-Consumer Divide as a Lens for Understanding Systemic Player Vulnerability"
+        ],
+        "evidence": [
+          "First, games as entertainment can lower players’ critical guard\n[36], making them more susceptible to manipulative designs dis-\nguised as ’part of the game.’ This effect is amplified when a signifi-\ncant portion of the population lacks fundamental cognitive defenses,\na vulnerability stemming from deep-seated societal issues in the\nGlobal South.",
+          "It\nsuggests that over half the population may struggle with the criti-\ncal thinking skills [34] necessary to defend against manipulative\npractices and discourses."
+        ]
+      }
+    }
+  },
+  {
+    "cardId": "article-eca18e5843e2-05",
+    "status": "revision_required",
+    "reason": "A leitura da página 2 confirma o desequilíbrio de poder, porém o trecho de evidência atual encerra antes dessa afirmação. Acrescentar a frase correspondente para rastreabilidade da resposta.",
+    "cardSha256": "f9ff6e750f5f400b1ea319fb3bbb488baa900a9e1c1562a4f0890e95e63d0de4",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "reviewer": "academic_reviewer",
+    "round": 1,
+    "pagesVerified": [
+      2
+    ],
+    "candidateSnapshot": {
+      "id": "article-eca18e5843e2-05",
+      "articleId": "article-eca18e5843e2",
+      "question": "Qual problema o artigo associa à concentração de pesquisas em contextos WEIRD?",
+      "answer": "Ela pode [[limitar a validade externa]] dos resultados para a maioria global e deixar de considerar nuances socioeconômicas. Pela perspectiva decolonial adotada, essa concentração também expressa um [[desequilíbrio sistêmico de poder]].",
+      "source": {
+        "file": "chiplaycompanion25-21.pdf",
+        "title": "Games Made Elsewhere, Harms Felt Here: A Speculative Perspective of Deceptive Design Impact from the Global South",
+        "pages": [
+          2
+        ],
+        "sections": [
+          "2 The Creator-Consumer Divide as a Lens for Understanding Systemic Player Vulnerability"
+        ],
+        "evidence": [
+          "This bias, mirrored in psychology (where WEIRD populations are\n12% globally but dominate studies [17]) and broad HCI research\n[21], limits findings’ external validity for the global majority and\noverlooks socio-economic nuances. From a decolonial perspective\n[3, 10], the WEIRD-centricity is not merely a methodological over-\nsight; it is a systemic issue."
+        ]
+      }
+    }
+  }
+]

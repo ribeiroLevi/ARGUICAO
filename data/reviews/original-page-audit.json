@@ -1,0 +1,241 @@
+[
+  {
+    "articleId": "article-94e7a19d8878",
+    "file": "Art. 48 - Oficina.pdf",
+    "sourceSha256": "47a3e64adb53f00056a1e288e56231a4c590601e8791db80a8f60e1eee972e0d",
+    "originalPages": [
+      {
+        "page": 1,
+        "textSha256": "0c3f5c35eeee10952a5ca0baaabd296592e9ca15c630c85de8627d3ab7ac945b"
+      },
+      {
+        "page": 2,
+        "textSha256": "94ae593b3849361bed5a2fda6ac8dc28e5c5ba631cb8dd465dba316129f7997e"
+      },
+      {
+        "page": 3,
+        "textSha256": "4c401e782f3234c674c6827b2aa3af20fb3e81d9577cf4a8d09a4dd6e10acd6d"
+      },
+      {
+        "page": 4,
+        "textSha256": "b93cfe5caf77575e467dbe89e19a6fa015e1882c0bc2169f24a66a39d68b61fa"
+      },
+      {
+        "page": 5,
+        "textSha256": "c568286a913179bcab8440f9fb095a0eb04ab09806469fcf7358700393ddd7cb"
+      }
+    ],
+    "cardsChecked": 8,
+    "method": "Leitura independente da camada de texto do PDF original com PDF.js; evid?ncias normalizadas NFKC e espa?os."
+  },
+  {
+    "articleId": "article-eca18e5843e2",
+    "file": "chiplaycompanion25-21.pdf",
+    "sourceSha256": "3aa04fd044069c1a4a3bf743ad0e11f5aca98fe74f9eea43b8ca46d7e39811ce",
+    "originalPages": [
+      {
+        "page": 1,
+        "textSha256": "b4054b021dca5ff922a730816fe6a7df1fc09371605763a21bef0b6a6ef6f007"
+      },
+      {
+        "page": 2,
+        "textSha256": "18287915fcd148f0111b804d5671f72dd3ea5941af63a4a531f75b56f98b84d9"
+      },
+      {
+        "page": 3,
+        "textSha256": "9fbc9bf5292bafe7b4a1bc4e286aa30aa90d46c057e6cc9e72afa53a2b8270eb"
+      }
+    ],
+    "cardsChecked": 8,
+    "method": "Leitura independente da camada de texto do PDF original com PDF.js; evid?ncias normalizadas NFKC e espa?os."
+  },
+  {
+    "articleId": "article-d0d500126a80",
+    "file": "From Understanding to Intervention- Towards an Agenda for Countering Dark Patterns in Games.pdf",
+    "sourceSha256": "9ce53cd6b1326ce26db9170f1cf0f97ae781bc9082bbc77cdad89401b975c258",
+    "originalPages": [
+      {
+        "page": 1,
+        "textSha256": "52414f5c8570ae1f219dc0e47b8a306e641589667e35568ec99ebb0bd30041a7"
+      },
+      {
+        "page": 3,
+        "textSha256": "1587701f3fff4565650459fddd1b67bc19f969ab78044fcabcd380c5b3633ce2"
+      },
+      {
+        "page": 6,
+        "textSha256": "45bde51424fcfb3ba1ac2db044d3e8aab4eb9db6e1013f58cfca75beba6ed90f"
+      },
+      {
+        "page": 7,
+        "textSha256": "d413545bf7b04fac2aaa5a663fcffdf6132c7790235c26d987f9aaa77b26d850"
+      },
+      {
+        "page": 9,
+        "textSha256": "f77bfb964423dd2c11b25256dc5357c8208fc11fc84d44eecee23418fcc89adb"
+      },
+      {
+        "page": 10,
+        "textSha256": "b59e6bfe4b2eb4db8ef94b23f4eb36f60414564abce5e5c80d54e170fc05126c"
+      },
+      {
+        "page": 11,
+        "textSha256": "4e91124960b11ef3065a1358ec4e855119854e08c0073a12b2d08272366b0a45"
+      }
+    ],
+    "cardsChecked": 8,
+    "method": "Leitura independente da camada de texto do PDF original com PDF.js; evid?ncias normalizadas NFKC e espa?os."
+  },
+  {
+    "articleId": "article-e13c3cb65c28",
+    "file": "HCI_IN_GAMES_2026.pdf",
+    "sourceSha256": "df646ee88d7098010e0bd9bc407a0d3380d2524ed750c22d25edbf30ee23fbf8",
+    "originalPages": [
+      {
+        "page": 1,
+        "textSha256": "93c92c12aa095522da892d6fe8aeafb014f767029c30908d4f5461a95171726e"
+      },
+      {
+        "page": 5,
+        "textSha256": "5654c342d8eab7842c746b01e3ec045d1cab59785f5d1fd14933302c317de76b"
+      },
+      {
+        "page": 7,
+        "textSha256": "1eab8d132dfdb86527abb9bbbdf4c848498c9421aa2eb72d09c8084c0fcee128"
+      },
+      {
+        "page": 11,
+        "textSha256": "eb8824e17f561c220bc9e06fd1388bd657cbcb049da97248fa11077c894e7fb0"
+      },
+      {
+        "page": 12,
+        "textSha256": "ca9c39df054a21d8595041007fe00a36fce03582543a22f336d5c53344a8308c"
+      },
+      {
+        "page": 15,
+        "textSha256": "b8f8d162199886cd65b8b8271fffb7d3a796e5ac983db47c583220c2ad516c06"
+      },
+      {
+        "page": 16,
+        "textSha256": "3b19958d838a604c770d42e09a7db8e8124958649f72e7ee68bb33a20a7cefe2"
+      }
+    ],
+    "cardsChecked": 8,
+    "method": "Leitura independente da camada de texto do PDF original com PDF.js; evid?ncias normalizadas NFKC e espa?os."
+  },
+  {
+    "articleId": "article-48bdcebcffc6",
+    "file": "Interact_2025___It_s_Like_a_Dark_Patterns_Paradise__New_Findings_from_Brazilian_Mobile_Apps_in_Light_of_International_Research___Camera_Ready (1).pdf",
+    "sourceSha256": "eff38c0baeaee07fef082757b11daf650f7fc455520403c51270c442161dcf84",
+    "originalPages": [
+      {
+        "page": 2,
+        "textSha256": "7ec0ce4e32bbb249515af25bb11b945dfbe36e65f0c4fa1a5de46e6719305faa"
+      },
+      {
+        "page": 4,
+        "textSha256": "4297683b53a55c9b77e16bf13c75adf9e2b863e254cb0c88e81e7f312947b2d5"
+      },
+      {
+        "page": 5,
+        "textSha256": "c68728281f36fbc3a756ae24f8a0b0f3d640c4766d2053e55135d00388fdfdba"
+      },
+      {
+        "page": 6,
+        "textSha256": "3898310b7bc5dcda02a7cce4ee1c6459214c14749e7b16a0d9d724539818c6fc"
+      },
+      {
+        "page": 7,
+        "textSha256": "9f9a6d1ac8b044711215777829e0fdb64ada8158dc1f82f62bf623b4bb5668f2"
+      },
+      {
+        "page": 8,
+        "textSha256": "1b3388f5cea0b8336e7e6f81d5700af75d4a88c7bdb763479472c5ad36b29cf4"
+      }
+    ],
+    "cardsChecked": 8,
+    "method": "Leitura independente da camada de texto do PDF original com PDF.js; evid?ncias normalizadas NFKC e espa?os."
+  },
+  {
+    "articleId": "article-39adb0cfa84e",
+    "file": "Operationalizing Radiant Patterns- A Refined Definition and Pattern Structure to Mitigate Deceptive Game Design Practices.pdf",
+    "sourceSha256": "86a50bd8996143b67ac85d1ef0beb6b40b26519253f682c8a4791427f4d8be41",
+    "originalPages": [
+      {
+        "page": 1,
+        "textSha256": "85d106f21df4857a33f64e58b2048a694968d3708621743ef7727494f611d85b"
+      },
+      {
+        "page": 6,
+        "textSha256": "cb7923213326e17baf2b0bceae1cf7c8fe74c45c62424d37aec217d964a605ca"
+      },
+      {
+        "page": 7,
+        "textSha256": "c62778db3e7776aea50584347cc59915d9a43b63ed813d15cff56ba6c1f54b48"
+      },
+      {
+        "page": 8,
+        "textSha256": "647dfd933704256df58f5025b7eacc02ab4491f714113055bd9b5d2748ff6f7f"
+      },
+      {
+        "page": 9,
+        "textSha256": "2ec473972dddd3ee08489e475c93e080dca7406acf4e10bf6e581b1ae278c6ec"
+      },
+      {
+        "page": 10,
+        "textSha256": "ec942fb84d785f1e247a151bc92688d1e7cd05b3f3819eb600e69e13bc3b0ead"
+      },
+      {
+        "page": 15,
+        "textSha256": "7fc62828a804d4d095fe4cd6a84cb6a1e41b32778bf33e7d8e0b87a5e4d7727d"
+      },
+      {
+        "page": 16,
+        "textSha256": "8d2762a7f10b0a2f41d822a15eb476d35de13d715eb4b4b09cbec1a4020eb8d3"
+      }
+    ],
+    "cardsChecked": 8,
+    "method": "Leitura independente da camada de texto do PDF original com PDF.js; evid?ncias normalizadas NFKC e espa?os."
+  },
+  {
+    "articleId": "article-d4b0c4f9d75f",
+    "file": "SBD - Overview May19.pdf",
+    "sourceSha256": "96ce6e2cdc4c67fbf58c4deb2be5049c1ba279210cae91f0a3f823971d85a0b5",
+    "originalPages": [
+      {
+        "page": 12,
+        "textSha256": "0c3fa0207df1ef8f78ab553bc86b46fd5150cbe4408f4d5c04623311b1907296"
+      },
+      {
+        "page": 13,
+        "textSha256": "83f99c66a218ce4a8d70f0ebaa64b5c3655a6aea003ff8b2ab8f8262c86c7ab5"
+      },
+      {
+        "page": 21,
+        "textSha256": "803243ee717f0fd9321aed8687966c13e12ce24f72d6aa9e45369f1cfe7f619e"
+      },
+      {
+        "page": 22,
+        "textSha256": "eb7572ece9e7cc4e2667472a9bd490834fe66e523cc07a76cb2f12c0657417b0"
+      },
+      {
+        "page": 30,
+        "textSha256": "6de23f7dc614fe665778687a95b295d656a2890057f5f24db06e80d06b1c584f"
+      },
+      {
+        "page": 33,
+        "textSha256": "248d2788c851d583431da7748da29e017d348b3cd242875ce40fa2c25027234f"
+      },
+      {
+        "page": 34,
+        "textSha256": "6652c750f447e191d4184ffd2120aed4c732379d8c0808e7e6d31bb353264df9"
+      },
+      {
+        "page": 37,
+        "textSha256": "f3241f56699f37e4106b203b865770b363dffb51bc1553614777124346744110"
+      }
+    ],
+    "cardsChecked": 8,
+    "method": "Leitura independente da camada de texto do PDF original com PDF.js; evid?ncias normalizadas NFKC e espa?os."
+  }
+]
